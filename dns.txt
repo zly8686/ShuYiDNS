@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-03-14 20:30:20（北京时间）
+! Version: 2024-03-15 09:10:11（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 117255
+! Total count: 117295
 ||*bmwmini.tt.omtrdc.net^
 ||*bmwofnorthamericallc.tt.omtrdc.net^
 ||-aws-logs.hb.tt.omtrdc.net^
@@ -182,6 +182,7 @@
 ||0m4.ru^
 ||0mnopqr.com^
 ||0n-line.tv^
+||0op8kh.cn^
 ||0p1ohj2f5f.ru^
 ||0pyn37dv3m.com^
 ||0r3tyg.cn^
@@ -521,6 +522,7 @@
 ||114.6.24comcastentertainmentgroup.hb.tt.omtrdc.net^
 ||114224.group24.sites.tt.omtrdc.net^
 ||115cashier.165cashier-pci.tt.omtrdc.net^
+||1162248229.rsc.cdn77.org^
 ||11695faweb.tt.omtrdc.net^
 ||1175faweb.tt.omtrdc.net^
 ||1178.shucong.com^
@@ -910,6 +912,7 @@
 ||181abcnews.hb-api.tt.omtrdc.net^
 ||181m2fscr.de^
 ||181ue.com^
+||182.254.116.116^
 ||1821z.website^
 ||18229a.tt.omtrdc.net^
 ||1822direkt.tt.omtrdc.net^
@@ -9350,6 +9353,7 @@
 ||accumulatively-netherlander-unhypnotised.s3.us-west-004.tt.omtrdc.net^
 ||accuquote.tt.omtrdc.net^
 ||accuracyswede.com^
+||accuratecoal.com^
 ||accuride.actonservice.com^
 ||accusationcollegeload.com^
 ||accusedstone.com^
@@ -10939,6 +10943,7 @@
 ||adless.io^
 ||adlibr.com^
 ||adligature.com^
+||adlink-api.huan.tv^
 ||adllab.actonservice.com^
 ||adlog.com.com^
 ||adlog.flurry.com^
@@ -13639,6 +13644,7 @@
 ||agkn.com^
 ||agl.com.au.ssl.sc.tt.omtrdc.net^
 ||agl001.bid^
+||agl002.online^
 ||agle21xe2anfddirite.com^
 ||aglenergy.tt.omtrdc.net^
 ||aglica46.dev.network-auth.tt.omtrdc.net^
@@ -30917,6 +30923,7 @@
 ||ctlayn.talbots.com^
 ||ctlrarz.xyz^
 ||ctm-media.com^
+||ctmrso.xyz^
 ||ctnetwork.hu^
 ||ctnsnet.com^
 ||ctobsnssdk.com^
@@ -31361,6 +31368,7 @@
 ||cytoxiedtrk.com^
 ||cytron.videojj.com^
 ||cytroncdn.videojj.com^
+||cyvjmnu.com^
 ||cyyhkeknmbe.com^
 ||cz-anag.m-shop.me^
 ||cz-babynabytek.m-shop.me^
@@ -32654,6 +32662,7 @@
 ||da206.insight.tt.omtrdc.net^
 ||da26k71rxh0kb.cloudfront.net^
 ||da29e6b8-f018-490f-b25f-39a887fc95e7.xyz^
+||da327va27j0hh.cloudfront.net^
 ||da3uf5ucdz00u.cloudfront.net^
 ||da5h676k6d22w.cloudfront.net^
 ||daa.shuzilm.cn^
@@ -32790,6 +32799,7 @@
 ||damedamehoy.xyz^
 ||damhixs.cn^
 ||damianafulani.com^
+||damiul.icu^
 ||damnightmareleery.com^
 ||damozelmikvahs.com^
 ||dampdock.com^
@@ -37854,6 +37864,7 @@
 ||djvby0s5wa7p7.cloudfront.net^
 ||djwf0dl2q9i99.cloudfront.net^
 ||djxjti.oil-stores.gr^
+||djxpnuo.xyz^
 ||djz9es32qen64.cloudfront.net^
 ||dk-go.experian.com^
 ||dk45agakx3yfl.cloudfront.net^
@@ -40440,6 +40451,7 @@
 ||egrousoawhie.com^
 ||egswvw.hanrousa.com^
 ||egvemw.aboutyou.ee^
+||egykofo.com^
 ||egyptchwas.com^
 ||egyptianintegration.com^
 ||egyubvcjdurg.xyz^
@@ -40460,6 +40472,7 @@
 ||ehftql.soshape.com^
 ||ehkkjsxtno.cc.hb.tt.omtrdc.net^
 ||ehmqlr.com^
+||ehpcqqxlde.com^
 ||ehpvvxyp.com^
 ||ehqdzqi.com^
 ||ehrhrrx.xyz^
@@ -40591,6 +40604,7 @@
 ||electosake.com^
 ||electranowel.com^
 ||electricalbicyclelistnonfiction.com^
+||electricalsedate.com^
 ||electricalyellincreasing.com^
 ||electricfeminine.com^
 ||electricity2.tokyu-ps.jp^
@@ -42413,6 +42427,7 @@
 ||events-collector-api.viacom.tech^
 ||events-collector.spot.im^
 ||events-drcn.op.dbankcloud.cn^
+||events-ingestion.services.gorgias.com^
 ||events-jp.splash-screen.net^
 ||events-logs.doctolib.com^
 ||events-prod.autolist.com^
@@ -43663,6 +43678,7 @@
 ||felissimocorporation.tt.omtrdc.net^
 ||felix.data.tm-awx.com^
 ||feliz.data.tm-awx.com^
+||fellerbeeline.top^
 ||fellowsargean.com^
 ||felonlosel.com^
 ||feltanoow.com^
@@ -45062,6 +45078,7 @@
 ||fqxjrbepn.com^
 ||fqxnlh.kgcshop.co.kr^
 ||fqypsr.studiotzuliani.gr^
+||fqzibqtjwfzp.com^
 ||fr-go.experian.com^
 ||fr-online.met.vgwort.de^
 ||fr.2test-metric-mvm-vcnndapi.hb-api.tt.omtrdc.net^
@@ -48404,6 +48421,7 @@
 ||gpsecureads.com^
 ||gpsqnl.delsey.com^
 ||gpylmwtjiy.com^
+||gpynepb.com^
 ||gpzhcc.lapeyre.fr^
 ||gqhfjr.sizeofficial.es^
 ||gqhlrr.fragrancedirect.co.uk^
@@ -48502,6 +48520,7 @@
 ||grapierpalgat.digital^
 ||grappamacram.com^
 ||grapponeb.tt.omtrdc.net^
+||grapsaidsee.net^
 ||grapseex.com^
 ||grapselu.com^
 ||graspfungoes.com^
@@ -49473,6 +49492,7 @@
 ||harmonypix.com^
 ||harmostfrau.digital^
 ||haronfitanheck.com^
+||harpinhaster.top^
 ||harpra-companion-test.harvinar.com^
 ||harpra-companion.harvinar.com^
 ||harrahs-testtest.tt.tt.omtrdc.net^
@@ -50367,6 +50387,7 @@
 ||himselves.com^
 ||himselvesobr.club^
 ||hinaprecent.info^
+||hinavvogha.com^
 ||hindalco.tt.omtrdc.net^
 ||hinditranslation.tt.omtrdc.net^
 ||hindsight.significanceapps.com^
@@ -51486,6 +51507,7 @@
 ||hwyytk.verabradley.com^
 ||hwyyuy.ringcentral.com^
 ||hx1.tubepornbase.com^
+||hxaubnrfgxke.xyz^
 ||hxbgxi.seikousa.com^
 ||hxbt.alading123.com^
 ||hxbt.haha5.cn^
@@ -51828,6 +51850,7 @@
 ||ibmtechnology.arrow.com^
 ||ibmwebsphere.tt.omtrdc.net^
 ||ibortvgbkvpmes.com^
+||ibptutlgoloqy.com^
 ||ibqjduiipukerj.com^
 ||ibqswjdkpo.com^
 ||ibrapush.com^
@@ -55651,6 +55674,7 @@
 ||jamokeuntress.com^
 ||jams.wiki^
 ||jamsoulsfriday.com^
+||janapancoroun.top^
 ||janapi.jd.com^
 ||jandaqwe.com^
 ||jandi-wh.tt.tt.omtrdc.net^
@@ -56240,6 +56264,7 @@
 ||jn060.xyz^
 ||jn23.madeindesign.ch^
 ||jn23.madeindesign.it^
+||jnaixbgd.com^
 ||jncx1s.michaellindahl.com^
 ||jndxsuy.xyz^
 ||jnhdmksj.top^
@@ -56758,6 +56783,7 @@
 ||jtgdssrlha.com^
 ||jtienla.top^
 ||jtjtqar.com^
+||jtolkiamnax.com^
 ||jtosgk.123pneus.fr^
 ||jtp.expressen.se^
 ||jtpu9s.icu^
@@ -56946,6 +56972,7 @@
 ||jwfesuk.cn^
 ||jwhlem.smartbuyglasses.ch^
 ||jwjzf.online^
+||jwlfduco.com^
 ||jwltpv.xyz^
 ||jwlvlo.icaniwill.dk^
 ||jwmhqs.fsk.ru^
@@ -60821,6 +60848,7 @@
 ||log*.vietnamplus.vn^
 ||log-*.previewnetworks.com^
 ||log-ads.r7.com^
+||log-alibaba-taobao-douyin.cdn.bcebos.com.a.bdydns.com^
 ||log-api-mn.huxiu.com^
 ||log-api.cli.im^
 ||log-api.huxiu.com^
@@ -70547,6 +70575,7 @@
 ||necmah.com^
 ||nectarineple.com^
 ||ned.themarketingscience.com^
+||nedamericantpas.info^
 ||nedandlooked.org^
 ||nedasco.actonservice.com^
 ||nedassiumw.xyz^
@@ -76105,6 +76134,7 @@
 ||peppy2lon1g1stalk.com^
 ||pepserump.life^
 ||peptonetallol.digital^
+||pepyyzqqgciv.com^
 ||peqvwk.notino.at^
 ||peracy.com^
 ||perangkatmengajarza.tt.omtrdc.net^
@@ -76613,6 +76643,7 @@
 ||pickupnationalityinexhaustible.com^
 ||pickuppestsyndrome.com^
 ||pickupracist.com^
+||pickvideolink.com^
 ||picmedia.biz^
 ||picnewsss.com^
 ||picolinfloe.com^
@@ -77985,6 +78016,7 @@
 ||ppcnt.pro^
 ||ppctraffic.co^
 ||ppdiatk.com^
+||ppedtoalktoherha.info^
 ||ppenid.xyz^
 ||ppgqvz.bigmotoringworld.co.uk^
 ||ppi.terra.com.br^
@@ -80082,6 +80114,7 @@
 ||qnbskk.oqvestir.com.br^
 ||qnfvojfkw.xyz^
 ||qnhvvrpkus.com^
+||qnifdlay.top^
 ||qnjyeyc.com^
 ||qnlbs2m0uoto.www.videoath.com^
 ||qnmtqq.com^
@@ -82826,6 +82859,7 @@
 ||rogersmedia.com.sc.tt.omtrdc.net^
 ||rogersmedia.tt.omtrdc.net^
 ||rogueschedule.com^
+||rohvyftxssn.com^
 ||roi.ediscom.it^
 ||roi.soulapp.cn^
 ||roia.biz^
@@ -87816,6 +87850,7 @@
 ||signed.tt.omtrdc.net^
 ||significantoperativeclearance.com^
 ||signifyabruptly.com^
+||signingrechaos.top^
 ||signup.vovici.com^
 ||signupbskyb.hb-api.tt.omtrdc.net^
 ||signuphowto.tt.omtrdc.net^
@@ -96413,6 +96448,7 @@
 ||stylish-airport.com^
 ||stylishar.com^
 ||styrianauf.com^
+||stzhnfcxx.com^
 ||su-offers.com^
 ||su.8881919.cc^
 ||su.addthis.com^
@@ -109703,6 +109739,7 @@
 ||vqjacf.mauriziocollectionstore.com^
 ||vqp3.madeindesign.co.uk^
 ||vqq.admaster.com.cn^
+||vqrqnylppo.com^
 ||vqtyargb.com^
 ||vqvuid.kobetsu.co.jp^
 ||vqwckswxsf.meet.aem.hb.tt.omtrdc.net^
@@ -111852,6 +111889,7 @@
 ||withyou.shorr.com^
 ||witlayvet.com^
 ||witnessedworkerplaid.com^
+||witnessjacket.com^
 ||witnessremovalsoccer.com^
 ||witnesssimilarindoors.com^
 ||witron.tt.omtrdc.net^
@@ -114536,6 +114574,7 @@
 ||xh33g.net^
 ||xhbheroq.xyz^
 ||xhblbt3-eu-west-1.inf.hydra.tt.omtrdc.net^
+||xhbshv.xyz^
 ||xhbzrk.hotmart.com^
 ||xhdr030205.tt.omtrdc.net^
 ||xhdr030917-as.tt.omtrdc.net^
@@ -116063,6 +116102,7 @@
 ||ysl3.destinia.ec^
 ||ysm.hauchi.com.tw^
 ||ysm.yahoo.com^
+||yspecjbjmcub.com^
 ||ysrrzgku6tar.us.themoneytizer.com^
 ||yst4.muchoviaje.com^
 ||yst4.torviajes.com^
