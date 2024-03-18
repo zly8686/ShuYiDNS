@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-03-18 09:10:40（北京时间）
+! Version: 2024-03-18 20:29:21（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 117161
+! Total count: 117176
 ||*bmwmini.tt.omtrdc.net^
 ||*bmwofnorthamericallc.tt.omtrdc.net^
 ||-aws-logs.hb.tt.omtrdc.net^
@@ -2802,6 +2802,7 @@
 ||577902decd9b922a2aa896c134c1ebcc.hb-fa-dev.tt.omtrdc.net^
 ||578563-tmgsan-wl3-eur.tt.omtrdc.net^
 ||57883.net^
+||57d38e3023.com^
 ||58.14.90vrt.hb.tt.omtrdc.net^
 ||581b.pandasuite.io^
 ||58745.clicknplay.to^
@@ -3720,7 +3721,6 @@
 ||_submission._udp.hb-fa-stage.tt.omtrdc.net^
 ||_tcp.abc.hb.tt.omtrdc.net^
 ||_tcp.abcnews.hb.tt.omtrdc.net^
-||_tcp.academyofconsciousleadership.net^
 ||_tcp.adultswim.hb.tt.omtrdc.net^
 ||_tcp.aetv.hb.tt.omtrdc.net^
 ||_tcp.appleworldwidedeveloper-stage.hb-api.tt.omtrdc.net^
@@ -8384,6 +8384,7 @@
 ||aaaaa855.com^
 ||aaaaa882.com^
 ||aaaaaaaaa.trekkeeee.fun^
+||aaaaaco.com^
 ||aaaautopoznan-poz-gorzow.tt.omtrdc.net^
 ||aaacarolinasnewmedia.hb.tt.omtrdc.net^
 ||aaacompany.net^
@@ -12305,6 +12306,7 @@
 ||adspsp.com^
 ||adspy.javrank.com^
 ||adspyglass.com^
+||adspynet.com^
 ||adsqqclick.qq.com^
 ||adsrevenue.net^
 ||adsrich.qq.com^
@@ -12585,6 +12587,7 @@
 ||adversal.com^
 ||adversaldisplay.com^
 ||adversalservers.com^
+||adverserve.net^
 ||adversespurt.com^
 ||adversesuffering.com^
 ||advert-admin.vnay.vn^
@@ -14139,7 +14142,6 @@
 ||aketguclk.activeketogummiesstore.online^
 ||akg-pre.hb-fa-dev.tt.omtrdc.net^
 ||akgcaclk.activeketogummiesca.online^
-||akgjovxbcptesco.com^
 ||akhbarlivenwes.tt.omtrdc.net^
 ||akhyanaoverhot.com^
 ||aki-hari.tt.omtrdc.net^
@@ -17299,6 +17301,7 @@
 ||app.appcity.com.au^
 ||app.appsflyer.com^
 ||app.aquaservice.com^
+||app.ardalio.com^
 ||app.areyouin.io^
 ||app.arizonawildcats.com^
 ||app.arkansasrazorbacks.com^
@@ -20313,7 +20316,6 @@
 ||avivasingapore-homedanmark.tt.tt.omtrdc.net^
 ||avivauk.tt.omtrdc.net^
 ||avjadt.e-look.jp^
-||avjbjbeeraebj.top^
 ||avjd014.com/*ad^
 ||avkw.cn^
 ||avkyu1tesnwy.com^
@@ -24187,6 +24189,7 @@
 ||brasstrones.com^
 ||brasthingut.com^
 ||brattieseries.com^
+||braun634.com^
 ||bravantrent.eccocar.com^
 ||braveryinherited.com^
 ||bravetense.com^
@@ -25443,6 +25446,7 @@
 ||cainz-tv.tt.tt.omtrdc.net^
 ||cainz.tt.omtrdc.net^
 ||cairalei.com^
+||caiteesh.net^
 ||caixin.adsame.com^
 ||caixinhadeisadora.tt.omtrdc.net^
 ||caixinimg.adsame.com^
@@ -30701,7 +30705,6 @@
 ||crtracklink.com^
 ||crtv.mate1.com^
 ||cru.tt.omtrdc.net^
-||crucishockled.top^
 ||crudedelicacyjune.com^
 ||crudelouisa.com^
 ||cruel-national.pro^
@@ -38416,6 +38419,7 @@
 ||dornpush.com^
 ||dorogokupimnoutbuk.online^
 ||dorothydrawing.com^
+||dorper.cn^
 ||dorperstechnol.guru^
 ||dortmark.net^
 ||doruffleton.com^
@@ -43376,7 +43380,6 @@
 ||favorite-tonight.pro^
 ||favoritenought.com^
 ||favoritetonic.com^
-||favpqrlawfqst.com^
 ||fawningforegut.life^
 ||faxc.tt.tt.omtrdc.net^
 ||faxffjo.com^
@@ -43692,6 +43695,7 @@
 ||fetch.gethuan.com^
 ||fetchedhighlight.com^
 ||fetchergumdrop.com^
+||fethungi.com^
 ||fetidbelow.com^
 ||fetinhapinhedt.com^
 ||fettledearner.guru^
@@ -50776,6 +50780,7 @@
 ||hopefullyactively.com^
 ||hopefullyapricot.com^
 ||hopghpfa.com^
+||hophcomeysw.com^
 ||hopilos.com^
 ||hopimimeoed.com^
 ||hoplink.ksosoft.com^
@@ -51058,7 +51063,6 @@
 ||hrenbjkdas.com^
 ||hrfdulynyo.xyz^
 ||hrhufhhay.com^
-||hribmjvvmuk.com^
 ||hrkaugdrex.17.241fandango.hb.tt.omtrdc.net^
 ||hrm.healthgrades.com^
 ||hrngmf.com^
@@ -51783,7 +51787,6 @@
 ||ibmwebsphere.tt.omtrdc.net^
 ||ibortvgbkvpmes.com^
 ||ibptutlgoloqy.com^
-||ibqjduiipukerj.com^
 ||ibqswjdkpo.com^
 ||ibrapush.com^
 ||ibryte.com^
@@ -55813,6 +55816,7 @@
 ||jdwhlqb.com^
 ||jdygobphcbh.com^
 ||jdzmqj.thousandtrails.com^
+||jdzqdcpkbh.com^
 ||je.guancheoutwait.com^
 ||je.sepiasfra.com^
 ||jealousyimpostersophia.com^
@@ -57933,6 +57937,7 @@
 ||koukoku.red^
 ||kounenki.tt.omtrdc.net^
 ||kouopt.calvinklein.com.br^
+||koustouk.net^
 ||koutobey.net^
 ||koxcsmmcealss.com^
 ||koyuod.xyz^
@@ -70448,6 +70453,7 @@
 ||ndpugkr.com^
 ||ndqcz0e.xyz^
 ||ndqdxm.thehyundai.com^
+||ndqkxjo.com^
 ||ndqzqmb.xyz^
 ||ndroip.com^
 ||ndroyp.gettingpersonal.co.uk^
@@ -71255,6 +71261,7 @@
 ||nlhpxj.xyz^
 ||nlhtrx.deinschrank.de^
 ||nljjem.honeys-onlineshop.com^
+||nljrvdh.xyz^
 ||nlketclk.mostpopularnldeal.online^
 ||nlkli.com^
 ||nlmnap.lagreentouch.fr^
@@ -71688,6 +71695,7 @@
 ||nqgmcp.chairish.com^
 ||nqisabwtfbm.com^
 ||nqld.bdoaustralia.bdo.com.au^
+||nqmfmnmqysei.com^
 ||nqn7la7.de^
 ||nqoxurf.icu^
 ||nqrkzcd7ixwr.com^
@@ -79831,7 +79839,6 @@
 ||qedlai.restplatzboerse.com^
 ||qeildfuznofnlq.com^
 ||qejjhnq.cn^
-||qekbmjyzwewvj.top^
 ||qekgygdkyewbzv.com^
 ||qel-qel-fie.com^
 ||qelqlunebz.com^
@@ -83698,6 +83705,7 @@
 ||rwftzx.xyz^
 ||rwgjet.simmsfishing.com^
 ||rwhg.tt.omtrdc.net^
+||rwhgpxvoqfvv.com^
 ||rwhneg.breaking-news.jp^
 ||rwixkibchujwgh.com^
 ||rwlnfq.alindashop.ro^
@@ -83958,6 +83966,7 @@
 ||s.northbaynipissing.com^
 ||s.northumberlandnews.com^
 ||s.nowsrv.com^
+||s.opoxv.com^
 ||s.opti-digital.com^
 ||s.optidigital.com^
 ||s.ora-dev.tt.omtrdc.net^
@@ -85233,6 +85242,7 @@
 ||savings.adp.ca^
 ||savingshyleg.com^
 ||savingsupervisorsalvage.com^
+||savionl.com^
 ||saviourketonic.com^
 ||savorydult.com^
 ||savourethicalmercury.com^
@@ -92422,6 +92432,7 @@
 ||sorryparlor.com^
 ||sortburnwest.live^
 ||sortiesbabhan.com^
+||sortyellowapples.com^
 ||sorucall.com^
 ||sorxyx.vi.nl^
 ||sosc.hrs.com^
@@ -98641,6 +98652,7 @@
 ||tawniessmoot.com^
 ||tax3.api.tt.omtrdc.net^
 ||tax5-www.www.tt.omtrdc.net^
+||taxaixkpruxj.com^
 ||taxcs.tt.omtrdc.net^
 ||taxedborley.com^
 ||taxiconsiderable.com^
@@ -107117,6 +107129,7 @@
 ||unicreditgroup.tt.omtrdc.net^
 ||unicreditit.tt.omtrdc.net^
 ||unicume.com^
+||unidentifiedanalytics.web.app^
 ||unidesk.alicdn.com^
 ||unidict.cn^
 ||unifdlat.top^
@@ -109058,6 +109071,7 @@
 ||vilelaaccable.com^
 ||vilereasoning.com^
 ||vilerebuffcontact.com^
+||viliaff.com^
 ||vilinswell.com^
 ||villaedeinos.com^
 ||villageeatable.com^
@@ -111834,6 +111848,7 @@
 ||wledconsi.xyz^
 ||wlgore.sc.tt.omtrdc.net^
 ||wlgxaij.cn^
+||wlhzbbvtofot.com^
 ||wlkojk.orange.ro^
 ||wlmarketing.com^
 ||wlneteller.adsrv.eacdn.com^
@@ -112115,6 +112130,7 @@
 ||worstideatum.com^
 ||worthconesquadron.com^
 ||worthless-living.pro^
+||worthlessanxiety.pro^
 ||worthlesspattern.com^
 ||worthspontaneous.com^
 ||worthwhileawe.com^
@@ -116185,7 +116201,6 @@
 ||yzykttcy.com^
 ||yzzqza.vanillashu.co.kr^
 ||z.cdn.adpool.bet^
-||z.cdn.braun634.com^
 ||z.cdp-dev.cnn.com^
 ||z.grfyw.com^
 ||z.inlist.com^
