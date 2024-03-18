@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-03-17 20:27:54（北京时间）
+! Version: 2024-03-18 09:10:40（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 117155
+! Total count: 117161
 ||*bmwmini.tt.omtrdc.net^
 ||*bmwofnorthamericallc.tt.omtrdc.net^
 ||-aws-logs.hb.tt.omtrdc.net^
@@ -32870,7 +32870,6 @@
 ||dashboardmetrics.hb.tt.omtrdc.net^
 ||dashedclownstubble.com^
 ||dashersbatfish.guru^
-||dashgreen.online^
 ||dashingdaredmeeting.com^
 ||dashingdirt.com^
 ||dashingdrop.com^
@@ -55586,7 +55585,6 @@
 ||jagnoans.com^
 ||jagransolutions.com.actonservice.com^
 ||jaguar.tt.omtrdc.net^
-||jainbagong.com^
 ||jaipheeph.com^
 ||jakcodex.tt.omtrdc.net^
 ||jakescribble.com^
@@ -60624,6 +60622,7 @@
 ||lndonclkds.com^
 ||lnhamforma.info^
 ||lnhdlukiketg.info^
+||lnifdlal.top^
 ||lniwe.xyz^
 ||lnjdmsbyytwl.com^
 ||lnjiwo.manzara.sk^
@@ -71253,6 +71252,7 @@
 ||nlf6.vente-unique.pl^
 ||nlfbdgr.xyz^
 ||nlgzhd.yoox.com^
+||nlhpxj.xyz^
 ||nlhtrx.deinschrank.de^
 ||nljjem.honeys-onlineshop.com^
 ||nlketclk.mostpopularnldeal.online^
@@ -73220,6 +73220,7 @@
 ||ongoingverdictparalyzed.com^
 ||onhgbqhfca.aetv.hb.tt.omtrdc.net^
 ||oniet.karamba.wiki^
+||onifdlak.top^
 ||onikukagayaku93.blog.tt.omtrdc.net^
 ||oninewsful.life^
 ||onjjbn.koffiemarkt.be^
@@ -79837,6 +79838,8 @@
 ||qerbert78.xyz^
 ||qerkbejqwzvyw.top^
 ||qerpks.rollei.de^
+||qetskupch581.shop^
+||qetskupyka61.shop^
 ||qeuckn.icu^
 ||qevcxo.cn^
 ||qewylqmaqezzj.top^
@@ -82347,6 +82350,7 @@
 ||rgecga.piary.jp^
 ||rgentssep.xyz^
 ||rghptoxhai.com^
+||rghqrj.xyz^
 ||rgiixp.sperry.com^
 ||rgjktiwxwy.tt.omtrdc.net^
 ||rgjlpgkzagf.com^
@@ -107507,6 +107511,7 @@
 ||uqmmfpr.com^
 ||uqpvrqplyqm.com^
 ||uqueae.xyz^
+||uqwbcm.xyz^
 ||ur.b.inhaabit.com^
 ||ur.meteredrato.com^
 ||ur.olivetkneel.com^
@@ -108184,6 +108189,7 @@
 ||va502-fpssl.hb-api.tt.omtrdc.net^
 ||vabsirte.xyz^
 ||vabucmgjzu.vvzhujsqvg.att.hb.tt.omtrdc.net^
+||vabzndw.cn^
 ||vacaneedasap.com^
 ||vacationambulancekin.com^
 ||vacationinvolve.com^
