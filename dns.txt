@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-03-22 20:29:23（北京时间）
+! Version: 2024-03-23 09:08:23（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 116397
+! Total count: 116427
 ||*bmwmini.tt.omtrdc.net^
 ||*bmwofnorthamericallc.tt.omtrdc.net^
 ||-aws-logs.hb.tt.omtrdc.net^
@@ -178,6 +178,7 @@
 ||0kal38g35ctc.top^
 ||0krdn3.com^
 ||0l1201s548b2.top^
+||0lmv9e.cn^
 ||0lovespells0.blogspot.com^
 ||0m4.ru^
 ||0mnopqr.com^
@@ -4009,6 +4010,7 @@
 ||a.loi.nl^
 ||a.ltdnc.com^
 ||a.lz13.cn^
+||a.mabipa.com^
 ||a.market.tt.omtrdc.net^
 ||a.maxxhotel.com^
 ||a.medialaancdn.be^
@@ -21434,6 +21436,7 @@
 ||baxascpkean.com^
 ||baxbyfn.cn^
 ||baxotjdtesah.com^
+||baxter.olx.org^
 ||baxterbulletin.com.ssl.d1.sc.tt.omtrdc.net^
 ||bay.xiawu.com^
 ||bayarea.summitry.com^
@@ -27980,6 +27983,7 @@
 ||clm-cdn-main.tt.omtrdc.net^
 ||clmbtech.com^
 ||clmcom.com^
+||clmkwi.xyz^
 ||cln.willyporn.com^
 ||clnbze.dziennikbaltycki.pl^
 ||clnbze.dzienniklodzki.pl^
@@ -32530,6 +32534,7 @@
 ||dabletoverdid.space^
 ||dabpteabvx.241foxnews.hb.tt.omtrdc.net^
 ||dabrowka.tt.omtrdc.net^
+||dabu.askmediagroup.com^
 ||dac4ivlwjts2idtbbaem.sparta.members.tt.omtrdc.net^
 ||dacasse556.tt.tt.omtrdc.net^
 ||dacasse67go.tt.tt.omtrdc.net^
@@ -38747,6 +38752,7 @@
 ||dsw212-np4.tt.tt.tt.omtrdc.net^
 ||dswcrlf.cn^
 ||dsxdn.com^
+||dsxwcas.com^
 ||dt.beyla.site^
 ||dt.vnecdn.com^
 ||dt4ever.com^
@@ -42395,6 +42401,7 @@
 ||excellingvista.com^
 ||excelrepulseclaimed.com^
 ||exceptinggapslightest.com^
+||exceptionalharshbeast.com^
 ||exceptionweakerboring.com^
 ||exceptscasease.website^
 ||excessivesinner.com^
@@ -43125,6 +43132,7 @@
 ||favorite-tonight.pro^
 ||favoritenought.com^
 ||favoritetonic.com^
+||favorskhivan.com^
 ||fawningforegut.life^
 ||faxc.tt.tt.omtrdc.net^
 ||faxffjo.com^
@@ -44750,6 +44758,7 @@
 ||fptls2.com^
 ||fptls3.com^
 ||fpukxcinlf.com^
+||fpvdrzx.xyz^
 ||fpxewa.ilmeteo.it^
 ||fpzpmx.com^
 ||fq67.top^
@@ -49389,6 +49398,7 @@
 ||hbusmm.tt.tt.omtrdc.net^
 ||hbx.df-srv.de^
 ||hbxhnqj.cn^
+||hbxzlf.xyz^
 ||hby7.destinia.it^
 ||hbzikbe.com^
 ||hc-analytics.idp.clogin.att.com^
@@ -49744,6 +49754,7 @@
 ||hentaicounter.com^
 ||hentaigold.net^
 ||hentaionline.net^
+||hentent.stre4mplay.one^
 ||hentent.streampiay.fun^
 ||henwilkson.com^
 ||henzanapp.com^
@@ -50150,6 +50161,7 @@
 ||hitchbuildingeccentric.com^
 ||hitchprivilege.com^
 ||hitchrational.com^
+||hitchun.com^
 ||hitcpm.com^
 ||hitiz.com^
 ||hitlist.ru^
@@ -50486,6 +50498,7 @@
 ||honpu1.dianqiweixiu.net^
 ||honrfrye.com^
 ||hontent.powzers.lol^
+||hontent.powzerz.lol^
 ||hontestmere.live^
 ||hontont.com^
 ||hoo1luha.com^
@@ -51407,7 +51420,6 @@
 ||i027m.top^
 ||i1.market-search.online^
 ||i16-tb.isnssdk.com^
-||i18n-pglstatp.com^
 ||i18q.admaster.com.cn^
 ||i1media.no^
 ||i2.akjunshi.com^
@@ -54836,6 +54848,7 @@
 ||iquirc.motionrc.com^
 ||iqveat.icu^
 ||iqwfauzxumyk.com^
+||iqxuuski.com^
 ||iqxzph.grandecosmetics.com^
 ||iqybys.xyz^
 ||iqyioj.harryanddavid.com^
@@ -55115,6 +55128,7 @@
 ||itx5-publicidad.smartadserver.com^
 ||itx5.smartadserver.com^
 ||ityonatallco.info^
+||ityusio.top^
 ||itzekromom.com^
 ||itznub.gap.co.uk^
 ||iu.juzi.cn^
@@ -57397,6 +57411,7 @@
 ||klehewasades.org^
 ||klenhosnc.com^
 ||klfbnklddfbkn.com^
+||klik-slider.morgancode.com^
 ||klik.nrc.nl^
 ||klikadvertising.com^
 ||klikklan.no.ssl.sc.tt.omtrdc.net^
@@ -59771,6 +59786,7 @@
 ||linkedprepenseprepense.com^
 ||linkeinvitable.site^
 ||linkelevator.com^
+||linker.hr^
 ||linker.lyrahealth.com^
 ||linker.staging.lyrahealth.com^
 ||linkerspond.com^
@@ -61604,6 +61620,7 @@
 ||lupanarcantlet.space^
 ||lupininulster.com^
 ||lupinkeenest.top^
+||lupon.media^
 ||luptbq.lampsplus.com^
 ||lupvaqvfeka.com^
 ||luracancamus.com^
@@ -61691,6 +61708,7 @@
 ||lwmzoaf.cn^
 ||lwonclbench.com^
 ||lwozzk.legacy.com^
+||lwrohd.xyz^
 ||lwtqqq.com^
 ||lwusnt.yogibo.kr^
 ||lwwlkj1.cn^
@@ -61746,6 +61764,7 @@
 ||lydiz.com^
 ||lydrnj.xyz^
 ||lyegyo.bluenile.com^
+||lyfnh.io^
 ||lyfrir.purehockey.com^
 ||lygbbkgykzcr.com^
 ||lyingdownt.xyz^
@@ -68380,6 +68399,7 @@
 ||monsanto-sav.tt.tt.omtrdc.net^
 ||monsanto.tt.omtrdc.net^
 ||monsetting.toutiao.com^
+||monsoonlassi.com^
 ||monster.branch.rocks^
 ||monster.trk.agency^
 ||monsterofnews.com^
@@ -72560,6 +72580,7 @@
 ||omnifpc.devry.edu^
 ||omnifpcs.devry.edu^
 ||omnikool.discovery.com^
+||omnipotentglobalbeer.com^
 ||omnipresentstream.com^
 ||omnis.basspro.com^
 ||omnis.firstdata.com^
@@ -73844,6 +73865,7 @@
 ||owrkwilxbw.com^
 ||owss.ihs.com^
 ||owtjzn.so-nice.com.tw^
+||owwafgaqdapg.com^
 ||owwczycust.com^
 ||owwogmlidz.com^
 ||owyame.xyz^
@@ -77590,6 +77612,7 @@
 ||precisioncounter.com^
 ||precisionnight.com^
 ||precislooed.com^
+||precursorinclinationbruised.com^
 ||predataclient.b-cdn.net^
 ||predatasrv.com^
 ||predatoryfilament.com^
@@ -80675,6 +80698,7 @@
 ||redactsriles.top^
 ||redadisappoi.info^
 ||redads.biz^
+||redakcija.alo.rs^
 ||redansediles.com^
 ||redbclk.getredboostsite.today^
 ||redbclk.redboostonline.site^
@@ -91005,6 +91029,7 @@
 ||snailteasesimulator.com^
 ||snailthreatenedinvited.com^
 ||snakeselective.com^
+||snakilyglebae.com^
 ||snalytics.accidenthero.at^
 ||snalytics.allianz-assistance.at^
 ||snalytics.allianz-assistance.com.sg^
@@ -105662,6 +105687,7 @@
 ||uads.cc^
 ||uads.digital^
 ||uads.info^
+||uads.space^
 ||uads.store^
 ||uaemarketing.sedgwick.com^
 ||uafuzcxr.xyz^
@@ -107534,6 +107560,7 @@
 ||variants2s.tt.tt.omtrdc.net^
 ||variationaspenjaunty.com^
 ||variationsreviewmocking.com^
+||varicalpraiser.com^
 ||variedpretenceclasped.com^
 ||variedslimecloset.com^
 ||variedsubduedplaice.com^
@@ -110629,6 +110656,7 @@
 ||whoungoz.net^
 ||whounsou.com^
 ||whourgie.com^
+||whouroazu.net^
 ||whoursie.com^
 ||whouseem.com^
 ||whoustoa.net^
@@ -110705,6 +110733,7 @@
 ||widgets.business.com^
 ||widgets.comcontent.net^
 ||widgets.informars.com^
+||widgets.jutarnji.hr^
 ||widgets.lendingtree.com^
 ||widgets.oddschecker.com^
 ||widgets.outbrain.com^
@@ -113750,6 +113779,7 @@
 ||xiwusn9982.top^
 ||xixil.cn^
 ||xixrdn.xyz^
+||xizanzhi.com^
 ||xizlxlflsi._dmarc.hb.tt.omtrdc.net^
 ||xiznql.laredoute.it^
 ||xizopiwhu.com^
