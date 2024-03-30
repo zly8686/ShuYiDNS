@@ -2,9 +2,11 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-03-30 09:07:57（北京时间）
+! Version: 2024-03-30 20:27:03（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 118352
+! Total count: 118362
+||*.p2p.huya.com^
+||*.va.huya.com^
 ||*bmwmini.tt.omtrdc.net^
 ||*bmwofnorthamericallc.tt.omtrdc.net^
 ||-aws-logs.hb.tt.omtrdc.net^
@@ -727,7 +729,6 @@
 ||1573.tt.omtrdc.net^
 ||158-231searchmai.tt.omtrdc.net^
 ||159.prod.cloud.prod.cloud.tt.omtrdc.net^
-||15d3c0325b.com^
 ||15kvalencia.es.ssl.sc.tt.omtrdc.net^
 ||15y.api.tt.omtrdc.net^
 ||16-8-4-58.tt.omtrdc.net^
@@ -2751,7 +2752,6 @@
 ||518geelong.treker.fun^
 ||518hobart.treker.fun^
 ||519332DA.rtc.youme.im^
-||5193d620ce.com^
 ||51gxqm.com^
 ||51hir.cyou^
 ||51kaowang.com^
@@ -2989,7 +2989,6 @@
 ||641198810fae7.com^
 ||643108e7617ef.cdn.sohucs.com^
 ||644446.com^
-||64df8e1c63.com^
 ||64p3am9x95ct.com^
 ||65-75-96.tt.omtrdc.net^
 ||6503.client.tt.omtrdc.net^
@@ -3144,7 +3143,6 @@
 ||75-go.tt.omtrdc.net^
 ||751.2d7dd.cdn.tt.omtrdc.net^
 ||7525-stg.tt.omtrdc.net^
-||75416fa555.com^
 ||754480bd33.com^
 ||756fdropbox.tt.omtrdc.net^
 ||757d.pandasuite.io^
@@ -3641,7 +3639,6 @@
 ||994e4a6044.com^
 ||9950.client.tt.omtrdc.net^
 ||9955951.pillar.app^
-||9978689407.com^
 ||997b409959.com^
 ||9984342.reddoorz.in^
 ||99886aaa.com^
@@ -17247,6 +17244,7 @@
 ||apologiesneedleworkrising.com^
 ||apologizeclosest.com^
 ||apologizingrigorousmorally.com^
+||aponiaonmarch.com^
 ||apops3.snap.tt.omtrdc.net^
 ||aporodiko.com^
 ||aportal-farm.its.tt.omtrdc.net^
@@ -25345,6 +25343,7 @@
 ||bytupkvc.xyz^
 ||byub.tt.omtrdc.net^
 ||byubroadcasting-2.hb.tt.omtrdc.net^
+||byuwkbv.top^
 ||byvlph.xyz^
 ||byvngx98ssphwzkrrtsjhnbyz5zss81dxygxvlqd05.com^
 ||bywntfg.com^
@@ -30483,7 +30482,6 @@
 ||coudswamper.com^
 ||cougar.augmentedmindapp.com^
 ||cougar.wzulfikar.com^
-||couldblindly.com^
 ||couldburgeon.com^
 ||couldobliterate.com^
 ||counaupsi.com^
@@ -39815,6 +39813,7 @@
 ||dw7vmlojkx16k.cloudfront.net^
 ||dw9uc6c6b8nwx.cloudfront.net^
 ||dwadwere.xyz^
+||dwbfqmz.cn^
 ||dwbotr.ssg.com^
 ||dwd11wtouhmea.cloudfront.net^
 ||dwddvpmiqis.xyz^
@@ -50926,6 +50925,7 @@
 ||hf.frisklelooms.com^
 ||hf5rbejvpwds.com^
 ||hf9u.tt.omtrdc.net^
+||hfbfbvmjdmxc.com^
 ||hfd.bridgetowermedia.com^
 ||hfeoveukrn.info^
 ||hffxc.com^
@@ -52819,6 +52819,7 @@
 ||iemiq.com^
 ||iendoo.com^
 ||ienewpxb.top^
+||ientent.stre4mplay.one^
 ||ientent.streampiay.fun^
 ||ientrymail.com^
 ||ieo8qjp3x9jn.pro^
@@ -52961,7 +52962,6 @@
 ||ii1.chajiaotong.com^
 ||iia1.pikacn.com^
 ||iiajtl.zeit.de^
-||iibhytvj.com^
 ||iiceq.intuit.com^
 ||iicheewi.com^
 ||iidjo.xyz^
@@ -55772,6 +55772,7 @@
 ||ionjkcj.cn^
 ||iononetravoy.com^
 ||ionscormationwind.info^
+||iontent.powzerz.lol^
 ||ionwindonpetropic.info^
 ||iooecb.bergzeit.de^
 ||ioovmg.flexicar.es^
@@ -57790,6 +57791,7 @@
 ||jwcnjv.xlmoto.eu^
 ||jweod.xyz^
 ||jweoe.xyz^
+||jweqtiikcx.com^
 ||jwfesuk.cn^
 ||jwhlem.smartbuyglasses.ch^
 ||jwjzf.online^
@@ -59648,8 +59650,8 @@
 ||lbv5.mperf.com^
 ||lbwjqrtxeeriap.com^
 ||lby2kd27c.com^
-||lbylqeravmowq.top^
 ||lbypewrshxl.com^
+||lbyx.xyz^
 ||lc.getui.com^
 ||lc.jiathis.com^
 ||lc442.com^
@@ -60032,7 +60034,6 @@
 ||levis.tt.omtrdc.net^
 ||levityprogramming.com^
 ||levityquestionshandcuff.com^
-||levtlfbfrm.com^
 ||levulicbenday.digital^
 ||levyteenagercrushing.com^
 ||lewdlygrips.top^
@@ -62865,6 +62866,7 @@
 ||lusgle.hudabeauty.com^
 ||lushcrush.com^
 ||lusinlepading.com^
+||lussadretchy.com^
 ||lustickmiasmic.com^
 ||lustrous-cheek.com^
 ||lutachechu.pro^
@@ -74313,6 +74315,7 @@
 ||ooejkd.xyz^
 ||ooftauph.com^
 ||oofteonaft.work^
+||oofycyur.com^
 ||oofyjigsaw.com^
 ||oofyjik.xyz^
 ||oogleaamentum.com^
@@ -79897,6 +79900,7 @@
 ||psenefile.tt.omtrdc.net^
 ||psensuds.net^
 ||pseudomain.tt.omtrdc.net^
+||pseudonym.cn^
 ||psfcnf.ochsnersport.ch^
 ||psfgobbet.com^
 ||psfq.gou.sogou.com^
@@ -80792,6 +80796,7 @@
 ||qdrmui.com^
 ||qdsfzz.cn^
 ||qdtjjxr.xyz^
+||qdtzbbh.xyz^
 ||qdvavs.trademax.se^
 ||qdvducltjswp.com^
 ||qdxzpcytii.com^
@@ -81013,6 +81018,7 @@
 ||qonwdq.helmexpress.com^
 ||qooav.top^
 ||qop2my598zu4ye0i.tt.omtrdc.net^
+||qoppwwjxjrmhdt.com^
 ||qopzmao.com^
 ||qoqoangry.com^
 ||qoqv.com^
@@ -84473,6 +84479,7 @@
 ||rtumdhdk.xyz^
 ||rtumwzp.icu^
 ||rtvision.actonservice.com^
+||rtwdzxstpanmn.com^
 ||rtxlni.doclasse.com^
 ||rtxpx-a.akamaihd.net^
 ||rtxrtb.com^
@@ -101087,6 +101094,7 @@
 ||tjcmje.mecalux.com.mx^
 ||tjfbh.icu^
 ||tjfot.com^
+||tjgpeswdkrym.com^
 ||tjibxzqxtl.com^
 ||tjlog.easou.com^
 ||tjlog.ps.easou.com^
@@ -108976,6 +108984,7 @@
 ||utubepwhml.com^
 ||utwwzqdx.xyz^
 ||utwyyrjdwgmynu.com^
+||utxmb.cn^
 ||utxokv.emp.co.uk^
 ||uu.qq.com^
 ||uu1.3gu.com^
@@ -116398,6 +116407,7 @@
 ||xyhuoi.com^
 ||xyjaewocysv.com^
 ||xylenylyetapa.uno^
+||xylhwdu.com^
 ||xymahuxv.xyz^
 ||xymddt.clubeextra.com.br^
 ||xymhzq.klingel.de^
