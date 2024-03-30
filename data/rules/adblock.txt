@@ -813,3 +813,5 @@ adblock-tester.com##.includeWrapper, .svelte-700pcr
 blog.51cto.com##div.right-fixadv:nth-child(6)
 scoregg.com##.float-modal
 medium.com##.m, .abb, .add, .ade
+hanyu.baidu.com###J_CishuBtn > img
+hanyu.baidu.com###main > div.app-qrcode:first-child
