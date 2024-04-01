@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-03-31 20:28:06（北京时间）
+! Version: 2024-04-01 09:16:39（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 118419
+! Total count: 118425
 ||*.p2p.huya.com^
 ||*.va.huya.com^
 ||*bmwmini.tt.omtrdc.net^
@@ -41457,6 +41457,7 @@
 ||eltontry.com^
 ||eltrafiko.com^
 ||elugnoasargo.com^
+||eluocs.xyz^
 ||elxont.com^
 ||elyxvt.wilsonamplifiers.com^
 ||em-email.thermofisher.com^
@@ -45184,6 +45185,7 @@
 ||fmsb2bprp03.tt.omtrdc.net^
 ||fmsde0dv2j54.com^
 ||fmssly.pets4homes.co.uk^
+||fmssoj.icu^
 ||fmstigat.online^
 ||fmstitial.xyz^
 ||fmuabq.lojaadcos.com.br^
@@ -72203,6 +72205,7 @@
 ||nj.molliefidac.com^
 ||nj.sloooutyelp.com^
 ||njaja.com^
+||njenlz.cn^
 ||njfwjnpuq.com^
 ||njhvalu.cn^
 ||njlgwpardzl.com^
@@ -80578,6 +80581,7 @@
 ||pwcglsc.tt.omtrdc.net^
 ||pwcglscakamai.tt.omtrdc.net^
 ||pweabzcatoh.com^
+||pwhkfd.xyz^
 ||pwhtip.icu^
 ||pwkrakanmet.met.gov.my^
 ||pwmctl.com^
@@ -115317,6 +115321,7 @@
 ||wxbtools.tt.omtrdc.net^
 ||wxcqdnf.com^
 ||wxebye.aboutyou.hu^
+||wxfdmri.xyz^
 ||wxgmca.orthofeet.com^
 ||wxhiojortldjyegtkx.bid^
 ||wxl0gfw.icu^
@@ -117321,6 +117326,7 @@
 ||ywgpkjg.com^
 ||ywhikg.surplex.com^
 ||ywhowascryin.com^
+||ywhws.cn^
 ||ywkiyt.candere.com^
 ||ywojvu.kujten.com^
 ||ywopyohpihnkppc.xyz^
