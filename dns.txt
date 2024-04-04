@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-04-04 09:11:44（北京时间）
+! Version: 2024-04-04 20:30:03（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 118423
+! Total count: 118421
 ||*.p2p.huya.com^
 ||*.va.huya.com^
 ||*bmwmini.tt.omtrdc.net^
@@ -637,6 +637,7 @@
 ||133.asterix.tt.omtrdc.net^
 ||13320a.client.tt.omtrdc.net^
 ||133261.sites.tt.omtrdc.net^
+||1337x.vpnonly.site^
 ||133nbcume.hb.tt.omtrdc.net^
 ||133rtl.hb.tt.omtrdc.net^
 ||134366.prod.cloud.prod.cloud.tt.omtrdc.net^
@@ -3426,6 +3427,7 @@
 ||88lm06.com^
 ||88lm07.com^
 ||88lm08.com^
+||88lm09.com^
 ||89-11-13.tt.omtrdc.net^
 ||89-253-101-33.customers.tt.omtrdc.net^
 ||89-253-104-45.customers.tt.omtrdc.net^
@@ -13097,6 +13099,7 @@
 ||afcnuchxgo.com^
 ||afcontent.net^
 ||afcv.champ-shop.com^
+||afcyhf.com^
 ||afd.baidu.com^
 ||afdashrafi.com^
 ||afdbwq.blivakker.no^
@@ -13114,6 +13117,7 @@
 ||aff-online.com^
 ||aff-policy.lbesecapi.com^
 ||aff-report.lbesecapi.com^
+||aff-track.net^
 ||aff.atp.vn^
 ||aff.biz^
 ||aff.bstatic.com^
@@ -20794,7 +20798,6 @@
 ||az-integration-testcluster-640ef.dev.azure.tt.omtrdc.net^
 ||az-integration-testcluster-64569.dev.azure.tt.omtrdc.net^
 ||az-integration-testcluster-6462d4.dev.azure.tt.omtrdc.net^
-||az.koipatolipper.com^
 ||az2-labs-lbdmz-vip17.tt.omtrdc.net^
 ||az43064.vo.msecnd.net^
 ||az693360.vo.msecnd.net^
@@ -21800,7 +21803,6 @@
 ||bbhktv.xyz^
 ||bbhonlinestore.com^
 ||bbis55798s.sky.tt.omtrdc.net^
-||bbiuowdofb.com^
 ||bbjnttjqknnmf.com^
 ||bbk.pnc.com^
 ||bbkydnakc.com^
@@ -24172,7 +24174,6 @@
 ||bqgimgs1.cdn.bcebos.com^
 ||bqgyy.com^
 ||bqhkix.mosmexa.ru^
-||bqimhnhltoili.com^
 ||bqjqripb.xyz^
 ||bqklioghtnqs.com^
 ||bqnmxza.cn^
@@ -24958,7 +24959,6 @@
 ||budsminepatent.com^
 ||budvawshes.ru^
 ||buehne-und-kunst.tt.omtrdc.net^
-||bueidvjdy.com^
 ||buency.com^
 ||buesbc5.tt.omtrdc.net^
 ||buesbc74.tt.tt.omtrdc.net^
@@ -26513,6 +26513,7 @@
 ||cbsmsacompanhiabrasi.tt.omtrdc.net^
 ||cbssports.com.sc.tt.omtrdc.net^
 ||cbswildcard.hb-api.tt.omtrdc.net^
+||cbthkumwa96.shop^
 ||cbtnuggets.tt.omtrdc.net^
 ||cbttnmo.xyz^
 ||cbudbs.tirendo.de^
@@ -31778,7 +31779,6 @@
 ||cxalid.turtlebeach.com^
 ||cxapio.xyz^
 ||cxasci.sprzedajemy.pl^
-||cxeiymnwjyyi.xyz^
 ||cxense.com^
 ||cxgfq.pinlue.com^
 ||cxhqpbwmyfskzt.com^
@@ -39791,6 +39791,7 @@
 ||dutygoddess.com^
 ||dutythursday.com^
 ||duu8lzqdm8tsz.cloudfront.net^
+||duwabchhdgkqc.com^
 ||duwk50magqurier.com^
 ||duwtkigcyxh.com^
 ||duwvinarma.com^
@@ -44072,6 +44073,7 @@
 ||faxffjo.com^
 ||faxifa.xyz^
 ||faxqaaawyb.com^
+||fayijxrs.com^
 ||fayuau.barkyn.com^
 ||fayzrtqszkcb.com^
 ||faz.met.vgwort.de^
@@ -44123,7 +44125,6 @@
 ||fbzmrgf.xyz^
 ||fc-id.sensic.net^
 ||fc-rohoznik.tt.omtrdc.net^
-||fc.ferriesendless.com^
 ||fc.vodafone.de^
 ||fc.webmasterpro.de^
 ||fc.yahoo.com^
@@ -46385,7 +46386,6 @@
 ||fyexyd.icu^
 ||fygild.rueonline.com^
 ||fyglovilo.pro^
-||fymgkjtee.com^
 ||fyrsbckgi-c.global.ssl.fastly.net^
 ||fytaopeurb.com^
 ||fytpft.xyz^
@@ -48005,6 +48005,7 @@
 ||gnfqtz.smartphoto.se^
 ||gnh2.destinia.lv^
 ||gniew.xyz^
+||gnjxesyfensbh.com^
 ||gnkgvjxunmwc.com^
 ||gnkvyn.freeportstore.com^
 ||gnlbdqntxv.abcnews.hb.tt.omtrdc.net^
@@ -55128,6 +55129,7 @@
 ||information.skillsoft.com^
 ||information.tt.omtrdc.net^
 ||informer.yandex.ru^
+||informereng.com^
 ||informeresapp.com^
 ||informers.sinoptik.ua^
 ||informpay.com^
@@ -57412,7 +57414,6 @@
 ||jpwfkn.besthotels.es^
 ||jpwfrl.mona.de^
 ||jpzvrsuwdavpjw.com^
-||jq.obeyersshewn.com^
 ||jqafetxoermhue.com^
 ||jqbddp.xyz^
 ||jqcyacoxrvada.com^
@@ -58992,7 +58993,6 @@
 ||ksurpiwdayc.com^
 ||ksvkfwth.xyz^
 ||kszuxn.snidel.com^
-||kt.guywireincorp.com^
 ||kt5850pjz0.com^
 ||kta.etherscan.com^
 ||ktauoy.xyz^
@@ -70439,6 +70439,7 @@
 ||mule.pricelessai.com^
 ||mule.reel.so^
 ||muleattackscrease.com^
+||mulesto.com^
 ||muletatyphic.com^
 ||mulletsuborn.life^
 ||mulliteskaters.life^
@@ -70579,6 +70580,7 @@
 ||mvip.zhuba8.com^
 ||mvjlsdqd.com^
 ||mvkus.tt.omtrdc.net^
+||mvlvxzhxjci.com^
 ||mvlyimxovnsw.xyz^
 ||mvmuk-ri-f-static-iz.a.hb-api.tt.omtrdc.net^
 ||mvng.cn^
@@ -72276,7 +72278,6 @@
 ||nkredir.com^
 ||nkrvqmvlyryzn.com^
 ||nkstkp.com^
-||nktbcnkdxhqniwx.com^
 ||nkvwvx.xyz^
 ||nkwvwb.fluevog.com^
 ||nkydma.newbuild.studio^
@@ -72333,6 +72334,7 @@
 ||nmkghh.com^
 ||nmkli.com^
 ||nmlfev.icu^
+||nmntgd.cn^
 ||nmo1.orpi.com^
 ||nmobi.kuwo.cn^
 ||nmsedhkcd.com^
@@ -77173,7 +77175,6 @@
 ||perfectmarket.com^
 ||perfectplanned.com^
 ||perfiliate.com^
-||performance-based.com^
 ||performance-check.b-cdn.net^
 ||performance-logger.minted.com^
 ||performanceadexchange.com^
@@ -80801,7 +80802,6 @@
 ||q.leru.xyz^
 ||q.nasdaq.com^
 ||q.ox11.com^
-||q.roovs.xyz^
 ||q.s.cr-nielsen.com^
 ||q.skiplino.com^
 ||q.vlion.cn^
@@ -81076,7 +81076,6 @@
 ||qjwglnuwqvr.com^
 ||qjxiyt.respect-shoes.ru^
 ||qjxkce.patriziapepe.com^
-||qjyvvxjmqirvbl.com^
 ||qkcaqq.xyz^
 ||qkdhstfyx.com^
 ||qkhhjm.autoscout24.nl^
@@ -81666,6 +81665,7 @@
 ||r3.adwo.com^
 ||r3sub.com/images/aaa^
 ||r42tag.com^
+||r451.jamanetwork.com^
 ||r4nds.absorba.com^
 ||r5.dir.bg^
 ||r541.houstonchronicle.com^
@@ -82076,6 +82076,7 @@
 ||rderstartirrelea.info^
 ||rdfine.camelbrown.com^
 ||rdghnhu.com^
+||rdiono.cn^
 ||rdji.top^
 ||rdlrbm.studying.jp^
 ||rdm.de.ssl.d3.sc.tt.omtrdc.net^
@@ -83742,7 +83743,6 @@
 ||rmtx.ra.icast.cn^
 ||rmtxpv.ra.icast.cn^
 ||rmuuspy.com^
-||rmvvawqobqvaq.top^
 ||rmw.jdburl.com^
 ||rmwzbomjvmlej.top^
 ||rmxhti.zpacks.com^
@@ -98340,6 +98340,7 @@
 ||szpnz.cn^
 ||szpot22.tt.tt.omtrdc.net^
 ||szptp.cn^
+||szpwg.cn^
 ||szpwh.cn^
 ||szqxvo.com^
 ||szrpr.raen.com^
@@ -101491,6 +101492,7 @@
 ||tniujy.natura.com.br^
 ||tnjsbbt.com^
 ||tnllxd.xyz^
+||tnmpd.xyz^
 ||tnpads.xyz^
 ||tnqsnxsdt.com^
 ||tns-7.kane.tt.omtrdc.net^
@@ -102077,7 +102079,6 @@
 ||tqp.tcp.hb-api.tt.omtrdc.net^
 ||tqrjlqt.com^
 ||tqrznqs.cn^
-||tqsrtyqpoeyp.com^
 ||tqtedm.kosmetik.at^
 ||tquvbfl.com^
 ||tqvacq.intrend.it^
@@ -109841,7 +109842,6 @@
 ||vhpabx.herffjones.com^
 ||vhrbxb.vidaxl.nl^
 ||vhsrwd.aip24.pl^
-||vhsugcbelruygy.com^
 ||vhsutpgui.xyz^
 ||vhunantv.admaster.com.cn^
 ||vhutitpu.icu^
@@ -112942,7 +112942,6 @@
 ||wkmvmh.apress.com^
 ||wknaczrxjrj.com^
 ||wknd.ai^
-||wkoeoaavamqek.top^
 ||wkpewkejefefhm.com^
 ||wkpfgjbmd.com^
 ||wkpjgh.toysrus.pt^
@@ -113031,7 +113030,6 @@
 ||wmtaeem.com^
 ||wmtmhbuiumwl.com^
 ||wmvroh.sgd.de^
-||wmwwmbjkmrlv.top^
 ||wmxuba.aldoshoes.com^
 ||wn.pos.baidu.com^
 ||wn.x.jd.com^
