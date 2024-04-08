@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-04-07 20:27:41（北京时间）
+! Version: 2024-04-08 09:12:31（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 118345
+! Total count: 118354
 ||*.p2p.huya.com^
 ||*.va.huya.com^
 ||*bmwmini.tt.omtrdc.net^
@@ -86,6 +86,7 @@
 ||02yt5o6ebg7chkvg.hb-fa-stage.tt.omtrdc.net^
 ||03.lzzncm.com^
 ||032.vip.tt.omtrdc.net^
+||0322cfmtl.cc^
 ||032cbsinteractive.hb.tt.omtrdc.net^
 ||033-express-nano.tt.omtrdc.net^
 ||0342b40dd6.com^
@@ -2959,6 +2960,7 @@
 ||61ads.net^
 ||61ba68472f.com^
 ||61serve.everydayporn.co^
+||61zdn1c9.skin^
 ||62-127-110-207.tt.omtrdc.net^
 ||62-127-149-110.tt.omtrdc.net^
 ||62-127-95-40.tt.omtrdc.net^
@@ -29227,6 +29229,7 @@
 ||collector.vhx.tv^
 ||collector.wasu.cn^
 ||collector.wawlabs.com^
+||collector.xhaccess.com^
 ||collector.xhamster.com^
 ||collector.xhamster.desi^
 ||collector.xhamster2.com^
@@ -36282,6 +36285,7 @@
 ||dbj.quebecregion.com^
 ||dbl.cadriamarketing.com^
 ||dblbkinsuswpr.com^
+||dblijd.xyz^
 ||dbmbfe.pegipegi.com^
 ||dbmsdatadebug.tt.omtrdc.net^
 ||dbmyvl.apartmentfinder.com^
@@ -41231,7 +41235,6 @@
 ||elmonopolicycr.info^
 ||elodcantdog.com^
 ||elogic-learning.actonservice.com^
-||elogs.vnexpress.net^
 ||eloinedcanasta.com^
 ||elonreptiloid.com^
 ||elooksjustlikea.info^
@@ -47520,6 +47523,7 @@
 ||gikunda-m.tt.omtrdc.net^
 ||gilarditus.com^
 ||gilledwebeye.life^
+||gillpwiul.com^
 ||gillsapp.com^
 ||gillsisabellaunarmed.com^
 ||gillstaught.com^
@@ -59564,6 +59568,7 @@
 ||laughedaffront.com^
 ||laughedbegnaw.com^
 ||laughedrevealedpears.com^
+||laughingrecordinggossipy.com^
 ||laughteroccasionallywarp.com^
 ||laugoust.com^
 ||laugus.com^
@@ -78445,6 +78450,7 @@
 ||pmieprlpq.com^
 ||pmimdcjx.com^
 ||pmir.3g.qq.com^
+||pmiskc.cn^
 ||pmm.people.com.cn^
 ||pmmojatx.com^
 ||pmmotor-moto-motocykle.tt.omtrdc.net^
@@ -81068,6 +81074,7 @@
 ||qmzakpdewlelv.com^
 ||qn-5.com^
 ||qnajplxtvz-a.akamaihd.net^
+||qnalzly.top^
 ||qnartpbxjaxep.com^
 ||qnbiiygyrox.com^
 ||qnbskk.oqvestir.com.br^
@@ -83769,6 +83776,7 @@
 ||rockfellertest.com^
 ||rockmostbet.com^
 ||rockpicky.com^
+||rockpoint.xhaccess.com^
 ||rockpoint.xhamster.com^
 ||rockpoint.xhamster.desi^
 ||rockpoint.xhamster2.com^
@@ -94306,6 +94314,7 @@
 ||srvmd30s.com^
 ||srvpcn.com^
 ||srvtrck.com^
+||srwwce.xyz^
 ||srwww1.com^
 ||srxy.xyz^
 ||srzpsbf.xyz^
@@ -106768,6 +106777,7 @@
 ||tsadakagayan.tt.omtrdc.net^
 ||tsancii.top^
 ||tsapphires.buzz^
+||tsapphiresand.info^
 ||tsaristcanapes.com^
 ||tsarkinds.com^
 ||tsawebex-aip.tsa.tt.omtrdc.net^
@@ -112735,7 +112745,6 @@
 ||winfuture.de/ajax/pixel^
 ||wing125.tt.omtrdc.net^
 ||wingads.com^
-||wingcasquet.com^
 ||wingerssetiger.com^
 ||wingingtuzzle.space^
 ||wingleeer.space^
