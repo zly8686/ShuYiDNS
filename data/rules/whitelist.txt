@@ -22,11 +22,11 @@
 @@||console.bce.baidu.com^$domain=console.bce.baidu.com
 @@||login.bce.baidu.com^$domain=login.bce.baidu.com
 !腾讯系 头像
-@@qlogo.cn^
+@@||qlogo.cn^
 !B站弹幕
-@@broadcastlv.chat.bilibili.com^
+@@||broadcastlv.chat.bilibili.com^
 !JD试用商品详情
-@@||wl.jd.com^$important
+@@||wl.jd.com^
 !微信验证
 @@||shminorshort.weixin.qq.com^
 @@||support.weixin.qq.com^
