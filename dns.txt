@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-04-08 20:30:28（北京时间）
+! Version: 2024-04-09 09:11:29（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 118738
+! Total count: 118780
 ||*.p2p.huya.com^
 ||*.va.huya.com^
 ||*bmwmini.tt.omtrdc.net^
@@ -4282,6 +4282,7 @@
 ||a1-146.hb-api.tt.omtrdc.net^
 ||a1-2.prod.cloud.tt.omtrdc.net^
 ||a1.289.com^
+||a1.51shiti.cn^
 ||a1.99933.cn^
 ||a1.99966.cn^
 ||a1.actonservice.com^
@@ -14889,6 +14890,7 @@
 ||alreau.com^
 ||alrhry.cjthemarket.com^
 ||alrightlemonredress.com^
+||alrotdrfhsc.com^
 ||als-svc.nytimes.com^
 ||als.baidu.com^
 ||alsatiapolynia.com^
@@ -20454,7 +20456,6 @@
 ||avnet84s.tt.tt.omtrdc.net^
 ||avoadsservices.com^
 ||avocado.laprovence.com^
-||avoda-mehabait.co.il^
 ||avoidaroid.com^
 ||avolvesoftware.actonservice.com^
 ||avonproductsinc.tt.omtrdc.net^
@@ -23209,6 +23210,7 @@
 ||bjuser.jpush.cn^
 ||bjuvux.andgino.jp^
 ||bjvpn01.miapp2.tt.omtrdc.net^
+||bjwgifte.com^
 ||bjxiangcao.com^
 ||bjyc6868.com^
 ||bjzjrd.titicaca.co.jp^
@@ -23814,6 +23816,7 @@
 ||boilingbeetle.com^
 ||boilingloathe.com^
 ||boilingtruce.com^
+||boilingviewed.com^
 ||boilslashtasted.com^
 ||boilwiggle.com^
 ||boingo.tt.omtrdc.net^
@@ -30910,6 +30913,7 @@
 ||cpxinteractive.com^
 ||cpxl.golem.de^
 ||cpyjyhny.xyz^
+||cpzafxhkt.com^
 ||cq.hq1.influitive.com^
 ||cq.zu.tt.omtrdc.net^
 ||cqa9.cn^
@@ -36263,6 +36267,7 @@
 ||dateszone.net^
 ||datetrackservice.com^
 ||datev.tt.omtrdc.net^
+||datewhisper.life^
 ||datfumibnkorfu.com^
 ||datherap.xyz^
 ||dating-banners.com^
@@ -38563,6 +38568,7 @@
 ||dlmonitize.com^
 ||dlmr7hpb2buud.cloudfront.net^
 ||dlne6myudrxi1.cloudfront.net^
+||dlngft.xyz^
 ||dloeloqua.danskespil.dk^
 ||dlogs.bwton.com^
 ||dlooqrhebkjoh.cloudfront.net^
@@ -42513,6 +42519,7 @@
 ||equirekeither.xyz^
 ||equity.e2g.com^
 ||equitydefault.com^
+||equkgm.xyz^
 ||eqvioe.polihome.gr^
 ||eqvpao.bayard-jeunesse.com^
 ||eqx.smartadserver.com^
@@ -44814,6 +44821,7 @@
 ||findnewline.com^
 ||findomestic.tt.omtrdc.net^
 ||findromanticdates.com^
+||findslofty.com^
 ||findswiftresults.com^
 ||findthetruth.allergyai.com^
 ||findyourcasino.com^
@@ -45296,6 +45304,7 @@
 ||fnrrm2fn1njl1.com^
 ||fnwbaepsbf.com^
 ||fnxkntusnd.com^
+||fnxtoiwlrgevjm.com^
 ||fnzuymy.com^
 ||foaglaid.xyz^
 ||foakiwhazoja.com^
@@ -47387,6 +47396,7 @@
 ||getjad.io^
 ||getl4w.lookout.com^
 ||getmackeepersoftpro.xyz^
+||getmatchedlocally.com^
 ||getmyfreetraffic.com^
 ||getmygateway.com^
 ||getnee.com^
@@ -51668,6 +51678,7 @@
 ||honeywellinternation.tt.omtrdc.net^
 ||hongkong.treker.fun^
 ||hongteng.xyz^
+||honitonchyazic.com^
 ||honkoutsing.com^
 ||honorablehalt.com^
 ||honorarybreakclank.com^
@@ -52144,6 +52155,7 @@
 ||hturnshal.com^
 ||htvixv.xyz^
 ||htyrmacanbty.com^
+||htysiboswaj.com^
 ||htyusiu.top^
 ||htz.hb.tt.omtrdc.net^
 ||hu-business.vodafone.com^
@@ -52957,6 +52969,7 @@
 ||iethpk.notino.ro^
 ||ietyofedinj89yewtburgh.com^
 ||ievjylvqfjry.com^
+||ievvo.xyz^
 ||ieweb-wc-a9s.tt.omtrdc.net^
 ||iewtwo.xyz^
 ||iezptsoc.com^
@@ -54379,6 +54392,7 @@
 ||infeofhobbit.com^
 ||inferiorfreedom.com^
 ||inferiorkate.com^
+||inferiorlove.com^
 ||infesthazardous.com^
 ||infindiasernment.com^
 ||infinite-ads.com^
@@ -58685,6 +58699,7 @@
 ||kkmbbvz.xyz^
 ||kkmsa.top^
 ||kkosiso.com^
+||kkqcnrk.com^
 ||kkrcredit-qa7.tt.omtrdc.net^
 ||kksapygupdp.com^
 ||kksjoa.com^
@@ -58988,6 +59003,7 @@
 ||kpmg.tt.omtrdc.net^
 ||kpmgess.tt.tt.omtrdc.net^
 ||kpmgllp.tt.omtrdc.net^
+||kpmose.xyz^
 ||kpn.sc.tt.omtrdc.net^
 ||kpnbv.tt.omtrdc.net^
 ||kpphqv.emp-online.it^
@@ -66090,6 +66106,7 @@
 ||mbdlog.iqiyi.com^
 ||mbekgac.xyz^
 ||mbelia.underarmour.co.uk^
+||mbewimcotjri.com^
 ||mbfaustraliaptylimit.tt.omtrdc.net^
 ||mbfhwag.xyz^
 ||mbgbomrshrecpwj.xyz^
@@ -68885,6 +68902,7 @@
 ||mh9qqwotr890.koelewijn.nl^
 ||mhaaconetwork.mhainc.com^
 ||mhauev.glasses.com^
+||mhbyzzp.com^
 ||mhcauto-bilauto.tt.omtrdc.net^
 ||mhd.1391.com^
 ||mhdiaok.com^
@@ -69041,6 +69059,7 @@
 ||migraime.trekkww.fun^
 ||migrantacknowledged.com^
 ||migrantbells.guru^
+||migrantfarewellmoan.com^
 ||migrantspiteconnecting.com^
 ||migrationscale.com^
 ||migrationscarletquick.com^
@@ -70538,6 +70557,7 @@
 ||mugabedsock.website^
 ||mugantlerfloral.com^
 ||mugapi.lazzarionline.com^
+||mugexfxue.com^
 ||mughaymil.site^
 ||mugleafly.com^
 ||mugpothop.com^
@@ -71614,6 +71634,7 @@
 ||ndvfwlv.cn^
 ||ndwouldmeu.info^
 ||ndyzz.com^
+||ndzoaaa.com^
 ||ne.1rtb.com^
 ||ne.galenicnidana.com^
 ||ne.jarringerns.com^
@@ -72580,6 +72601,7 @@
 ||nondisinterested.glossography.uno^
 ||nonecoffeehousesuspicious.com^
 ||nonegoreclude.com^
+||nonehalides.com^
 ||nonerr.com^
 ||nonesgue.space^
 ||nonesleepbridle.com^
@@ -74906,6 +74928,7 @@
 ||ordounireme.website^
 ||ordpmx.victorianplumbing.co.uk^
 ||ordzimwtaa.com^
+||orebuthehadsta.info^
 ||oreck.tt.omtrdc.net^
 ||orecticconchae.com^
 ||oredero.com^
@@ -75212,6 +75235,7 @@
 ||ou.shutterfly.com^
 ||ouaker.com^
 ||ouarzazate.treker.fun^
+||oubeliketh.info^
 ||ouchruse.com^
 ||oudoanoofoms.com^
 ||oudseroa.com^
@@ -75566,6 +75590,7 @@
 ||oyssqe.easyvoyage.com^
 ||oysterexhalereview.com^
 ||oyugspe.cn^
+||oywzrri.com^
 ||oyxp.xyz^
 ||oyyqan.hejoscar.dk^
 ||oyysbc.xyz^
@@ -75576,6 +75601,7 @@
 ||ozesrbglrp.com^
 ||ozgqwv.xyz^
 ||ozhhujt.com^
+||ozhmig.cn^
 ||ozjga.top^
 ||ozkbdxdu.icu^
 ||ozkkuy.fabianafilippi.com^
@@ -76090,6 +76116,7 @@
 ||panicmiserableeligible.com^
 ||panisicelectre.top^
 ||pannamdashee.com^
+||pannamsaluter.com^
 ||pannumregnal.com^
 ||panorama-dom.debscy.tt.omtrdc.net^
 ||panoz.xyz^
@@ -77580,6 +77607,7 @@
 ||phatralaksi.tt.omtrdc.net^
 ||phaurtuh.net^
 ||phause.com^
+||phautchiwaiw.net^
 ||phbnix.rocelec.com^
 ||phcbi-solution.phchd.com^
 ||phcnvk.schalke04.de^
@@ -79105,6 +79133,7 @@
 ||postalusersneatly.com^
 ||postback.info^
 ||postback.report^
+||postback1win.com^
 ||postcardhazard.com^
 ||posteitalianespa.sc.tt.omtrdc.net^
 ||poster.weather.com.cn^
@@ -80197,6 +80226,7 @@
 ||pshmetrk.com^
 ||pshtrk.com^
 ||psi.lbesecapi.com^
+||psichoafouts.xyz^
 ||psiftaugads.com^
 ||psigozouns.com^
 ||psiksais.com^
@@ -84187,6 +84217,7 @@
 ||roumachopa.com^
 ||roumakie.com^
 ||rounca.com^
+||rounddescribe.com^
 ||roundlytrabal.cfd^
 ||roundspaniardindefinitely.com^
 ||roundynews.com^
@@ -86028,6 +86059,7 @@
 ||sakguz.icu^
 ||saksfifthavenueinc.tt.omtrdc.net^
 ||saktismberakes.space^
+||sakuftaurgo.com^
 ||sakura-traffic.com^
 ||sakura.goguardian.com^
 ||sal.isanook.com^
@@ -86760,6 +86792,7 @@
 ||scan8.tt.tt.omtrdc.net^
 ||scanalytics.wral.com^
 ||scancemontes.com^
+||scandiaogamic.com^
 ||scandigital.tt.omtrdc.net^
 ||scandlines.tt.omtrdc.net^
 ||scanner-link.covve.com^
@@ -89066,6 +89099,7 @@
 ||sifenews.com^
 ||sifflettreetop.com^
 ||sifik.muckbootcompany.com^
+||sifnyiolzcs.com^
 ||sifuglie.com^
 ||sifyeldb.top^
 ||sig.ig.com^
@@ -98197,6 +98231,7 @@
 ||sweepfrequencydissolved.com^
 ||sweepia.com^
 ||sweeps.la-z-boy.com^
+||sweet-discount.pro^
 ||sweetmoonmonth.com^
 ||sweetpacks.com^
 ||sweetromance.life^
@@ -99947,6 +99982,7 @@
 ||tcvmtp.xyz^
 ||tcvseghrxk.133rtl.hb.tt.omtrdc.net^
 ||tcwcs.com^
+||tcwhycdinjtgar.xyz^
 ||tcx-beacon.docs.aws.dev^
 ||tczew2.chat.tt.omtrdc.net^
 ||tczulp.econea.cz^
@@ -101685,6 +101721,7 @@
 ||tmztcfp.com^
 ||tn.abreactbuddy.com^
 ||tn.flashb.id^
+||tnalzli.top^
 ||tnc16-*.byteoversea.com^
 ||tnc16-alisg.isnssdk.com^
 ||tnc16-useast1a.isnssdk.com^
@@ -107388,6 +107425,7 @@
 ||turvykingly.com^
 ||tuscanyaskant.com^
 ||tushwjp.icu^
+||tuskhautein.com^
 ||tusno.com^
 ||tussoreunwindy.space^
 ||tutphiarcox.com^
@@ -109946,6 +109984,7 @@
 ||venturyremove.info^
 ||venueitemmagic.com^
 ||venuewasadi.org^
+||venulaeriggite.com^
 ||venum.top^
 ||venusrevival.com^
 ||veoci.actonservice.com^
@@ -110166,6 +110205,7 @@
 ||vibrantmedia.com^
 ||vibrateapologiesshout.com^
 ||vic-m.co^
+||vicanerly.top^
 ||vice-publishers-cdn.vice.com^
 ||vicentecamarasa.tt.omtrdc.net^
 ||viciousdepartment.com^
@@ -113167,6 +113207,7 @@
 ||withholdrise.com^
 ||withholdstandstill.com^
 ||withinresentful.com^
+||withinsdraco.com^
 ||withoutcontrol.com^
 ||withplum.tt.omtrdc.net^
 ||withspace.tt.omtrdc.net^
@@ -115931,6 +115972,7 @@
 ||xhdr030205.tt.omtrdc.net^
 ||xhdr030917-as.tt.omtrdc.net^
 ||xhdr031808.tt.omtrdc.net^
+||xhfitpvxqog.com^
 ||xhfxtqt.xyz^
 ||xhgpuxim.xyz^
 ||xhhaakxn.xyz^
