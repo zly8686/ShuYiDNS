@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-04-12 20:30:06（北京时间）
+! Version: 2024-04-13 08:59:46（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 118379
+! Total count: 118425
 ||*.p2p.huya.com^
 ||*.va.huya.com^
 ||*bmwmini.tt.omtrdc.net^
@@ -421,6 +421,7 @@
 ||1000dy.com^
 ||1000lashes.com^
 ||1002.men^
+||1006310881.rsc.cdn77.org^
 ||10079290.fluz.app^
 ||10090dfs.com^
 ||100abrigo.tt.omtrdc.net^
@@ -677,6 +678,7 @@
 ||144.dragonparking.com^
 ||14427e.client.tt.omtrdc.net^
 ||1453683541.rsc.cdn77.org^
+||1454023398.rsc.cdn77.org^
 ||1455a.tt.omtrdc.net^
 ||145634.group14.sites.tt.omtrdc.net^
 ||1459292291.rsc.cdn77.org^
@@ -1129,6 +1131,7 @@
 ||1ng2l.space^
 ||1nimo.com^
 ||1nqrqa.de^
+||1ns1rosb.de^
 ||1ny3r.icu^
 ||1odi7j43c.de^
 ||1p3opxwwet.ru^
@@ -18598,6 +18601,7 @@
 ||arabsewing.com^
 ||arabss.arabxn.org^
 ||arabyfuegian.top^
+||araceastr.top^
 ||aracts.com^
 ||aragenbio.actonservice.com^
 ||aragon.treker.fun^
@@ -29016,6 +29020,7 @@
 ||coffeesstrap.com^
 ||coffeycomm.actonservice.com^
 ||coffindress.com^
+||coffingfannies.top^
 ||cofounderspecials.com^
 ||cofz9.top^
 ||cogeco.tt.omtrdc.net^
@@ -30797,6 +30802,7 @@
 ||cps.kaola.com^
 ||cps.yaoqing.com^
 ||cpsappdev-stage1.psb.tt.omtrdc.net^
+||cpsbgpeenci.com^
 ||cpstest-setup-mc.tt.omtrdc.net^
 ||cpsult.com^
 ||cpt.geniee.jp^
@@ -32868,6 +32874,7 @@
 ||d3jdulus8lb392.cloudfront.net^
 ||d3jdzopz39efs7.cloudfront.net^
 ||d3jzhqnvnvdy34.cloudfront.net^
+||d3k2wzdv9kuerp.cloudfront.net^
 ||d3k68ig7ckr3r6.cloudfront.net^
 ||d3kblkhdtjv0tf.cloudfront.net^
 ||d3kd7yqlh5wy6d.cloudfront.net^
@@ -37478,6 +37485,7 @@
 ||dialer.cdn.cootekservice.com^
 ||dialer.leads360.com^
 ||dialer.velocify.com^
+||dialistunfunny.top^
 ||dialling-abutory.com^
 ||dialog.dqs.de^
 ||dialog.losberger.com^
@@ -38287,6 +38295,7 @@
 ||divinitygoggle.com^
 ||divorcebelievable.com^
 ||divorceseed.com^
+||divortrelict.top^
 ||divscripty.net^
 ||dixrow.pamono.de^
 ||diypxh.tillys.com^
@@ -39357,6 +39366,7 @@
 ||drlimmode9ddd.cloudfront.net^
 ||drmcmm.baidu.com^
 ||drnsvp.starcasino.be^
+||dromoicassida.com^
 ||dronedgentile.com^
 ||dronediscussed.com^
 ||dronelskipper.com^
@@ -40311,6 +40321,7 @@
 ||eastrk-dn.com^
 ||eastrk-lg.com^
 ||eastwestbank.tt.omtrdc.net^
+||eastyewebaried.info^
 ||easy-dating.org^
 ||easy.au.ru^
 ||easy.dans.tt.omtrdc.net^
@@ -45105,6 +45116,7 @@
 ||fmocscbstnhbq.com^
 ||fmpjka.moroccanoil.com^
 ||fmpub.net^
+||fmpuhcgfgqocjs.com^
 ||fmqidg.letras.com^
 ||fmqidg.letras.mus.br^
 ||fmrcorp-2.tt.tt.omtrdc.net^
@@ -46561,7 +46573,6 @@
 ||gamergirl.pro^
 ||gamersad.com^
 ||gamersterritory.com^
-||gamertag.shop^
 ||gamescarousel.com^
 ||gamescdnfor.com^
 ||gamesims.ru^
@@ -51213,6 +51224,7 @@
 ||hjgcdi.farmacybeauty.com^
 ||hjgkdv.fiverr.com^
 ||hjgkr0g.xyz^
+||hjhbyywgzxxqzu.com^
 ||hjhwjphsryi.com^
 ||hjiss.com^
 ||hjjshv.xyz^
@@ -51375,6 +51387,7 @@
 ||hoggetforfend.com^
 ||hoglinsu.com^
 ||hognaivee.com^
+||hognutturpis.top^
 ||hogrefe.met.vgwort.de^
 ||hohamsie.net^
 ||hohmaryt.com^
@@ -53914,6 +53927,7 @@
 ||impishelizabethjumper.com^
 ||implementtransmitted.com^
 ||implix.com^
+||implycollected.com^
 ||impolitefreakish.com^
 ||imponedbilsh.top^
 ||impore.com^
@@ -57015,6 +57029,7 @@
 ||jnlldyq.com^
 ||jnmaeun.xyz^
 ||jnn-pa.googleapis.com^
+||jnnjthg.com^
 ||jnp0kmm.icu^
 ||jnqkvgkm.com^
 ||jnrgcwf.com^
@@ -57309,6 +57324,7 @@
 ||jrss-215-74-136-35.tt.omtrdc.net^
 ||jrss-215-74-21-61.tt.omtrdc.net^
 ||jrss-215-74-239-87.tt.omtrdc.net^
+||jrtbjai.com^
 ||jrtwi.xyz^
 ||jrucbb.guestreservations.com^
 ||jrvrkzrbkqqob.top^
@@ -57774,6 +57790,7 @@
 ||jzqfac.bestsecret.ch^
 ||jzt.jd.com^
 ||jztucbb.com^
+||jzvwawvqawzmq.top^
 ||jzxpxj.xyz^
 ||jzycnlq.com^
 ||k-e-t-o-super-burn-gummiesofficial.tt.omtrdc.net^
@@ -57987,6 +58004,7 @@
 ||kborst.modivo.sk^
 ||kbs-services.actonservice.com^
 ||kbugxeslbjc8.com^
+||kbumnvc.com^
 ||kbviuj.enoteca.co.jp^
 ||kbvxbw.bugatti-fashion.com^
 ||kbzs88.com^
@@ -61444,6 +61462,7 @@
 ||lmp3.org^
 ||lmrhhn.xyz^
 ||lms.edge44.testandtarget.omniture.com^
+||lms.roblox.com^
 ||lmtnfl.xyz^
 ||lmwap.awtks.com^
 ||lmx7.com^
@@ -61570,6 +61589,7 @@
 ||localsnapsext.com^
 ||localsnaughty.com^
 ||localytics.com^
+||locatchi.xyz^
 ||location.imsmetals.com^
 ||location.ximalaya.com^
 ||locationaircondition.com^
@@ -62762,6 +62782,7 @@
 ||lumupu.xyz^
 ||lumxts.com^
 ||luna-dev.tt.omtrdc.net^
+||lunatesame.top^
 ||lunchpaybackdarcy.com^
 ||lunchtimehermione.com^
 ||lunchvenomous.com^
@@ -69526,6 +69547,7 @@
 ||mojoaffiliates.com^
 ||moka.inte.sogoucdn.com^
 ||mokibill.com^
+||mokotoparch.top^
 ||moksoxos.com^
 ||moldex.actonservice.com^
 ||moldova.trekkeeee.space^
@@ -72038,6 +72060,7 @@
 ||nighter.club^
 ||nightfallforestallbookkeeper.com^
 ||nightfallroad.com^
+||nighthereflewovert.info^
 ||nightingaletasting.com^
 ||nightsboostam.com^
 ||nightsgeological.com^
@@ -72779,6 +72802,7 @@
 ||nudczusipbu.com^
 ||nude-gals.com/images^
 ||nudebenzoyl.digital^
+||nudesgirlsx.com^
 ||nudgedfardel.com^
 ||nudgercoptine.life^
 ||nudgeworry.com^
@@ -73368,6 +73392,7 @@
 ||oesonx.10000recipe.com^
 ||oessbi.yves-rocher.ru^
 ||oestpq.com^
+||oeubqjx.com^
 ||oeufvkymknbie.com^
 ||oeuvresvexable.com^
 ||oewa.at^
@@ -74092,6 +74117,7 @@
 ||onclasrv.com^
 ||onclckinp.com^
 ||onclckip.com^
+||onclckmn.com^
 ||onclickads.net^
 ||onclickalgo.com^
 ||onclickclear.com^
@@ -75265,6 +75291,7 @@
 ||oxidsinertly.digital^
 ||oxifwsabgd.nzz.ch^
 ||oxizwk.livique.ch^
+||oxjexkubhvwn.xyz^
 ||oxkgcefteo.com^
 ||oxkhifobfkky.com^
 ||oxkpbuv.com^
@@ -75314,6 +75341,7 @@
 ||ozkbdxdu.icu^
 ||ozkkuy.fabianafilippi.com^
 ||ozlofsviborc.com^
+||ozlwhampaofq.com^
 ||oznlro.sanity.com.au^
 ||ozobsaib.com^
 ||ozoj.com^
@@ -77706,6 +77734,7 @@
 ||pisanguttate.com^
 ||pisgahrickets.digital^
 ||pisism.com^
+||piskaday.com^
 ||pisticainu.com^
 ||pistolstumbled.com^
 ||pistolterrificsuspend.com^
@@ -79002,6 +79031,7 @@
 ||pr5965.preprod.tt.omtrdc.net^
 ||pr88vhg.com^
 ||pra.praxis.nl^
+||practicalbar.pro^
 ||practicalframingfiddle.com^
 ||practicallyfire.com^
 ||practicallysacrificestock.com^
@@ -79893,6 +79923,7 @@
 ||psaudous.com^
 ||psaugourtauy.com^
 ||psaukaux.net^
+||psaukroatch.com^
 ||psaurdoofy.com^
 ||psaurteepo.com^
 ||psausuck.net^
@@ -83471,6 +83502,7 @@
 ||rinceaskedase.com^
 ||rinddelusional.com^
 ||ring.staticmoly.me^
+||ringashewasfl.info^
 ||ringcentral.tt.omtrdc.net^
 ||ringerbaseballsilk.com^
 ||ringexpressbeach.com^
@@ -88550,6 +88582,7 @@
 ||shochetplosion.top^
 ||shockadviceinsult.com^
 ||shocked-failure.com^
+||shockedfoxed.top^
 ||shockingrobes.com^
 ||shockingstrategynovelty.com^
 ||shodaisy.com^
@@ -92999,6 +93032,7 @@
 ||softwares2015.com^
 ||sogadetin.com^
 ||sogou.st^
+||sohfiiklefuc.com^
 ||sohiuc.sheego.de^
 ||sohmartite.life^
 ||soholfit.com^
@@ -93783,6 +93817,7 @@
 ||sparknotes.tt.omtrdc.net^
 ||sparkrainstorm.host^
 ||sparkstudios.com^
+||sparrersavvies.top^
 ||sparrow.carol.gg^
 ||sparrow.uitvaartzorg-vanraemdonck.be^
 ||sparrow.workingincontent.com^
@@ -95109,6 +95144,7 @@
 ||staplecups.com^
 ||stapledsaur.top^
 ||staples.tt.omtrdc.net^
+||stapplebecaps.top^
 ||star-advertising.com^
 ||star-clicks.com^
 ||star-seo.oss-ap-northeast-1.aliyuncs.com^
@@ -96761,6 +96797,7 @@
 ||steelickier.uno^
 ||steelstinter.digital^
 ||steeplesaturday.com^
+||steeplyrantize.top^
 ||steepto.com^
 ||steeringsunshine.com^
 ||steerseejoa.com^
@@ -100064,6 +100101,7 @@
 ||tentflooring.biljax.com^
 ||tenthgiven.com^
 ||tenthsfrumpy.com^
+||tentioniaukmla.info^
 ||tentmess.com^
 ||tentubu.xyz^
 ||tentyboma.top^
@@ -105834,6 +105872,7 @@
 ||trdnewsnow.net^
 ||treacherouscarefully.com^
 ||tread.firestonecompleteautocare.com^
+||treadhospitality.com^
 ||treasonemphasis.com^
 ||treasonmarshalimmortality.com^
 ||treasureantennadonkey.com^
@@ -105928,6 +105967,7 @@
 ||tribunmode.tt.omtrdc.net^
 ||tributesexually.com^
 ||tricarstrift.life^
+||tricemortal.com^
 ||trickerseasan.top^
 ||tricklesmartdiscourage.com^
 ||trickvealwagon.com^
@@ -107679,6 +107719,7 @@
 ||ufaexpert.com^
 ||ufeonk.viravira.co^
 ||ufgkypfhervr.com^
+||ufiledsit.com^
 ||ufiler-pro2.ru^
 ||ufinkln.com^
 ||uflfhl.mercci22.com^
@@ -108279,6 +108320,7 @@
 ||unpredictablehateagent.com^
 ||unprofessionalremnantthence.com^
 ||unqrroh.cn^
+||unrealversionholder.com^
 ||unreasonabletwenties.com^
 ||unregisteredgrasppistol.com^
 ||unreshiramor.com^
@@ -108781,6 +108823,7 @@
 ||uscg84.tt.tt.omtrdc.net^
 ||uscgma.tt.tt.omtrdc.net^
 ||uscis-cis.tt.omtrdc.net^
+||usciwhhghsc.com^
 ||usconstitutionexam.tt.omtrdc.net^
 ||usdbbx.mmartan.com.br^
 ||use-application-dns.net^
@@ -109423,6 +109466,7 @@
 ||varnamo.rawww.space^
 ||varnishmixed.com^
 ||varnishmosquitolocust.com^
+||varnqeoan.com^
 ||varorlowjo.com^
 ||varshacundy.com^
 ||vartoken.com^
@@ -110355,6 +110399,7 @@
 ||vksphze.com^
 ||vktztp.xyz^
 ||vkwaeo.com^
+||vkwzbjifb.com^
 ||vkxyjj.g2a.com^
 ||vl037.net.anwalt.de^
 ||vl3-gw2-er.tt.omtrdc.net^
@@ -116717,6 +116762,7 @@
 ||yfzpxnb.xyz^
 ||yg.coehornjobbet.com^
 ||ygecho.wenz.de^
+||ygeosqsomusu.xyz^
 ||ygeqiky.com^
 ||ygfgzmzo.xyz^
 ||ygfycf.cpa.mynavi.jp^
