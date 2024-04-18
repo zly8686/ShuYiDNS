@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-04-18 09:11:16（北京时间）
+! Version: 2024-04-18 20:29:52（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 114156
+! Total count: 114152
 ||*.diwodiwo.xyz^
 ||*.p2p.huya.com^
 ||*.va.huya.com^
@@ -2415,7 +2415,6 @@
 ||3ez1ja1uq3.ru^
 ||3f6e286046.com^
 ||3fa20230512.live^
-||3fwlr7frbb.pro^
 ||3g25ko2.de^
 ||3gbqdci2.de^
 ||3gl.net^
@@ -3385,7 +3384,6 @@
 ||98765.pw^
 ||98wjse.top^
 ||9900a0b18c.com^
-||99018f340b.com^
 ||9916.sedimichrch.site^
 ||994e4a6044.com^
 ||9955951.pillar.app^
@@ -3705,7 +3703,6 @@
 ||a.miyudaquan.top^
 ||a.mktw.net^
 ||a.mobify.com^
-||a.moera.xyz^
 ||a.mts.ru^
 ||a.munters.com.au^
 ||a.munters.com.mx^
@@ -3757,7 +3754,6 @@
 ||a.rafian.com^
 ||a.redbrickhealth.com^
 ||a.redpathmedia.com^
-||a.refia.xyz^
 ||a.reissue2871.xyz^
 ||a.remy.world^
 ||a.rensheng5.com^
@@ -8717,6 +8713,7 @@
 ||acksrc.chip.de^
 ||acl.stayfriends.de^
 ||aclimaduarte.hb-fa-dev.tt.omtrdc.net^
+||aclog.itmedia.co.jp^
 ||aclordi.actonservice.com^
 ||acloudvideos.com^
 ||aclu.tt.omtrdc.net^
@@ -9239,6 +9236,7 @@
 ||ad.hiiir.com^
 ||ad.hodomobile.com^
 ||ad.holaq.com^
+||ad.holmesmind.com^
 ||ad.hot-mob.com^
 ||ad.houkei-shinjuku.com^
 ||ad.house365.com^
@@ -11706,6 +11704,7 @@
 ||adversal.com^
 ||adversaldisplay.com^
 ||adversalservers.com^
+||adverserve.net^
 ||adversespurt.com^
 ||adversesuffering.com^
 ||advert-admin.vnay.vn^
@@ -21293,6 +21292,7 @@
 ||blziha.intimissimi.com^
 ||bm.alimama.cn^
 ||bm.annonce.cz^
+||bm.h576.com^
 ||bm.met.vgwort.de^
 ||bmail.getventive.com^
 ||bmatgg18.xyz^
@@ -24367,7 +24367,6 @@
 ||cdtbox.rocks^
 ||cdtm.cdiscount.com^
 ||cdttxdqe.xyz^
-||cdtxegwndfduk.xyz^
 ||cdu-offline.de^
 ||cdwmpt.com^
 ||cdwmtt.com^
@@ -24987,7 +24986,6 @@
 ||chouftak.net^
 ||choughigrool.com^
 ||choupsee.com^
-||choutchi.net^
 ||chouthep.net^
 ||choymp.pooldawg.com^
 ||chozarpeases.com^
@@ -36786,7 +36784,6 @@
 ||durdcn.doglobal.net^
 ||durezzacrowns.com^
 ||durgahsursize.com^
-||durhamoryssus.com^
 ||durike.com^
 ||duriot.com^
 ||durisk.com^
@@ -41075,6 +41072,7 @@
 ||fbzmrgf.xyz^
 ||fc-id.sensic.net^
 ||fc-rohoznik.tt.omtrdc.net^
+||fc.itmedia.co.jp^
 ||fc.vodafone.de^
 ||fc.webmasterpro.de^
 ||fc.yahoo.com^
@@ -43780,6 +43778,7 @@
 ||gcm.ksmobile.net^
 ||gcn.tuv.com^
 ||gcoiys.cutsclothing.com^
+||gcomwx.icu^
 ||gcowhi.thesalarycalculator.co.uk^
 ||gcprivacy.com^
 ||gcqciiqk.com^
@@ -49007,7 +49006,6 @@
 ||hwkfzf.meinauto.de^
 ||hwknsd.shoepassion.de^
 ||hwnod.xyz^
-||hwof.info^
 ||hwpnocpctu.com^
 ||hwpub-s01-drcn.cloud.dbankcloud.cn^
 ||hwpvbdj.xyz^
@@ -49310,7 +49308,6 @@
 ||ianjgmpat.com^
 ||ianjumb.com^
 ||ianxysts.digital^
-||iarreowsca.com^
 ||iask.qq.com^
 ||iasrv.com^
 ||iatoex.kahve.com^
@@ -59379,6 +59376,7 @@
 ||lwtqqq.com^
 ||lwusnt.yogibo.kr^
 ||lwwlkj1.cn^
+||lwxuo.com^
 ||lwz.ffhre.com^
 ||lwzdzf.xyz^
 ||lx-upload-log.yidianzixun.com^
@@ -59410,7 +59408,6 @@
 ||lxting.com^
 ||lxtuzcb.cn^
 ||lxudshpck.com^
-||lxvluwda.com^
 ||lxwasy.tatragarden.ua^
 ||lxwysd.hirmer.de^
 ||lxyl66.cn^
@@ -67414,6 +67411,7 @@
 ||natsp.xing.com^
 ||nattepush.com^
 ||nattierariosi.space^
+||natuarycomping.com^
 ||natural-health-choices.org^
 ||naturalhealthsource.club^
 ||naturalhistorymuseum.tt.omtrdc.net^
@@ -76640,7 +76638,6 @@
 ||pushmobilenews.com^
 ||pushmono.com^
 ||pushnami.com^
-||pushnative.com^
 ||pushnest.com^
 ||pushnevis.com^
 ||pushnews.org^
@@ -82403,7 +82400,6 @@
 ||sape.ngumaz.com^
 ||sapfollower.com^
 ||sapglobalmarketingin.tt.omtrdc.net^
-||saphiretelavivisrael.com^
 ||sapi.zhidian3g.cn^
 ||saplvvogahhc.xyz^
 ||sapoursarbores.com^
@@ -94504,6 +94500,7 @@
 ||szbxm.cn^
 ||szbxw.cn^
 ||szbzp.cn^
+||szftg.cn^
 ||szgaikk.com^
 ||szhgmd.com^
 ||szkbyo.zkai.co.jp^
@@ -97420,6 +97417,7 @@
 ||tk0x1.com^
 ||tkauru.xyz^
 ||tkbbjtfp.xyz^
+||tkbo.com^
 ||tkcatrun.aotter.net^
 ||tkcatwalk.aotter.net^
 ||tkcn.rayjump.com^
@@ -104672,6 +104670,7 @@
 ||urolithin-b.s3.us-east-003.tt.omtrdc.net^
 ||uroqgj.wind.it^
 ||urotoxykerch.com^
+||urpctsrjilp.com^
 ||urptcerftud.com^
 ||urqwzbu.cn^
 ||urr.kumamoto-food.com^
@@ -106474,7 +106473,6 @@
 ||vnvyhj.xyz^
 ||vnzwxk.e-bebek.com^
 ||vo.tt.omtrdc.net^
-||vo.turbocap.net^
 ||voadeezu.net^
 ||voagbd.24mx.dk^
 ||voaglazy.com^
@@ -106636,7 +106634,6 @@
 ||vp3.tt.omtrdc.net^
 ||vpdcp.com^
 ||vpemsb.autocasion.com^
-||vpeucmbkrobe.com^
 ||vpf4.euskaltelofertas.com^
 ||vpgcil.notino.si^
 ||vpgf.qianyilamian.cn^
@@ -110632,7 +110629,6 @@
 ||www.tank3pull.com^
 ||www.taobaobo5.com^
 ||www.targetedmedia.com.cn^
-||www.tbussyb.com^
 ||www.tdbankfinancialgroup.tt.omtrdc.net^
 ||www.telefonicaespana.tt.omtrdc.net^
 ||www.teniucj.com^
