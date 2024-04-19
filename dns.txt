@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-04-19 09:12:19（北京时间）
+! Version: 2024-04-19 20:30:11（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 114209
+! Total count: 114220
 ||*.diwodiwo.xyz^
 ||*.p2p.huya.com^
 ||*.va.huya.com^
@@ -9044,6 +9044,7 @@
 ||ad-ebis.mynavi-job20s.jp^
 ||ad-ebis.toysub.jp^
 ||ad-ettoday.cdn.hinet.net^
+||ad-files.classting.com^
 ||ad-flow.com^
 ||ad-g.doubleclick.net^
 ||ad-guardian.com^
@@ -12688,7 +12689,6 @@
 ||ah.cabbingdandled.com^
 ||aha-next.stag.tt.omtrdc.net^
 ||ahabcaca.com^
-||ahabmcdsrwlau.com^
 ||ahachi.dietnavi.com^
 ||ahachi.dreamdenki.jp^
 ||ahadsply.com^
@@ -14917,6 +14917,7 @@
 ||animatedjumpydisappointing.com^
 ||animaterecover.com^
 ||animaux.oworld.fr^
+||animeplaynow.com^
 ||animikii-ana.com^
 ||animits.com^
 ||animositybelovedresignation.com^
@@ -15231,6 +15232,7 @@
 ||apcinfo.motorolasolutions.com^
 ||apcinfo.vertexstandard.com^
 ||apcpaxwfej.com^
+||apd-pcdnwxlogin.teg.tencent-cloud.net^
 ||apdfmhp.cn^
 ||ape-tagit.timeinc.net^
 ||ape.mfj.se^
@@ -21603,7 +21605,6 @@
 ||boob.sukaporn.com^
 ||boobutility.com^
 ||booby.deanyeong.com^
-||booddianoia.top^
 ||boodymauves.com^
 ||boogopee.com^
 ||book.londonsoundacademy.com^
@@ -22872,7 +22873,6 @@
 ||bwmxdg.kimono-365.jp^
 ||bwntyd.neuve-a.net^
 ||bwp.download.com^
-||bwpirrwsh.com^
 ||bwpuoba.com^
 ||bwstatistics.sapoapps.vn^
 ||bwujxl.yoga-lava.com^
@@ -27080,6 +27080,8 @@
 ||coniesnitch.com^
 ||conimicutlighthouse.viessmann-us.com^
 ||conjeller-chikemon.com^
+||conn-service-cn-04.allawntech.com^
+||conn-service-cn-05.allawntech.com^
 ||connect-qa.netapp.com^
 ||connect.abm.netapp.com^
 ||connect.acams.org^
@@ -28985,6 +28987,7 @@
 ||cxyjmd.co-medical.mynavi.jp^
 ||cy.chettikmacrli.com^
 ||cy5kr.fun^
+||cy6vzhldh0on.top^
 ||cy98g9wuwn0n.angularjs.poc.glenigan.com^
 ||cyad1.cyworld.com^
 ||cyad1.nate.com^
@@ -33337,7 +33340,6 @@
 ||datadome.patreon.com^
 ||dataf.ads.oppomobile.com^
 ||datafiletechnologies.actonservice.com^
-||dataflow.biliapi.com^
 ||datajsext.com^
 ||datakitschelm.com^
 ||datanewacc.tt.omtrdc.net^
@@ -36656,6 +36658,7 @@
 ||dthepeoplewhoc.org^
 ||dtis.tt.omtrdc.net^
 ||dtjhtp.xyz^
+||dtjpihv.xyz^
 ||dtksoft.com/ajax/log^
 ||dtmm9h2satghl.cloudfront.net^
 ||dtmpub.com^
@@ -44849,7 +44852,6 @@
 ||gmufag.nn.ru^
 ||gmufag.starhit.ru^
 ||gmufag.woman.ru^
-||gmuinujsn.com^
 ||gmx10.top^
 ||gmx11.top^
 ||gmx12.top^
@@ -47063,7 +47065,6 @@
 ||hao123.xywy.com^
 ||hao549.com^
 ||hao916.com^
-||haoelo.com^
 ||haohuisheng555.cn^
 ||haohuo.snssdk.com^
 ||haokanshipin.com^
@@ -48981,6 +48982,7 @@
 ||hutkse.wecandoo.fr^
 ||hutrealebion.com^
 ||hutremindbond.com^
+||huuocxu.icu^
 ||huvohjvpaog.com^
 ||huwuftie.com^
 ||huxifena.cn^
@@ -52773,6 +52775,7 @@
 ||itad.linetv.tw^
 ||itad2.americas.dyn.tt.omtrdc.net^
 ||itadapi.ithome.com.tw^
+||italarizege.xyz^
 ||italianextended.com^
 ||italianforesee.com^
 ||italicscredens.top^
@@ -52853,6 +52856,7 @@
 ||ittorchicer.com^
 ||itundermineoperative.com^
 ||itv.hexun.com^
+||itv2-up.openspeech.cn^
 ||itvalleynews.com^
 ||itweedler.com^
 ||itweepinbelltor.com^
@@ -54811,6 +54815,7 @@
 ||kgbokc.masrefacciones.mx^
 ||kgcyvd.com^
 ||kgdvs9ov3l2aasw4nuts.com^
+||kgdyoh.icu^
 ||kgelugaz.com^
 ||kgfjrb711.com^
 ||kggikf.icu^
@@ -54818,6 +54823,7 @@
 ||kghgmn.top^
 ||kgmobilestat.kugou.com^
 ||kgouzrranqt.com^
+||kgqcse.xyz^
 ||kgqxzw.blue-tomato.com^
 ||kgqzgj.rougegorge.com^
 ||kgroundandinte.net^
@@ -58184,6 +58190,7 @@
 ||log.aimtell.com^
 ||log.aispeech.com^
 ||log.ajunews.com^
+||log.amemv.com^
 ||log.anninhthudo.vn^
 ||log.api.useinsider.com^
 ||log.api.zaloapp.com^
@@ -58213,6 +58220,7 @@
 ||log.byteoversea.com^
 ||log.china.cn^
 ||log.cizion.com^
+||log.classting.com^
 ||log.cloud.sbs.co.kr^
 ||log.codemarketing.cloud^
 ||log.cognex.com^
@@ -62532,6 +62540,7 @@
 ||mdnsz.modanisa.com^
 ||mdoirsw.com^
 ||mdokua.shiseido.co.jp^
+||mdp-appconf-in.heytapdl.com^
 ||mdp-usertrace-cn.heytapmobi.com^
 ||mdqpkdne.xyz^
 ||mds.ricoh-europe.com^
@@ -65146,6 +65155,7 @@
 ||miltlametta.com^
 ||miluwo.com^
 ||mimakiusa.actonservice.com^
+||mime.baidu.com^
 ||mimic-10.tt.omtrdc.net^
 ||mimicbeeralb.com^
 ||mimicdisperse.com^
@@ -66557,6 +66567,7 @@
 ||mudsishaiboo.com^
 ||mudwortlithog.website^
 ||mueid.xyz^
+||muellfrei.de^
 ||muendakutyfore.info^
 ||muer.cdn-baidu.fs-sywh.com^
 ||mufcrkk.com^
@@ -69083,7 +69094,6 @@
 ||nvuwpi.jelmoli-shop.ch^
 ||nvuwqcfdux.xyz^
 ||nvvmslfqowhkkv.com^
-||nvxcvyfedg.com^
 ||nvxlag.liligo.fr^
 ||nwajdf.zakzak.co.jp^
 ||nwandlc.top^
@@ -69151,7 +69161,6 @@
 ||nym5c.bonlook.com^
 ||nym5c.laura.ca^
 ||nypl.tt.omtrdc.net^
-||nyqpgzohhllvx.com^
 ||nyrxcy.teslaweld.com^
 ||nyt1.biosens-leanature.fr^
 ||nyt5j.cyou^
@@ -70501,6 +70510,7 @@
 ||ooglouth.xyz^
 ||oogneenu.net^
 ||oohaussa.com^
+||oohirdoadi.com^
 ||oojjsa.com^
 ||ookresit.net^
 ||ookris.oferty-kredytowe.pl^
@@ -71920,6 +71930,7 @@
 ||pahtky.tech^
 ||pahtwt.tech^
 ||pahtzh.tech^
+||paibauwho.com^
 ||paibopse.com^
 ||paicdn.privateapi.click^
 ||paichaus.com^
@@ -72871,6 +72882,7 @@
 ||pay-ads.com^
 ||pay-click.ru^
 ||pay.holaq.com^
+||pay.sboot.cn^
 ||pay.truemoney.me^
 ||pay.tt.omtrdc.net^
 ||payae8moon9.com^
@@ -76801,6 +76813,7 @@
 ||pw.cnzz.com^
 ||pw.gigazine.net^
 ||pwbmdalngizhz.com^
+||pwbuhb.xyz^
 ||pwc.tt.omtrdc.net^
 ||pwcglsc.tt.omtrdc.net^
 ||pwcglscakamai.tt.omtrdc.net^
@@ -81038,7 +81051,6 @@
 ||rwgjet.simmsfishing.com^
 ||rwhg.tt.omtrdc.net^
 ||rwhneg.breaking-news.jp^
-||rwixkibchujwgh.com^
 ||rwlnfq.alindashop.ro^
 ||rwnmcum.cn^
 ||rwohdj.motocard.com^
@@ -85671,6 +85683,7 @@
 ||smart-below.com^
 ||smart-data-systems.com^
 ||smart-placements-sdk.ex.co^
+||smart-tv.cn^
 ||smart-wp.com^
 ||smart.boxtone.com^
 ||smart.mobvista.com^
@@ -90226,6 +90239,7 @@
 ||spklmis.com^
 ||spl.ztvx8.com^
 ||spl63.fr^
+||splash-ad.classting.com^
 ||splash.appsgeyser.com^
 ||splashfloating.com^
 ||splashforgodm.com^
@@ -95151,6 +95165,7 @@
 ||t.yunsoka.com^
 ||t.zhipin.com^
 ||t.zulily.com^
+||t002.ottcn.com^
 ||t0gju20fq34i.com^
 ||t0gkj99krb24.com^
 ||t0ikowg7jg.serverlesslaravelcourse.com^
@@ -96896,7 +96911,6 @@
 ||thfpnn.leben-style.jp^
 ||thhesw.tre.it^
 ||thialfi.net.anwalt.de^
-||thicackfyr.com^
 ||thickcharityinextricable.com^
 ||thickshortwage.com^
 ||thickstatements.com^
@@ -97570,7 +97584,6 @@
 ||tmi.tt.omtrdc.net^
 ||tmisc.home.news.cn^
 ||tmjetb.xyz^
-||tmjididaqbom.com^
 ||tmjwlmhc.xyz^
 ||tmlt.actonservice.com^
 ||tmlwvxae.xyz^
@@ -100649,6 +100662,7 @@
 ||tracker-aa.paf.es^
 ||tracker-aa.pafbetscore.lv^
 ||tracker-api.my.com^
+||tracker-dot-dfty-optimeeze-leroymerlinfr.appspot.com^
 ||tracker-dot-optimeeze.appspot.com^
 ||tracker-mw-zlivestream.zapps.vn^
 ||tracker-rec.smart-bdash.com^
@@ -103403,7 +103417,6 @@
 ||typicalsecuritydevice.com^
 ||typiccor.com^
 ||typiconrices.com^
-||typsxumcsjw.com^
 ||tyqptghilt.com^
 ||tyract.com^
 ||tyranbrashore.com^
@@ -104723,7 +104736,6 @@
 ||urolithin-b.s3.us-east-003.tt.omtrdc.net^
 ||uroqgj.wind.it^
 ||urotoxykerch.com^
-||urpctsrjilp.com^
 ||urptcerftud.com^
 ||urqwzbu.cn^
 ||urr.kumamoto-food.com^
@@ -106283,6 +106295,7 @@
 ||virtuallythanksgivinganchovy.com^
 ||virtualobe.tt.omtrdc.net^
 ||virtusacorp.tt.omtrdc.net^
+||virusinfo-cloudscan-cn.heytapmobi.com^
 ||virusscanner.to^
 ||visaexasperation.com^
 ||visariomedia.com^
@@ -111355,7 +111368,6 @@
 ||xdvsijtlhr.com^
 ||xdxrxufnyw.17.242espn.hb.tt.omtrdc.net^
 ||xdybwjpa.xyz^
-||xdycqcoefditwj.com^
 ||xdyitg.globalindustrial.ca^
 ||xdyjt.com^
 ||xdypuudfxmecd.com^
@@ -112207,7 +112219,6 @@
 ||xx.architpled.com^
 ||xx.foetorsnudisms.com^
 ||xx12.xyz^
-||xxbeyqowtdjgqr.com^
 ||xxccdshj.com^
 ||xxe2.com^
 ||xxfphsg.cn^
