@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-04-24 20:36:32（北京时间）
+! Version: 2024-04-25 09:14:18（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 112308
+! Total count: 112333
 ||*.diwodiwo.xyz^
 ||*.p2p.huya.com^
 ||*.va.huya.com^
@@ -11355,6 +11355,7 @@
 ||adstats.mgc-games.com^
 ||adstats.tencentmusic.com^
 ||adstax-cdn.adrtx.net^
+||adstean.com^
 ||adstest.weather.com^
 ||adstextview.qq.com^
 ||adstico.io^
@@ -22812,6 +22813,7 @@
 ||c5b39ff13b3259df.com^
 ||c5cdfd1601.com^
 ||c6.friok.com^
+||c615.denverpost.com^
 ||c67209d67f.com^
 ||c6f23c189f.com^
 ||c6lc.pandasuite.io^
@@ -26134,6 +26136,7 @@
 ||collectionspriestcardiac.com^
 ||collectiveablygathering.com^
 ||collectloopblown.com^
+||collector*.ex.co^
 ||collector-*.px-client.net^
 ||collector-*.tvsquared.com^
 ||collector-analytics.efigence.com^
@@ -29301,6 +29304,7 @@
 ||d2i55s0cnk529c.cloudfront.net^
 ||d2ibu2ug0mt5qp.cloudfront.net^
 ||d2ieqaiwehnqqp.cloudfront.net^
+||d2ier523in7agz.cloudfront.net^
 ||d2it3a9l98tmsr.cloudfront.net^
 ||d2izcn32j62dtp.cloudfront.net^
 ||d2izezc8ujpkba.cloudfront.net^
@@ -36722,6 +36726,7 @@
 ||eachunwilling.com^
 ||eadaqfkkrprf.com^
 ||eadexchange.com^
+||eaezoi.xyz^
 ||eagazi.com^
 ||eagle-insight.com^
 ||eagle.actonservice.com^
@@ -41976,6 +41981,7 @@
 ||fpssl.hb-api.tt.omtrdc.net^
 ||fpt.inxinternational.com^
 ||fpt.microsoft.com^
+||fptbdr.xyz^
 ||fptdxkm.com^
 ||fptest.fraudmetrix.cn^
 ||fptls.com^
@@ -47032,6 +47038,7 @@
 ||hierarchytotal.com^
 ||hievel.com^
 ||hifakritsimt.com^
+||hiflkhvgvwsff.com^
 ||hifyeldu.top^
 ||higgiens23c5l8asfrk.com^
 ||highconvertingformats.com^
@@ -48924,6 +48931,7 @@
 ||iluabuiukgpjb.com^
 ||iluemvh.com^
 ||ilumtoux.net^
+||ilvnkzt.com^
 ||ilvpbrvrpzrys.com^
 ||ilvqos.lyst.es^
 ||ilyf4amifh.com^
@@ -51983,6 +51991,7 @@
 ||ivykiosk.com^
 ||iw.pentonmarketingsvcs.com^
 ||iwa.iplsc.com^
+||iwan-s.video.qq.com^
 ||iwan.sogou.com^
 ||iwanad.baidu.com^
 ||iwandlo.top^
@@ -52404,6 +52413,7 @@
 ||jeeryounger.com^
 ||jeeryzest.com^
 ||jeeteo.com^
+||jeethaju.net^
 ||jeetyetmedia.com^
 ||jefferson.tt.omtrdc.net^
 ||jeffersonawards.actonservice.com^
@@ -52995,8 +53005,10 @@
 ||jrtbjai.com^
 ||jrtwi.xyz^
 ||jrucbb.guestreservations.com^
+||jrvrkzrbkqqqj.top^
 ||jrxrit.europcar.de^
 ||jrzaht.xyz^
+||jrzeiotwaq.com^
 ||js*.abolezi.com^
 ||js-1.pchome.net^
 ||js-ad.a.yximgs.com^
@@ -55698,6 +55710,7 @@
 ||lincoln-financial.lfd.com^
 ||lincolnfinancialgroup.lfg.com^
 ||lindasmensagens.online^
+||linderbourgs.top^
 ||lindt.tt.omtrdc.net^
 ||line1-log.biligame.net^
 ||lineadirectaes.tt.omtrdc.net^
@@ -58414,6 +58427,7 @@
 ||lyssapebble.com^
 ||lystek.actonservice.com^
 ||lytics.findairpods.com^
+||lyuwkbl.top^
 ||lywasnothycanty.info^
 ||lyxfra.shopee.com.my^
 ||lyypsy.unisportstore.se^
@@ -59377,6 +59391,7 @@
 ||maritaltrousersidle.com^
 ||mark.l.qq.com^
 ||markantalo.fi.ssl.d1.sc.tt.omtrdc.net^
+||markedoneofthe.info^
 ||markentive.actonservice.com^
 ||markerleery.com^
 ||market-keyade.macif.fr^
@@ -64045,6 +64060,7 @@
 ||minimumacquitteam.com^
 ||minimumonwardfertilised.com^
 ||minimviolone.life^
+||miningzhizhong.top^
 ||minipage.2345.com^
 ||minisite.vidown.cn^
 ||minisite2012.qq.com^
@@ -66769,6 +66785,7 @@
 ||newspress.name^
 ||newspush.sinajs.cn^
 ||newssale.info^
+||newsstat.dallasnews.com^
 ||newstarads.com^
 ||newstemptation.com^
 ||newsunads.com^
@@ -67843,6 +67860,7 @@
 ||nym2-tr.adnxs.com^
 ||nym5c.bonlook.com^
 ||nym5c.laura.ca^
+||nyorgagetnizati.info^
 ||nypl.tt.omtrdc.net^
 ||nyt1.biosens-leanature.fr^
 ||nyt5j.cyou^
@@ -73851,6 +73869,7 @@
 ||pqaz.xyz^
 ||pqciix.busuu.com^
 ||pqdhda.bluepops.co.kr^
+||pqhoscjupq.com^
 ||pqjeoqa.cn^
 ||pqlcpm.kindoh.co.kr^
 ||pqlmae.lamaisonduchocolat.co.jp^
@@ -76885,7 +76904,6 @@
 ||reachableads-av.*.amazonaws.com^
 ||reacheffect.com^
 ||reachjunction.com^
-||reachmax.cn^
 ||reachmode.com^
 ||reachpane.com^
 ||react-admin-telemetry.marmelab.com^
@@ -78236,6 +78254,7 @@
 ||rgbnqmz.com^
 ||rgcxmzrmcvbxem.com^
 ||rgdcrt.xyz^
+||rgddist.com^
 ||rgecga.piary.jp^
 ||rgentssep.xyz^
 ||rghptoxhai.com^
@@ -78702,6 +78721,7 @@
 ||romauntmirker.com^
 ||romepoptahul.com^
 ||romivapsi.com^
+||romiyee.icu^
 ||romotur.actonservice.com^
 ||romoxoshong.com^
 ||rompishvariola.com^
@@ -82785,6 +82805,7 @@
 ||serversoursmiling.com^
 ||serverssignshigher.com^
 ||servetag.com^
+||servetean.site^
 ||servethis.com^
 ||servetraff.com^
 ||serveuser.com^
@@ -92958,6 +92979,7 @@
 ||syllabusimperfect.com^
 ||syllabuspillowcasebake.com^
 ||sylphschanged.life^
+||syltfvcaa.com^
 ||sylverlight.net^
 ||sylviapettah.com^
 ||sylxisys.com^
@@ -102308,6 +102330,7 @@
 ||ujq1.destinia.is^
 ||ujrspnbf.xyz^
 ||ujscdn.com^
+||ujtgtmj.com^
 ||ujurupa.com^
 ||ujv.tt.omtrdc.net^
 ||ujvh.pandasuite.io^
@@ -103487,6 +103510,7 @@
 ||uuishsa.com^
 ||uujtmrxf.xyz^
 ||uunczm.lescon.com.tr^
+||uunfybw.cn^
 ||uuoizbtl.xyz^
 ||uurykr.pizzahut.com.mx^
 ||uurzdr.global-style.jp^
@@ -105120,6 +105144,7 @@
 ||vpumfeghiall.com^
 ||vpuuzj.schnullireich.de^
 ||vpwhhtpwhmd.com^
+||vpwyehsh.com^
 ||vpzohx.xyz^
 ||vqbidy.benetton.com^
 ||vqcuzypju.com^
@@ -106774,6 +106799,7 @@
 ||whitenoisenews.com^
 ||whitepapers.blackboard.com^
 ||whitepapers.rockwellautomation.com^
+||whitepark9.com^
 ||whitiveltrk.com^
 ||whittenchorded.com^
 ||whizduly.com^
@@ -110331,7 +110357,6 @@
 ||xtbzff.xyz^
 ||xtcxflak.xyz^
 ||xtendmedia.com^
-||xtgreat.com^
 ||xtijeyyeqwjegz.com^
 ||xtjpdfr.cn^
 ||xtnwxhjv.xyz^
