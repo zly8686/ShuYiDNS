@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-04-28 20:31:21（北京时间）
+! Version: 2024-04-29 09:14:04（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 112372
+! Total count: 112398
 ||*.diwodiwo.xyz^
 ||*.p2p.huya.com^
 ||*.va.huya.com^
@@ -12500,6 +12500,7 @@
 ||ageaskedfurther.com^
 ||agedpagefat.live^
 ||agedradiant.com^
+||agehaeamilhfv.com^
 ||agelastbypast.top^
 ||agency2.ru^
 ||agent.sj.qq.com^
@@ -16698,6 +16699,7 @@
 ||aq.qq.servirce.com^
 ||aq2e.com^
 ||aq7ua5ma85rddeinve.com^
+||aqaggxmhabf.com^
 ||aqbron.battlepage.com^
 ||aqburrae.xyz^
 ||aqc.gucheng.com^
@@ -22223,6 +22225,7 @@
 ||builtdozenprospects.com^
 ||builthousefor.com^
 ||builthuosefor.com^
+||builtinintriguingchained.com^
 ||builtinproceeding.com^
 ||bujaguppplfy.xyz^
 ||bujalance.treker.fun^
@@ -22472,6 +22475,7 @@
 ||bwpuoba.com^
 ||bwstatistics.sapoapps.vn^
 ||bwujxl.yoga-lava.com^
+||bwuwirv.cn^
 ||bx-cloud.com^
 ||bx.khedivaormond.com^
 ||bx5.tubemaximum.com^
@@ -29298,6 +29302,7 @@
 ||d2foi16y3n0s3e.cloudfront.net^
 ||d2fsfacjuqds81.cloudfront.net^
 ||d2g4rjb98r20op.cloudfront.net^
+||d2g6dhcga4weul.cloudfront.net^
 ||d2g8ksx1za632p.cloudfront.net^
 ||d2g9nmtuil60cb.cloudfront.net^
 ||d2ga0x5nt7ml6e.cloudfront.net^
@@ -33430,6 +33435,7 @@
 ||deeplinkuat.upoker.net^
 ||deepmetrix.com^
 ||deepnewsjuly.com^
+||deeppinche.top^
 ||deeprootedladyassurance.com^
 ||deeprootedpasswordfurtively.com^
 ||deeprootedstranded.com^
@@ -35114,6 +35120,7 @@
 ||dm62uysn32ppt.cloudfront.net^
 ||dm7gsepi27zsx.cloudfront.net^
 ||dm7ii62qkhy9z.cloudfront.net^
+||dmabpmokxcgm.com^
 ||dmacore.kejet.com^
 ||dmacore.kejet.net^
 ||dmakingbyth.com^
@@ -37495,6 +37502,7 @@
 ||ejpcuw.mitsubishilaval.com^
 ||ejrbgi.tous.com^
 ||ejtm.com^
+||ejuiashsateam.info^
 ||ejuiashsateampl.info^
 ||ejunshi.com^
 ||ejxo0.online^
@@ -37580,6 +37588,7 @@
 ||elevatedidentify.com^
 ||elevatedperimeter.com^
 ||eleveebbman.guru^
+||elewasgiwiththi.info^
 ||elfcoexistbird.com^
 ||elfinsande.website^
 ||elfpetsic.com^
@@ -41537,6 +41546,7 @@
 ||foguroli.pro^
 ||fogvnoq.com^
 ||foheltou.com^
+||fohikrs.com^
 ||foirkrt.icu^
 ||foizico.cn^
 ||fokbrd.impo.ch^
@@ -41621,6 +41631,7 @@
 ||footprintswarming.com^
 ||footstepnoneappetite.com^
 ||footwearrehearsehouse.com^
+||footy.to^
 ||foozledslimsy.guru^
 ||fopksr.icu^
 ||fopteefteex.com^
@@ -43568,6 +43579,7 @@
 ||gfunwoakvgwo.com^
 ||gfupivnzaxi.com^
 ||gfv4.destinia.co.za^
+||gfwvrltf.xyz^
 ||gfxa.sheetmusicplus.com^
 ||gfylyw.xyz^
 ||gfyoyo.adpolestar.net^
@@ -46108,6 +46120,7 @@
 ||haggeisgael.com^
 ||haghalra.com^
 ||haglance.com^
+||hagnutrient.com^
 ||hagppxgjypqa.com^
 ||hagweedtoytown.com^
 ||hahsarcane.website^
@@ -48876,6 +48889,7 @@
 ||ijifwb.green-acres.fr^
 ||ijkcmm.com^
 ||ijlnbonvfr.com^
+||ijmxco.xyz^
 ||ijogkae.churchserviceplanner.co.uk^
 ||ijorecepous.com^
 ||ijqbhuubyg.com^
@@ -52494,6 +52508,7 @@
 ||jerez.treker.fun^
 ||jerezheroins.uno^
 ||jergocast.com^
+||jerimpob.net^
 ||jerkarmlesspuppy.com^
 ||jerkisle.com^
 ||jerkytaste.com^
@@ -53407,6 +53422,7 @@
 ||jwcnjv.xlmoto.eu^
 ||jweod.xyz^
 ||jweoe.xyz^
+||jwerioa.top^
 ||jwfesuk.cn^
 ||jwhdgt.icu^
 ||jwia0.top^
@@ -53897,6 +53913,7 @@
 ||khimxz.shoesforcrews.com^
 ||khoslo.com^
 ||khouribga.treker.fun^
+||khrrnhjuhdjvx.com^
 ||khrtac.xiangha.com^
 ||khvphqpsl.com^
 ||khyzbu.lsy031.com^
@@ -54347,6 +54364,7 @@
 ||kouopt.calvinklein.com.br^
 ||koussinnielli.com^
 ||koutobey.net^
+||kovhhlbbgs.com^
 ||koxcsmmcealss.com^
 ||koyuod.xyz^
 ||kozhyf.icu^
@@ -59211,6 +59229,7 @@
 ||makemyvids.com^
 ||makesembezzlementconsume.com^
 ||makethebusiness.com^
+||makeupenumerate.com^
 ||makingbookworm.com^
 ||makingdevil.com^
 ||makingnude.com^
@@ -66058,6 +66077,7 @@
 ||nad.leadboltads.net^
 ||nadajotum.com^
 ||nadelle.wantsext.me^
+||nadjyiyolmxfea.com^
 ||nadofunding.tt.omtrdc.net^
 ||nador.treker.fun^
 ||nadruphoordy.xyz^
@@ -67593,6 +67613,7 @@
 ||nra.locktonaffinity.net^
 ||nrc.tapas.net^
 ||nrcapi.ssl2.duapps.com^
+||nrecitnr.com^
 ||nreg.world^
 ||nrentcom.tt.omtrdc.net^
 ||nretholas.com^
@@ -74800,6 +74821,7 @@
 ||prplad.com^
 ||prplads.com^
 ||prpops.com^
+||prqbdfmzjs.com^
 ||prre.ru^
 ||prsitecheck.com^
 ||prt-stsdk.vivo.com.cn^
@@ -75521,6 +75543,7 @@
 ||pwbmdalngizhz.com^
 ||pwbuhb.xyz^
 ||pwc.tt.omtrdc.net^
+||pwcegau.icu^
 ||pwcglsc.tt.omtrdc.net^
 ||pwcglscakamai.tt.omtrdc.net^
 ||pwddhc.xyz^
@@ -87837,6 +87860,7 @@
 ||sodiumrampcubic.com^
 ||sodreekrukiy.com^
 ||sodringermushy.com^
+||sodytykcbgpkw.com^
 ||soejzg.efe.com.pe^
 ||soelui.butosklep.pl^
 ||soeverbabi.com^
@@ -91848,7 +91872,6 @@
 ||storage-ad.com^
 ||storage.29293.com^
 ||storage.googleapis.com/suramar/pu.min.js^
-||storage.moegirl.org.cn^
 ||storagecelebrationchampion.com^
 ||storagelassitudeblend.com^
 ||storagetechnology.arrow.com^
@@ -105184,6 +105207,7 @@
 ||vpwyehsh.com^
 ||vpzohx.xyz^
 ||vqbidy.benetton.com^
+||vqbzpv.xyz^
 ||vqcuzypju.com^
 ||vqfqo.us^
 ||vqglaz.com^
@@ -109871,6 +109895,7 @@
 ||xkqggicpn.com^
 ||xkrnud.icu^
 ||xksqb.com^
+||xktxemf.com^
 ||xkueeqyzz.com^
 ||xkvmsr.hair.com^
 ||xkwwnle.com^
@@ -111199,6 +111224,7 @@
 ||ypyjyhny.xyz^
 ||yq.bokosatom.com^
 ||yqaxvu.leilian-online.com^
+||yqdnad.icu^
 ||yqeuu.com^
 ||yqigli.tourlane.de^
 ||yqiyazkddb.com^
