@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-04-30 20:30:56（北京时间）
+! Version: 2024-05-01 09:17:51（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 112758
+! Total count: 112791
 ||*.diwodiwo.xyz^
 ||*.p2p.huya.com^
 ||*.va.huya.com^
@@ -480,6 +480,7 @@
 ||104ouarzazate.treker.fun^
 ||105.254.104nbcume.hb.tt.omtrdc.net^
 ||1053rock.ca.ssl.sc.tt.omtrdc.net^
+||1059265748.rsc.cdn77.org^
 ||105bouznika.treker.fun^
 ||105vancouver.trekkww.space^
 ||105virginia.trekkww.space^
@@ -496,6 +497,7 @@
 ||108-174-4-155.fwd.tt.omtrdc.net^
 ||108-62-26-249.fios.tt.omtrdc.net^
 ||1080872514.rsc.cdn77.org^
+||1085549509.rsc.cdn77.org^
 ||108shot.com^
 ||109-104-12-233.customers.tt.omtrdc.net^
 ||109-104-15-117.customers.tt.omtrdc.net^
@@ -628,6 +630,7 @@
 ||1278977604.rsc.cdn77.org^
 ||128.178adobecorp.hb.tt.omtrdc.net^
 ||1287a.xyz^
+||1288151678.rsc.cdn77.org^
 ||12915784.care.sanvello.com^
 ||12915784.help.sanvello.com^
 ||12build.actonservice.com^
@@ -698,6 +701,7 @@
 ||143pluralsight.hb.tt.omtrdc.net^
 ||144-2-0-168.fwd.tt.omtrdc.net^
 ||144.dragonparking.com^
+||1441085683.rsc.cdn77.org^
 ||14427e.client.tt.omtrdc.net^
 ||1455a.tt.omtrdc.net^
 ||145634.group14.sites.tt.omtrdc.net^
@@ -706,6 +710,7 @@
 ||148-4.ap.tt.omtrdc.net^
 ||148dfe140d0f3d5e.com^
 ||14903.tt.omtrdc.net^
+||1492697327.rsc.cdn77.org^
 ||1495039.com^
 ||14cpoff22.de^
 ||14dishpurchasingcorporation.hb-api.tt.omtrdc.net^
@@ -1830,6 +1835,7 @@
 ||303lienz.trekkww.space^
 ||303madagaskar.trekkww.space^
 ||303marketplace.com^
+||305421ba72.com^
 ||305mazda.trekkww.space^
 ||305varta.trekkeeee.fun^
 ||305volvo.trekkeeee.fun^
@@ -20378,6 +20384,7 @@
 ||betterzip.net^
 ||betterzipcn.com^
 ||bettin2you.com^
+||bettingads.365scores.com^
 ||bettingfingerprintgrade.com^
 ||bettingpartners.com^
 ||beturtwiga.com^
@@ -21550,6 +21557,7 @@
 ||botherlightensideway.com^
 ||bothpersonality.com^
 ||bothsemicolon.com^
+||bothwest.pro^
 ||botkano.info^
 ||botnrr.xyz^
 ||botongfuff.uno^
@@ -24709,6 +24717,7 @@
 ||china.inmobi.com^
 ||chinagranddad.com^
 ||chinamotor.tt.omtrdc.net^
+||chinaslauras.com^
 ||chinchilla.68keys.io^
 ||chineegibbet.com^
 ||chinemcg.website^
@@ -25165,6 +25174,7 @@
 ||cleaverinfatuated.com^
 ||cleaversince.com^
 ||clefsgast.top^
+||cleftmeter.com^
 ||clemencyexceptionpolar.com^
 ||clementmeddling.com^
 ||clementsing.com^
@@ -28774,6 +28784,7 @@
 ||cwchmb.com^
 ||cweriof.top^
 ||cwgshkz.cn^
+||cwiuhtp.icu^
 ||cwqljsecvr.com^
 ||cwrxgb.icu^
 ||cws-cctv.conviva.com^
@@ -29778,7 +29789,6 @@
 ||d32z5ni8t5127x.cloudfront.net^
 ||d32zx4lhje2crr.cloudfront.net^
 ||d333p98mzatwjz.cloudfront.net^
-||d335luupugsy2.cloudfront.net^
 ||d33fc9uy0cnxl9.cloudfront.net^
 ||d33gmheck9s2xl.cloudfront.net^
 ||d33otidwg56k90.cloudfront.net^
@@ -33212,6 +33222,7 @@
 ||dayznews.biz^
 ||dazdmx.cobra.fr^
 ||dazeactionabet.com^
+||dazedarticulate.com^
 ||dazedengage.com^
 ||dazeoffhandskip.com^
 ||dazhantai.com^
@@ -35286,6 +35297,7 @@
 ||dl_dir.qq.com^
 ||dl_dir2.qq.com^
 ||dlads.cn^
+||dlazblsihdoi.com^
 ||dlbghx.xyz^
 ||dldev.wooribank.com.kh^
 ||dldir2.qq.com^
@@ -37831,6 +37843,7 @@
 ||ele26126.jscrambler.com^
 ||elearl.com^
 ||eleavers.com^
+||electionmmdevote.com^
 ||elector.trekkww.fun^
 ||electosake.com^
 ||electranowel.com^
@@ -43331,6 +43344,7 @@
 ||gbc27.online^
 ||gbcnvip15.com^
 ||gbfgvzfcjfs.com^
+||gbiyigdsgu.com^
 ||gbl.radware.com^
 ||gblcdn.com^
 ||gblock.greenhousedata.com^
@@ -45915,6 +45929,7 @@
 ||grow.powerstep.com^
 ||growadvertising.com^
 ||growebads.com^
+||growingcastselling.com^
 ||growingio.com^
 ||growledavenuejill.com^
 ||grown-inpp-code.com^
@@ -45998,6 +46013,7 @@
 ||gsmosaic.tt.omtrdc.net^
 ||gsmqez.xcite.com^
 ||gsmtop.net^
+||gsnb048lj.com^
 ||gsnqhdo.com^
 ||gsol.edm.globalsources.com^
 ||gsols.edm.globalsources.com^
@@ -48898,6 +48914,7 @@
 ||icons.mydrivers.com^
 ||iconworkshop.cn^
 ||icpadv.com^
+||icqeou.xyz^
 ||icslearn.actonsoftware.com^
 ||ictrjw.barcastores.com^
 ||icu.getstorybox.com^
@@ -49095,6 +49112,7 @@
 ||igg.biz^
 ||iggroup.tt.omtrdc.net^
 ||ightdecipientconc.info^
+||ightsapph.info^
 ||iginnis.site^
 ||igjytl.unice.com^
 ||igkgag.xyz^
@@ -53002,6 +53020,7 @@
 ||jiudashi.shop^
 ||jiupaozi.com^
 ||jivskpprocrkv.com^
+||jivvjl.xyz^
 ||jixmlx.xyz^
 ||jiyan.net^
 ||jizzads.com^
@@ -53717,6 +53736,7 @@
 ||jv.curiousuraemia.com^
 ||jv.sugaryestrone.com^
 ||jvbvng.notino.it^
+||jvcjnmd.com^
 ||jvjlkih.com^
 ||jvjmjt.xyz^
 ||jvkqkzu.cn^
@@ -53750,6 +53770,7 @@
 ||jwxqmj.thediamondstore.co.uk^
 ||jwxwnr.xyz^
 ||jwylcrb.cn^
+||jwympcc.com^
 ||jwz.3conline.com^
 ||jx.yonnersekere.com^
 ||jx3.freepornobook.com^
@@ -55792,6 +55813,7 @@
 ||leveragebestow.com^
 ||leveragetypicalreflections.com^
 ||leverseriouslyremarks.com^
+||leveryone.info^
 ||levi247.levi.com^
 ||levinerunlatch.life^
 ||levis.tt.omtrdc.net^
@@ -59483,6 +59505,7 @@
 ||mainsmrtnews.pro^
 ||maintenancewinning.com^
 ||maintenant.votre-succes.online^
+||mainting-minues.xyz^
 ||maio.jp^
 ||maioux.xyz^
 ||maipofok.net^
@@ -61439,6 +61462,7 @@
 ||mastertag.kpcustomer.de^
 ||mastertag.q-sis.de^
 ||mastexpelledsink.com^
+||mastinstungmoreal.com^
 ||mastodon.internalnewsletters.co^
 ||mastodon.thrustcarbon.com^
 ||masturbaseinvegas.com^
@@ -66737,6 +66761,7 @@
 ||negnixa.cn^
 ||negolist.com^
 ||negotiationmajestic.com^
+||negxkj5ca.com^
 ||negyuk.com^
 ||nehree.com^
 ||neigh11.xyz^
@@ -66958,6 +66983,7 @@
 ||news-host.net^
 ||news-img.51y5.net^
 ||news-info.gcgfinancial.com^
+||news-jelafa.com^
 ||news-jivera.com^
 ||news-l.play.aiseet.atianqi.com^
 ||news-l.play.cp81.ott.cibntv.net^
@@ -69814,6 +69840,7 @@
 ||ordealsreannoy.top^
 ||orderlydividepawn.com^
 ||orderlyregister.pro^
+||ordgcoazsswo.com^
 ||ordinalexclusively.com^
 ||ordinardeuton.com^
 ||ordinarilyinstead.com^
@@ -75246,6 +75273,7 @@
 ||ptexognouh.xyz^
 ||ptflrj.xyz^
 ||ptfxh.com^
+||pthdepsftn.com^
 ||pthzqqvrjyou.com^
 ||pticmootoat.com^
 ||ptidsezi.com^
@@ -76592,6 +76620,7 @@
 ||qxakzox.cn^
 ||qxauwo.sportisimo.ro^
 ||qxdownload.com^
+||qxeidsj.com^
 ||qxgbgixnzcoen.com^
 ||qxhspimg.com^
 ||qxiabfmmtjhyv.com^
@@ -93180,6 +93209,7 @@
 ||swepfa.com^
 ||sweptbroadarchly.com^
 ||sweptgrimace.com^
+||sweriob.top^
 ||swervercutup.top^
 ||swesomepop.com^
 ||swfly744.info^
@@ -102274,6 +102304,7 @@
 ||txvoin.with2.net^
 ||txyqik.jjshouse.fr^
 ||txzaazmdhtw.com^
+||txzdbxtyhebo.com^
 ||txzepl.xyz^
 ||ty.viqiyi.admaster.com.cn^
 ||ty.vletv.admaster.com.cn^
@@ -103309,6 +103340,7 @@
 ||uoqsxdpx.xyz^
 ||uorhlwm.com^
 ||uoss.c2471.cn^
+||uosxdmk.cn^
 ||uotbzz.xyz^
 ||uoutube.com^
 ||uowjsjkanqmw.com^
@@ -105267,6 +105299,7 @@
 ||vkctxy.yves-rocher.fi^
 ||vkdgdt.xyz^
 ||vkgtrack.com^
+||vkguvyg.cn^
 ||vkjsnvk.com^
 ||vkjwpa.samoon.com^
 ||vkkasm.officechairsusa.com^
