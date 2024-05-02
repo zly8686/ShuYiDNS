@@ -26,7 +26,7 @@ curl https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/mv.txt |
 
 echo '下载规则'
 rules=(
-  "https://filters.adtidy.org/android/filters/224_optimized.txt" #adg中文过滤器
+  "https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_224_Chinese/filter.txt" #AdGuard中文过滤器
   "https://perflyst.github.io/PiHoleBlocklist/SmartTV-AGH.txt" #Tv规则
   "https://easylist-downloads.adblockplus.org/easyprivacy.txt" #EasyPrivacy隐私保护规则
   "https://raw.githubusercontent.com/Noyllopa/NoAppDownload/master/NoAppDownload.txt" #去APP下载提示规则
