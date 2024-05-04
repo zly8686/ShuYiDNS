@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-05-04 09:12:30（北京时间）
+! Version: 2024-05-04 20:28:48（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 94509
+! Total count: 94512
 ||*.diwodiwo.xyz^
 ||*.p2p.huya.com^
 ||*.va.huya.com^
@@ -6410,7 +6410,6 @@
 ||ad.zui.com^
 ||ad.zuimeitianqi.com^
 ||ad0.bigmir.net^
-||ad0001.aniyae.net^
 ||ad01.mediacorpsingapore.com^
 ||ad01.tmgrup.com.tr^
 ||ad1.bigmir.net^
@@ -51019,6 +51018,7 @@
 ||mercialtaver.club^
 ||mercianposter.life^
 ||mercifulsurveysurpass.com^
+||mercor.cn^
 ||mercuras.com^
 ||mercury-sdk.snssdk.com^
 ||mercury.coupang.com^
@@ -58705,6 +58705,7 @@
 ||paicepte.xyz^
 ||paichaus.com^
 ||paid.outbrain.com^
+||paigarohauja.com^
 ||paigna.com^
 ||paikoasa.tv^
 ||paikshueless.com^
@@ -60749,6 +60750,7 @@
 ||pokiespedule.guru^
 ||pokingtrainswriter.com^
 ||pokomopunkin.top^
+||pokrutim.ru^
 ||pol3.cheque-domicile.fr^
 ||polacrereacts.top^
 ||polads.pro^
@@ -63280,6 +63282,7 @@
 ||qwe0231141.bj.bcebos.com^
 ||qwe4456133.justthegays.com^
 ||qwerfdx.com^
+||qwerioy.top^
 ||qwertytracks.com^
 ||qwesaz.com^
 ||qwfh39851jtfvkurf21hf.com^
