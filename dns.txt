@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-05-06 18:59:18（北京时间）
+! Version: 2024-05-06 20:32:24（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 94809
+! Total count: 94806
 ||*.diwodiwo.xyz^
 ||*.p2p.huya.com^
 ||*.va.huya.com^
@@ -3624,7 +3624,6 @@
 ||a4de9aca80.com^
 ||a4mt150303tl.com^
 ||a50d23dcc2.com^
-||a5541fe704.com^
 ||a5g.oves.biz^
 ||a5game.win^
 ||a5jogo.biz^
@@ -8519,7 +8518,6 @@
 ||adway.org^
 ||adwbs.ximalaya.com^
 ||adwhirl.com^
-||adwile.com^
 ||adwods.com^
 ||adworldnetwork.com^
 ||adworx.be^
@@ -11104,7 +11102,6 @@
 ||aopcoms.aoptec.com^
 ||aoqcqh.eavalyne.lt^
 ||aoqhfs.optikdodomu.cz^
-||aoredi.com^
 ||aortismbutyric.com^
 ||aos-creative.prf.hn^
 ||aos.prf.hn^
@@ -11112,6 +11109,7 @@
 ||aourgk.xyz^
 ||aoxbbx.creditoseconomicos.com^
 ||aozmpm.jwell.com^
+||aozoiekopoaka.shop^
 ||ap.bouncelargo.com^
 ||ap.cpatrk.net^
 ||ap.delfi.ee^
@@ -13872,7 +13870,6 @@
 ||ax7fv.space^
 ||axeldivision.com^
 ||axentis.arclogics.com^
-||axesequelplant.com^
 ||axhfeum.xyz^
 ||axill.com^
 ||axillovely.com^
@@ -14035,7 +14032,6 @@
 ||ayelpacle.com^
 ||ayensexilic.com^
 ||ayerbo.xhost.ro^
-||ayga.xyz^
 ||aygccr.eonet.jp^
 ||ayidaye.m.zwdu.com^
 ||ayleaf.petersofkensington.com.au^
@@ -15694,6 +15690,7 @@
 ||bhlom.com^
 ||bhlph.com^
 ||bhmzab.totes.com^
+||bhozjskhzfdkh.com^
 ||bhqfnuq.com^
 ||bhwjoa.cotopaxi.com^
 ||bhwkju.vivo.com^
@@ -15902,6 +15899,7 @@
 ||bissailre.com^
 ||bissonprevoid.website^
 ||bistigaleod.life^
+||biswcmtgrnk.com^
 ||bit-ad.com^
 ||bit.beformance.com^
 ||bitads.net^
@@ -19144,6 +19142,7 @@
 ||cgqkhc.trendyol.com^
 ||cgqwgv.icu^
 ||cgsisl.owllabs.com^
+||cgsjaulupnd.com^
 ||cgupialoensa.com^
 ||cgvgga.mackenzie-childs.com^
 ||cgwebmetrics.capgroup.com^
@@ -26099,7 +26098,6 @@
 ||dicouksa.com^
 ||dicreativeideas.org^
 ||dictatepantry.com^
-||dictaterepublicbog.com^
 ||dictationtense.com^
 ||dictatormiserablealec.com^
 ||dictionarycoefficientapparently.com^
@@ -26120,7 +26118,6 @@
 ||dietarydecreewilful.com^
 ||dietarygroomchar.com^
 ||dietschoolvirtually.com^
-||dietteddefied.com^
 ||diff.smartadserver.com^
 ||diff2.smartadserver.com^
 ||diff3.smartadserver.com^
@@ -26873,7 +26870,6 @@
 ||dl_dir.qq.com^
 ||dl_dir2.qq.com^
 ||dlads.cn^
-||dlazblsihdoi.com^
 ||dlbghx.xyz^
 ||dldev.wooribank.com.kh^
 ||dldir2.qq.com^
@@ -28702,7 +28698,6 @@
 ||ecctjf.leroymerlin.com.br^
 ||ecdoib.26p.jp^
 ||ecefyu.geox.com^
-||ecffmhajfgxw.com^
 ||echehalids.guru^
 ||echidna.hellotomorrow.agency^
 ||echidna.honeybadger.io^
@@ -39257,7 +39252,6 @@
 ||ilius.net^
 ||ilivaris.pw^
 ||ilkk97e98lvg.www.sidsplumbing.ie^
-||illallwoe.com^
 ||illegaleaglewhistling.com^
 ||illegallyshoulder.com^
 ||illegalprotected.com^
@@ -45365,7 +45359,6 @@
 ||lichsemicha.top^
 ||lichunxiao.cn^
 ||lickinggetting.com^
-||lickingimprovementpropulsion.com^
 ||liddenlywilli.org^
 ||liddingremorse.digital^
 ||lidsaich.net^
@@ -54630,7 +54623,6 @@
 ||myolnyr5bsk18.com^
 ||myopia.gocheckkids.com^
 ||myopybaldwin.com^
-||myopyrum.digital^
 ||mypa-hk.americanexpress.com^
 ||mypa-in-prop.americanexpress.com^
 ||mypa-sg-prop.americanexpress.com^
@@ -55658,6 +55650,7 @@
 ||ninetyninesec.com^
 ||ninetypastime.com^
 ||ninetyprosed.top^
+||ningdblukzqp.com^
 ||ninja.akamaized.net^
 ||ninja.onap.io^
 ||ninkorant.online^
@@ -58503,7 +58496,6 @@
 ||oyoperseduca.com^
 ||oyotii.sportokay.com^
 ||oyotqp.icu^
-||oypjpbthhxhyuvq.com^
 ||oyssqe.easyvoyage.com^
 ||oysterexhalereview.com^
 ||oysterfoxfoe.com^
@@ -59089,6 +59081,7 @@
 ||parlorsuperhero.com^
 ||parlouractivityattacked.com^
 ||parlourinvulnerablerighteous.com^
+||paronymtethery.com^
 ||parrecleftne.xyz^
 ||parrot.lovably.com^
 ||parrotfish.thenping.me^
@@ -59864,7 +59857,6 @@
 ||phenomtrackapi-ir.phenompeople.com^
 ||phenotypebest.com^
 ||phenver.com^
-||phepiphapti.com^
 ||phepofte.net^
 ||pheptoam.com^
 ||pheselta.net^
@@ -60669,6 +60661,7 @@
 ||player.quankan.tv^
 ||player.stats.live-video.net^
 ||playeranyd.org^
+||playeranydwo.info^
 ||playerseo.club^
 ||playerstrivefascinated.com^
 ||playertraffic.com^
@@ -60804,7 +60797,6 @@
 ||plx.tukif.com^
 ||plyfoni.ru^
 ||plyizb.latour-lith.nl^
-||plywoodenchant.com^
 ||pm.aty.sohu.com^
 ||pm.boostintegrated.com^
 ||pm.dailykos.com^
@@ -62973,6 +62965,7 @@
 ||qcb2xeg.icu^
 ||qcblzn.pinkpanda.it^
 ||qccoccocmedia.vn^
+||qceedrcwar.com^
 ||qcepqj.icu^
 ||qceyjl.cellularoutfitter.com^
 ||qcgtoz.cwjobs.co.uk^
@@ -67771,7 +67764,6 @@
 ||savinist.com^
 ||savionl.com^
 ||saviourketonic.com^
-||savlzvstif.com^
 ||savorydult.com^
 ||savourethicalmercury.com^
 ||savourmarinercomplex.com^
@@ -67782,6 +67774,7 @@
 ||sawalinitwits.com^
 ||sawanincreasein.info^
 ||sawap.equifax.com^
+||saweathercock.info^
 ||sawfish.abracebrasil.org^
 ||sawfish.hxd-lab.de^
 ||sawfish.loqbooq.app^
@@ -79798,6 +79791,7 @@
 ||tanivanprevented.com^
 ||tankiuz.xyz^
 ||tanksfright.com^
+||tantisnits.top^
 ||tanx.com^
 ||tao.37wan.com^
 ||tao.barstoolsports.com^
@@ -81146,7 +81140,6 @@
 ||thutsish.xyz^
 ||thvx9i.icu^
 ||thycantyoubelike.com^
-||thygrepuwo.pro^
 ||thymomamunify.top^
 ||thyobscure.com^
 ||thyouglasuntilj.info^
@@ -81950,6 +81943,7 @@
 ||toqsxdpx.xyz^
 ||toquetbircher.com^
 ||torattatachan.com^
+||torcheszocalo.top^
 ||torchtrifling.com^
 ||torflegorb.com^
 ||torhydona.com^
@@ -82131,6 +82125,7 @@
 ||tpx.tesseradigital.com^
 ||tpydhykibbz.com^
 ||tpyerxzn.xyz^
+||tpyfixoqbo.com^
 ||tpyxplkcap.top^
 ||tpzatf.xyz^
 ||tq-eu.iforcircles-1.online^
@@ -88924,6 +88919,7 @@
 ||vzufzah.com^
 ||vzvvifw.cn^
 ||vzynem.lamporochljus.se^
+||vzzramqlfb.com^
 ||w-profiling.simplii.com^
 ||w.anmeihe.cn^
 ||w.bid.ljrtb.cn^
@@ -90094,6 +90090,7 @@
 ||whfpbc.99.com.cn^
 ||whiboubs.com^
 ||whiceega.com^
+||whickazoxy.top^
 ||whifflehumeral.guru^
 ||whihauve.net^
 ||whileinferioryourself.com^
