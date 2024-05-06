@@ -32,3 +32,5 @@
 @@||support.weixin.qq.com^
 !Bootcdn
 @@||cdn.bootcdn.net^
+!饿了么小程序
+@@||waimai-guide.ele.me^
