@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-05-08 20:32:35（北京时间）
+! Version: 2024-05-09 09:14:01（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 94932
+! Total count: 94941
 ||*.diwodiwo.xyz^
 ||*.p2p.huya.com^
 ||*.va.huya.com^
@@ -7797,6 +7797,7 @@
 ||ads.townhall.com^
 ||ads.traffichunt.com^
 ||ads.trafficjunky.net^
+||ads.travelaudience.com^
 ||ads.tribalfusion.com^
 ||ads.trinitymirror.co.uk^
 ||ads.tripod.com^
@@ -35059,6 +35060,7 @@
 ||gloufteglouw.com^
 ||gloumsee.net^
 ||gloumsie.net^
+||glounugeepse.xyz^
 ||gloupa.com^
 ||glouseer.net^
 ||gloussowu.xyz^
@@ -42174,6 +42176,7 @@
 ||iuou.myadobe.cn^
 ||iuou.ysw365.com^
 ||iupot.com^
+||iuqasw.xyz^
 ||iuryhk.soccer.com^
 ||iutur-ixp.com^
 ||iuu3j.xyz^
@@ -55789,6 +55792,7 @@
 ||nkarmh.jmbullion.com^
 ||nkbkor.icu^
 ||nkbobsj.com^
+||nkbpft.xyz^
 ||nkewdzp.com^
 ||nkfinsdg.com^
 ||nkfith.xyz^
@@ -60484,6 +60488,7 @@
 ||pkjmmn.icu^
 ||pkk1.zuimeiniwo.com^
 ||pkkylyx.xyz^
+||pklujb.xyz^
 ||pkmvjx.my-store.ch^
 ||pknrnj.xyz^
 ||pkoqeg.com^
@@ -62530,6 +62535,7 @@
 ||puerty.com^
 ||puffin.geocode.earth^
 ||puffin.nex4.net^
+||puffingtiffs.com^
 ||pugdisguise.com^
 ||puggreeboucher.top^
 ||puggrylapith.com^
@@ -63228,6 +63234,7 @@
 ||qm6ef.xyz^
 ||qmaacxajsovk.com^
 ||qmaobrsasck.com^
+||qmbdta.cn^
 ||qmcwpi.naturitas.es^
 ||qmgria.cn^
 ||qmiiln.tower.jp^
@@ -65626,6 +65633,7 @@
 ||robotrenamed.com^
 ||robsbogsrouse.com^
 ||robspabah.com^
+||robudpw.cn^
 ||robunderstanding.com^
 ||rocco-fvo.com^
 ||rochelle.wantsext.me^
@@ -84938,7 +84946,6 @@
 ||travel.stage.x.unikoom.com^
 ||travel.x.unikoom.com^
 ||traveladvertising.com^
-||travelaudience.com^
 ||traveldurationbrings.com^
 ||travelingbeggarlyregions.com^
 ||travelingfreshman.com^
@@ -90849,6 +90856,7 @@
 ||worldfreshjournal.com^
 ||worldglobalssp.xyz^
 ||worldh5.gamehz.cn^
+||worldinform.ru^
 ||worldlyyouth.com^
 ||worldmtcs.nhk.jp^
 ||worldnetpr.actonservice.com^
@@ -92796,6 +92804,7 @@
 ||xmindchina.cn^
 ||xmindchina.net^
 ||xmjajv.xyz^
+||xmkmryu.icu^
 ||xml-api.online^
 ||xml-clickurl.com^
 ||xml-eu-v4.100conversions.com^
