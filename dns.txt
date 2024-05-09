@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-05-09 09:14:01（北京时间）
+! Version: 2024-05-09 20:31:16（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 94941
+! Total count: 94945
 ||*.diwodiwo.xyz^
 ||*.p2p.huya.com^
 ||*.va.huya.com^
@@ -1087,6 +1087,7 @@
 ||53ynh.xyz^
 ||5475feaab.clicknplay.to^
 ||54dbg.xyz^
+||54gtlb.cn^
 ||550a.com^
 ||550b3ikb9j.com^
 ||555bbb333bbb.com^
@@ -19170,6 +19171,7 @@
 ||cgicounter.oneandone.co.uk^
 ||cgicounter.onlinehome.de^
 ||cgicounter.puretec.de^
+||cgidskif.top^
 ||cgqkhc.trendyol.com^
 ||cgqwgv.icu^
 ||cgsisl.owllabs.com^
@@ -24047,6 +24049,7 @@
 ||d3d98dc11c.com^
 ||d3d9gb3ic8fsgg.cloudfront.net^
 ||d3d9pt4go32tk8.cloudfront.net^
+||d3div1mtym39ic.cloudfront.net^
 ||d3dpet1g0ty5ed.cloudfront.net^
 ||d3dq1nh1l1pzqy.cloudfront.net^
 ||d3ec0pbimicc4r.cloudfront.net^
@@ -36856,7 +36859,6 @@
 ||halachadivvers.com^
 ||halbertduffed.top^
 ||halct.cn^
-||half-concert.pro^
 ||halffullglassnews.com^
 ||halfpriceozarks.com^
 ||halftimeaircraftsidewalk.com^
@@ -46929,9 +46931,11 @@
 ||log.baodatviet.vn^
 ||log.baodauthau.vn^
 ||log.baogialai.com.vn^
+||log.baolaocai.vn^
 ||log.baomoi.com^
 ||log.baonghean.vn^
 ||log.baophapluat.vn^
+||log.baovanhoa.vn^
 ||log.beecost.com^
 ||log.beecost.vn^
 ||log.bitauto.com^
@@ -61085,7 +61089,6 @@
 ||polredsy.com^
 ||poltarimus.com^
 ||polydarth.com^
-||polyfill.io^
 ||polygraphpretenceraw.com^
 ||polyh-nce.com^
 ||polypak.actonservice.com^
@@ -77820,6 +77823,7 @@
 ||stjoe.psjhealth.org^
 ||stliom.vidaxl.cz^
 ||stlog.d.dmkt-sp.jp^
+||stlog.dmarket.docomo.ne.jp^
 ||stlpnom.xyz^
 ||stm-cdn.cn.miaozhen.com^
 ||stm-collect.cn.miaozhen.com^
