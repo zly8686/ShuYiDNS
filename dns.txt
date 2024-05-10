@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-05-09 20:31:16（北京时间）
+! Version: 2024-05-10 09:14:56（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 94945
+! Total count: 94975
 ||*.diwodiwo.xyz^
 ||*.p2p.huya.com^
 ||*.va.huya.com^
@@ -263,6 +263,7 @@
 ||12.com^
 ||12.cookcai.com^
 ||1200555.com^
+||1204491360.rsc.cdn77.org^
 ||12112336.pix-cdn.org^
 ||121phonesex.co.uk^
 ||1221e236c3f8703.com^
@@ -399,6 +400,7 @@
 ||194b7af8c3.com^
 ||19515bia.de^
 ||19528681.com^
+||1957648849.rsc.cdn77.org^
 ||199.180.100.185/love44^
 ||1991482557.rsc.cdn77.org^
 ||1999019.com^
@@ -5598,6 +5600,7 @@
 ||abtest.alibaba.com^
 ||abtest.mistat.xiaomi.com^
 ||abtest.swrve.com^
+||abtrcker.com^
 ||abtyroguean.com^
 ||abtyroguer.com^
 ||abuaac.suzette-shop.jp^
@@ -9775,6 +9778,7 @@
 ||amendmentbutterfly.com^
 ||amendsgeneralize.com^
 ||amendspreposterousalter.com^
+||amendsrecruitingperson.com^
 ||amenityleisurelydays.com^
 ||ameofmuki.info^
 ||ameoutofthe.info^
@@ -12759,6 +12763,7 @@
 ||arenahoosgow.com^
 ||arenalitteraccommodation.com^
 ||arenitezill.com^
+||areyoutherenow.com^
 ||arfobkorfa.com^
 ||argeredru.info^
 ||arglingpistole.com^
@@ -16667,9 +16672,11 @@
 ||boundsinflectioncustom.com^
 ||bouptosaive.com^
 ||bouqaiewfksqz.com^
+||bourrepardale.com^
 ||bouteesh.com^
 ||boutique.ricoh.fr^
 ||boutjuicyvacation.com^
+||bouwhaici.net^
 ||bovid.docutize.de^
 ||bovid.neural.love^
 ||bovineslagly.top^
@@ -24137,6 +24144,7 @@
 ||d3ncat0syb6rim.cloudfront.net^
 ||d3nel6rcmq5lzw.cloudfront.net^
 ||d3nfknbv.icu^
+||d3ngt858zasqwf.cloudfront.net^
 ||d3nq5jrakcyw1w.cloudfront.net^
 ||d3numuoibysgi8.cloudfront.net^
 ||d3nvrqlo8rj1kw.cloudfront.net^
@@ -29517,6 +29525,7 @@
 ||elugnoasargo.com^
 ||eluocs.xyz^
 ||eluviabattler.com^
+||elvirassb.com^
 ||elxont.com^
 ||elyxvt.wilsonamplifiers.com^
 ||em-email.thermofisher.com^
@@ -33129,6 +33138,7 @@
 ||fougoalops.net^
 ||foulageyamshik.life^
 ||fouleewu.net^
+||foulfurnished.com^
 ||foumulish.top^
 ||foundationhorny.com^
 ||foundchoked.com^
@@ -36791,6 +36801,7 @@
 ||habitualexecute.com^
 ||habitualivoryashes.com^
 ||habitueflasque.com^
+||habovethecit.info^
 ||habovethecity.info^
 ||habovethecityon.info^
 ||habukaiambics.com^
@@ -37562,6 +37573,7 @@
 ||hgfutf.xyz^
 ||hghit.com^
 ||hghjks2.com^
+||hgidskiu.top^
 ||hgjjk45.com^
 ||hgjxjis.com^
 ||hgpdoa.cn^
@@ -38515,6 +38527,7 @@
 ||huishenghuiying.com^
 ||huishij.net^
 ||huisvrouwen.be^
+||huiyunbei.com^
 ||hujunhao.name^
 ||hukbo.com^
 ||hulichuang.mobi^
@@ -43826,6 +43839,7 @@
 ||keywordblocks.com^
 ||keywordsconnect.com^
 ||kfareputfeab.org^
+||kfbdnyeelfxctc.com^
 ||kfckcu.xyz^
 ||kfctds59.shop^
 ||kfdrc.cyou^
@@ -44460,6 +44474,7 @@
 ||kw3y5otoeuniv7e9rsi.com^
 ||kwalnc.vans.co.kr^
 ||kwanvibist.com^
+||kwbgmufi.com^
 ||kwcmrfb.cn^
 ||kwedzcq.com^
 ||kweriod.top^
@@ -54439,6 +54454,7 @@
 ||munsterduke.com^
 ||muntfd62.shop^
 ||muntiglesia.com^
+||muntswe58.shop^
 ||muoizbtl.xyz^
 ||muqoxfnwyz.com^
 ||muqtti.motoin.de^
@@ -56173,6 +56189,7 @@
 ||npjvgug.xyz^
 ||nplahh.xyz^
 ||nplden.legionathletics.com^
+||npmgfyajejhlde.com^
 ||npmpecd.com^
 ||npnpxoz.xyz^
 ||npnzfri.xyz^
@@ -57662,6 +57679,7 @@
 ||onxatutor.com^
 ||onxtxdm.xyz^
 ||onychinferous.top^
+||onzazqarhmpi.com^
 ||onznwiocrrim.com^
 ||oo.ooshop.com^
 ||oo00.biz^
@@ -57973,6 +57991,7 @@
 ||ordbng.extra.com.br^
 ||ordbzeokdxku.com^
 ||ordealsreannoy.top^
+||orderedbewhore.com^
 ||orderlydividepawn.com^
 ||orderlyregister.pro^
 ||ordgcoazsswo.com^
@@ -58037,6 +58056,7 @@
 ||orldwhoisquite.org^
 ||orldwhoisquiteh.info^
 ||orlmarketing.nfp.com^
+||orlotalers.com^
 ||orlowedonhisdhilt.info^
 ||orlqtz.lampenwelt.ch^
 ||ormolustuke.top^
@@ -59358,6 +59378,7 @@
 ||pattyheadlong.com^
 ||paucityirido.space^
 ||pauewr4cw2xs5q.com^
+||paularrears.com^
 ||paulastroid.com^
 ||paulcorrectfluid.com^
 ||paulinruntime.digital^
@@ -63112,6 +63133,7 @@
 ||qevcxo.cn^
 ||qexbcx.olx.kz^
 ||qezfer.motelamiio.com^
+||qfaaokr.icu^
 ||qfbles.elefant.ro^
 ||qfblqq.com^
 ||qfcxpa.dreamcloudsleep.com^
@@ -65495,6 +65517,7 @@
 ||riverpush.com^
 ||riversingratitudestifle.com^
 ||rivetrearrange.com^
+||rivmuvlnu.com^
 ||rivne.space^
 ||riwnmh.novasol.co.uk^
 ||rixaka.com^
@@ -81324,6 +81347,7 @@
 ||tiffanypinworm.tech^
 ||tifpjz.xyz^
 ||tifyeldi.top^
+||tigainareputaon.info^
 ||tigershark.garethtdavies.com^
 ||tigershark.integratecolumbus.org^
 ||tigershark.moonpot.com^
@@ -84823,6 +84847,7 @@
 ||trafficbass.com^
 ||trafficborder.com^
 ||trafficbottomgrains.com^
+||trafficdecisions.com^
 ||trafficdok.com^
 ||trafficfactory.biz^
 ||trafficfuelpixel.s3-us-west-2.amazonaws.com^
@@ -86393,6 +86418,7 @@
 ||ugly-charity.pro^
 ||uglylearnt.com^
 ||ugmarketing.smu.edu.sg^
+||ugolue.xyz^
 ||ugopkl.com^
 ||ugpibtpk.xyz^
 ||ugrarvy.com^
@@ -93209,6 +93235,7 @@
 ||xrllybr.xyz^
 ||xrnyhc.arumdri.co.kr^
 ||xrnyhc.welltimes.co.kr^
+||xrpikxtnmvcm.com^
 ||xrrhwgj.xyz^
 ||xrrxodz.xyz^
 ||xruolsogwsi.com^
@@ -93277,6 +93304,7 @@
 ||xukpresesmr.info^
 ||xulizui6.com^
 ||xunlei.adx.admaster.com.cn^
+||xunsfr.xyz^
 ||xuoizbtl.xyz^
 ||xuojhr.mobly.com.br^
 ||xuosvih.com^
@@ -94673,6 +94701,7 @@
 ||zogrepsili.com^
 ||zohdfd.xyz^
 ||zojyob.icu^
+||zokaukree.net^
 ||zombieslayer-alternate.kano.link^
 ||zombieslayer.kano.link^
 ||zombiharshen.top^
@@ -94874,6 +94903,7 @@
 ||zwuqvpi.com^
 ||zwxxcb.icu^
 ||zwyhucpmoov.com^
+||zwzdjb.xyz^
 ||zx.da.mgtv.com^
 ||zx.docin.com^
 ||zxbumj.edreams.it^
