@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-05-12 20:31:28（北京时间）
+! Version: 2024-05-13 09:16:37（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 94654
+! Total count: 94661
 ||*.diwodiwo.xyz^
 ||*.p2p.huya.com^
 ||*.va.huya.com^
@@ -25884,6 +25884,7 @@
 ||dfnetwork.link^
 ||dfninp.xyz^
 ||dfp.suning.com^
+||dfprljx.xyz^
 ||dfqcp2awt0947.cloudfront.net^
 ||dfr.deloitte.com^
 ||dfsdkkka.com^
@@ -26334,7 +26335,6 @@
 ||dimensionvegana.com^
 ||dimessing-parker.com^
 ||dimfarlow.com^
-||dimlmhowvkrag.xyz^
 ||dimlyconfidential.com^
 ||dimnatriazin.com^
 ||dimnessinvokecorridor.com^
@@ -43684,6 +43684,7 @@
 ||kggikf.icu^
 ||kgguwk.jeep.com.tr^
 ||kghgmn.top^
+||kgidskid.top^
 ||kgmobilestat.kugou.com^
 ||kgqcse.xyz^
 ||kgqxzw.blue-tomato.com^
@@ -46459,6 +46460,7 @@
 ||lizard.priorart.dev^
 ||lizardslaugh.com^
 ||lizebruisiaculi.info^
+||lizijing12.top^
 ||lizouhaiwhe.com^
 ||lizzieforcepincers.com^
 ||ljhbhy.cn^
@@ -50565,6 +50567,7 @@
 ||mdhv.io^
 ||mdhv3.icu^
 ||mdhxyhl.cn^
+||mdiygc.xyz^
 ||mdjdpyrt.xyz^
 ||mdkkbrbhlji.com^
 ||mdm.hibinobi-mandom.jp^
@@ -53566,6 +53569,7 @@
 ||mohamed.net.anwalt.de^
 ||mohaqu.xyz^
 ||mohiwhaileed.com^
+||mohvxrvd.xyz^
 ||mohyafckgatre.com^
 ||moilizoi.com^
 ||moistblank.com^
@@ -55632,6 +55636,7 @@
 ||nlop.xyz^
 ||nlp-japan.life-and-mind.com^
 ||nlrsbd.xyz^
+||nltsvf.xyz^
 ||nltzqx.autodoc.co.uk^
 ||nlvgxr.xyz^
 ||nlvnht.miror.jp^
@@ -66070,6 +66075,7 @@
 ||rtrgt.com^
 ||rtrgt2.com^
 ||rtrhit.com^
+||rttnvz.xyz^
 ||rttr2.zaycev.net^
 ||rtty.in^
 ||rtumdhdk.xyz^
@@ -85782,7 +85788,6 @@
 ||txv0.destinia.hu^
 ||txv2-br-cdn.kwai.net.iberostar.com^
 ||txvoin.with2.net^
-||txwhfmxlmu.com^
 ||txyqik.jjshouse.fr^
 ||txzaazmdhtw.com^
 ||txzepl.xyz^
@@ -86840,6 +86845,7 @@
 ||upwwgd.zentempel.com^
 ||upyerxzn.xyz^
 ||upytsgo.cn^
+||upyzqf.cn^
 ||upz1.destinia.lt^
 ||upzekroman.com^
 ||uq.skewlyshoggle.com^
@@ -88552,6 +88558,7 @@
 ||vptbn.com^
 ||vpumfeghiall.com^
 ||vpuuzj.schnullireich.de^
+||vpwizuj.icu^
 ||vpzohx.xyz^
 ||vqbidy.benetton.com^
 ||vqbzpv.xyz^
