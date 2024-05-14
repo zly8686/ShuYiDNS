@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-05-14 09:14:57（北京时间）
+! Version: 2024-05-14 20:33:37（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 94743
+! Total count: 94745
 ||*.diwodiwo.xyz^
 ||*.p2p.huya.com^
 ||*.va.huya.com^
@@ -15103,6 +15103,7 @@
 ||beacon.kmi-us.com^
 ||beacon.krxd.net^
 ||beacon.lycos.com^
+||beacon.nc-net.or.jp^
 ||beacon.netflix.com^
 ||beacon.qq.com^
 ||beacon.riskified.com^
@@ -54015,6 +54016,7 @@
 ||mqrupjsm.xyz^
 ||mqs.ioam.de^
 ||mqsicr.smiggle.co.uk^
+||mqsjzm.cn^
 ||mqsnce.xyz^
 ||mquwyx.engelhorn.de^
 ||mqvyob.vidaxl.fi^
@@ -63402,6 +63404,7 @@
 ||qwmamh.icu^
 ||qwnmfiti.xyz^
 ||qwoyfys.com^
+||qwsanan.top^
 ||qwyonzatjoq.com^
 ||qwyoxrmhep.com^
 ||qx0.xnxxtubevideos.com^
@@ -63963,7 +63966,6 @@
 ||realeducation.kangan.edu.au^
 ||realestate.collinscu.org^
 ||realevalbs.com^
-||realhumandeals.com^
 ||realisecheerfuljockey.com^
 ||realiseequanimityliteracy.com^
 ||realistic-negotiation.com^
