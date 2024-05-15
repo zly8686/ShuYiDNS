@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-05-14 20:33:37（北京时间）
+! Version: 2024-05-15 09:15:38（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 94745
+! Total count: 94767
 ||*.diwodiwo.xyz^
 ||*.p2p.huya.com^
 ||*.va.huya.com^
@@ -66,6 +66,7 @@
 ||07634.com^
 ||079301eaff0975107716716fd1cb0dcd.com^
 ||07b3.pandasuite.io^
+||07dy.cc^
 ||08088.top^
 ||0816086bd1.com^
 ||0898hhh.com^
@@ -8122,7 +8123,6 @@
 ||adsmart.konka.com^
 ||adsmart.net^
 ||adsmart.yicha.cn^
-||adsmaster.dev^
 ||adsmeasurement.com^
 ||adsmetadata.mobileadexchange.net^
 ||adsmind.apdcdn.tc.qq.com^
@@ -9810,6 +9810,7 @@
 ||ammannests.com^
 ||ammits.com^
 ||amnruvbmeoqp.com^
+||amnwpircuomd.com^
 ||amo.myoyster.mx^
 ||amobee.com^
 ||amoddishor.com^
@@ -16718,6 +16719,7 @@
 ||bpsxld.meutudo.com.br^
 ||bpt.webedia-group.com^
 ||bptracking.com^
+||bpxbzps.xyz^
 ||bpyerxzn.xyz^
 ||bpztsxx.com^
 ||bq.hammaidreswill.com^
@@ -17145,6 +17147,7 @@
 ||bromidsluluai.com^
 ||bromoilnapalms.com^
 ||bromusic.site^
+||bromusic3s.site^
 ||bronchichogset.com^
 ||bronrt.stsdk.vivo.com.cn^
 ||bronxvanilla.openapp.link^
@@ -29029,6 +29032,7 @@
 ||eggsiswensa.com^
 ||eggsreunitedpainful.com^
 ||eghrbf.immowelt.at^
+||egidskiw.top^
 ||egipsbvlgn.xyz^
 ||eglaitou.com^
 ||egldvmz.com^
@@ -37446,6 +37450,7 @@
 ||hg-bn.com^
 ||hgads.com^
 ||hgbn.rocks^
+||hgcgnfe.icu^
 ||hgcmnews.pro^
 ||hgearlpfbm.top^
 ||hgf4.zanzicar.fr^
@@ -37758,6 +37763,7 @@
 ||hjq9z7bw6f5tr3xe2yl8.giga-uqload.xyz^
 ||hjshal.com^
 ||hjtedf.xyz^
+||hjuswoulvp.xyz^
 ||hjxajf.com^
 ||hk-cdn.effectivemeasure.net^
 ||hk-go.experian.com^
@@ -42088,6 +42094,7 @@
 ||iwantuonly.com^
 ||iwantusingle.com^
 ||iwatojc.cn^
+||iwaxurhebkn.com^
 ||iwe.ktvgv.com^
 ||iwerioo.top^
 ||iwfxgkixsoma.com^
@@ -43552,6 +43559,7 @@
 ||kbayke.xyz^
 ||kbbrptv.xyz^
 ||kbcmdi.florsheim.com.au^
+||kbexos.xyz^
 ||kbighx.absolventa.de^
 ||kbknujjtpnqq.com^
 ||kbnmnl.com^
@@ -53009,6 +53017,7 @@
 ||millustry.top^
 ||milordearnful.digital^
 ||milsoft.actonservice.com^
+||milteept.xyz^
 ||miltlametta.com^
 ||miluwo.com^
 ||mimakiusa.actonservice.com^
@@ -53541,6 +53550,9 @@
 ||mobilelog.upqzfile.com^
 ||mobilelog.ws.pho.to^
 ||mobilemsg.youku.com^
+||mobileoffers-7-j-download.com^
+||mobileoffers-dld-download.com^
+||mobileoffers-downloadapp-a.com^
 ||mobilepreviouswicked.com^
 ||mobileservice.cn^
 ||mobiletelemetry.ebay.com^
@@ -53762,6 +53774,7 @@
 ||moonads.net^
 ||moonheappyr.com^
 ||moonicorn.network^
+||moonjscdn.info^
 ||moonlitturbots.com^
 ||moonoafy.net^
 ||moonrocketaffiliates.com^
@@ -54759,6 +54772,7 @@
 ||naipatouz.com^
 ||naipsouz.net^
 ||nairapp.com^
+||naisepsaige.com^
 ||naiskosungueal.top^
 ||naivegirlie.com^
 ||naivescorries.com^
@@ -62021,6 +62035,7 @@
 ||proxy.dzeio.com^
 ||proxy.vidazoo.com^
 ||prplad.com^
+||prpmdp.xyz^
 ||prpops.com^
 ||prre.ru^
 ||prsitecheck.com^
@@ -63075,6 +63090,7 @@
 ||qnjyeyc.com^
 ||qnlbs2m0uoto.www.videoath.com^
 ||qnmtqq.com^
+||qnp16tstw.com^
 ||qnqdpy.edreams.net^
 ||qnsr.com^
 ||qnzczf.idc-otsuka.jp^
@@ -63879,6 +63895,7 @@
 ||rcyzsh.icu^
 ||rczudr.xyz^
 ||rczwcs.brack.ch^
+||rd-cdnp.name^
 ||rd.adn.agrantsem.com^
 ||rd.alice.it^
 ||rd.ane.yahoo.co.jp^
@@ -75845,6 +75862,7 @@
 ||stack-sonar.com^
 ||stackadapt.com^
 ||stackattacka.com^
+||stackmultiple.com^
 ||stackprotectnational.com^
 ||stadac.mobilapp.io^
 ||stadig.ifeng.com^
@@ -78200,6 +78218,7 @@
 ||sunlampassumes.com^
 ||sunlightirrationalhearty.com^
 ||sunlightmetrics.b-cdn.net^
+||sunmediaads.com^
 ||sunnycategoryopening.com^
 ||sunnyscanner.com^
 ||sunnyseries.com^
@@ -87906,6 +87925,7 @@
 ||vfvad.top^
 ||vfvcxv.naturhaeuschen.de^
 ||vfvdsati.com^
+||vfxrpl.xyz^
 ||vfzfrx.xyz^
 ||vfzqtgr.com^
 ||vfzxaz.bloomingdales.ae^
@@ -90459,6 +90479,7 @@
 ||wmbd.gamersky.com^
 ||wmbldi.compass.it^
 ||wmcdp.io^
+||wmcdpt.com^
 ||wmdzefk.com^
 ||wmedia-track.uc.cn^
 ||wmedia.adk2x.com^
@@ -94284,6 +94305,7 @@
 ||zhedvge.com^
 ||zhej78i1an8w6ceu.com^
 ||zhengliyqq.com^
+||zhengzhou12.top^
 ||zhibo128x1.xyz^
 ||zhidian3g.cn^
 ||zhihei.com^
