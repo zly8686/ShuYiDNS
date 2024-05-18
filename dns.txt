@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-05-18 09:14:49（北京时间）
+! Version: 2024-05-18 20:30:32（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 94559
+! Total count: 94562
 ||*.diwodiwo.xyz^
 ||*.p2p.huya.com^
 ||*.va.huya.com^
@@ -19301,6 +19301,7 @@
 ||cheddaramusias.life^
 ||cheebetoops.com^
 ||cheecmou.com^
+||cheeghek.xyz^
 ||cheekysleepyreproof.com^
 ||cheeradvise.com^
 ||cheerful-resolution.com^
@@ -27688,6 +27689,7 @@
 ||ds7hds92.de^
 ||ds88pc0kw6cvc.cloudfront.net^
 ||dsa-mfp.fengshows.cn^
+||dsa22.com^
 ||dsas.danawa.com^
 ||dsb.yahoo.co.jp^
 ||dsb6jelx4yhln.cloudfront.net^
@@ -38915,7 +38917,6 @@
 ||iduq.com^
 ||idx.lat^
 ||idydlesswale.info^
-||idyllicjazz.com^
 ||idyllteapots.com^
 ||idynbff.cn^
 ||ie-business.vodafone.com^
@@ -47696,6 +47697,7 @@
 ||lwh1.carrefour-banque.fr^
 ||lwhffh.xyz^
 ||lwide.xyz^
+||lwjje.com^
 ||lwjvyd.com^
 ||lwkvkd.maison-objet.com^
 ||lwmnyf.modivo.hu^
@@ -50473,7 +50475,6 @@
 ||mcdmetric.aaa.com^
 ||mcdmetrics.aaa.com^
 ||mcdmetrics2.aaa.com^
-||mcdn.bilivideo.cn^
 ||mcdote.com^
 ||mcdp-*.outbrain.com^
 ||mcds7.icu^
@@ -52752,7 +52753,6 @@
 ||mgtrgjwmwuirx.com^
 ||mgxxuqp.com^
 ||mgyccfrshz.com^
-||mh.wedgedgeoduck.com^
 ||mh.zonulews.com^
 ||mh616.org^
 ||mh9dskj8jg.com^
@@ -52804,6 +52804,7 @@
 ||miaeglaring.uno^
 ||miamiahokums.com^
 ||miamribud.com^
+||mianyaojsj.com^
 ||miao.baidu.com^
 ||miaobeichina.com^
 ||miaouedcrevass.com^
@@ -85674,7 +85675,9 @@
 ||txeefgcutifv.info^
 ||txfryh.terra.com.br^
 ||txgeszx.com^
+||txhfgwgkwt*.asia^
 ||txhfgwgkwt7.asia^
+||txhfgwgkwt8.asia^
 ||txjhmbn.com^
 ||txmeeqz.icu^
 ||txouliypi.com^
@@ -87115,7 +87118,6 @@
 ||uvu.nojmlxq.cn^
 ||uvxclrl.com^
 ||uvzrtq.livingspaces.com^
-||uwams.info^
 ||uwandlt.top^
 ||uwavoptig.com^
 ||uweriot.top^
@@ -89576,6 +89578,7 @@
 ||wecouldle.com^
 ||wedeegut.net^
 ||wedflossbecause.com^
+||wedgedgeoduck.com^
 ||wedgierbirsit.com^
 ||wednesdaygranddadlecture.com^
 ||wednesdaynaked.com^
