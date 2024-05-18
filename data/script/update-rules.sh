@@ -12,27 +12,21 @@ cp ./data/rules/adblock.txt ./tmp/rules01.txt
 cp ./data/rules/whitelist.txt ./tmp/allow01.txt
 
 cd tmp
-#下载yhosts规则
-curl https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts | sed '/0.0.0.0 /!d; /#/d; s/0.0.0.0 /||/; s/$/\^/' > rules001.txt
-
-#下载大圣净化规则
-curl https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts > rules002.txt
-sed -i '/视频/d;/奇艺/d;/微信/d;/localhost/d' rules002.txt
-sed -i '/127.0.0.1 /!d; s/127\.0\.0\.1 /||/; s/$/\^/' rules002.txt
-
-#下载乘风视频过滤规则
-curl https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/mv.txt | awk '!/^$/{if($0 !~ /[#^|\/\*\]\[\!]/){print "||"$0"^"} else if($0 ~ /[#\$|@]/){print $0}}' | sort -u > rules003.txt
-
 
 echo '下载规则'
 rules=(
+  "https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt" #基础过滤器
   "https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_224_Chinese/filter.txt" #AdGuard中文过滤器
   "https://perflyst.github.io/PiHoleBlocklist/SmartTV-AGH.txt" #Tv规则
+  "https://easylist-downloads.adblockplus.org/easylist.txt" #EasyList
+  "https://easylist-downloads.adblockplus.org/easylistchina.txt" #EasyList China
   "https://easylist-downloads.adblockplus.org/easyprivacy.txt" #EasyPrivacy隐私保护规则
   "https://raw.githubusercontent.com/Noyllopa/NoAppDownload/master/NoAppDownload.txt" #去APP下载提示规则
   "https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.adblock" #d3ward规则
   "https://small.oisd.nl/" #oisd规则
   "https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt" #秋风规则
+  "https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt" #乘风规则
+  "https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt" #CJX's Annoyance List
  )
 
 allow=(
