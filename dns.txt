@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-05-18 22:20:09（北京时间）
+! Version: 2024-05-19 09:20:18（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 101998
+! Total count: 102008
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -2997,6 +2997,7 @@
 ||999aa666bb.com^
 ||999bb222ww.com^
 ||999db.cn^
+||999fb.cn^
 ||999pro.top^
 ||999webdesign.com^
 ||999xx333kk.com^
@@ -9303,7 +9304,6 @@
 ||adsmart.com^
 ||adsmart.konka.com^
 ||adsmart.net^
-||adsmaster.dev^
 ||adsmeasurement.com^
 ||adsmetadata.mobileadexchange.net^
 ||adsmind.apdcdn.tc.qq.com^
@@ -36062,6 +36062,7 @@
 ||forwrdnow.com^
 ||foryanmachan.com^
 ||forzubatr.com^
+||foscvbu.icu^
 ||foshmirak.com^
 ||fosiecajeta.com^
 ||fosiemilwell.com^
@@ -51297,6 +51298,7 @@
 ||lnvabjwmrlmzb.top^
 ||lnvmxk.familyset.jp^
 ||lnxfgm.party-calendar.net^
+||lnxkrd.xyz^
 ||lnxpdj.xyz^
 ||lnyajvutvvirw.xyz^
 ||lnzjlr.xyz^
@@ -52259,6 +52261,7 @@
 ||lrcdjqw.com^
 ||lrdnuu.shopee.co.th^
 ||lrdyfz.xyz^
+||lreprx-server.anyclip.com^
 ||lreqmoonpjka.com^
 ||lreust.joshinweb.jp^
 ||lrfctq.wordans.co.uk^
@@ -52324,6 +52327,7 @@
 ||ltedinncreasuke.org^
 ||ltengronsa.com^
 ||lteyrcwpoh.xyz^
+||ltfpbp.xyz^
 ||lthmfx.xyz^
 ||ltienll.top^
 ||ltingcoempa.info^
@@ -54869,6 +54873,7 @@
 ||marketingsolutions.yahoo.com^
 ||marketingus.hso.com^
 ||marketland.me^
+||marketplace.anyclip.com^
 ||marketreports.autovistagroup.com^
 ||marketresearch.jacksonhealthcare.com^
 ||markkasgrosses.com^
@@ -54995,6 +55000,8 @@
 ||matokeassyria.com^
 ||matomo.a1.by^
 ||matomo.cloudfront.similarweb.io^
+||matomo.menshealth.de^
+||matomo.motorpresse.de^
 ||matomo.quan.hoabinh.vn^
 ||matomo.shoppersguide.com.ph^
 ||matomo.similarweb.io^
@@ -63840,6 +63847,7 @@
 ||oxllyobna.com^
 ||oxmoonlint.com^
 ||oxmqzeszyo.com^
+||oxmvcg.xyz^
 ||oxnhhswdzwam.com^
 ||oxqq.pandasuite.io^
 ||oxrqdkfftw.com^
@@ -66143,6 +66151,7 @@
 ||player-metrics.instaread.co^
 ||player-telemetry.vimeo.com^
 ||player.4shares.live/*/img^
+||player.anyclip.com^
 ||player.gliacloud.com^
 ||player.stats.live-video.net^
 ||playeranyd.org^
@@ -92652,6 +92661,7 @@
 ||ugeewhee.xyz^
 ||ughhimtoy.com^
 ||ughzfjx.com^
+||ugidskit.top^
 ||ugkpsi.xyz^
 ||ugkray.theloom.in^
 ||uglimontana.digital^
