@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-05-19 20:30:57（北京时间）
+! Version: 2024-05-20 09:16:00（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 102009
+! Total count: 102015
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -8981,6 +8981,7 @@
 ||ads.scifi.com^
 ||ads.seniorfriendfinder.com^
 ||ads.senmanga.com^
+||ads.seovietnam.pro^
 ||ads.servebom.com^
 ||ads.service.kugou.com^
 ||ads.sexyland.vn^
@@ -10442,6 +10443,7 @@
 ||ajjhtetv87.com^
 ||ajjkmoyjlbjj.top^
 ||ajjwuunaxq.com^
+||ajkggo.xyz^
 ||ajkjbcjbaaaed.com^
 ||ajkzd9h.com^
 ||ajlwaseodqo.com^
@@ -48832,6 +48834,7 @@
 ||kzkmmbrrzn.com^
 ||kzknjdlalls.com^
 ||kznizrhd.xyz^
+||kzpizjp.cn^
 ||kzprugp.xyz^
 ||kzsicw.chip.de^
 ||kzsicw.cinema.de^
@@ -62032,6 +62035,7 @@
 ||ogghpaoxwv.com^
 ||oghqvffmnt.com^
 ||ogicatius.com^
+||ogidskik.top^
 ||ogivedungas.digital^
 ||ogle-0740lb.com^
 ||ogmjhve.cn^
@@ -86421,6 +86425,7 @@
 ||tdfkidmyynbqu.com^
 ||tdgtkqtluuhjcfw.com^
 ||tdhlmto.cn^
+||tdhnxf.xyz^
 ||tdid.m.qq.com^
 ||tdjdpyrt.xyz^
 ||tdjvod.chevignon.com.co^
@@ -100469,6 +100474,7 @@
 ||yhhnjg.com^
 ||yhhrtgltcfta.com^
 ||yhhuzt.gintarine.lt^
+||yhimpnr.icu^
 ||yhjgjk.wemakeup.it^
 ||yhjhjwy.com^
 ||yhkeqboz.com^
