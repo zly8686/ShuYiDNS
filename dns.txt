@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-05-21 09:15:27（北京时间）
+! Version: 2024-05-21 20:32:43（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 102050
+! Total count: 102049
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -2367,6 +2367,7 @@
 ||5555.spinna.online^
 ||555bbb333bbb.com^
 ||555bbb555www.com^
+||555bbb777www.com^
 ||55706cc809.com^
 ||558ao12sqrok.top^
 ||5602.notify.optimizesrv.com^
@@ -2537,6 +2538,7 @@
 ||65u0tvf9l4.com^
 ||65vk1fba34.com^
 ||663.notify.optimizesrv.com^
+||66308888.com^
 ||66377311795.com^
 ||665.notify.optimizesrv.com^
 ||665166e5a9.com^
@@ -2548,6 +2550,7 @@
 ||666bb777ww.com^
 ||666bbb222www.com^
 ||666bbb333bbb.com^
+||666bbb888www.com^
 ||6677648.reddoorz.com^
 ||6696q.com^
 ||669fb3128e4b4.com^
@@ -2565,6 +2568,7 @@
 ||68aq8q352.com^
 ||68d6b65e65.com^
 ||69-74.net.jumia.sn^
+||692881.com^
 ||69688qp.com^
 ||6969.javher.com^
 ||6969aa.cn^
@@ -2677,6 +2681,7 @@
 ||775cf6f1ae.com^
 ||776173f9e6.com^
 ||777-club.ru^
+||777aa888bb.com^
 ||777aa999aa.com^
 ||777bb111ww.com^
 ||777bbb222bbb.com^
@@ -2824,6 +2829,8 @@
 ||8861202.com^
 ||888.com^
 ||8889775.com^
+||888aa111bb.com^
+||888aa222bb.com^
 ||888bb555ww.com^
 ||888bb666cc.com^
 ||888bbb555www.com^
@@ -6563,7 +6570,6 @@
 ||aardvark.tonicaudio.com^
 ||aardvark.tracking.ovh^
 ||aardwolf.benbrignell.com^
-||aardwolf.chrisblackwell.me^
 ||aardwolf.keygen.sh^
 ||aardwolf.meinsmartplan.de^
 ||aardwolf.relaycorp.tech^
@@ -14918,7 +14924,6 @@
 ||auth.be.sec.miui.com^
 ||auth.carte-gr.total.fr^
 ||authaptixoal.com^
-||authcaptcha.com^
 ||authentic3d.actonservice.com^
 ||authenticseasickexhausted.com^
 ||authognu.com^
@@ -15023,7 +15028,6 @@
 ||avglfookdjuj.com^
 ||avhcoumvt.com^
 ||avhtaapxml.com^
-||avhxnasqeo.com^
 ||aviationbe.com^
 ||aviculagolder.com^
 ||avid.actonservice.com^
@@ -17000,6 +17004,7 @@
 ||bestsearch.net^
 ||bestskillon.com^
 ||bestsrv.de^
+||bestssrv.com^
 ||besttracksolution.com^
 ||bestudszingy.life^
 ||bestunfollow.com^
@@ -22160,7 +22165,6 @@
 ||cliplamppostillegally.com^
 ||clipperroutesevere.com^
 ||clipsepterin.guru^
-||clipserelock.com^
 ||cliqtag.net^
 ||cliquelead.com^
 ||cliquesteria.net^
@@ -24135,7 +24139,6 @@
 ||cpm.felixads.com^
 ||cpm.fmlabsonline.com^
 ||cpm.foremedia.net^
-||cpm.fw.tv^
 ||cpm.geoadserver.com^
 ||cpm.gwmexchange.com^
 ||cpm.jambojar.com^
@@ -27674,6 +27677,7 @@
 ||delivery49.com^
 ||delivery51.com^
 ||deliverydom.com^
+||deliveryengine.adswizz.com^
 ||deliverymod.com^
 ||deliverymodo.com^
 ||deliverytrafficnews.com^
@@ -29742,6 +29746,7 @@
 ||dpdcinlfynhg.xyz^
 ||dpdnav.com^
 ||dpe5t.space^
+||dpedrt.xyz^
 ||dpfchqsiksjuyjc.xyz^
 ||dphpycbr.com^
 ||dphunjimnkyadh.com^
@@ -31413,6 +31418,7 @@
 ||efplso.epost.go.kr^
 ||efptjivneg.com^
 ||efreecode.com^
+||efs604.top^
 ||eftesthalms.com^
 ||eftsaudian.website^
 ||efully.info^
@@ -35353,7 +35359,6 @@
 ||fitcenterz.com^
 ||fitchedjimmy.guru^
 ||fitfuldemolitionbilliards.com^
-||fitrootmisterm.com^
 ||fitsazx.xyz^
 ||fitsjamescommunicated.com^
 ||fitssheashasvs.info^
@@ -40993,7 +40998,6 @@
 ||hf5rbejvpwds.com^
 ||hfbfbvmjdmxc.com^
 ||hfeoveukrn.info^
-||hffdjxnyxckf.xyz^
 ||hffxc.com^
 ||hfggttxptxwdmb.com^
 ||hfhytx.xyz^
@@ -47419,7 +47423,6 @@
 ||juzqsq.finanzcheck.de^
 ||juzzclftcseca.com^
 ||jv.curiousuraemia.com^
-||jv.sugaryestrone.com^
 ||jvaemllmeezyw.top^
 ||jvbvng.notino.it^
 ||jvbzzmnjezeba.top^
@@ -48055,6 +48058,7 @@
 ||king3rsc7ol9e3ge.com^
 ||kingads.mobi^
 ||kingads.space^
+||kingads2.org^
 ||kingcobmoe.top^
 ||kingfisher.gedaly.com^
 ||kingfisher.startupdemoday.live^
@@ -48973,7 +48977,6 @@
 ||la-la-sf.com^
 ||la-sync.taboola.com^
 ||la.idgenterprise.com^
-||la.lamdensnip.com^
 ||la.vietid.net^
 ||la.vnbusiness.vn^
 ||la2.vnecdn.net^
@@ -57899,6 +57902,7 @@
 ||mite.cotinga.io^
 ||mite.downtotheearth.co.uk^
 ||mite.tetrameros.com^
+||mito03.top^
 ||mitosisaralia.top^
 ||mitour.de^
 ||mitowdcagos.com^
@@ -58800,6 +58804,7 @@
 ||mpougdusr.com^
 ||mppqellliovkuqi.com^
 ||mppwqimwfkrkpx.com^
+||mpqgoircwb.com^
 ||mpraven.org^
 ||mprhrvnxppdxci.com^
 ||mps.wenkuzu.com^
@@ -59020,6 +59025,7 @@
 ||mtrs.fluoruniversity.com^
 ||mtt.eve.mdt.qq.com^
 ||mttjepfakwch.com^
+||mttpsy6666.cc^
 ||mtvgxt.partirpascher.com^
 ||mtvnbq.infopraca.pl^
 ||mtwdmk9ic.com^
@@ -59371,7 +59377,6 @@
 ||mydomainbest.com^
 ||mydsp.waardex.com^
 ||mydzfldt.xyz^
-||mydznew.xyz^
 ||myeasetrack.com^
 ||myeasyvpn.com^
 ||myefo.edge48.testandtarget.omniture.com^
@@ -61667,7 +61672,6 @@
 ||oazartie.com^
 ||oazoorse.com^
 ||ob.leap.app^
-||oba.rus-km.ru^
 ||obadluhjxnsnfv.com^
 ||obanmafn.com^
 ||obbkucbipw.com^
@@ -62030,7 +62034,6 @@
 ||ofvosb.jumbo.com.tr^
 ||ofwdvh.suntransfers.com^
 ||ofwqqwrugi.com^
-||og.cejainlike.com^
 ||og.elemeuric.com^
 ||ogaewcqgj.com^
 ||ogb2.biopur-leanature.fr^
@@ -62624,7 +62627,6 @@
 ||oncahh.boxlunch.com^
 ||oncavst.com^
 ||oncdiranwrus.com^
-||oncerredweed.website^
 ||oncgqzu.cn^
 ||onclarck.com^
 ||onclasrv.com^
@@ -62826,7 +62828,6 @@
 ||ooegpip.cn^
 ||ooejkd.xyz^
 ||ooftauph.com^
-||oofteonaft.work^
 ||ooftounu.com^
 ||oofycyur.com^
 ||oofyjigsaw.com^
@@ -65231,7 +65232,6 @@
 ||pfulhwxjeoi.com^
 ||pfyscjwxjcqdsqc.com^
 ||pg-ad-b1.nosdn.127.net^
-||pg.maftirkolo.com^
 ||pgaictlq.xyz^
 ||pgapi.ksmobile.com^
 ||pgbmjuhwiej.xyz^
@@ -67658,7 +67658,6 @@
 ||prosperousunnecessarymanipulate.com^
 ||prospex.actonservice.com^
 ||prosthong.com^
-||prostoimya.kino-o-voine.ru^
 ||prosumsit.com^
 ||protagcdn.com^
 ||protally.net^
@@ -71290,7 +71289,6 @@
 ||rhzvlcu.xyz^
 ||ri.eightvowrinkle.com^
 ||riamiavid.com^
-||riataspardahs.com^
 ||ribbondoorbell.com^
 ||ribozoscasasia.com^
 ||ribqpiocnzc.com^
@@ -84897,7 +84895,6 @@
 ||swebstats.imf.org^
 ||swebstats.us.aimia.com^
 ||swebtraffic.executiveboard.com^
-||swedgebaraca.space^
 ||sweepadstoday.click^
 ||sweepawejasper.com^
 ||sweepfrequencydissolved.com^
@@ -85119,6 +85116,7 @@
 ||synchronizedoll.com^
 ||synchronizerobot.com^
 ||synchrootolite.digital^
+||synchroscript.deliveryengine.adswizz.com^
 ||syncplusconfig.s3.amazonaws.com^
 ||syndapop.com^
 ||syndetstermine.com^
@@ -89908,7 +89906,6 @@
 ||track.mdsmatch.com^
 ||track.mentor.com^
 ||track.midway.run^
-||track.migattenogokui.com^
 ||track.miro.com^
 ||track.mituo.cn^
 ||track.mopo.de^
@@ -92537,6 +92534,7 @@
 ||ub.finanzfrage.net^
 ||ub1.job592.com^
 ||ubadzufyfjcd.com^
+||ubar-pro4.ru^
 ||ubbfpm.com^
 ||ubdiysvv.com^
 ||ubdjfy.maje.com^
@@ -95721,6 +95719,7 @@
 ||w7.berlin.de^
 ||w7.berliner-silvester.de^
 ||w7.weihnachteninberlin.de^
+||w7044.com^
 ||w716eb02n9.ru^
 ||w740.newstimes.com^
 ||w76mddb.com^
@@ -99012,7 +99011,6 @@
 ||xay5o.toscane-boutique.fr^
 ||xayiqcwbmmhwf.com^
 ||xazwlyh.com^
-||xb.sungzionism.com^
 ||xbc8fsvo5w75wwx8.pro^
 ||xbcnvj2mdk1dn1.com^
 ||xbcrohmposa.com^
@@ -100977,6 +100975,7 @@
 ||yu.dlxxjsh.top^
 ||yu0123456.com^
 ||yu6v3nhnsl.com^
+||yuanpinghengkangfuyouxiangongsi.top^
 ||yuanxiaa.cn^
 ||yuanxiab.cn^
 ||yuarra.pluto.ro^
