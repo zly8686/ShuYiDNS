@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-05-20 20:34:36（北京时间）
+! Version: 2024-05-21 09:15:27（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 102031
+! Total count: 102050
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -2661,7 +2661,6 @@
 ||75416fa555.com^
 ||754480bd33.com^
 ||757d.pandasuite.io^
-||75d1222852.com^
 ||76362b26c3.com^
 ||76416dc840.com^
 ||7678.notify.optimizesrv.com^
@@ -3652,6 +3651,7 @@
 ||a14808.actonservice.com^
 ||a14814.actonservice.com^
 ||a14835.actonservice.com^
+||a14net.com^
 ||a14refresh.com^
 ||a14tdsa.com^
 ||a15567.actonservice.com^
@@ -4322,6 +4322,7 @@
 ||a32359.actonservice.com^
 ||a32559.actonservice.com^
 ||a32858.actonservice.com^
+||a32d9f2cc6.com^
 ||a32fc87d2f.com^
 ||a33167.actonservice.com^
 ||a33174.actonservice.com^
@@ -11013,7 +11014,6 @@
 ||amazinelistrun.xyz^
 ||amazingcounters.com^
 ||amazinglyclimb.com^
-||amazinglygarden.com^
 ||amazinglyprogramswilfrid.com^
 ||amazingomgnews.ru/live.js^
 ||amazon-adsystem.com^
@@ -14345,7 +14345,6 @@
 ||askdomainad.com^
 ||askedappear.com^
 ||askersstylish.top^
-||askewflatted.com^
 ||askfollow.us^
 ||asklinklanger.com^
 ||asklots.com^
@@ -14780,7 +14779,6 @@
 ||au.mywd.com^
 ||au2m8.com^
 ||auajifblipz.com^
-||aubergeswots.com^
 ||auboalro.xyz^
 ||auburn9819.com^
 ||aucaikse.com^
@@ -15368,6 +15366,7 @@
 ||axvkdpcnadgdt.com^
 ||axwakwdibkunq.com^
 ||axwnmenruo.com^
+||axwofwowdram.com^
 ||axwortbunko.com^
 ||axwpawahnwux.com^
 ||axx.aflamk1.net^
@@ -17793,6 +17792,7 @@
 ||blunternutrias.digital^
 ||bluntmonster.com^
 ||blurbigdoable.com^
+||blurbreimbursetrombone.com^
 ||blurlorum.uno^
 ||blushbuiltonboard.com^
 ||blushgoats.com^
@@ -17913,6 +17913,7 @@
 ||bnhtml.com^
 ||bnifdlav.top^
 ||bnivcpronr.com^
+||bnjovv.xyz^
 ||bnk.wolterskluwerfs.com^
 ||bnl2bii.icu^
 ||bnlbecm.xyz^
@@ -19161,6 +19162,7 @@
 ||bulletprofitpop.com^
 ||bulletproxy.ch^
 ||bulletrepeatedly.com^
+||bullionglidingscuttle.com^
 ||bullionyield.com^
 ||bullyhempbacked.com^
 ||bullyingassertive.com^
@@ -19706,6 +19708,7 @@
 ||ca.ssl.holdmybeerconsulting.com^
 ||ca.upboostarmaria.com^
 ||ca.yangshengtv.com^
+||ca2686564a.com^
 ||ca3m6ari9rllo.com^
 ||ca4psell23a4bur.com^
 ||ca548318cc.com^
@@ -20909,7 +20912,6 @@
 ||central-beta.mall.tv^
 ||central.mall.tv^
 ||central2.secureforms.mcafee.com^
-||centralheat.me^
 ||centralized.zaloapp.com^
 ||centralnervous.net^
 ||centredrag.com^
@@ -33593,6 +33595,7 @@
 ||evs.sgmt.loom.com^
 ||evscnfj.cn^
 ||evt-api.ntm.eu^
+||evt.24.com^
 ||evt.houzz.com^
 ||evtkugaoxhwegi.com^
 ||evtwkkh.com^
@@ -35398,6 +35401,7 @@
 ||fjnsnt.xyz^
 ||fjtroip.cn^
 ||fjwymafkgqfq.xyz^
+||fjxdafshdrnnvdw.com^
 ||fjxowepqiwrdao.com^
 ||fjxstt.xyz^
 ||fk.janetsh.com^
@@ -36407,6 +36411,7 @@
 ||fridaylazy.com^
 ||fridaymarketing.actonservice.com^
 ||fridaypatnod.com^
+||fridaywake.com^
 ||fridgejakepreposition.com^
 ||fridgestretched.com^
 ||fridw-isa.com^
@@ -38042,6 +38047,7 @@
 ||gk1.582582.com^
 ||gk1.zjbiz.net^
 ||gk79a2oup.com^
+||gkbhrj49a.com^
 ||gkbvnyk.com^
 ||gkcltxp.com^
 ||gkcqyo.aquazzura.com^
@@ -42046,6 +42052,7 @@
 ||htoptracker11072023.com^
 ||htoycpsxljkqrp.com^
 ||htpirf.xyz^
+||htplayground.com^
 ||htqfxh.vuch.cz^
 ||htrace.wetvinfo.com^
 ||htseca.top^
@@ -43060,6 +43067,7 @@
 ||ilpostoplus.openapp.link^
 ||iltcaf.immobilienscout24.de^
 ||iluabuiukgpjb.com^
+||ilubn48t.xyz^
 ||iluemvh.com^
 ||ilumtoux.net^
 ||ilvnkzt.com^
@@ -47497,6 +47505,7 @@
 ||jy.astylararsines.com^
 ||jy.epoxideouttop.com^
 ||jy.zhongxues.com^
+||jy147a.com^
 ||jybaekajjmroq.top^
 ||jybnuw.mudah.my^
 ||jydydmctzxcea.com^
@@ -48632,7 +48641,6 @@
 ||ktrmmxocabjd.com^
 ||ktrust.site^
 ||ktskxm.smartphoto.nl^
-||kttoo1.com^
 ||ktu.sv2.biz^
 ||ktvjpmi.xyz^
 ||ktvtxir.xyz^
@@ -49778,6 +49786,7 @@
 ||lgepbups.xyz^
 ||lgfiufyaycsh.com^
 ||lghqdjhilj.com^
+||lgidskil.top^
 ||lgm.averydennison.com^
 ||lgmvmfywd.com^
 ||lgoewtd.icu^
@@ -58220,6 +58229,7 @@
 ||moartraffic.com^
 ||moastizi.xyz^
 ||moatads.com^
+||moawgsfidoqm.com^
 ||moawhoumahow.com^
 ||mob.lowtid.fun^
 ||mob1ledev1ces.com^
@@ -58599,6 +58609,7 @@
 ||morict.com^
 ||morionsluigini.digital^
 ||mormont.gamer-network.net^
+||morningamidamaruhal.com^
 ||morningglory101.io^
 ||moro-douga.link^
 ||moronesphotos.com^
@@ -59201,6 +59212,7 @@
 ||mvgucp.com^
 ||mvgzwamfvkw.com^
 ||mvhiyha.com^
+||mvirkw.xyz^
 ||mvjlsdqd.com^
 ||mvkjeglvbbfvm.xyz^
 ||mvlvxzhxjci.com^
@@ -59678,7 +59690,6 @@
 ||napallergy.com^
 ||napererelysian.com^
 ||napesropes.com^
-||naphthawr.website^
 ||napkinaunts.com^
 ||naplesspeisage.com^
 ||napolimagazine.biz^
@@ -63939,6 +63950,7 @@
 ||p-log.ykimg.com^
 ||p.7060.la^
 ||p.alcmpn.com^
+||p.analitik.bik.gov.tr^
 ||p.armorgames.net^
 ||p.aty.sohu.com^
 ||p.buluo.qq.com^
@@ -64706,6 +64718,9 @@
 ||pbc.programbrokerage.com^
 ||pbcde.com^
 ||pbcohtm.com^
+||pbcs.decider.com^
+||pbcs.nypost.com^
+||pbcs.pagesix.com^
 ||pbcs.realtor.com^
 ||pbdo.net^
 ||pbecrm.aquanet.ru^
@@ -69748,7 +69763,6 @@
 ||ras.yahoo.com^
 ||rasahick.space^
 ||rascalbygone.com^
-||rashbackground.com^
 ||rashersingle.com^
 ||rashlyblowfly.com^
 ||rashtiprimomo.com^
@@ -69807,6 +69821,7 @@
 ||rawoarsy.com^
 ||raxetyrw.xyz^
 ||raxfracid.com^
+||rayajmp.icu^
 ||raylnk.com^
 ||raymondcarryingordered.com^
 ||rayshopsshabby.com^
@@ -75273,7 +75288,6 @@
 ||sermondirt.com^
 ||sermonoccupied.com^
 ||serpentineillegal.pro^
-||serpentinejob.pro^
 ||serpentreplica.com^
 ||serraeepoist.com^
 ||sersh.com^
@@ -75561,7 +75575,6 @@
 ||sh996.dftoutiao.com^
 ||shabaiks.com^
 ||shabbosrachel.digital^
-||shabby-constant.com^
 ||shabsaco.net^
 ||shackapple.com^
 ||shackdialectsense.com^
@@ -75830,6 +75843,7 @@
 ||sheshaft.com/js/license.*.js^
 ||sheshaft.com/js/script.js^
 ||sheshaft.com/right.js^
+||shesseet.com^
 ||shestrozo.com^
 ||shexawhy.net^
 ||shfewojrmxpy.xyz^
@@ -84359,6 +84373,7 @@
 ||sud.holidayinsider.com^
 ||sud.holidays.hrs.de^
 ||suddslife.com^
+||sudroockols.xyz^
 ||sudsguidon.com^
 ||sudvclh.com^
 ||suebeauing.top^
@@ -85853,6 +85868,7 @@
 ||tags.esri.rw^
 ||tags.fullcontact.com^
 ||tags.globo.com^
+||tags.hilabel.nl^
 ||tags.igeo.com.bo^
 ||tags.johnlewis.com^
 ||tags.master-perf-tools.com^
@@ -88099,6 +88115,7 @@
 ||tommys.openapp.link^
 ||tomog.pro^
 ||tomornpinjane.com^
+||tomorroweducated.com^
 ||tomorrowtardythe.com^
 ||tomsjousts.life^
 ||tonapplaudfreak.com^
@@ -91773,6 +91790,7 @@
 ||trou-fion.com^
 ||troublebarbara.com^
 ||troubled-stress.com^
+||troubledcontradiction.com^
 ||troubleextremityascertained.com^
 ||troublesomeleerycarry.com^
 ||trout.batzo.net^
@@ -93907,6 +93925,7 @@
 ||uwadpksbkzp.com^
 ||uwandlt.top^
 ||uwavoptig.com^
+||uwaxoyfklhm.com^
 ||uwayemfogibbgh.xyz^
 ||uweqsrwoey.com^
 ||uweriot.top^
@@ -94526,6 +94545,7 @@
 ||vfchm.cyou^
 ||vfd2dyn.vodafone.de^
 ||vfeeopywioabi.xyz^
+||vfgajrk.cn^
 ||vfghc.com^
 ||vfghd.com^
 ||vfghe.com^
@@ -95257,7 +95277,6 @@
 ||voleryclat.com^
 ||volleyballachiever.site^
 ||volna2babla1dh1.com^
-||volostsonkos.com^
 ||voltads.com^
 ||voltdeltainfo.voltdelta.com^
 ||volts.shopping.naver.com^
@@ -96775,7 +96794,6 @@
 ||wgkggub.com^
 ||wgnrrd.culturekings.com^
 ||wgoto.xyz^
-||wgplayer.com^
 ||wgpsjcpdulptl.com^
 ||wgsxteihr.com^
 ||wgxpirautgxpap.com^
@@ -99102,6 +99120,7 @@
 ||xenopusbink.com^
 ||xenosmussal.com^
 ||xenylclio.com^
+||xeoprwhhiuig.xyz^
 ||xerqfh.xyz^
 ||xertive.com^
 ||xetlugupyug.com^
