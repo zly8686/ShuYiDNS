@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-05-21 20:32:43（北京时间）
+! Version: 2024-05-22 09:16:06（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 102049
+! Total count: 102058
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -533,7 +533,6 @@
 ||1cros.net^
 ||1ctc.sfr.fr^
 ||1d27313995.com^
-||1d505919c1.com^
 ||1dcbzuv.com^
 ||1dfgh34g.gr3hjjj.pics^
 ||1dtdsln1j.de^
@@ -14523,7 +14522,6 @@
 ||astoapsu.com^
 ||astoecia.com^
 ||astogepian.com^
-||astonedunfound.com^
 ||astonishingscold.com^
 ||astonishmentfuneral.com^
 ||astra9dlya10.com^
@@ -15851,7 +15849,6 @@
 ||bakteso.ru^
 ||bakubabasilic.space^
 ||bakubasugis.guru^
-||balaraocleanly.website^
 ||balcekonspn.com^
 ||balconhoist.com^
 ||balconyparded.com^
@@ -19419,6 +19416,7 @@
 ||bxiaev.linvosges.com^
 ||bxikceucv.com^
 ||bxjhlhk.xyz^
+||bxlmrl.xyz^
 ||bxlsct.ex-shop.net^
 ||bxmpcfzlllej.com^
 ||bxnxdlb.xyz^
@@ -19691,7 +19689,6 @@
 ||c917.pandasuite.io^
 ||c917ed5198.com^
 ||c991aea613.com^
-||c993.westport-news.com^
 ||c9cc.icu^
 ||c9e9c1507e.com^
 ||c9emgwai66zi.com^
@@ -21584,6 +21581,7 @@
 ||cipdn.com^
 ||ciphercapital.tech^
 ||cipledecline.buzz^
+||cippusforebye.com^
 ||ciqahsejb.com^
 ||ciqtracking.com^
 ||cir-smart.baidu.com^
@@ -24668,6 +24666,7 @@
 ||csvtr13.bmodelawaretrust.com^
 ||csvtt.bmolife.com^
 ||csvtu.bmolending.com^
+||csylief.top^
 ||csymrm.24mx.fr^
 ||csyqts.tmon.co.kr^
 ||ct-dev.taskhuman.com^
@@ -27949,6 +27948,7 @@
 ||deut1.fdj.fr^
 ||deut2.fdj.fr^
 ||deut3.fdj.fr^
+||dev-analytics-cf.bigcrunch.com^
 ||dev-app.insprd.co^
 ||dev-business.stc.com.sa^
 ||dev-cenam-mobilefirst.tmx-internacional.net.iberostar.com^
@@ -28374,6 +28374,7 @@
 ||digital.rowland.agency^
 ||digital.setpointis.com^
 ||digital2cloud.com^
+||digitaladv.despar.it^
 ||digitaldsp.com^
 ||digitalmarketing.gogsg.com^
 ||digitalmarketing.nglantz.com^
@@ -30221,7 +30222,6 @@
 ||dukingdraon.com^
 ||dukirliaon.com^
 ||dukkxpf.com^
-||dulatiosa.com^
 ||dulativergs.com^
 ||dulcormutated.com^
 ||duldxuonx.com^
@@ -31597,6 +31597,7 @@
 ||elaterconditin.info^
 ||elaterconditing.info^
 ||elatorfatback.com^
+||elb.the-ozone-project.com^
 ||elbowfixes.com^
 ||elbowrevolutionary.com^
 ||elbowsmouldoral.com^
@@ -33010,6 +33011,7 @@
 ||eschelbolts.com^
 ||eschsupply.actonservice.com^
 ||escthermae.com^
+||esculicturbans.com^
 ||esculinconsent.top^
 ||escy55gxubl6.com^
 ||esdcubited.uno^
@@ -37040,6 +37042,7 @@
 ||galileesubvii.digital^
 ||galiowen.com^
 ||galjwnhotubfg.com^
+||galleonpiotine.com^
 ||gallerysouvlakeri.openapp.link^
 ||galleyssleeps.top^
 ||gallonranchwhining.com^
@@ -38243,6 +38246,7 @@
 ||gloogruk.com^
 ||glookup.info^
 ||gloolrey.com^
+||glooltoora.net^
 ||gloomfabricgravy.com^
 ||gloomilybench.com^
 ||gloomilychristian.com^
@@ -39149,6 +39153,7 @@
 ||gomastabrat.com^
 ||gomerchant.groupon.com^
 ||gomnlt.com^
+||gonairoomsoo.xyz^
 ||gondwrists.life^
 ||gone.pronhub.fun^
 ||goneawaytogy.info^
@@ -43837,7 +43842,6 @@
 ||impenetrableauthorslimbs.com^
 ||imperativecapitaltraitor.com^
 ||imperativetheirs.com^
-||imperfect-impression.pro^
 ||imperialbattervideo.com^
 ||imperialtense.com^
 ||impertinentwishing.com^
@@ -45207,6 +45211,7 @@
 ||instinctivetheeexemplify.com^
 ||institutehopelessbeck.com^
 ||instituteplump.com^
+||instopvials.com^
 ||instraffic.com^
 ||instructionluxuriant.com^
 ||instructionwantsflew.com^
@@ -48828,12 +48833,14 @@
 ||kymirasite.pro^
 ||kymllnoudhkiht.com^
 ||kymnelboloman.com^
+||kyokglm.icu^
 ||kyoufukudoucname.worldsmile.net^
 ||kyplpw.com^
 ||kyq3hky.icu^
 ||kyq3xch.icu^
 ||kyson.kakao.com^
 ||kyszhn.qvc.jp^
+||kytbxcl.cn^
 ||kyteblowzed.com^
 ||kyteevl.com^
 ||kytesconge.com^
@@ -54951,7 +54958,6 @@
 ||marxismsuddy.com^
 ||marybskitchen.com^
 ||marybudcotte.com^
-||mas-e.cds1.yospace.com^
 ||mas.hronboard.me^
 ||mas.nth.ch^
 ||mas.sector.sk^
@@ -58424,6 +58430,7 @@
 ||molypsigry.pro^
 ||momclumsycamouflage.com^
 ||momdljpsn.com^
+||momecubane.com^
 ||momentarilyhalt.com^
 ||momentincorrect.com^
 ||momentumgreenhouseexpert.com^
@@ -58469,7 +58476,6 @@
 ||money.clerkie.io^
 ||money4exit.de^
 ||moneycosmos.com^
-||moneyerniels.com^
 ||moneymaiker.ru^
 ||moneymak3rstrack.com^
 ||moneymakercdn.com^
@@ -63951,7 +63957,6 @@
 ||p-log.ykimg.com^
 ||p.7060.la^
 ||p.alcmpn.com^
-||p.analitik.bik.gov.tr^
 ||p.armorgames.net^
 ||p.aty.sohu.com^
 ||p.buluo.qq.com^
@@ -66315,7 +66320,6 @@
 ||plus.tourispo.com^
 ||plusavecmoins.adp.ca^
 ||plusclick.biz^
-||plusgo.win^
 ||plusone8.com/ardexaae.php^
 ||plusungratefulinstruction.com^
 ||plutonium.cointelegraph.com^
@@ -68250,6 +68254,7 @@
 ||push.admidainsight.com^
 ||push.adright.co^
 ||push.adventurefeeds.com^
+||push.asahiinteractive.com^
 ||push.bvsrv.com^
 ||push.bytesignal.com^
 ||push.cerineas.com^
@@ -70363,6 +70368,7 @@
 ||refparjhob.top^
 ||refpasrasw.world^
 ||refpaxfbvjlw.top^
+||refractfunkia.com^
 ||refraingene.com^
 ||refraintupaiid.com^
 ||refreshinghike.com^
@@ -71250,6 +71256,7 @@
 ||rhendam.com^
 ||rheneapfg.com^
 ||rhesusvitrite.com^
+||rhinioncappers.com^
 ||rhinoceros.codeagain.com^
 ||rhinoceros.krieger.io^
 ||rhinoceros.wus.life^
@@ -71610,6 +71617,7 @@
 ||robotrenamed.com^
 ||robsbogsrouse.com^
 ||robspabah.com^
+||robssukey.com^
 ||robudpw.cn^
 ||robunderstanding.com^
 ||rocco-fvo.com^
@@ -73388,6 +73396,7 @@
 ||sagumnlx.com^
 ||sahandkeightg.xyz^
 ||saheckas.xyz^
+||sahqoo.com^
 ||saiceezu.xyz^
 ||saikeela.net^
 ||sailcovertend.com^
@@ -76263,7 +76272,6 @@
 ||sinceregarden.sincere-garden.jp^
 ||sincerelyseverelyminimum.com^
 ||sindatontherrom.com^
-||sineweddefeise.com^
 ||sinewsicklywatery.com^
 ||sinfo.awrostamani.com^
 ||sinfo.dtcidev.co^
@@ -82671,7 +82679,6 @@
 ||statossy.com^
 ||stats*.credit-cooperatif.coop^
 ||stats-*.p2pnow.ru^
-||stats-a.maxthon.com^
 ||stats-aah.gigride.live^
 ||stats-best.site^
 ||stats-bq.stylight.net^
@@ -90174,6 +90181,7 @@
 ||tracking-api-4lasu2nlcq-ew.a.run.app^
 ||tracking-api.hotmart.com^
 ||tracking-api.mangopulse.net^
+||tracking-api.passeidireto.com^
 ||tracking-api.sub100.com.br^
 ||tracking-config-service.glority.com^
 ||tracking-explore-uat.agilent.com^
@@ -90344,6 +90352,7 @@
 ||tracking.corptraveller.com^
 ||tracking.corteva.ca^
 ||tracking.corteva.us^
+||tracking.cosme.net^
 ||tracking.cpa.qa.web.visa.com^
 ||tracking.cranepi.com^
 ||tracking.creditacceptance.com^
@@ -91028,7 +91037,6 @@
 ||traffic.vietnhan.co^
 ||traffic.wdc.center^
 ||trafficad-biz.com^
-||trafficadept.com^
 ||trafficbass.com^
 ||trafficborder.com^
 ||trafficbottomgrains.com^
@@ -95665,7 +95673,6 @@
 ||w.l.qq.com^
 ||w.xiaopiaoyou.com^
 ||w00f.net^
-||w020.newmilfordspectrum.com^
 ||w1.askwai.com^
 ||w1.bskwai.com^
 ||w1.cskwai.com^
@@ -96438,6 +96445,7 @@
 ||webazilla.com^
 ||webbc.fivecdm.com^
 ||webbymendole.com^
+||webc2s.pubgw.yahoo.com^
 ||webcampromo.com^
 ||webcampromotions.com^
 ||webcare.byside.com^
@@ -100502,6 +100510,7 @@
 ||yhbheroq.xyz^
 ||yhdemu368.shop^
 ||yhderd69.shop^
+||yhgfoe.xyz^
 ||yhgpuxim.xyz^
 ||yhgumcr.xyz^
 ||yhhnjg.com^
