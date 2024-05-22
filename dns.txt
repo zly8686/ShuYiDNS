@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-05-22 09:16:06（北京时间）
+! Version: 2024-05-22 20:33:36（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 102058
+! Total count: 102055
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -773,6 +773,7 @@
 ||2469april2024.com^
 ||2471april2024.com^
 ||2473april2024.com^
+||2475april2024.com^
 ||247dbf848b.com^
 ||247lyrics.com^
 ||247media.com^
@@ -12579,6 +12580,7 @@
 ||api-launcher-em.hismarttv.com^
 ||api-launcher-na.hismarttv.com^
 ||api-logdev.sohatv.vn^
+||api-marketolog.mts.ru^
 ||api-mf1.meta.ndmdhs.com^
 ||api-shoppingguider.hismarttv.com^
 ||api-unisearch.hismarttv.com^
@@ -14894,7 +14896,6 @@
 ||aupsugnee.com^
 ||aupteens.com^
 ||aurdoagnoak.net^
-||aurduwin.com^
 ||aurelianlending.actonservice.com^
 ||aurgoast.com^
 ||aurora-d3.herokuapp.com^
@@ -27052,6 +27053,7 @@
 ||dating2you.net^
 ||dating2you.org^
 ||dating4you.org^
+||datingbestsite.life^
 ||datingcentral.top^
 ||datingkoen.site^
 ||datingmeetnet.com^
@@ -27223,6 +27225,7 @@
 ||dcdxpdxbp.com^
 ||dcebmbsnmcs.com^
 ||dcekppuv.xyz^
+||dceuhnpc57.shop^
 ||dcf438349c.com^
 ||dcfnihzg81pa.com^
 ||dciep.xyz^
@@ -27834,7 +27837,6 @@
 ||desabrator.com^
 ||desalthuns.com^
 ||descarga.veikul.com^
-||descargacristiana.com^
 ||descargar.billeteramango.com^
 ||descargar.telocompro.com.bo^
 ||descargarmusica.me^
@@ -34120,7 +34122,6 @@
 ||f3551539d6565853.com^
 ||f362.nola.com^
 ||f3663618ff.com^
-||f3de94ee1e.com^
 ||f3f202565b.com^
 ||f3ft699cloae.staging.artwallstreet.io^
 ||f3udfa7nfguhni.com^
@@ -42037,6 +42038,7 @@
 ||hsux.com^
 ||hsvchnsvncvvd.com^
 ||hsyaoyutmz.com^
+||hsylieu.top^
 ||htalizer.com^
 ||htc.oaken.com^
 ||htcnbx.odkarla.cz^
@@ -47684,7 +47686,6 @@
 ||kampanjer.yxvisa.no^
 ||kanagi.xyz^
 ||kanatventose.com^
-||kanawhadonnot.website^
 ||kangaroo.kraenk.de^
 ||kangaroo.triplightfantastic.com^
 ||kangaroohiccups.com^
@@ -58517,7 +58518,6 @@
 ||monsoonlassi.com^
 ||monster.branch.rocks^
 ||monsterofnews.com^
-||monsterpops.com^
 ||monstrous-boyfriend.pro^
 ||monstrousrowandays.com^
 ||montafp.top^
@@ -59556,7 +59556,6 @@
 ||n1g459ky7y.com^
 ||n1gopush.com^
 ||n1pusher.com^
-||n1topserch.com^
 ||n26-trusted.n26.com^
 ||n2faw.site^
 ||n2major.com^
@@ -60813,7 +60812,6 @@
 ||nomadsbrand.com^
 ||nomadsdata.com^
 ||nomadsfit.com^
-||nomalleadzuaff.com^
 ||nomeetit.net^
 ||nomeuspagrus.com^
 ||nominalclck.name^
@@ -66500,7 +66498,6 @@
 ||pol3.cheque-domicile.fr^
 ||polacrereacts.top^
 ||polads.pro^
-||poland-money.fun^
 ||polanders.com^
 ||polarbear.codeday.org^
 ||polarbearyulia.com^
@@ -73008,7 +73005,6 @@
 ||s2013560044.sc.origins.en25.com^
 ||s205119.aon.com^
 ||s20dh7e9dh.com^
-||s232.theintelligencer.com^
 ||s24-analytics.com^
 ||s2448.sc.origins.en25.com^
 ||s24hc8xzag.com^
@@ -75635,6 +75631,7 @@
 ||shamosmatic.com^
 ||shamtick.com^
 ||shanaurg.net^
+||shangwenchao4.cn^
 ||shankarsackage.top^
 ||shanorin.com^
 ||shanvezhu.com^
@@ -94548,6 +94545,7 @@
 ||vextjoexig.com^
 ||vezizey.xyz^
 ||vezvpd.xyz^
+||vf.startpage.com^
 ||vfchm.cyou^
 ||vfd2dyn.vodafone.de^
 ||vfeeopywioabi.xyz^
@@ -96968,7 +96966,6 @@
 ||whitefish.antonopoulos-stores.gr^
 ||whitefish.autharmor.com^
 ||whitefish.kenku.fm^
-||whitehalfabrr.club^
 ||whitenoisenews.com^
 ||whitepapers.blackboard.com^
 ||whitepapers.rockwellautomation.com^
@@ -98983,7 +98980,6 @@
 ||x6.yakiuchi.com^
 ||x7r3mk6ldr.com^
 ||x8.cho-chin.com^
-||x822.mrt.com^
 ||x88s.pandasuite.io^
 ||x9.shinobi.jp^
 ||x95general.com^
@@ -101291,6 +101287,7 @@
 ||zbx01.com^
 ||zbxtcwi.xyz^
 ||zbzbzb.xyz^
+||zca31.com^
 ||zcaadfl.com^
 ||zcbfjd.xyz^
 ||zcck60eqyw.world^
