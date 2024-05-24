@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-05-23 20:32:29（北京时间）
+! Version: 2024-05-24 09:15:53（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 101247
+! Total count: 101256
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -14880,6 +14880,7 @@
 ||awecrptjmp.com^
 ||aweighmica.top^
 ||aweinkbum.com^
+||awejmp.com^
 ||awelsorsulte.com^
 ||awembd.com^
 ||awemdia.com^
@@ -32896,8 +32897,6 @@
 ||espierbatz.digital^
 ||espinotyponym.com^
 ||espionagegardenerthicket.com^
-||espmp-agfr.net^
-||espmp-nifr.net^
 ||espressoroom.openapp.link^
 ||espritensemble.com^
 ||espritpenned.top^
@@ -35200,6 +35199,7 @@
 ||fkexeijtqstuh.xyz^
 ||fkhxlz.xyz^
 ||fkjsjwbs.xyz^
+||fklgndklbngg.com^
 ||fkllodaa.com^
 ||fkmdky.lifehacker.ru^
 ||fkodq.com^
@@ -35605,6 +35605,7 @@
 ||fondnessbrokestreet.com^
 ||fondnessverge.com^
 ||fondonberake.com^
+||fonfn.com^
 ||fonnishcranked.com^
 ||fontainsuny.club^
 ||fontdeterminer.com^
@@ -46939,6 +46940,7 @@
 ||jrofvedr.xyz^
 ||jrolyrlkjyeqw.top^
 ||jrpkizae.com^
+||jrpolj.xyz^
 ||jrqmkrggfwd.xyz^
 ||jrqwfdkksamx.com^
 ||jrrryblqkaejw.top^
@@ -47084,6 +47086,7 @@
 ||jsx.luyouwang.com^
 ||jsxwfb.xyz^
 ||jsyefc.com^
+||jsyliea.top^
 ||jsyrynq.com^
 ||jszavs1.com^
 ||jtbaoo.belvini.de^
@@ -63414,6 +63417,7 @@
 ||outgateniceish.com^
 ||outglowkeysets.guru^
 ||outgrinuntold.com^
+||outheelrelict.com^
 ||outherunrid.digital^
 ||outhulem.net^
 ||outjutassurge.com^
@@ -69286,7 +69290,6 @@
 ||r.cnews.qq.com^
 ||r.cricbet.co^
 ||r.cvglobal.co^
-||r.dir.bg^
 ||r.erohabu.com^
 ||r.eroticos.tv^
 ||r.freeadultporn.tv^
@@ -69332,7 +69335,6 @@
 ||r42tag.com^
 ||r451.jamanetwork.com^
 ||r4nds.absorba.com^
-||r5.dir.bg^
 ||r5apiliopolyxenes.com^
 ||r5dfwjtb.icu^
 ||r6.galya.ru^
@@ -84481,6 +84483,7 @@
 ||swingebudded.com^
 ||swingelinseys.com^
 ||swingtoeswinds.com^
+||swinity.com^
 ||swishedbigha.digital^
 ||swissadserver.ch^
 ||swissinside.easyjet.com.edgekey.net.easyjet.com^
@@ -89762,6 +89765,7 @@
 ||tracking.automotivemastermind.com^
 ||tracking.averydennison.com^
 ||tracking.avladies.de^
+||tracking.b-cdn.net^
 ||tracking.bababam.com^
 ||tracking.badeladies.de^
 ||tracking.bankofalbuquerque.com^
@@ -90198,6 +90202,7 @@
 ||tracking.prd.mz.internal.unity3d.com^
 ||tracking.precisely.com^
 ||tracking.precollege.wisc.edu^
+||tracking.prepr.io^
 ||tracking.prismpartner.smt.docomo.ne.jp^
 ||tracking.pro.engie.fr^
 ||tracking.prodesa.com^
@@ -94801,6 +94806,7 @@
 ||volts.shopping.naver.com^
 ||volumedpageboy.com^
 ||voluminoussoup.pro^
+||volumntime.com^
 ||voluntarilylease.com^
 ||voluntarilystink.com^
 ||volunteerbrash.com^
@@ -97247,6 +97253,7 @@
 ||wpshsdk.com^
 ||wpsmcns.com^
 ||wpu.sh^
+||wpuiuwh.icu^
 ||wpunativesh.com^
 ||wpunkt.newsweek.pl^
 ||wpush.org^
@@ -97348,6 +97355,7 @@
 ||wsaidthemathe.info^
 ||wsandco.actonservice.com^
 ||wsapi.master.live^
+||wscewc.xyz^
 ||wsdfame.com^
 ||wsdwbfs.cn^
 ||wsejsoqdmdzcvr.com^
@@ -99674,6 +99682,7 @@
 ||ygeqiky.com^
 ||ygfgzmzo.xyz^
 ||yggtorrent.com^
+||ygh5.cn^
 ||ygkwjd.xyz^
 ||ygmpia.worten.pt^
 ||ygopvz.windsorstore.com^
