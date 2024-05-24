@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-05-24 09:15:53（北京时间）
+! Version: 2024-05-24 20:32:53（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 101256
+! Total count: 101269
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -1342,6 +1342,7 @@
 ||367207f60c.com^
 ||3672754efc.com^
 ||3692022.com^
+||369bgrec.top^
 ||36b7ca5028.com^
 ||36c4345fdc.c473f6ab10.com^
 ||36c48052b9.com^
@@ -11720,6 +11721,7 @@
 ||analytics.verfacto.com^
 ||analytics.verizon.com^
 ||analytics.verizonwireless.com^
+||analytics.vg^
 ||analytics.viblo.asia^
 ||analytics.videocloud.top^
 ||analytics.vietnamfinance.vn^
@@ -19515,6 +19517,7 @@
 ||c90ada5508.b234e11bb6.com^
 ||c917.pandasuite.io^
 ||c917ed5198.com^
+||c950.chronicle.com^
 ||c96ee2ee55.e1fdc63869.com^
 ||c991aea613.com^
 ||c9cc.icu^
@@ -35688,6 +35691,7 @@
 ||forearmthrobjanuary.com^
 ||forebypageant.com^
 ||forecast.lemonde.fr^
+||forecast.nouvelobs.com^
 ||foreelementarydome.com^
 ||foreflucertainty.com^
 ||foregroundmisguideddejection.com^
@@ -43768,6 +43772,7 @@
 ||inbornsodcharms.com^
 ||inbound-analytics.pixlee.co^
 ||inbound-analytics.pixlee.com^
+||inbound-step.heavenmedia.com^
 ||inbowedkittled.top^
 ||inbowedtroak.top^
 ||inboxdollars.com^
@@ -48806,6 +48811,7 @@
 ||l6b587txj1.com^
 ||l74co.xyz^
 ||l7ghj.xyz^
+||l7u3kf.cn^
 ||l80ays.com^
 ||l936.expressnews.com^
 ||l9zkm.pleasedonotblockme.com^
@@ -51474,6 +51480,7 @@
 ||log.tinnhac.com^
 ||log.tinnhanhchungkhoan.vn^
 ||log.tinxe.vn^
+||log.tossinvest.com^
 ||log.tpns.gz2.tencent.com^
 ||log.tpns.tencent.com^
 ||log.trackingio.com^
@@ -52504,6 +52511,7 @@
 ||lyzvbjmeybyqj.top^
 ||lz-pub-ads.com^
 ||lz.geasefloria.com^
+||lzbgeg.com^
 ||lzcwbt.schuhcenter.de^
 ||lzeld.com^
 ||lzfzkedp.icu^
@@ -58792,6 +58800,7 @@
 ||mt34iofvjay.com^
 ||mt48.net^
 ||mt4v4.com^
+||mt67.net^
 ||mta.qq.com^
 ||mtag.mman.kr^
 ||mtbbsewhceqgv.com^
@@ -64181,6 +64190,7 @@
 ||pannamdashee.com^
 ||pannamsaluter.com^
 ||pannumregnal.com^
+||panorama.wixapps.net^
 ||panoz.xyz^
 ||panpant.xyz^
 ||pansymerbaby.com^
@@ -81846,6 +81856,7 @@
 ||startappservice.com^
 ||startd0wnload22x.com^
 ||starterblackened.com^
+||startfinishthis.com^
 ||startlemanipulativedamaging.com^
 ||startmode.biz^
 ||startnewtab.com^
@@ -93264,6 +93275,7 @@
 ||uslsxe.com^
 ||usltmus.cn^
 ||usmetric.rediff.com^
+||usmgoxe.cn^
 ||usnindioxime.website^
 ||usninicsooey.com^
 ||usonar.jp^
@@ -97275,6 +97287,7 @@
 ||wqweiog.xyz^
 ||wqytxm.kurly.com^
 ||wqzjfsmudvpct.com^
+||wqzmed.cn^
 ||wqzqoobqpubx.com^
 ||wqzyxxrrep.com^
 ||wr.rugosehoarish.com^
