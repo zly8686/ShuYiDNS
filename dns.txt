@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-05-25 09:14:37（北京时间）
+! Version: 2024-05-25 20:31:08（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 101375
+! Total count: 101390
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -2167,7 +2167,6 @@
 ||754480bd33.com^
 ||757d.pandasuite.io^
 ||7606.5clo0xmbf.com^
-||76362b26c3.com^
 ||76416dc840.com^
 ||7649.79j68qav2.com^
 ||76500faa1b.c015f80df2.com^
@@ -3187,6 +3186,7 @@
 ||a11942.actonservice.com^
 ||a11943.actonservice.com^
 ||a11b24d103.2153bf35df.com^
+||a11d3c1b4d.com^
 ||a11k.com^
 ||a12014.actonservice.com^
 ||a12016.actonservice.com^
@@ -6671,6 +6671,7 @@
 ||abqdgu.xyz^
 ||abqjst.com^
 ||abqmfewisf.com^
+||abqnupogcwhi.com^
 ||abracon.actonservice.com^
 ||abrahamschildren.com^
 ||abramisanitos.top^
@@ -6859,7 +6860,6 @@
 ||accessibletighterchorus.com^
 ||accessorygraph.com^
 ||accessorytonegender.com^
-||accf14db6e.com^
 ||accid.xyz^
 ||accidentalcrownincredible.com^
 ||accidentalinfringementfat.com^
@@ -11299,6 +11299,7 @@
 ||analytics.convertlanguage.com^
 ||analytics.cookiefirst.dev^
 ||analytics.corusent.com^
+||analytics.cosmonova.net^
 ||analytics.crazygames.com^
 ||analytics.crea.ca^
 ||analytics.crowdkeep.com^
@@ -12276,6 +12277,7 @@
 ||aoelfb.nanouniverse.jp^
 ||aofppecbmordq.com^
 ||aofzkovajqti.com^
+||aogk88.asia^
 ||aoihaizo.xyz^
 ||aojeet.icu^
 ||aojgggbwish.xyz^
@@ -13997,6 +13999,7 @@
 ||artisticcount.pro^
 ||artistictastesnly.info^
 ||artistperhapscomfort.com^
+||artistspipe.top^
 ||artlessdeprivationunfriendly.com^
 ||artlessdevote.com^
 ||artonsbewasand.com^
@@ -14999,7 +15002,6 @@
 ||awhajdorzawd.com^
 ||awhiledad.com^
 ||awhsaso.cn^
-||awingbhoots.com^
 ||awistats.com^
 ||awkbkkqmeewkw.top^
 ||awkljjaaweyzm.top^
@@ -15287,6 +15289,7 @@
 ||azkrya.xyz^
 ||azkwwrerlejqv.top^
 ||azlej8cdm.pragmaticwebsecurity.com^
+||azlmizbvgjfe.com^
 ||azlyta.immowelt.de^
 ||azmjosvecyye.com^
 ||azmsmufimw.com^
@@ -16111,7 +16114,6 @@
 ||baxbyfn.cn^
 ||baxotjdtesah.com^
 ||baxter.olx.org^
-||bayctrk.com^
 ||baylikespacy.guru^
 ||baylnk.com^
 ||bayonetbaptism.com^
@@ -19703,6 +19705,7 @@
 ||cagwalxhlfqszv.com^
 ||cahf4eed.mooo.com^
 ||cahvpbsikxvvm.xyz^
+||cai75tp.com^
 ||caibtwnpvta.xyz^
 ||caicuptu.xyz^
 ||caigluph.xyz^
@@ -19947,6 +19950,7 @@
 ||caperedlevi.com^
 ||capetumbledcrag.com^
 ||caphaiks.com^
+||caphrizing.com^
 ||capinfoproreport.batiactu.com^
 ||capitalistblotbits.com^
 ||capitalistlukewarmdot.com^
@@ -24388,7 +24392,6 @@
 ||crophysi.ru^
 ||croplake.com^
 ||croppawanny.com^
-||crossboardmobile.com^
 ||crossees.com^
 ||crosspromo.voodoo.io^
 ||crosspromotion-us.avosapps.us^
@@ -25985,6 +25988,7 @@
 ||d3d0wndor0l4xe.cloudfront.net^
 ||d3d52lhoy0sh2w.cloudfront.net^
 ||d3d54j7si4woql.cloudfront.net^
+||d3d7a0q05k6bvz.cloudfront.net^
 ||d3d98dc11c.com^
 ||d3d9gb3ic8fsgg.cloudfront.net^
 ||d3d9pt4go32tk8.cloudfront.net^
@@ -28026,6 +28030,7 @@
 ||dg0hrtzcus4q4.cloudfront.net^
 ||dg6gu9iqplusg.cloudfront.net^
 ||dgafgadsgkjg.top^
+||dgamapxs.com^
 ||dgaxrjj0jwpwp.cloudfront.net^
 ||dgaxzn.samma3a.com^
 ||dgayibf.icu^
@@ -28949,6 +28954,7 @@
 ||dkrxtdnlg.com^
 ||dkskbu.demae-can.com^
 ||dktr03lf4tq7h.cloudfront.net^
+||dkuekrwiwr.com^
 ||dkupaw9ae63a8.cloudfront.net^
 ||dkus30wj6f84p.cloudfront.net^
 ||dkvakldvnsv.com^
@@ -31190,6 +31196,7 @@
 ||edwate.com^
 ||edwfdhkgnx.com^
 ||edxfquupejhbrey.com^
+||edzuahkymbureo.com^
 ||edzwmobmj.com^
 ||ee.impactextend.dk^
 ||ee.shixunwang.net^
@@ -32658,6 +32665,7 @@
 ||envious-low.com^
 ||enviouscredentialdependant.com^
 ||enviousforegroundboldly.com^
+||enviousinevitable.com^
 ||enviouspipe.com^
 ||enviousthread.com^
 ||environmentalanalogous.com^
@@ -39894,7 +39902,6 @@
 ||guwuym.barneys.co.jp^
 ||guxdjfuuhey.xyz^
 ||guxedsuba.com^
-||guxiezhuang.top^
 ||guyabe.xyz^
 ||guybaafvpv.com^
 ||guysfair.com^
@@ -46679,7 +46686,6 @@
 ||jluaaqwn.com^
 ||jlufbcef.com^
 ||jlvowalle.xyz^
-||jlxctoig.top^
 ||jlxmuvjltnqttj.com^
 ||jlxsgk.com^
 ||jly24aw29n5m-a.akamaihd.net^
@@ -48548,6 +48554,7 @@
 ||ksvtdifdlqyrv.com^
 ||kswiwxupqa.com^
 ||ksykbucea.com^
+||ksylied.top^
 ||ksyompbwor.xyz^
 ||kszuxn.snidel.com^
 ||kt.guywireincorp.com^
@@ -48727,6 +48734,7 @@
 ||kximxxzsva.com^
 ||kxjanwkatrixltf.xyz^
 ||kxkqqycs.xyz^
+||kxkqxdgp.com^
 ||kxkvpn.josera.de^
 ||kxm1b0u.com^
 ||kxmrwu.ibarakinews.jp^
@@ -49815,7 +49823,6 @@
 ||licantrum.com^
 ||licenseelegance.com^
 ||licensinginsights.ascap.com^
-||licertle.co^
 ||lichsemicha.top^
 ||lichunxiao.cn^
 ||lickinggetting.com^
@@ -57621,6 +57628,7 @@
 ||militiatillers.top^
 ||milk.yesky.com.cn^
 ||milkejusd.website^
+||milksquadronsad.com^
 ||milkygoodness.xyz^
 ||milkywaynewspaper.com^
 ||mill-all.actonservice.com^
@@ -60891,6 +60899,7 @@
 ||notionfoggy.com^
 ||notionsshrivelcustomer.com^
 ||notionstayed.com^
+||notjdyincro.com^
 ||notmining.org^
 ||notonthebedsheets.com^
 ||notorietycheerypositively.com^
@@ -66864,6 +66873,7 @@
 ||pqulqqpmx.com^
 ||pqxyqq.com^
 ||pqzjki.cn^
+||pr-bh.ybp.yahoo.com^
 ||pr-star.de^
 ||pr.blogflux.com^
 ||pr.cision.co.uk^
@@ -69651,6 +69661,7 @@
 ||rapidzebra.io^
 ||rapingdistil.com^
 ||rapolok.com^
+||rappjsps.com^
 ||rapradwye.live^
 ||raptapee.com^
 ||raptingy.net^
@@ -71848,6 +71859,7 @@
 ||rrjnjnioxfbqaj.com^
 ||rrjzyj.lepage.fr^
 ||rrmlejvyqebk.top^
+||rrnhilainbjii.com^
 ||rrobbybvvbybj.top^
 ||rrolqae.com^
 ||rronsep.com^
@@ -84001,6 +84013,7 @@
 ||suchbasementdarn.com^
 ||suchcesusar.org^
 ||suchroused.com^
+||suckae.xyz^
 ||suckfaintlybooking.com^
 ||suclj.xyz^
 ||sucmetrics.hypovereinsbank.de^
@@ -85514,6 +85527,7 @@
 ||tags.johnlewis.com^
 ||tags.master-perf-tools.com^
 ||tags.op-palvelut.fi^
+||tags.profitsence.com^
 ||tags.refinery89.com^
 ||tags.soloway.ru^
 ||tags.stepstone.com^
@@ -86723,6 +86737,7 @@
 ||thebestgame2020.com^
 ||thebestoffersintheweb.com^
 ||thebestshemalevideos.com/images/visuals^
+||thebloggernetwork.com^
 ||thebugs.ws^
 ||thecalokas.com^
 ||thecambabes.com/images/Banners^
@@ -87278,7 +87293,6 @@
 ||tixir.xyz^
 ||tizadumbed.com^
 ||tizer.medikforum.ru^
-||tizer.rupornophoto.com^
 ||tizerclik.com^
 ||tizergun.net^
 ||tizermy.net^
@@ -92177,7 +92191,6 @@
 ||ub.finanzfrage.net^
 ||ub1.job592.com^
 ||ubadzufyfjcd.com^
-||ubar-pro4.ru^
 ||ubbfpm.com^
 ||ubdiysvv.com^
 ||ubdjfy.maje.com^
@@ -95802,6 +95815,7 @@
 ||wclsylk.cn^
 ||wcltbpbnlf.com^
 ||wcmcs.net^
+||wcnhhqqueu.com^
 ||wcnndaazbwmane.com^
 ||wco.crownpeak.com^
 ||wcqtgwsxur.xyz^
@@ -100925,6 +100939,7 @@
 ||zjbfke.centerparcs.be^
 ||zjbzzmnnkbjzy.top^
 ||zjdruhn.xyz^
+||zjhebfwr.com^
 ||zjjlhvo.xyz^
 ||zjkpxw.tesco.hu^
 ||zjlbugpawe.com^
