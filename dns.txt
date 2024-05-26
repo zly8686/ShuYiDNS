@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-05-25 20:31:08（北京时间）
+! Version: 2024-05-26 09:21:20（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 101390
+! Total count: 101404
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -38,7 +38,6 @@
 ||003store.com^
 ||0043b78de9.a31711123d.com^
 ||0049.ohhmyoffers.com^
-||00518b6f0c.com^
 ||0054.4puuqeh41.com^
 ||0058.4puuqeh41.com^
 ||0069.4puuqeh41.com^
@@ -434,6 +433,7 @@
 ||11235813.webzdarma.cz^
 ||113.105.248.169^
 ||1134.cosmicnewspulse.com^
+||1139724980.rsc.cdn77.org^
 ||1147112108.rsc.cdn77.org^
 ||1156219164.rsc.cdn77.org^
 ||117.254.84.212:3000^
@@ -528,6 +528,7 @@
 ||13niao20230422.live^
 ||13p76nnir.de^
 ||141.98.82.232^
+||1417571542.rsc.cdn77.org^
 ||1437953666.rsc.cdn77.org^
 ||1441085683.rsc.cdn77.org^
 ||1459.cosmicnewspulse.com^
@@ -856,7 +857,6 @@
 ||1ts17.top^
 ||1ts18.top^
 ||1ts19.top^
-||1ttv.net^
 ||1u5gy.xyz^
 ||1unblock.com^
 ||1uno1xkktau4.com^
@@ -2158,7 +2158,6 @@
 ||74264bd2c8.com^
 ||7437.k3718qw08.com^
 ||7452c605e9.02ea6adc36.com^
-||7479e3de29.com^
 ||74b967be3a.68069795d1.com^
 ||74f0283889.com^
 ||7500037218.258a912d15.com^
@@ -2561,7 +2560,6 @@
 ||9198.5clo0xmbf.com^
 ||91c24db325.c67524ad03.com^
 ||91cd3khn.de^
-||91d626064c.com^
 ||91df02fe64.com^
 ||91f5701f15.958702ecdf.com^
 ||9202.4puuqeh41.com^
@@ -2696,7 +2694,6 @@
 ||9b55.pandasuite.io^
 ||9b5gjkrnw71r.it.themoneytizer.com^
 ||9ba159e355.com^
-||9bb5a764ad.com^
 ||9bc94f7305.com^
 ||9bdb.pandasuite.io^
 ||9bf9309f6f.com^
@@ -7743,6 +7740,7 @@
 ||addgreater.com^
 ||addin.icu^
 ||addin.name^
+||addingappointedprecede.com^
 ||addingdetestable.com^
 ||addinginstancesroadmap.com^
 ||addiply.com^
@@ -8030,6 +8028,7 @@
 ||adlane.info^
 ||adlantic.nl^
 ||adleads.com^
+||adleap.jp^
 ||adledge.com^
 ||adlegend.com^
 ||adless.io^
@@ -9953,6 +9952,7 @@
 ||agkn.com^
 ||agl001.bid^
 ||agl002.online^
+||agl003.com^
 ||agle21xe2anfddirite.com^
 ||aglocobanners.com^
 ||agloogly.com^
@@ -10018,6 +10018,7 @@
 ||ahaxoenizuaon.com^
 ||ahbdsply.com^
 ||ahcdsply.com^
+||aheadprincessmeal.com^
 ||aheadreflectczar.com^
 ||ahean.com^
 ||aheaptorsos.life^
@@ -10688,6 +10689,7 @@
 ||alpha1trk.com^
 ||alphabetforesteracts.com^
 ||alphabetlayout.com^
+||alphabetmondayfowl.com^
 ||alphabird.com^
 ||alphagodaddy.com^
 ||alphasimplex.actonservice.com^
@@ -12553,6 +12555,7 @@
 ||apologiesbackyardbayonet.com^
 ||apologiesneedleworkrising.com^
 ||apologizeclosest.com^
+||apologizepitfall.com^
 ||apologizingrigorousmorally.com^
 ||aporasal.net^
 ||aporodiko.com^
@@ -13418,6 +13421,7 @@
 ||appearedcrawledramp.com^
 ||appearednecessarily.com^
 ||appearedsuspendedcommands.com^
+||appearsloin.com^
 ||appeaseinsolenceberry.com^
 ||appeaseprovocation.com^
 ||appeasetruthinclude.com^
@@ -14357,7 +14361,6 @@
 ||astat.nikkei.com^
 ||astato.online^
 ||astauche.xyz^
-||astcarbinkom.com^
 ||asteepgaits.space^
 ||astehaub.net^
 ||asteismremock.digital^
@@ -16512,7 +16515,6 @@
 ||beclippeeweep.com^
 ||beclsbx.icu^
 ||becode.xiao84.com^
-||becolmethund.com^
 ||becomeapartner.io^
 ||becomeobnoxiousturk.com^
 ||becomesfusionpriority.com^
@@ -20741,6 +20743,7 @@
 ||cdnware.io^
 ||cdnweb3.pages.dev^
 ||cdnwidget.com^
+||cdojukbtib.com^
 ||cdolhlwq.xyz^
 ||cdosagebreakfast.com^
 ||cdp.asia^
@@ -23367,6 +23370,7 @@
 ||constructionrejection.com^
 ||constructivesmoking.com^
 ||constructpoll.com^
+||constructpreachystopper.com^
 ||construfuturo.com.mx^
 ||construmac.com.mx^
 ||construment.com^
@@ -39641,6 +39645,7 @@
 ||grumpyslayerbarton.com^
 ||grumrionzgu.com^
 ||grunoaph.net^
+||gruntremoved.com^
 ||grupkxfhi.com^
 ||gruponn.com^
 ||grurawho.com^
@@ -39930,6 +39935,7 @@
 ||gw.precislooed.com^
 ||gw1jvhs.com^
 ||gw225.net.jumia.com.gh^
+||gw2cddpt2hao.asia^
 ||gwallet.com^
 ||gwbgqrxlelrjsi.com^
 ||gwcpdvojom.com^
@@ -42476,6 +42482,7 @@
 ||iazwzp.lyst.com^
 ||ib.snssdk.com.edgekey.net^
 ||ib.snssdk.com^
+||ibaglhc.icu^
 ||ibamolecular.actonservice.com^
 ||ibanslurp.com^
 ||ibatom.com^
@@ -42819,6 +42826,7 @@
 ||ihtckcitkr.com^
 ||ihtnxu.tannergoods.com^
 ||ihttscqovzzb.com^
+||ihuumdkdjskud.com^
 ||ihwdun.xyz^
 ||ihwlek.com^
 ||ihzuephjxb.com^
@@ -47442,6 +47450,7 @@
 ||jxuhurp.icu^
 ||jxvilsjyrh.com^
 ||jxvyrv.xyz^
+||jxwqu.cn^
 ||jxy6.evobanco.es^
 ||jxybgyu.com^
 ||jy.astylararsines.com^
@@ -58135,7 +58144,6 @@
 ||mnzvtwd.cn^
 ||mnzznvpktnqtmm.com^
 ||mo-tuo.com^
-||mo.freeindoapp.com^
 ||mo.gushiji.cc^
 ||mo3i5n46.de^
 ||mo9jr8ie6sier3an.com^
@@ -64279,7 +64287,6 @@
 ||panduraoestrum.com^
 ||panel-cn.com^
 ||panel.bcnmonetize.com^
-||panelerdeltoid.guru^
 ||panelerkingly.top^
 ||panelmono.com^
 ||pangaffairsquestioning.com^
@@ -64888,7 +64895,6 @@
 ||pelamydlours.com^
 ||pelargiunmelt.top^
 ||pelfsgarote.com^
-||pelidescarga.com^
 ||pelisrev.live^
 ||pelletslimosa.com^
 ||pelliancalmato.com^
@@ -68366,6 +68372,7 @@
 ||pvsxzlb.com^
 ||pvtag.yahoo.co.jp^
 ||pvtest.zol.com.cn^
+||pvtqllwgu.com^
 ||pvtypsgueyqey.com^
 ||pvx.xcar.com.cn^
 ||pvxvazbehd.com^
@@ -69519,6 +69526,7 @@
 ||radshedmisrepu.info^
 ||raekq.online^
 ||raeoaxqxhvtxe.xyz^
+||raepkiknkyxuuc.com^
 ||raffleinsanity.com^
 ||raftershamel.com^
 ||rafvertizing.crazygames.com^
@@ -69681,6 +69689,7 @@
 ||ras.yahoo.com^
 ||rasahick.space^
 ||rascalbygone.com^
+||rashbarnabas.com^
 ||rashersingle.com^
 ||rashlyblowfly.com^
 ||rashtiprimomo.com^
@@ -69702,6 +69711,7 @@
 ||rationalan.pro^
 ||rationalizedalton.com^
 ||ratioregarding.com^
+||ratiosincl.com^
 ||rattoninsects.top^
 ||ratury.com^
 ||rauceesh.com^
@@ -73795,6 +73805,7 @@
 ||scenbe.com^
 ||scenepass.com^
 ||scenerynatives.com^
+||scenescrockery.com^
 ||scenespathreconciliation.com^
 ||scenistgracy.life^
 ||scentbracehardship.com^
@@ -76255,7 +76266,6 @@
 ||sl-h-statistics-ch-1.storeland.ru^
 ||sl.elinvarpayola.com^
 ||sl.trycircle.com^
-||slabbernorland.com^
 ||slabreasonablyportions.com^
 ||slabshookwasted.com^
 ||slackb.com^
@@ -81764,6 +81774,7 @@
 ||sswmetrics.philippineairlines.com^
 ||sswmetrics.sabre.com^
 ||ssy7.destinia.com.ua^
+||ssylieb.top^
 ||st-5cva8vttppvjafpc7jvj.kodik.biz^
 ||st-a.cdp.asia^
 ||st-a.vtvdigital.vn^
@@ -93186,6 +93197,7 @@
 ||uqrcuxp.cn^
 ||uqueae.xyz^
 ||uqwbcm.xyz^
+||uqydcs.xyz^
 ||ur.b.inhaabit.com^
 ||ur.meteredrato.com^
 ||ur.olivetkneel.com^
@@ -97044,6 +97056,7 @@
 ||wlp3.aegon.es^
 ||wlptux.habitaclia.com^
 ||wlqtte.misterspex.at^
+||wlrkcefll.com^
 ||wlt-alice.de^
 ||wlt-jupiter.de^
 ||wlvkzwqjlyzvr.top^
@@ -101001,6 +101014,7 @@
 ||zlog.mp3.zing.vn^
 ||zlog.zingmp3.vn^
 ||zlotychhoggery.com^
+||zltndp.xyz^
 ||zlvlciv.xyz^
 ||zlvxiw.medicarelife.com^
 ||zlx.com.br^
