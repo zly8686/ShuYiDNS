@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-05-26 09:21:20（北京时间）
+! Version: 2024-05-26 20:30:39（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 101404
+! Total count: 101386
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -239,7 +239,6 @@
 ||0cf.io^
 ||0d1dc86b39.f83d8a9867.com^
 ||0d4936c8fd.com^
-||0d55d13cf1.com^
 ||0d6cirpa7nrd.top^
 ||0d76bd13e8.com^
 ||0d8is908gby1.www.terraform.com.ar^
@@ -515,7 +514,6 @@
 ||1337x.*/sw.js^
 ||1337x.vpnonly.site^
 ||13453765871837679316.googlegroups.com^
-||136287d626.com^
 ||1378a.xyz^
 ||1379a.xyz^
 ||137kfj65k.de^
@@ -1328,6 +1326,7 @@
 ||35volitantplimsoles5.com^
 ||360.anatic.net^
 ||360114.xyz^
+||3601880.xyz^
 ||360640.com^
 ||360direct.qualfon.com^
 ||360popads.com^
@@ -1716,7 +1715,6 @@
 ||52d8.pandasuite.io^
 ||52dvzo62i.com^
 ||52ee3dc5fe.com^
-||5301edf03f.com^
 ||530bc37e10.com^
 ||532xcxypmpnp.com^
 ||53570bbe42.com^
@@ -1900,7 +1898,6 @@
 ||60812add0f.211834e9ab.com^
 ||6092.url25fatm.com^
 ||609999.xyz^
-||60b2499722.com^
 ||61-nmobads.com^
 ||6105265d75.com^
 ||6107a15b84.5bdb6e0e40.com^
@@ -2162,7 +2159,6 @@
 ||74f0283889.com^
 ||7500037218.258a912d15.com^
 ||751685e7fa.com^
-||75416fa555.com^
 ||754480bd33.com^
 ||757d.pandasuite.io^
 ||7606.5clo0xmbf.com^
@@ -10728,7 +10724,6 @@
 ||alt63.chimeratool.com^
 ||altaicunwired.top^
 ||altairaquilae.top^
-||altairceleb.com^
 ||altalex.wolterskluwer.com^
 ||altarhackees.digital^
 ||altarrousebrows.com^
@@ -18637,7 +18632,6 @@
 ||briefaccusationaccess.com^
 ||briefcasebotany.com^
 ||briefcasebuoyduster.com^
-||briefcasebusy.com^
 ||briefengineer.pro^
 ||briefing.actonservice.com^
 ||brieflizard.com^
@@ -19205,7 +19199,6 @@
 ||butcherhashexistence.com^
 ||butflatter.com^
 ||buthawk.com^
-||butinetheorbo.com^
 ||butlak.com^
 ||butlercc.actonservice.com^
 ||butlerdelegate.com^
@@ -19595,7 +19588,6 @@
 ||c7c9cb797a.1f6bf6f5a3.com^
 ||c7d263f5d8.com^
 ||c7ee346412.com^
-||c7f1c63e4f.com^
 ||c7vw6cxy7.com^
 ||c8.net.ua^
 ||c81.ipanocloud.com^
@@ -19752,7 +19744,6 @@
 ||call.me.sel.sony.com^
 ||callalelel.info^
 ||calledoccultimprovement.com^
-||calligraphyabnormality.com^
 ||callingfracture.com^
 ||callmeooumou.com^
 ||callousannounced.com^
@@ -20776,7 +20767,6 @@
 ||ceamtaaprhha.xyz^
 ||ceasechampagneparade.com^
 ||ceawvx.com^
-||cebee32295.com^
 ||cebidsbessel.com^
 ||cebygijy.pro^
 ||cecilsdolia.com^
@@ -22692,7 +22682,6 @@
 ||collector.appconsent.io^
 ||collector.automote.co.nz^
 ||collector.brandify.com^
-||collector.bunchbox.co^
 ||collector.cakeresume.com^
 ||collector.cdp.cnn.com^
 ||collector.cint.com^
@@ -34246,7 +34235,6 @@
 ||fairytaleundergoneopenly.com^
 ||faised.com^
 ||faishoar.com^
-||faistouy.net^
 ||faithaiy.com^
 ||faithfulfacultativeladder.com^
 ||faithfullyprotectionundo.com^
@@ -34457,7 +34445,6 @@
 ||faxifa.xyz^
 ||faxqaaawyb.com^
 ||fayijxrs.com^
-||faykitturn.live^
 ||fayzrtqszkcb.com^
 ||fazanppq.com^
 ||fazinghomelet.top^
@@ -50964,7 +50951,6 @@
 ||literaturerehearsesteal.com^
 ||literatureunderstatement.com^
 ||literpeore.com^
-||lithelytwick.com^
 ||litrefloored.com^
 ||littlecdn.com^
 ||littlecutecats.com^
@@ -59306,7 +59292,6 @@
 ||mydailynewz.com^
 ||mydario.actonservice.com^
 ||mydas.mobi^
-||mydinebaster.com^
 ||mydomainbest.com^
 ||mydzfldt.xyz^
 ||myeasetrack.com^
@@ -60513,7 +60498,6 @@
 ||nisaapp.nexus-dt.com^
 ||nisdnwiug.com^
 ||nishoagn.com^
-||nitersvarsity.com^
 ||niticl.icu^
 ||nitonsbanc.com^
 ||nitqbanrbcv.xyz^
@@ -62746,6 +62730,7 @@
 ||onwasrv.com^
 ||onwekdebd.xyz^
 ||onxatutor.com^
+||onxeacj.cn^
 ||onxtxdm.xyz^
 ||onychinferous.top^
 ||onzazqarhmpi.com^
@@ -68202,7 +68187,6 @@
 ||pushad.metajoy.services^
 ||pushads.biz^
 ||pushads.io^
-||pushadv.biz^
 ||pushaffiliate.net^
 ||pushagim.com^
 ||pushails.com^
@@ -69625,7 +69609,6 @@
 ||ranggallop.com^
 ||ranhealthy.com^
 ||rank-master.com^
-||rank-master.de^
 ||rankchamp.de^
 ||rankestmowers.com^
 ||rankhit.china.com^
@@ -70452,7 +70435,6 @@
 ||rel.msn.com^
 ||relacionamento.edpcomunicacao.com.br^
 ||relafp.xyz^
-||relanceovergun.com^
 ||relap.io^
 ||relap.mail.ru^
 ||relappro.com^
@@ -73497,7 +73479,6 @@
 ||saptorge.com^
 ||sar.66.ru^
 ||saracsoxcpa.com^
-||sarafan.fun^
 ||sarcasmidentifiers.com^
 ||sarcasticdismalconstrue.com^
 ||sarcinedewlike.com^
@@ -92202,6 +92183,7 @@
 ||ub.finanzfrage.net^
 ||ub1.job592.com^
 ||ubadzufyfjcd.com^
+||ubar-pro4.ru^
 ||ubbfpm.com^
 ||ubdiysvv.com^
 ||ubdjfy.maje.com^
