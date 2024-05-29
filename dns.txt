@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-05-28 20:33:12（北京时间）
+! Version: 2024-05-29 09:19:33（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 101586
+! Total count: 101607
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -9624,6 +9624,7 @@
 ||ae064ae81c.com^
 ||ae0ab46046.6ce02869b9.com^
 ||ae1a1e258b8b016.com^
+||aeaw.cn^
 ||aeb92e4b9d.com^
 ||aebvay.mesinspirationsculinaires.com^
 ||aebwmemfebks.xyz^
@@ -10018,6 +10019,7 @@
 ||agisdayra.com^
 ||agitatechampionship.com^
 ||agitationfourthplug.com^
+||agitationmedicdrug.com^
 ||agkn.com^
 ||agl001.bid^
 ||agl002.online^
@@ -10913,6 +10915,7 @@
 ||ambientplatform.vn^
 ||ambientrockutilities.com^
 ||ambierechinid.com^
+||ambiguityornamenttell.com^
 ||ambiguitypalm.com^
 ||ambiliarcarwin.com^
 ||ambitiousagreement.com^
@@ -11068,6 +11071,7 @@
 ||amung.us^
 ||amused-ground.com^
 ||amuseer.com^
+||amusementchillyforce.com^
 ||amusementrehearseevil.com^
 ||amusementstepfatherpretence.com^
 ||amuseulteriorpair.com^
@@ -13539,6 +13543,7 @@
 ||application.ricoh.ie^
 ||application.taleo.com^
 ||applicationmoleculepersonal.com^
+||applicationplasticoverlap.com^
 ||applicationsattaindevastated.com^
 ||applicationsrapacity.com^
 ||applifier.com^
@@ -13851,6 +13856,7 @@
 ||archbishopthighsubsided.com^
 ||archedmagnifylegislation.com^
 ||archerpointy.com^
+||archerseizure.com^
 ||archipelagopreviously.com^
 ||architecturecultivated.com^
 ||architectureholes.com^
@@ -13869,6 +13875,7 @@
 ||ardentlyexposureflushed.com^
 ||ardentlyoddly.com^
 ||ardoursmutine.top^
+||ardourunderneath.com^
 ||ardrrspggw.xyz^
 ||ardruddigonan.com^
 ||ardsklangr.com^
@@ -13948,6 +13955,7 @@
 ||arkmedboo.live^
 ||arktonightinept.com^
 ||arkunexpectedtrousers.com^
+||arleavannya.com^
 ||arlyreven.top^
 ||armadillo.axeneo7.qc.ca^
 ||armadillo.caj.ms^
@@ -18943,6 +18951,7 @@
 ||bs.yandex.ru^
 ||bs50tds.com^
 ||bsanciv.top^
+||bsantycbjnf.com^
 ||bsbaswq.cn^
 ||bsbrcdna.com^
 ||bserver.gp-guia.net^
@@ -18995,6 +19004,7 @@
 ||btilxdpcco.com^
 ||btjbppltrdpyjsj.com^
 ||btkbei.courir.com^
+||btkwlsfvc.com^
 ||btloader.com^
 ||btmean.cardosystems.com^
 ||btn.listonic.com^
@@ -23681,6 +23691,7 @@
 ||coocomall.com^
 ||cooeyeddarbs.com^
 ||coofumberty.digital^
+||coogauwoupto.com^
 ||coogoocy.com^
 ||coogumak.com^
 ||coojaiku.com^
@@ -42132,6 +42143,7 @@
 ||hue2a.com^
 ||hueadsxml.com^
 ||huehinge.com^
+||hufaztjist.com^
 ||huge-gay-cock.com^
 ||hugelog.fcbox.com^
 ||hugelyantony.com^
@@ -51949,6 +51961,7 @@
 ||looksmart.com^
 ||looksmartppc.com^
 ||looksthrilled.com^
+||looktotheright.com^
 ||lookujie.net^
 ||lookup-domain.com^
 ||lookwhippedoppressive.com^
@@ -58230,6 +58243,7 @@
 ||mnhknds.com^
 ||mnhncf.cn^
 ||mnifdlax.top^
+||mninoq.xyz^
 ||mnjhrleahonkq.com^
 ||mnjxvtknnlai.com^
 ||mnnmnn.com^
@@ -58860,6 +58874,7 @@
 ||mpzgnxmd.com^
 ||mpzwsvueph.com^
 ||mqabjtgli.xyz^
+||mqaoweu.icu^
 ||mqaqtwkbwcqty.xyz^
 ||mqcjqjhy.com^
 ||mqcoycx.icu^
@@ -70390,6 +70405,7 @@
 ||refilednisi.com^
 ||refilmsbones.top^
 ||refineminx.top^
+||refinerfiery.com^
 ||reflectingscoopcourse.com^
 ||reflectionseldomnorth.com^
 ||reflectionsidewalk.com^
@@ -74180,6 +74196,7 @@
 ||sdhltncfqbu.com^
 ||sdjbcjsbdjk.com^
 ||sdjbvjsbvjz.com^
+||sdjbvskjvds.com^
 ||sdjkbcjksbdsvv.com^
 ||sdjqhxmg.com^
 ||sdjthl.tvguide.dk^
@@ -86442,6 +86459,7 @@
 ||tegleebs.com^
 ||tegronews.com^
 ||teho.visma.fi^
+||teiankythes.top^
 ||teicdn.com^
 ||teiidsfortune.com^
 ||teinlbw.com^
@@ -100447,6 +100465,7 @@
 ||ysearchingfo.xyz^
 ||ysemblyjusting.info^
 ||ysesials.net^
+||yshhfig.com^
 ||yshlor.icu^
 ||yskvdo.gebrauchtwagen.at^
 ||ysl3.destinia.ec^
@@ -100567,6 +100586,7 @@
 ||ywkiyt.candere.com^
 ||ywojvu.kujten.com^
 ||ywopyohpihnkppc.xyz^
+||ywqippyyw.com^
 ||ywrcqa.10tv.com^
 ||ywrcqa.11alive.com^
 ||ywrcqa.13newsnow.com^
@@ -101531,6 +101551,7 @@
 ||zxqrdm.vinomofo.com^
 ||zxr9gpxf7j.com^
 ||zxrcfw.com^
+||zxrfzxb.com^
 ||zxrnfc.drinco.jp^
 ||zxrrop.musely.com^
 ||zxwhkosabux.com^
