@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-05-29 09:19:33（北京时间）
+! Version: 2024-05-29 20:33:43（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 101607
+! Total count: 101620
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -20855,6 +20855,7 @@
 ||cdwyjuchsqvwa.xyz^
 ||cdybwjpa.xyz^
 ||ce.paliercleaned.com^
+||ce.x-opt.io^
 ||ce1e674f2f.3897e90a2e.com^
 ||ce26c78a4e.com^
 ||ce2c208e9f.com^
@@ -22723,6 +22724,7 @@
 ||collect.babybus.com^
 ||collect.banggood.com^
 ||collect.bannercrowd.net^
+||collect.biomedcentral.com^
 ||collect.cap.ch^
 ||collect.chaordicsystems.com^
 ||collect.cloudsponge.com^
@@ -24656,6 +24658,7 @@
 ||csymrm.24mx.fr^
 ||csyqts.tmon.co.kr^
 ||ct-dev.taskhuman.com^
+||ct.beslist.nl^
 ||ct.capterra.com^
 ||ct.corpusapp.com^
 ||ct.eanlingtumfie.com^
@@ -27056,7 +27059,6 @@
 ||dating2you.net^
 ||dating2you.org^
 ||dating4you.org^
-||datingbestsite.life^
 ||datingcentral.top^
 ||datingkoen.site^
 ||datingmeetnet.com^
@@ -39642,6 +39644,7 @@
 ||gripehealth.com^
 ||grippertureen.space^
 ||gripping-bread.com^
+||gripspigyard.com^
 ||grirault.net^
 ||grirkd215r4d22.7k11547nc.com^
 ||grirtouy.com^
@@ -42474,6 +42477,7 @@
 ||hzoywchsp.com^
 ||hzr0dm28m17c.com^
 ||hzrghx.xyz^
+||hzstats.com^
 ||hzuheh.palcloset.jp^
 ||hzvcaadn.icu^
 ||hzymxd.nocibe.fr^
@@ -47936,6 +47940,7 @@
 ||kepler.jd.com^
 ||keppendragoon.top^
 ||keptafd.cn^
+||keptoojals.xyz^
 ||keraclya.com^
 ||keramiceoan.com^
 ||kergaukr.com^
@@ -49138,6 +49143,7 @@
 ||lajeshuru.pro^
 ||lajouly.com^
 ||lake.joongang.co.kr^
+||lake.studydrive.net^
 ||lakequincy.com^
 ||lakerspreferences.gleague.nba.com^
 ||lakerspreferences.nba.com^
@@ -52008,6 +52014,7 @@
 ||lorcgnziipstq.com^
 ||lord.actonservice.com^
 ||lordhelpuswithssl.com^
+||lordofthesuperfrogs.com^
 ||lorenop.icu^
 ||lorgnonanvils.top^
 ||lorrylips.com^
@@ -59853,6 +59860,7 @@
 ||navigateiriswilliam.com^
 ||navigation-timing.meinestadt.de^
 ||navigationconcept.com^
+||navigator-analytics.tweakwise.com^
 ||navigator.io^
 ||navrcholu.cz^
 ||navywilyoccur.com^
@@ -63317,6 +63325,7 @@
 ||orlotalers.com^
 ||orlowedonhisdhilt.info^
 ||orlqtz.lampenwelt.ch^
+||ormolusapiary.com^
 ||ormolustuke.top^
 ||ornismolal.top^
 ||oroinc.actonservice.com^
@@ -64730,6 +64739,7 @@
 ||paurozel.net^
 ||paushoow.net^
 ||paussidsipage.com^
+||pausteegohoa.net^
 ||pauwhajo.xyz^
 ||pavanaiglets.top^
 ||pavanesimmind.com^
@@ -71443,6 +71453,7 @@
 ||rimeseized.com^
 ||rimfranklyscaffold.com^
 ||riminghoggoofy.com^
+||rimoseantdom.com^
 ||rims.aig.com^
 ||rimsha.viralof.online^
 ||rimwigckagz.com^
@@ -76520,6 +76531,7 @@
 ||slonejulyh.xyz^
 ||slopeac.com^
 ||slopeaota.com^
+||slopingunrein.com^
 ||sloppyegotistical.com^
 ||slotabrosdev.zharev.com^
 ||slotabrosuat.zharev.com^
@@ -84039,7 +84051,6 @@
 ||stumbledmetropolitanpad.com^
 ||stumbleirritable.com^
 ||stumercackles.com^
-||stummertitis.com^
 ||stunning-lift.com^
 ||stunninglover.com^
 ||stunningruin.com^
@@ -90544,6 +90555,7 @@
 ||tracking.risk.lexisnexis.co.uk^
 ||tracking.risk.lexisnexis.com.br^
 ||tracking.risk.lexisnexis.com^
+||tracking.rocketleague.com^
 ||tracking.rogers.com^
 ||tracking.rootinc.com^
 ||tracking.rti-inc.com^
@@ -95560,6 +95572,7 @@
 ||w4jz.top^
 ||w4o7aea80ss3-a.akamaihd.net^
 ||w55c.net^
+||w6.chabad.org^
 ||w65mymobile.com^
 ||w7.berlin.de^
 ||w7.berliner-silvester.de^
