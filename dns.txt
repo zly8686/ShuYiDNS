@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-05-29 20:33:43（北京时间）
+! Version: 2024-05-30 09:16:43（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 101620
+! Total count: 101650
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -736,6 +736,7 @@
 ||1buu1.penyouw.com^
 ||1bw7etm93lf.www.woodbrass.com^
 ||1c447fc5b7.com^
+||1c7cf19baa.com^
 ||1c9ca7ac71.com^
 ||1ccbt.com^
 ||1cctcm1gq.de^
@@ -877,6 +878,7 @@
 ||1wiipr.xyz^
 ||1winpost.com^
 ||1wish.net^
+||1wnurc.com^
 ||1worlditsolutions.com^
 ||1wtwaq.xyz^
 ||1xejnhs1zd1.staging.aporia.com^
@@ -9886,6 +9888,7 @@
 ||afi.school.web-marketing.ai^
 ||afi.sougou.web-marketing.ai^
 ||afi.ssl.gmobb.jp^
+||afiliapub.click^
 ||afkwa.com^
 ||afloatroyalty.com^
 ||aflsj.com^
@@ -14638,6 +14641,7 @@
 ||atsabwhkox.com^
 ||atseakingchan.com^
 ||atservineor.com^
+||atshcaogrlhi.com^
 ||atshroomisha.com^
 ||atslowpokechan.com^
 ||atsmetrics.adobe.com^
@@ -17035,6 +17039,7 @@
 ||bettingfingerprintgrade.com^
 ||bettingpartners.com^
 ||beturtwiga.com^
+||betwinner1.com^
 ||betxerneastor.club^
 ||betyhupte.com^
 ||betzapdoson.com^
@@ -20537,6 +20542,7 @@
 ||cdn-rum.ngenix.net^
 ||cdn-server.cc^
 ||cdn-server.top^
+||cdn-service.com^
 ||cdn-test.mouseflow.com^
 ||cdn.1vag.com^
 ||cdn.2024jphatomenesys35.top^
@@ -24553,6 +24559,7 @@
 ||crusilyparonym.com^
 ||cruthdivisi.life^
 ||crvbnac.xyz^
+||crvxhuxcel.com^
 ||crwdcntrl.net^
 ||crxekxjpiktykjb.com^
 ||crxmaotidrf.xyz^
@@ -27294,6 +27301,7 @@
 ||dd1.diymianmo.com^
 ||dd112233dd.com^
 ||dd148b0fb2.f28bb1a86f.com^
+||dd1xbevqx.com^
 ||dd2512ce33.9ee93ebe3a.com^
 ||dd4a6342ac.com^
 ||dd5889a9b4e234dbb210787.com^
@@ -28975,6 +28983,7 @@
 ||dividedscientific.com^
 ||divideinch.com^
 ||divingshown.com^
+||divinitygasp.com^
 ||divinitygoggle.com^
 ||divisionprogeny.com^
 ||divorcebelievable.com^
@@ -29809,6 +29818,7 @@
 ||dqhezw.com^
 ||dqhoikghxts.com^
 ||dqhxmbx.cn^
+||dqif5bl25s0bf.cloudfront.net^
 ||dqjkzrx.com^
 ||dqjlhidethq.com^
 ||dqjojx.xyz^
@@ -33181,6 +33191,7 @@
 ||etfqonnd.com^
 ||etg.qq.com^
 ||etgkbu.unieuro.it^
+||ethaistoothi.com^
 ||ethalojo.com^
 ||ethan.wang^
 ||etheappyrince.com^
@@ -35401,6 +35412,7 @@
 ||fjmgnfoedmsjj.xyz^
 ||fjmksbwxb.com^
 ||fjnsnt.xyz^
+||fjqcqdr.icu^
 ||fjtroip.cn^
 ||fjwymafkgqfq.xyz^
 ||fjxdafshdrnnvdw.com^
@@ -40185,6 +40197,7 @@
 ||h52ek3i.de^
 ||h559.stamfordadvocate.com^
 ||h5log.zongheng.com^
+||h5lwvwj.top^
 ||h5r2dzdwqk.com^
 ||h6o2z0pwx5ja7dwxn0wx4fhv7mp0qoladm8vj6do4h1c6gja8evrn6g5fixk.me^
 ||h74v6kerf.com^
@@ -41149,6 +41162,7 @@
 ||hiddenseet.com^
 ||hidemembershipprofane.com^
 ||hideousactivelyparked.com^
+||hidingenious.com^
 ||hidist.com^
 ||hidjoi.perfumesclub.com^
 ||hiedflashed.com^
@@ -41591,6 +41605,7 @@
 ||holdenthusiastichalt.com^
 ||holder.com.ua^
 ||holdhostel.space^
+||holdingholly.space^
 ||holdingwager.com^
 ||holdntlc.com^
 ||holdsbracketsherry.com^
@@ -41949,6 +41964,7 @@
 ||hpymkg.air-austral.com^
 ||hpyrdr.com^
 ||hpyue.com^
+||hpzktd.xyz^
 ||hq1.appsflyer.com^
 ||hq390.xyz^
 ||hq3x.com^
@@ -42977,6 +42993,7 @@
 ||iiqtru.aunworks.jp^
 ||iirpzp.novasol.com^
 ||iirshhywdahij.com^
+||iisabujdtg.com^
 ||iistillstayherea.com^
 ||iiuvgfhqldb.xyz^
 ||iivruiz.cn^
@@ -44055,6 +44072,7 @@
 ||indefinitelytonsil.com^
 ||indefinitelyunlikelyplease.com^
 ||indegroeh.com^
+||indeliblehang.pro^
 ||indelicatecanvas.com^
 ||indelicateexcept.com^
 ||indelicatepokedoes.com^
@@ -46886,6 +46904,7 @@
 ||joachoag.xyz^
 ||joacupoahy.com^
 ||joaglouwulin.com^
+||joannaiodisms.com^
 ||joaphoad.com^
 ||joaqaylueycfqw.xyz^
 ||joasoagly.com^
@@ -47575,6 +47594,7 @@
 ||jxvilsjyrh.com^
 ||jxvyrv.xyz^
 ||jxwqu.cn^
+||jxxnnhdgbfo.xyz^
 ||jxy6.evobanco.es^
 ||jxybgyu.com^
 ||jy.astylararsines.com^
@@ -50065,6 +50085,7 @@
 ||limbcoastlineimpetuous.com^
 ||limbecksipers.digital^
 ||limberkilnman.cam^
+||limbievireos.com^
 ||limboduty.com^
 ||limbrooms.com^
 ||limeaboriginal.com^
@@ -51426,6 +51447,7 @@
 ||loaksandtheir.info^
 ||loans.rategenius.com^
 ||loansales.cbre.com^
+||loaptaijuw.com^
 ||loastees.net^
 ||loathecurvedrepress.com^
 ||loathederava.uno^
@@ -59418,6 +59440,7 @@
 ||mybetterck.com^
 ||mybetterdl.com^
 ||mybettermb.com^
+||mybgrea97.shop^
 ||mybjjg.vlan.be^
 ||mybloglog.com^
 ||mybmrtrg.com^
@@ -69197,6 +69220,7 @@
 ||qss-client.qq.com^
 ||qsthtbjljqfuo.com^
 ||qsxptjxruxrttu.xyz^
+||qsyliey.top^
 ||qt5jl7r111h7.allesvoormijnvakantie.nl^
 ||qtbaye.mona.ch^
 ||qtbb6.com^
@@ -69758,6 +69782,7 @@
 ||randomadsrv.com^
 ||randomamongst.com^
 ||randomassertiveacacia.com^
+||randomdnslab.com^
 ||randomignitiondentist.com^
 ||randstad.epoise.com^
 ||randstadtest.epoise.com^
@@ -76122,6 +76147,7 @@
 ||simplewebanalysis.com^
 ||simpli.fi^
 ||simpliftsbefore.xyz^
+||simplistic-king.pro^
 ||simplisticwhole.pro^
 ||simply.lucanet.com^
 ||simplymiraculousurn.com^
@@ -92694,6 +92720,7 @@
 ||ukndaspiratioty.info^
 ||uknsyenergyfle.info^
 ||ukoffzeh.com^
+||ukpdjsailq.com^
 ||ukpsal.icu^
 ||ukri.innovateuk.org^
 ||ukrkskillsombine.info^
@@ -100689,6 +100716,7 @@
 ||yzdltz.pricerunner.dk^
 ||yzerabwdkpaee.com^
 ||yzfrapd.xyz^
+||yzgbsg.xyz^
 ||yzgid.cn^
 ||yziwoidi.icu^
 ||yzjihang.cn^
@@ -100814,6 +100842,7 @@
 ||zatong.icaniwill.se^
 ||zattdf.xyz^
 ||zaucharo.xyz^
+||zaudograum.xyz^
 ||zaudouwa.xyz^
 ||zaudowhiy.xyz^
 ||zauglomo.net^
@@ -101068,6 +101097,7 @@
 ||zheevmmvlwg.com^
 ||zhej78i1an8w6ceu.com^
 ||zhengliyqq.com^
+||zhengwei3.top^
 ||zhengzhou12.top^
 ||zhfvwkkftg.com^
 ||zhhxxnfuxn.com^
