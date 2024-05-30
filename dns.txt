@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-05-30 09:16:43（北京时间）
+! Version: 2024-05-30 20:33:28（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 101650
+! Total count: 101668
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -228,6 +228,7 @@
 ||0b57ha4k4zrd.top^
 ||0b73f85f92.com^
 ||0b7741a902.com^
+||0b85c2f9bb.com^
 ||0bb68b4c4a.a65768f777.com^
 ||0byv9mgbn0.com^
 ||0c0be7a0c2.0ab9f67572.com^
@@ -7255,6 +7256,7 @@
 ||ad*.on.cc^
 ||ad-1258444056.cos.accelerate.myqcloud.com^
 ||ad-a8.www.zeiri4.com^
+||ad-adblock.com^
 ||ad-admin.vnay.vn^
 ||ad-api-log.colopl.jp^
 ||ad-api.cnblogs.com^
@@ -7391,7 +7393,6 @@
 ||ad.dslr-forum.de^
 ||ad.e-dpe.jp^
 ||ad.edugram.com^
-||ad.eglenced.com^
 ||ad.eloan.co.jp^
 ||ad.erkiss.club^
 ||ad.ettoday.net^
@@ -9543,7 +9544,6 @@
 ||adwareremovergold.com^
 ||adway.org^
 ||adwhirl.com^
-||adwods.com^
 ||adworldnetwork.com^
 ||adworx.be^
 ||adworx.nl^
@@ -11918,6 +11918,7 @@
 ||analytics.wienerberger.se^
 ||analytics.wienerberger.si^
 ||analytics.wienerberger.sk^
+||analytics.wildlifestudios.com^
 ||analytics.wildtangent.com^
 ||analytics.winter.ink^
 ||analytics.witglobal.net^
@@ -14635,6 +14636,7 @@
 ||atris.xyz^
 ||atrociouspsychiatricparliamentary.com^
 ||atrocityfingernail.com^
+||atropaimitant.top^
 ||ats.alot.com^
 ||ats.auction.co.kr^
 ||ats.otto.de^
@@ -19673,6 +19675,7 @@
 ||c615.denverpost.com^
 ||c67209d67f.com^
 ||c67524ad03.com^
+||c677.wisn.com^
 ||c67adca.com^
 ||c690749e06.6001628d3d.com^
 ||c69aa01528.com^
@@ -22397,6 +22400,7 @@
 ||cmmcqcvwc.com^
 ||cmme.actonservice.com^
 ||cmnepalslma.com^
+||cmoa.pro^
 ||cmon.congress.gov^
 ||cmp.courrierinternational.com^
 ||cmp.dreamlab.pl^
@@ -30678,6 +30682,7 @@
 ||e91c222079.com^
 ||e97fff7188.com^
 ||e98c4a21c0.com^
+||e993.wlky.com^
 ||e9948a638d.649ce954a0.com^
 ||e9b729472c.39268ea911.com^
 ||e9c1khhwn4uf.com^
@@ -32831,6 +32836,7 @@
 ||eonwayaha.com^
 ||eooslfyhziubo.com^
 ||eopleshouldt.info^
+||eopleshouldthink.info^
 ||eopogliguemvf.com^
 ||eopudxnabotrlsx.com^
 ||eoqctcsvskqlz.com^
@@ -35512,6 +35518,7 @@
 ||flavorylenvoi.com^
 ||flavourdinerinadmissible.com^
 ||flavourforgave.com^
+||flaw.cloud^
 ||flawenormouslyattractive.com^
 ||flawerosion.com^
 ||flaweyesight.com^
@@ -41414,6 +41421,7 @@
 ||hjkiguy.com^
 ||hjklq.com^
 ||hjmjmywncskyt.com^
+||hjmnfdab.com^
 ||hjnjjcw.xyz^
 ||hjprhubzqgw.com^
 ||hjqdwmekhur.com^
@@ -45227,6 +45235,7 @@
 ||insta-cash.net^
 ||instaflrt.com^
 ||instagram.xx.fbcdn.net.iberostar.com^
+||install-adblockers.com^
 ||install-adblocking.com^
 ||install-check.com^
 ||install-extension.com^
@@ -59341,6 +59350,7 @@
 ||mwikpepfiw.com^
 ||mwirawdrexp.com^
 ||mwjkteucypb.com^
+||mwkusgotlzu.com^
 ||mwmqtisxndbjdr.com^
 ||mwmxyurgupy.com^
 ||mworkhovdimin.info^
@@ -63077,6 +63087,7 @@
 ||openslowlypoignant.com^
 ||openstat.net^
 ||opentecs.com^
+||opentelemetry-collector.shared-services.us-east-1.general.prod.wildlife.io^
 ||openweatherapi.com^
 ||openx.angelsgroup.org.uk^
 ||openx.motgame.vn^
@@ -63388,6 +63399,7 @@
 ||os.shutterfly.com^
 ||os.vudu.com^
 ||osafsr.xyz^
+||osageafresh.com^
 ||osancik.top^
 ||osangauh.net^
 ||osarmapa.net^
@@ -66451,6 +66463,7 @@
 ||pm.teawaredanzon.com^
 ||pmaosrgeieft.com^
 ||pmavlz.bitebeauty.com^
+||pmblrt.xyz^
 ||pmc1201.com^
 ||pmd-vp-aka.canal-plus.com^
 ||pmdnditvte.com^
@@ -68305,7 +68318,6 @@
 ||purgescholars.com^
 ||purgoaho.xyz^
 ||purifybaptism.guru^
-||purinediarize.com^
 ||purinscauter.top^
 ||puritysts.purityproducts.com^
 ||purlieudinette.uno^
@@ -68343,6 +68355,7 @@
 ||pursuitperceptionforest.com^
 ||purtymells.top^
 ||puserving.com^
+||push-api.topaz-analytics.com^
 ||push-news.click^
 ||push-news.org^
 ||push-notifications.top^
@@ -71166,6 +71179,7 @@
 ||retinaebiaxal.guru^
 ||retinaesprent.com^
 ||retintshearst.top^
+||retintsmillion.com^
 ||retinueabash.com^
 ||retinuedisposablerecuperate.com^
 ||retinuegigoh.com^
@@ -92354,6 +92368,7 @@
 ||u33011.com^
 ||u47.pnc.com^
 ||u55011.com^
+||u578.wlwt.com^
 ||u595sebqih.com^
 ||u5nvu.xyz^
 ||u652.myplainview.com^
@@ -92813,6 +92828,7 @@
 ||umengcloud.com^
 ||umengjmacs.m.taobao.com^
 ||umentrandings.xyz^
+||umescomymanda.info^
 ||umexalim.com^
 ||umfsyvnufa.com^
 ||umhlnkbj.xyz^
@@ -101024,6 +101040,7 @@
 ||zeypreland.com^
 ||zf4.top^
 ||zfcdirf.icu^
+||zfcoin.cn^
 ||zfctrack.net^
 ||zfeaubp.com^
 ||zfehvv.xyz^
@@ -101340,6 +101357,7 @@
 ||zonealta.com^
 ||zoningnignye.com^
 ||zononi.com^
+||zontgohjw.com^
 ||zonulargoloe.life^
 ||zonupiza.com^
 ||zonureflakier.uno^
