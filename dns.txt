@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-05-31 09:17:29（北京时间）
+! Version: 2024-05-31 20:33:17（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 101695
+! Total count: 101711
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -12490,7 +12490,6 @@
 ||api-launcher-em.hismarttv.com^
 ||api-launcher-na.hismarttv.com^
 ||api-logdev.sohatv.vn^
-||api-marketolog.mts.ru^
 ||api-mf1.meta.ndmdhs.com^
 ||api-shoppingguider.hismarttv.com^
 ||api-unisearch.hismarttv.com^
@@ -23630,7 +23629,6 @@
 ||contents.pwc.com^
 ||contentshamper.com^
 ||context.hotline.ua^
-||contextbar.ru^
 ||contextualyield.com^
 ||contextweb.com^
 ||contfor.fun^
@@ -30652,6 +30650,7 @@
 ||e413f53436.8be504503e.com^
 ||e4203cbfd3.ab73ad8e50.com^
 ||e437040a9a.com^
+||e459.kcci.com^
 ||e46271be93.com^
 ||e4a99e6e85.6466f42158.com^
 ||e4nglis56hcoo5nhou6nd.com^
@@ -31790,7 +31789,6 @@
 ||elmiestkanuri.top^
 ||elmkrljayamrb.top^
 ||elmonopolicycr.info^
-||elodcantdog.com^
 ||elogic-learning.actonservice.com^
 ||eloinedcanasta.com^
 ||eloinrakily.com^
@@ -34213,6 +34211,7 @@
 ||f2svgmvts.com^
 ||f32572586e.6207684432.com^
 ||f3551539d6565853.com^
+||f361.wvtm13.com^
 ||f362.nola.com^
 ||f3663618ff.com^
 ||f3a86487b6.b1c3e3dfed.com^
@@ -40198,6 +40197,7 @@
 ||h.n11.com^
 ||h.trace.qq.com^
 ||h00c.sfr.fr^
+||h019.wtae.com^
 ||h031.familydollar.com^
 ||h037n.letsporn.com^
 ||h05grpd9s1qfbt.xyz^
@@ -46147,6 +46147,7 @@
 ||j0ss4np1c5.site^
 ||j1.ax.xrea.com^
 ||j1.piaobing.com^
+||j178.wmur.com^
 ||j198.registercitizen.com^
 ||j1p6w.xyz^
 ||j2i0.mathon.fr^
@@ -47704,6 +47705,7 @@
 ||k.voyageursdumonde.ca^
 ||k.voyageursdumonde.ch^
 ||k.voyageursdumonde.fr^
+||k030.koco.com^
 ||k1.dancihu.com^
 ||k1.wanwenwan.cn^
 ||k1.wendahu.com^
@@ -52951,6 +52953,7 @@
 ||m7g2v1b9.com^
 ||m7i1k.fun^
 ||m81jmqmn.ru^
+||m886.kmbc.com^
 ||m8oxd.xyz^
 ||m8ppac2on0xy.com^
 ||m9d6p03.com^
@@ -64193,6 +64196,7 @@
 ||p6-be-pack-sign.pglstatp-toutiao.com^
 ||p64gk2yhba0p.com^
 ||p6qf8cqa0.com^
+||p769.wgal.com^
 ||p7cloud.net^
 ||p7h1silo3f.app.cainthus.com^
 ||p8u.hinet.net^
@@ -65254,6 +65258,7 @@
 ||perseverehang.com^
 ||persevereindirect.com^
 ||perseverevoice.com^
+||persicrejolt.com^
 ||persistarcticthese.com^
 ||persistbrittle.com^
 ||perso.aws.arc.pub^
@@ -68719,6 +68724,7 @@
 ||q49q7g0n7gra.su^
 ||q4l5gz6lqog6.www.eventus.io^
 ||q4v3c.site^
+||q511.wpbf.com^
 ||q6gub.website^
 ||q6idnawboy7g.com^
 ||q777.sfchronicle.com^
@@ -69337,6 +69343,7 @@
 ||queergatewayeasier.com^
 ||queersodadults.com^
 ||queersynonymlunatic.com^
+||queerygenets.com^
 ||queiajowan.com^
 ||quelea.igotcha.de^
 ||quellaplentyresolute.com^
@@ -69652,6 +69659,7 @@
 ||r023m83skv5v.com^
 ||r1ztni.oui.sncf^
 ||r202cop.xyz^
+||r255.wmtw.com^
 ||r2d2.aotter.net^
 ||r2r.utas.edu.au^
 ||r3oodleaw5au4ssir.com^
@@ -70941,6 +70949,7 @@
 ||res.femina.fr^
 ||res.franc-tireur.fr^
 ||res.hubcloud.com.cn^
+||res.ki.de^
 ||res.marianne.net^
 ||res.paruvendu.fr^
 ||res.pinpai8.cn^
@@ -72970,6 +72979,7 @@
 ||s6.textlink.vn^
 ||s615419487.sc.origins.en25.com^
 ||s7feh.top^
+||s811.ketv.com^
 ||s83ovp6qyhco.com^
 ||s861531437.sc.origins.en25.com^
 ||s99i.org^
@@ -85625,6 +85635,7 @@
 ||t58genestuff.com^
 ||t5lxz7dtq4iz.com^
 ||t6.china-xian.com^
+||t733.wjcl.com^
 ||t7baxp1xmw00.boxoffice.adventuretix.com^
 ||t7cp4fldl.com^
 ||t7z.cupid.iqiyi.com^
@@ -92359,6 +92370,7 @@
 ||u0081.com^
 ||u0082.com^
 ||u0083.com^
+||u082.wapt.com^
 ||u0crsrah75fy.camberlion.com^
 ||u1.2048sj.com^
 ||u1.idongde.com^
@@ -92400,6 +92412,7 @@
 ||u927.sfgate.com^
 ||u939.colgate.com^
 ||u97jr.xyz^
+||u999.wcvb.com^
 ||u9axpzf50.com^
 ||ua.hullockotxi.com^
 ||ua.indianexpress.com^
@@ -93936,6 +93949,7 @@
 ||v.topya.com^
 ||v00ske77693f.com^
 ||v040419.badjojo.com^
+||v066.wxii12.com^
 ||v0cf.xyz^
 ||v0h8c6kcd8wd9lzg2mtlo0gj7cju82latost2c8qjs2gj6yti8zhs5kltx7d.me^
 ||v1-ad.video.yximgs.com^
@@ -93964,6 +93978,7 @@
 ||v2.gdt.qq.com^
 ||v20.cnnd.vn^
 ||v20.events.data.microsoft.com^
+||v225.ksbw.com^
 ||v2cigs.com^
 ||v2st.shinobi.jp^
 ||v3-ad.video.yximgs.com^
@@ -95617,6 +95632,7 @@
 ||w1.yskwai.com^
 ||w1.zskwai.com^
 ||w11.zhongkaohelp.com^
+||w110.kcra.com^
 ||w14s58toxo.su^
 ||w18.9939.com^
 ||w23eidn9j.com^
@@ -97555,7 +97571,6 @@
 ||worldfreshblog.com^
 ||worldfreshjournal.com^
 ||worldglobalssp.xyz^
-||worldinform.ru^
 ||worldlyyouth.com^
 ||worldmtcs.nhk.jp^
 ||worldnetpr.actonservice.com^
@@ -99854,6 +99869,7 @@
 ||y.photoint.net^
 ||y.sphinxtube.com^
 ||y.topya.com^
+||y000.wyff4.com^
 ||y1.arte.tv^
 ||y1.junshitt.com^
 ||y1.spreton.com^
