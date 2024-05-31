@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-05-30 20:33:28（北京时间）
+! Version: 2024-05-31 09:17:29（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 101668
+! Total count: 101695
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -1235,6 +1235,7 @@
 ||2tty.overstappen.nl^
 ||2tyne.icu^
 ||2u3v4w5x6y.com^
+||2ucz3ymr1.com^
 ||2waky.com^
 ||2wink.com.au^
 ||2x2mfeed.com^
@@ -6394,6 +6395,7 @@
 ||abacho.net^
 ||abacusnet.info^
 ||abadass.com^
+||abadit5rckb.com^
 ||abamatoyer.com^
 ||abandonrecommendationwars.com^
 ||abange.com^
@@ -17096,6 +17098,7 @@
 ||bfjmqmdieipi.xyz^
 ||bfjoyp.plus.nl^
 ||bfjpbw.herrenausstatter.de^
+||bfjsliv.top^
 ||bfjszxzfvf.com^
 ||bflybplr.xyz^
 ||bfmio.com^
@@ -28101,6 +28104,7 @@
 ||dffrahax.com^
 ||dfg6.top^
 ||dfgbalon.com^
+||dfgfdffg.cn^
 ||dfgpifa.com^
 ||dfgwer.com^
 ||dfgymtx.icu^
@@ -31096,6 +31100,7 @@
 ||ecefyu.geox.com^
 ||ecf31c06c3.d52a6b131d.com^
 ||ecffmhajfgxw.com^
+||echaruropygi.com^
 ||echehalids.guru^
 ||echevintrunnel.top^
 ||echidna.hellotomorrow.agency^
@@ -35083,6 +35088,7 @@
 ||fiercedental.com^
 ||fiercefacetwidely.com^
 ||fiercequips.com^
+||fieryinjure.com^
 ||fierymint.com^
 ||fierysolemncow.com^
 ||fieslobwg.com^
@@ -37389,6 +37395,7 @@
 ||geethaihoa.com^
 ||geethaiw.xyz^
 ||geethoap.com^
+||geewooheene.net^
 ||geezersrecusal.website^
 ||gefkkw.cyberport.de^
 ||gegbeiaojmfgnkw.com^
@@ -38350,6 +38357,7 @@
 ||glursihi.net^
 ||glutchoaksa.com^
 ||gluteinavarch.com^
+||glutenmuttsensuous.com^
 ||gluttonstayaccomplishment.com^
 ||gluttonybrand.com^
 ||gluttonybuzzingtroubled.com^
@@ -39788,6 +39796,7 @@
 ||grupkxfhi.com^
 ||gruponn.com^
 ||grurawho.com^
+||grushoungy.com^
 ||grussreenter.com^
 ||gruvirxita.com^
 ||gruwalom.xyz^
@@ -40126,6 +40135,7 @@
 ||gxpvnveyqowm.com^
 ||gxqjvuhsk.com^
 ||gxqzz.7766.org^
+||gxtmsmni.com^
 ||gxuhoeynwghjd.com^
 ||gxusko.pinkpanda.hu^
 ||gxvaunase.com^
@@ -45780,6 +45790,7 @@
 ||isac.thermofisher.com^
 ||isanalyze.com^
 ||isancio.top^
+||isatonabench.com^
 ||isawthenews.com^
 ||isbamic.actonservice.com^
 ||isbnrs.com^
@@ -48917,6 +48928,7 @@
 ||kychajuza.com^
 ||kycxhgrp.xyz^
 ||kydzfldt.xyz^
+||kyemwo.xyz^
 ||kygcfvtjrawv.com^
 ||kygfocnbvlaa.com^
 ||kygftx.xyz^
@@ -49355,6 +49367,7 @@
 ||latheendsmoo.com^
 ||lathilusted.top^
 ||latinchiniks.digital^
+||latinwayy.com^
 ||latkelotong.top^
 ||latonaheyday.space^
 ||latrinehelves.com^
@@ -60896,6 +60909,7 @@
 ||noisyunidentifiedinherited.com^
 ||nojazz.eu^
 ||nojhhsg.com^
+||noktaglaik.com^
 ||nol.yahoo.com^
 ||nollolofgulmof.com^
 ||nolrougn.com^
@@ -63232,6 +63246,7 @@
 ||oqeazohx.com^
 ||oqelpqoyyz.com^
 ||oqfgpdnwdbirpc.com^
+||oqfrudzatovc.com^
 ||oqfvsgfj.com^
 ||oqgrax.sissy-boy.com^
 ||oqhbykhlt.com^
@@ -64587,6 +64602,7 @@
 ||parlouractivityattacked.com^
 ||parlourinvulnerablerighteous.com^
 ||paronymtethery.com^
+||parrallforums.top^
 ||parrecleftne.xyz^
 ||parrot.lovably.com^
 ||parrotfish.thenping.me^
@@ -68191,6 +68207,7 @@
 ||pubianmending.space^
 ||pubimageboard.com^
 ||publi.atresmediapublicidad.com^
+||publi.elliberal.com.ar^
 ||public-gcs.subiz-cdn.com^
 ||public.gdtimg.com^
 ||public.profitwell.com^
@@ -68557,6 +68574,7 @@
 ||pvxvazbehd.com^
 ||pw.gigazine.net^
 ||pw.wpu.sh^
+||pw2ct1.asia^
 ||pwbmdalngizhz.com^
 ||pwbuhb.xyz^
 ||pwcegau.icu^
@@ -70771,6 +70789,7 @@
 ||renzhongjiaoyu.xyz^
 ||reoiebco.com^
 ||reoilspinors.top^
+||reopensnews.com^
 ||reople.co.kr^
 ||reoreexpresi.com^
 ||reorganizeglaze.com^
@@ -76605,6 +76624,7 @@
 ||slumdombigot.top^
 ||slumid.com^
 ||slumpyclueing.com^
+||slurpsbeets.com^
 ||slushdevastating.com^
 ||slutload.com/kvs-container/camsoda^
 ||slutload.com/spots^
@@ -91924,6 +91944,7 @@
 ||tubevideos.biz^
 ||tubewalk.com^
 ||tubfurryhen.com^
+||tubqwqvsfusjqq.com^
 ||tubroaffs.org^
 ||tubsougn.com^
 ||tubulesstodger.top^
@@ -92847,6 +92868,7 @@
 ||umrstfl.cn^
 ||umrvmb.net.anwalt.de^
 ||umsns.com^
+||umtudo.com^
 ||umtzwr.adidas.co.kr^
 ||umuotov.com^
 ||umvibwqrumfqk.com^
@@ -93380,6 +93402,7 @@
 ||upstandhurls.website^
 ||upstandingmoscow.com^
 ||upstats.yadro.ru^
+||upsups.click^
 ||upsweephalms.com^
 ||upswingmethyl.com^
 ||uptafashib.com^
@@ -93665,6 +93688,7 @@
 ||usvkfwth.xyz^
 ||uswardwot.com^
 ||usxuyr.icu^
+||usyliet.top^
 ||usylkoifiwa.com^
 ||usyyzz.winparts.nl^
 ||usztct.gang.com.br^
@@ -96456,6 +96480,7 @@
 ||webstats.volvo.com^
 ||webstats.volvoce.com^
 ||webstats.volvoit.com^
+||webstats1.com^
 ||webstats4u.com^
 ||webt.aqipa.com^
 ||webt.eleonto.com^
@@ -99695,6 +99720,7 @@
 ||xwagtyhujov.com^
 ||xwcfvvnegv.com^
 ||xwcumrmfkdkbv.com^
+||xwdjnj.xyz^
 ||xwdplfo.com^
 ||xwdsp.com^
 ||xwlidjauhdxzx.com^
@@ -99951,6 +99977,7 @@
 ||ycembr.net-a-porter.com^
 ||yceml.net^
 ||ycgkol.icu^
+||ycgmnpp.icu^
 ||ycgy8888.com^
 ||ychkujj.cn^
 ||ychqww.aboutyou.lv^
