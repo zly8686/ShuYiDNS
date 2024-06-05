@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-06-04 20:33:57（北京时间）
+! Version: 2024-06-05 09:17:24（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 100060
+! Total count: 100076
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -1974,6 +1974,7 @@
 ||629de87520.f983cf2155.com^
 ||62b70ac32d4614b.com^
 ||62b81f5af3.com^
+||62ca04e27a.com^
 ||62f74791d5.2f1969b0e8.com^
 ||62h45d14.shrweea.lat^
 ||62h4a154.shrweea.lat^
@@ -11637,6 +11638,7 @@
 ||analytics.plex.tv^
 ||analytics.plumbworld.co.uk^
 ||analytics.pnc.com^
+||analytics.poferries.com^
 ||analytics.pogo.tv^
 ||analytics.pointdrive.linkedin.com^
 ||analytics.pollardwater.com^
@@ -12421,7 +12423,6 @@
 ||api-launcher-em.hismarttv.com^
 ||api-launcher-na.hismarttv.com^
 ||api-logdev.sohatv.vn^
-||api-marketolog.mts.ru^
 ||api-mf1.meta.ndmdhs.com^
 ||api-shoppingguider.hismarttv.com^
 ||api-unisearch.hismarttv.com^
@@ -14257,6 +14258,7 @@
 ||asrety.com^
 ||asricewaterho.com^
 ||asrntiljustetyerec.info^
+||asrop.xyz^
 ||asrowjkagg.com^
 ||asryrzpu.xyz^
 ||assadbee.live^
@@ -17042,6 +17044,7 @@
 ||biabowqi.com^
 ||bialithicket.com^
 ||biancasunlit.com^
+||biancitiao.com^
 ||biaseddocumentationacross.com^
 ||biasedpushful.com^
 ||bibasicbdrm.top^
@@ -17191,6 +17194,7 @@
 ||bindingtimetablejosie.com^
 ||bineukdwithmef.info^
 ||bing001.shop^
+||bing003.shop^
 ||bing005.shop^
 ||bingads.microsoft.com^
 ||bingoocy.com^
@@ -23327,7 +23331,6 @@
 ||contents.pwc.com^
 ||contentshamper.com^
 ||context.hotline.ua^
-||contextbar.ru^
 ||contextualyield.com^
 ||contextweb.com^
 ||contfor.fun^
@@ -23701,7 +23704,6 @@
 ||counter.web.money^
 ||counter.webmart.de^
 ||counter.websitevoice.com^
-||counter.wikiwiki.jp^
 ||counter.yadro.ru^
 ||counter.zerohedge.com^
 ||counter1.fc2.com^
@@ -40378,6 +40380,7 @@
 ||hfjhr.cn^
 ||hfjk3wa.com^
 ||hfjoksuriyy.com^
+||hfjsliu.top^
 ||hfjvuxuwasf.com^
 ||hfk128dfs-dsfbheuoys.xyz^
 ||hfk7j.top^
@@ -45145,6 +45148,7 @@
 ||itheatmora.com^
 ||itheatmoran.com^
 ||ithergrouter.website^
+||ithoughtsustache.info^
 ||itienlo.top^
 ||itineraryborn.com^
 ||itinerarymonarchy.com^
@@ -49098,6 +49102,7 @@
 ||libertycdn.com^
 ||libertyhomeequity.actonservice.com^
 ||libertystmedia.com^
+||libhzf.xyz^
 ||librariandemocrattoss.com^
 ||library.acspubs.org^
 ||library.daptiv.com^
@@ -60510,6 +60515,7 @@
 ||nyhgjmlg.xyz^
 ||nyhgvn.xyz^
 ||nyhrgss.com^
+||nyihcpzdloe.com^
 ||nykcksdpo.com^
 ||nykvdwi.cn^
 ||nylonnickel.com^
@@ -62046,6 +62052,7 @@
 ||opoffice.actonservice.com^
 ||oponixa.com^
 ||opootsoa.net^
+||opositeasysemblyjus.info^
 ||opossum.roleup.com^
 ||opossum.stephanieharari.com^
 ||opouglie.com^
@@ -67909,6 +67916,7 @@
 ||qpc4.visilab.ch^
 ||qpcvlbp.cn^
 ||qpemoqauwc.com^
+||qpesok.xyz^
 ||qpixxezhwwoc.com^
 ||qpkdnupzke.com^
 ||qpl9.destinia.dk^
@@ -72536,6 +72544,7 @@
 ||sbpb1.chuiyue.com^
 ||sbpb1.qulishi.com^
 ||sbpzeq.lululemon.com.au^
+||sbqptosht.com^
 ||sbrakepads.com^
 ||sbrands.lookfantastic.com^
 ||sbscribeme.com^
@@ -84397,6 +84406,7 @@
 ||tailsweep.se^
 ||tainosapiece.com^
 ||taintvistacredulous.com^
+||taipeivermeil.top^
 ||taipsuwa.com^
 ||taisteptife.com^
 ||taiuxljddwh.com^
@@ -92292,6 +92302,7 @@
 ||uuuzuu.xyz^
 ||uuvzmba.cn^
 ||uuxfznnf.xyz^
+||uuysiaq.com^
 ||uuzlytbpmmhfm.com^
 ||uuzsfpju.xyz^
 ||uuzwvqc.cn^
@@ -94420,6 +94431,7 @@
 ||waxingcesti.com^
 ||waxworksprotectivesuffice.com^
 ||waybillbulged.com^
+||wayfgwbipgiz.com^
 ||wayfinderanalytics.servicebus.windows.net^
 ||waymarkgentiin.com^
 ||waymentriddel.com^
@@ -95672,6 +95684,7 @@
 ||wka4jursurf6.com^
 ||wkclick.baidu.com^
 ||wkctj.baidu.com^
+||wkjyxcheng.top^
 ||wkktnbxxum.xyz^
 ||wklwyt.springer.com^
 ||wkmorvzqjmwav.top^
@@ -95953,7 +95966,6 @@
 ||worldfreshblog.com^
 ||worldfreshjournal.com^
 ||worldglobalssp.xyz^
-||worldinform.ru^
 ||worldlyyouth.com^
 ||worldmtcs.nhk.jp^
 ||worldnetpr.actonservice.com^
@@ -97289,6 +97301,7 @@
 ||xay5o.toscane-boutique.fr^
 ||xayiqcwbmmhwf.com^
 ||xazwlyh.com^
+||xbbhwggj.icu^
 ||xbc8fsvo5w75wwx8.pro^
 ||xbcnvj2mdk1dn1.com^
 ||xbcrohmposa.com^
@@ -98216,6 +98229,7 @@
 ||xyqmy.xyz^
 ||xyrkotsqhaf.com^
 ||xyryjt.xyz^
+||xysefte.icu^
 ||xysgfqnara.xyz^
 ||xytcboyz.icu^
 ||xyvjkdec.com^
@@ -98359,6 +98373,7 @@
 ||ybtkzjm.com^
 ||ybuduzpe.com^
 ||ybujfcuqya.com^
+||ybutoakqkct.com^
 ||ybwcvhcnulrgbvy.com^
 ||ybx.yahoo.co.jp^
 ||ybxkfivvpmofh.com^
@@ -99873,6 +99888,7 @@
 ||ztfjtn.liujo.com^
 ||ztfzizpkjrmhbc.com^
 ||ztgblo.vidaxl.lt^
+||zthxobgk.icu^
 ||ztnibpbkl.com^
 ||ztqdkzn.cn^
 ||ztqnls.lojasrenner.com.br^
