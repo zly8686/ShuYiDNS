@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-06-05 09:17:24（北京时间）
+! Version: 2024-06-05 20:33:55（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 100076
+! Total count: 100073
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -2302,8 +2302,6 @@
 ||7abf0af03c.com^
 ||7anfpatlo8lwmb.com^
 ||7app.top^
-||7b3bd56d1e.com^
-||7b4d5bc078.com^
 ||7b763dbdf3.com^
 ||7b7b5ab4d0.2066401308.com^
 ||7b936.v.fwmrm.net^
@@ -18890,6 +18888,7 @@
 ||bugits.com^
 ||bugjyl.jkattire.co.uk^
 ||bugleczmoidgxo.com^
+||buglesembarge.top^
 ||buglick.com^
 ||bugly.qq.com^
 ||bugodar.com^
@@ -22118,7 +22117,6 @@
 ||cmmcqcvwc.com^
 ||cmme.actonservice.com^
 ||cmnepalslma.com^
-||cmoa.pro^
 ||cmon.congress.gov^
 ||cmp.courrierinternational.com^
 ||cmp.dreamlab.pl^
@@ -24080,6 +24078,7 @@
 ||credibilityyowl.com^
 ||creditbitesize.com^
 ||creditorapido.xyz^
+||credotrigona.com^
 ||credulityicicle.com^
 ||creedoverwork.com^
 ||creeguilds.com^
@@ -26277,7 +26276,6 @@
 ||dashersbatfish.guru^
 ||dashgreen.online^
 ||dashingdaredmeeting.com^
-||dashingdirt.com^
 ||dashingdrop.com^
 ||daslethv.com^
 ||dasperdolus.com^
@@ -27250,7 +27248,6 @@
 ||defeatedadmirabledivision.com^
 ||defeatpercharges.com^
 ||defeature.xyz^
-||defectivedress.com^
 ||defenceblake.com^
 ||defencelessrancorous.com^
 ||defendantlucrative.com^
@@ -28772,6 +28769,7 @@
 ||dlisuq.wbw-nail.com^
 ||dlive.pagesjaunes.fr^
 ||dljuejfp.com^
+||dljzcl.cn^
 ||dlkdfuun.com^
 ||dlmonitize.com^
 ||dlmr7hpb2buud.cloudfront.net^
@@ -30406,7 +30404,6 @@
 ||eariod.com^
 ||earlapspur.com^
 ||earlapssmalm.com^
-||earlessspock.com^
 ||earlierdimrepresentative.com^
 ||earlierindians.com^
 ||earliesthuntingtransgress.com^
@@ -30431,7 +30428,6 @@
 ||earthworm.makethemdebate.com^
 ||earthworm.mxdvl.com^
 ||earthworm.robbevanpetegem.be^
-||earthycopy.com^
 ||earwig.architecturesofhiding.com^
 ||eas.almamedia.fi^
 ||easazi.com^
@@ -31222,7 +31218,6 @@
 ||elcfdhbxyb.com^
 ||elcineencasa.com^
 ||elconfidencialdigital.actonservice.com^
-||elderlyscissors.com^
 ||elderlytown.com^
 ||eldestcasualelements.com^
 ||eldestcontribution.com^
@@ -33892,7 +33887,6 @@
 ||falloutspecies.com^
 ||falsarywaybung.com^
 ||falsechasingdefine.com^
-||falsefeet.com^
 ||falseframe.com^
 ||falsifybrightly.com^
 ||falsifylilac.com^
@@ -34060,7 +34054,6 @@
 ||faxifa.xyz^
 ||faxqaaawyb.com^
 ||fayijxrs.com^
-||faykitturn.live^
 ||fayzrtqszkcb.com^
 ||fazanppq.com^
 ||fazinghomelet.top^
@@ -34725,6 +34718,7 @@
 ||findyourinfluence.actonservice.com^
 ||fine-wealth.pro^
 ||fineclicks.com^
+||finedbawrel.com^
 ||finedintersection.com^
 ||finednothue.com^
 ||fineporno.com^
@@ -51198,7 +51192,6 @@
 ||louseflippantsettle.com^
 ||lousefodgel.com^
 ||louses.net^
-||lousilytarwood.com^
 ||lousoozi.net^
 ||loustagu.com^
 ||loustoanee.com^
@@ -51417,7 +51410,6 @@
 ||lptrak.com^
 ||lptrck.com^
 ||lpuqtu.propertyfinder.bh^
-||lpx.qantas.com^
 ||lpxmall.com^
 ||lpygsq.dorita.se^
 ||lpzhlqrrcvpnzj.com^
@@ -58762,6 +58754,7 @@
 ||naneducate.com^
 ||nanesbewail.com^
 ||nanfleshturtle.com^
+||nangalupeose.com^
 ||nangelsaidthe.info^
 ||nangkasec.com^
 ||nangongmall.com^
@@ -60694,6 +60687,7 @@
 ||oast.online^
 ||oast.pro^
 ||oast.site^
+||oastoamox.com^
 ||oastoorg.com^
 ||oataltaul.com^
 ||oatbcxnhacfjnc.com^
@@ -62830,7 +62824,6 @@
 ||owithlerendu.com^
 ||owkeyiuxindchj.com^
 ||owkmmo.xyz^
-||owktyvky.com^
 ||owl.gregwolanski.com^
 ||owl.heidipay.com^
 ||owl.sentrydiscord.dev^
@@ -66595,6 +66588,7 @@
 ||prosecutorcommaeligible.com^
 ||prosecutorkettle.com^
 ||prosedisavow.com^
+||proselyaltars.com^
 ||proseoverlook.com^
 ||prositzapas.com^
 ||prosocrawm.com^
@@ -73867,6 +73861,7 @@
 ||separtevallums.top^
 ||sephora-qa.branch.rocks^
 ||sephora-qa.branchstaging.com^
+||sepianshap.com^
 ||sepiasbalkis.com^
 ||seponews.com^
 ||sepstough.com^
@@ -90812,6 +90807,7 @@
 ||typicalsecuritydevice.com^
 ||typiccor.com^
 ||typiconrices.com^
+||typojesuit.com^
 ||typsxumcsjw.com^
 ||tyqptghilt.com^
 ||tyract.com^
@@ -92959,6 +92955,7 @@
 ||vfmahn.slevomat.cz^
 ||vfo.voyage-prive.co.uk^
 ||vfo4.carrefour-banque.fr^
+||vfphbh.xyz^
 ||vfsvv1.com^
 ||vfthr.com^
 ||vfvad.top^
