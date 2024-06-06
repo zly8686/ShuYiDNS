@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-06-06 09:17:19（北京时间）
+! Version: 2024-06-06 20:34:03（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 100065
+! Total count: 100072
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -1042,7 +1042,6 @@
 ||2475april2024.com^
 ||2479april2024.com^
 ||247dbf848b.com^
-||247lyrics.com^
 ||247media.com^
 ||2481april2024.com^
 ||248bb4b7dd.com^
@@ -1465,7 +1464,6 @@
 ||3ez1ja1uq3.ru^
 ||3f2c49ab2d.265641f673.com^
 ||3f4340fabe.69b61ba7d6.com^
-||3f5b226d6e.com^
 ||3fa20230512.live^
 ||3fa244b7eb.com^
 ||3fb4026cec.ffbd26c481.com^
@@ -1520,7 +1518,6 @@
 ||4023322612.4a167ec12d.com^
 ||4024.cosmicnewspulse.com^
 ||4030b44c32.com^
-||403960fc42.com^
 ||4044.5clo0xmbf.com^
 ||407433bfc441.com^
 ||4081.k3718qw08.com^
@@ -6712,7 +6709,9 @@
 ||abonnementdisconnect.com^
 ||abonnementpermissiveenliven.com^
 ||abopeol.com^
+||aboriginaldisturbthirty.com^
 ||aboriginalhubby.com^
+||aboriginesprimary.com^
 ||abortingulf.top^
 ||abortsrefront.top^
 ||aboucaih.com^
@@ -6972,6 +6971,7 @@
 ||accuratecoal.com^
 ||accuride.actonservice.com^
 ||accusationcollegeload.com^
+||accusedmilkdemanded.com^
 ||accusedstone.com^
 ||accuseraccustomed.com^
 ||accuserannouncementadulthood.com^
@@ -7924,6 +7924,7 @@
 ||adengage.com^
 ||adentifi.com^
 ||adenza.dev^
+||adeptoksuspicion.com^
 ||adevbom.com^
 ||adeventtracker.spotify.com^
 ||adeventtrackermonitoring.spotify.com^
@@ -8045,6 +8046,7 @@
 ||adizio.com^
 ||adjb.5nd.com^
 ||adjectivedollaralmost.com^
+||adjectivehonestly.com^
 ||adjectiveresign.com^
 ||adjix.com^
 ||adjoincomprise.com^
@@ -8408,6 +8410,7 @@
 ||adreclaim.com^
 ||adrecreate.com^
 ||adremedy.com^
+||adrenalineanywaystaple.com^
 ||adrenalpop.com^
 ||adrenovate.com^
 ||adrent.net^
@@ -8784,7 +8787,6 @@
 ||ads.rediff.com^
 ||ads.redlightcenter.com^
 ||ads.regiedepub.com^
-||ads.resoom.de^
 ||ads.roku.com^
 ||ads.rubiconproject.com^
 ||ads.s3.sitepoint.com^
@@ -9314,6 +9316,7 @@
 ||adtzpdpi.com^
 ||adukwai.com^
 ||adulateearring.com^
+||adulatevioletnoncommittal.com^
 ||aduld.click^
 ||adult-affiliate.link^
 ||adultadvertising.com^
@@ -9707,6 +9710,7 @@
 ||affa8.hikkoshi-master.com^
 ||affabilitydisciple.com^
 ||affableindigestionstruggling.com^
+||affableoffense.com^
 ||affablewalked.com^
 ||affairrocket.com^
 ||affairsmithbloke.com^
@@ -9719,9 +9723,11 @@
 ||affectdeveloper.com^
 ||affectedwrestproven.com^
 ||affectincentiveyelp.com^
+||affectionatefurniturehypothesis.com^
 ||affectionateinterferingbarrister.com^
 ||affectionatelypart.com^
 ||affectionmountcrooked.com^
+||affectsyntaxthousand.com^
 ||affelseaeinera.org^
 ||affelseaeineral.xyz^
 ||affflow.com^
@@ -9911,6 +9917,7 @@
 ||afterschoolallstars.actonservice.com^
 ||afterthoughtconsentedfame.com^
 ||afterwardcounsel.com^
+||afterwardformedoutlet.com^
 ||afterwardstationquestions.com^
 ||aftjohnanodes.com^
 ||aftqhamina.com^
@@ -9981,6 +9988,7 @@
 ||aggjprvqamtl.com^
 ||aggle.net^
 ||aggravatecapeamoral.com^
+||aggravationencourage.com^
 ||aggregatedcolonizebracket.com^
 ||aggregatedcompetitivefrock.com^
 ||aggregatedcorky.com^
@@ -10028,6 +10036,7 @@
 ||agreedembodyonset.com^
 ||agreedrunawaysalty.com^
 ||agreementphotocopy.com^
+||agreementunfinished.com^
 ||agribusiness.intelligence.informa.com^
 ||agriculturalpraise.com^
 ||agriculturaltacticautobiography.com^
@@ -10974,6 +10983,7 @@
 ||amorouslimitsbrought.com^
 ||amorousstableminister.com^
 ||amorphousankle.com^
+||amorphouscomprise.com^
 ||amorphouspain.com^
 ||amorphouspimple.com^
 ||amountdonutproxy.com^
@@ -11149,7 +11159,6 @@
 ||analytics-cf.bigcrunch.com^
 ||analytics-cms.whitebeard.me^
 ||analytics-coletor-site.ojc.com.br^
-||analytics-conomi.line.me^
 ||analytics-consent-manager-v2-prod.azureedge.net^
 ||analytics-dataplane.invideo.io^
 ||analytics-egain.com^
@@ -12035,6 +12044,8 @@
 ||animateddanglediary.com^
 ||animateddiscredit.com^
 ||animatedjumpydisappointing.com^
+||animatedprosecutedangerous.com^
+||animatedresentprecursor.com^
 ||animaterecover.com^
 ||animaux.oworld.fr^
 ||animeplaynow.com^
@@ -12076,6 +12087,7 @@
 ||annonser.dagbladet.no^
 ||annotationdiverse.com^
 ||annotationmadness.com^
+||annotationsincereexistence.com^
 ||announcedseaman.com^
 ||announceflealanding.com^
 ||announcement.lyreco.com^
@@ -13476,6 +13488,7 @@
 ||applicationplasticoverlap.com^
 ||applicationsattaindevastated.com^
 ||applicationsrapacity.com^
+||appliedmeaningfulable.com^
 ||applifier.com^
 ||applifycontent.com^
 ||applifysolutions.com^
@@ -13578,9 +13591,12 @@
 ||approachproperachieve.com^
 ||approachresourceful.com^
 ||appropriate-speech.com^
+||appropriateinaction.com^
 ||appropriateloathefewer.com^
 ||appropriatepurse.com^
+||approvelongestrepel.com^
 ||approvewordingcashier.com^
+||approximatecaloriegallon.com^
 ||approximatelyseats.com^
 ||apps-test.spectrum-member.com^
 ||apps.airmeet.com^
@@ -13919,6 +13935,7 @@
 ||aromamidland.com^
 ||aromatic-possibility.pro^
 ||aroseexploit.com^
+||arosefairfaxadditional.com^
 ||arosegeorgianaglued.com^
 ||arosepageant.com^
 ||arossb.com^
@@ -15478,7 +15495,6 @@
 ||b6143975c9.com^
 ||b616ca211a.com^
 ||b629.electronicdesign.com^
-||b62f32e9ef.com^
 ||b65415fde6.com^
 ||b666.penzainform.ru^
 ||b69ea60ce2.6b856ee58e.com^
@@ -23762,7 +23778,6 @@
 ||cowbumply.com^
 ||cowerscrowers.top^
 ||cowhmc.docmorris.de^
-||cowlfoot.com^
 ||cowm199.com^
 ||cowmankai.com^
 ||cowtpvi.com^
@@ -26151,6 +26166,7 @@
 ||dajdnm.splits59.com^
 ||dajiahao10.top^
 ||dajiahao9.top^
+||dajkqqpz.top^
 ||dakjddjerdrct.online^
 ||dal9hkyfi0m0n.cloudfront.net^
 ||dalecigarexcepting.com^
@@ -26274,8 +26290,8 @@
 ||dashersbatfish.guru^
 ||dashgreen.online^
 ||dashingdaredmeeting.com^
-||dashingdrop.com^
 ||daslethv.com^
+||dasljfoq.top^
 ||dasperdolus.com^
 ||dasv10rewq.xyz^
 ||dasych.drmartypets.com^
@@ -27142,7 +27158,6 @@
 ||decorationhailstone.com^
 ||decorationproducer.com^
 ||decordingholo.org^
-||decoroustitle.com^
 ||decossee.com^
 ||decoycreation.com^
 ||decpo.xyz^
@@ -27258,7 +27273,6 @@
 ||deferrenewdisciple.com^
 ||defiancebelow.com^
 ||defiancefaithlessleague.com^
-||defiantrice.com^
 ||deficiencyluckrapt.com^
 ||deficiencypiecelark.com^
 ||deficitsilverdisability.com^
@@ -29056,7 +29070,6 @@
 ||dollargrimlytommy.com^
 ||dollarsurvey365.org^
 ||dollartopsail.top^
-||dolldetail.com^
 ||dollinwurleys.com^
 ||dollsdeclare.com^
 ||dolohen.com^
@@ -29524,7 +29537,6 @@
 ||dresserbirth.com^
 ||dresserderange.com^
 ||dresserfindparlour.com^
-||dressexpansion.com^
 ||dressingdedicatedmeeting.com^
 ||dressmakerdecisivesuburban.com^
 ||dressmakerdisturb.com^
@@ -41317,6 +41329,7 @@
 ||hrngmf.com^
 ||hrnhcu.kapiva.in^
 ||hrnkdr.xyz^
+||hrnvfp.xyz^
 ||hrogrpee.de^
 ||hronboard.actonservice.com^
 ||hrprwf.proteinocean.com^
@@ -47712,7 +47725,6 @@
 ||koradu.com^
 ||koranicseimas.com^
 ||korarea.com^
-||kordirooruk.com^
 ||korenle.com^
 ||korexo.com^
 ||korgala.com^
@@ -48190,7 +48202,6 @@
 ||l.voleousa.com^
 ||l.whizzl.com^
 ||l.workoutparty.co^
-||l.www.naver.com^
 ||l.ykimg.com^
 ||l.your.md^
 ||l0-secure.videohub.tv^
@@ -50610,7 +50621,6 @@
 ||locusflourishgarlic.com^
 ||locust.ausrebellion.earth^
 ||locustmartperiodic.com^
-||lodder5.biz^
 ||lodebajury.top^
 ||lodgedynamitebook.com^
 ||lodgesweet.com^
@@ -62639,7 +62649,6 @@
 ||outoctillerytor.com^
 ||outofthecath.org^
 ||outpartaims.com^
-||outpiperibbers.website^
 ||outplodbunty.com^
 ||outpoptusseh.top^
 ||outpun.com^
@@ -64409,7 +64418,6 @@
 ||phoutchounse.com^
 ||phouvemp.net^
 ||phpad.cqnews.net^
-||phpadsnew.new.natuurpark.nl^
 ||phpkxtwuibv.com^
 ||phpmyadmin.toolmonger.net.jumia.co.tz^
 ||phpstat.cntcm.com.cn^
@@ -68255,6 +68263,7 @@
 ||qwmamh.icu^
 ||qwmdnlzitsys.com^
 ||qwnmfiti.xyz^
+||qwoofao.top^
 ||qwoyfys.com^
 ||qwrwawwmblwbb.top^
 ||qwrwawwmblybj.top^
@@ -78960,6 +78969,7 @@
 ||somethingalbumexasperation.com^
 ||somethingmanufactureinvalid.com^
 ||somethingprecursorfairfax.com^
+||somethingrealisticzero.com^
 ||sometimesmonstrouscombined.com^
 ||sometrics.netapp.com^
 ||somewhatwideslimy.com^
@@ -93688,7 +93698,6 @@
 ||voteclassicscocktail.com^
 ||votedotorg.outvote.io^
 ||votejoe.outvote.io^
-||votingbemixt.website^
 ||votinginvolvingeyesight.com^
 ||vouchafagle.com^
 ||vouchanalysistonight.com^
@@ -95214,7 +95223,6 @@
 ||wheceelt.net^
 ||whechypheshu.com^
 ||wheebsadree.com^
-||wheedlehooplas.com^
 ||wheedran.com^
 ||wheejooh.com^
 ||wheeksir.net^
@@ -96273,7 +96281,6 @@
 ||wumteecoodsu.com^
 ||wumufama.com^
 ||wunteetoco.com^
-||wuombkpa.com^
 ||wuqconn.com^
 ||wurqaz.com^
 ||wuruigroup.com^
