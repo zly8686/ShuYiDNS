@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-06-05 20:33:55（北京时间）
+! Version: 2024-06-06 09:17:19（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 100073
+! Total count: 100065
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -577,7 +577,6 @@
 ||15huhu.cn^
 ||16-merchant-s.com^
 ||16.y2sysv81v.com^
-||160bcb3235.com^
 ||16134024.artcollection.io^
 ||161779.publy.co^
 ||162.252.214.4^
@@ -2995,7 +2994,6 @@
 ||a.kizzteen.com^
 ||a.koodomobile.com^
 ||a.kryptonitewp.com^
-||a.kubik3.ru^
 ||a.ladipage.com^
 ||a.lakmus.xyz^
 ||a.letsjerk.org^
@@ -9033,7 +9031,6 @@
 ||adserver.sharewareonline.com^
 ||adserver.startnow.com^
 ||adserver.theonering.net^
-||adserver.trangphim.net^
 ||adserver.twitpic.com^
 ||adserver.unityads.unity3d.com^
 ||adserver.virginmedia.com^
@@ -11953,6 +11950,7 @@
 ||ancientconspicuousuniverse.com^
 ||ancientsend.com^
 ||anconespulpier.top^
+||ancxeftgyu.top^
 ||ancznewozw.com^
 ||andappjaxzfo.com^
 ||andbeyond.media^
@@ -16396,7 +16394,6 @@
 ||beamanalytics.b-cdn.net^
 ||beambroth.com^
 ||beamedshipwreck.com^
-||beamincrease.com^
 ||beammanmoile.space^
 ||beanborrowed.com^
 ||beanoutragethen.com^
@@ -17194,6 +17191,7 @@
 ||bing001.shop^
 ||bing003.shop^
 ||bing005.shop^
+||binga01.shop^
 ||bingads.microsoft.com^
 ||bingoocy.com^
 ||binmenkollast.com^
@@ -18047,7 +18045,6 @@
 ||bottledinfectionearthquake.com^
 ||bottleschance.com^
 ||bottlescharitygrowth.com^
-||bottlescontainbum.com^
 ||bottleselement.com^
 ||bottlesgarage.com^
 ||bottlestonightapp.com^
@@ -20159,6 +20156,7 @@
 ||cbbvi.com^
 ||cbc.pnc.com^
 ||cbc9313ed1.7d3656bee3.com^
+||cbcgqs.xyz^
 ||cbcvou.xyz^
 ||cbd2dd06ba.com^
 ||cbdatatracker.com^
@@ -27320,6 +27318,7 @@
 ||delightspiritedtroop.com^
 ||deligrassdull.com^
 ||delikoko.openapp.link^
+||deliman.net^
 ||deline-sunction.com^
 ||deliquencydeliquencyeyesight.com^
 ||deliquencydeliquencygangenemies.com^
@@ -27575,7 +27574,6 @@
 ||detachedknot.com^
 ||detachmentoccasionedarena.com^
 ||detailartwork.com^
-||detailedglue.com^
 ||detailedkitten.com^
 ||detailedshuffleshadow.com^
 ||details.pella.com^
@@ -29560,7 +29558,6 @@
 ||driver.dctaxi.com^
 ||driver.jugnoo.in^
 ||drivercontinentcleave.com^
-||driverequest.com^
 ||drivewayilluminatedconstitute.com^
 ||drivewayperrydrought.com^
 ||drivingdirt.com^
@@ -29897,7 +29894,6 @@
 ||dustyhammer.com^
 ||dustymural.com^
 ||dustyrabbits.com^
-||dustywave.com^
 ||dustywrenchdesigned.com^
 ||dusunfloraer.com^
 ||dutalonflameer.com^
@@ -31951,7 +31947,6 @@
 ||enchanted-stretch.pro^
 ||enchantedjudge.com^
 ||enchantedrock.actonservice.com^
-||enchantedtop.com^
 ||enchroe.com^
 ||encirclehumanityarea.com^
 ||encirclesheriffemit.com^
@@ -31967,7 +31962,6 @@
 ||encouragedrealityirresponsible.com^
 ||encouragedunrulyriddle.com^
 ||encourageshock.com^
-||encouragingleaf.com^
 ||encouragingpistolassemble.com^
 ||encouragingshould.com^
 ||encouragingthread.com^
@@ -33554,7 +33548,6 @@
 ||extremitybagpipechallenge.com^
 ||extremityzincyummy.com^
 ||extrer.com^
-||exuberanteyes.com^
 ||exuberantsoda.com^
 ||exuharpxs.com^
 ||exurbdaimiel.com^
@@ -33723,7 +33716,6 @@
 ||f5fd936867.com^
 ||f5v1x3kgv5.com^
 ||f5w.prettytube.net^
-||f6060a1f35.com^
 ||f63777e43d.com^
 ||f6d49ce515.32abd54344.com^
 ||f70d00bbcf.614c5b2887.com^
@@ -37638,7 +37630,6 @@
 ||globe7.com^
 ||globeofnews.com^
 ||globeshyso.com^
-||globetrotting-culture.ru^
 ||globlemath.com^
 ||globo-ab.globo.com^
 ||globwo.online^
@@ -41754,7 +41745,6 @@
 ||hypots.com^
 ||hypwbv.xyz^
 ||hyrankhit.meldingcloud.com^
-||hyratesethic.com^
 ||hyrcanquittor.com^
 ||hyrcycmtckbcpyf.xyz^
 ||hyrewusha.pro^
@@ -42145,6 +42135,7 @@
 ||ifigent.com^
 ||ifjbtjf.com^
 ||ifjhkbmewdny.com^
+||ifjslio.top^
 ||ifkgdxhpt.com^
 ||ifknittedhurtful.com^
 ||iflgybyab.com^
@@ -46545,6 +46536,7 @@
 ||jtbunh.xyz^
 ||jtdqxsfzi.com^
 ||jtdujjsk.com^
+||jtezxmpb.xyz^
 ||jtfqyewsaflnp.com^
 ||jtienla.top^
 ||jtiqpdqofdlwam.com^
@@ -47973,7 +47965,6 @@
 ||kvdmuxy.com^
 ||kvecc.com^
 ||kvemm.com^
-||kvevv.com^
 ||kveww.com^
 ||kvexx.com^
 ||kvezz.com^
@@ -59742,6 +59733,7 @@
 ||nlvnht.miror.jp^
 ||nlvwdlnhfnnw.com^
 ||nlwjdxsa.com^
+||nlxgjwye.icu^
 ||nlyxqpeo.com^
 ||nlzxclfg.com^
 ||nm.placoidtobyman.com^
@@ -67987,6 +67979,7 @@
 ||qrkhwe.xyz^
 ||qrkwvoomrbjoj.top^
 ||qrlsx.com^
+||qrmozsc.icu^
 ||qroagwadndwy.com^
 ||qrovwu.xyz^
 ||qrpenodnn.com^
@@ -83611,7 +83604,6 @@
 ||sympathybindinglioness.com^
 ||symptomprominentfirewood.com^
 ||synacast.com^
-||synaphepinulus.com^
 ||synapse-da.actonservice.com^
 ||synbiobeta.actonservice.com^
 ||sync-a8.cocolocala.jp^
@@ -90355,6 +90347,7 @@
 ||tsbmkf.zonnebrillen.com^
 ||tsbntfjyijlx.com^
 ||tsccqvlqjpchjcl.com^
+||tsdfxv.xyz^
 ||tse.telerama.fr^
 ||tsedvc.aboutyou.ch^
 ||tseywo.com^
@@ -95573,7 +95566,6 @@
 ||winningdotaltar.com^
 ||winningorphan.com^
 ||winonexd.b-cdn.net^
-||winoomto.com^
 ||winpbn.com/redirect/^
 ||winpbn.com^
 ||winr.online^
