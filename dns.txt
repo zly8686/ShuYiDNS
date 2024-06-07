@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-06-06 20:34:03（北京时间）
+! Version: 2024-06-07 09:19:45（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 100072
+! Total count: 100079
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -1558,7 +1558,6 @@
 ||4307.k3718qw08.com^
 ||4399stat.5054399.com^
 ||43d18c4a3b.a166994a16.com^
-||43f138e903.com^
 ||43ors1osh.com^
 ||43sjmq3hg.com^
 ||43t53c9e.de^
@@ -7372,6 +7371,7 @@
 ||ad.desibp.com^
 ||ad.digitallook.com^
 ||ad.dl.mainpost.de^
+||ad.dl.mz.de^
 ||ad.dline.com.tr^
 ||ad.domainfactory.de^
 ||ad.donanimhaber.com^
@@ -8847,7 +8847,6 @@
 ||ads.tso.dennisnet.co.uk^
 ||ads.tvb.com^
 ||ads.tvp.pl^
-||ads.uknetguide.co.uk^
 ||ads.ultimate-guitar.com^
 ||ads.ultraviewer.net^
 ||ads.uncrate.com^
@@ -11478,6 +11477,7 @@
 ||analytics.joincambridge.com^
 ||analytics.jslib.win^
 ||analytics.jst.ai^
+||analytics.junia.ai^
 ||analytics.kaggle.io^
 ||analytics.kaltura.com^
 ||analytics.kapost.com^
@@ -12431,6 +12431,7 @@
 ||api-launcher-em.hismarttv.com^
 ||api-launcher-na.hismarttv.com^
 ||api-logdev.sohatv.vn^
+||api-marketolog.mts.ru^
 ||api-mf1.meta.ndmdhs.com^
 ||api-shoppingguider.hismarttv.com^
 ||api-unisearch.hismarttv.com^
@@ -21348,6 +21349,7 @@
 ||cigarettenotablymaker.com^
 ||cihac.ubmmexico.com^
 ||ciimar.icu^
+||ciizxsdr.com^
 ||cijianggun.com^
 ||ciksolre.net^
 ||cikvwv.dsdamat.com^
@@ -22046,6 +22048,7 @@
 ||cloudlessmajesty.com^
 ||cloudlessverticallyrender.com^
 ||cloudlogobox.com^
+||cloudmetrics.xenforo.com^
 ||cloudpsh.top^
 ||cloudsofnews.com^
 ||cloudtrack-camp.com^
@@ -23343,6 +23346,7 @@
 ||contents.pwc.com^
 ||contentshamper.com^
 ||context.hotline.ua^
+||contextbar.ru^
 ||contextualyield.com^
 ||contextweb.com^
 ||contfor.fun^
@@ -26102,6 +26106,7 @@
 ||dacmursaiz.xyz^
 ||dacnmevunbtu.com^
 ||dacocorp.actonservice.com^
+||dacpibaqwsa.com^
 ||dacronblanchi.guru^
 ||dad-api.dcard.tw^
 ||dad1mq193mgtr.cloudfront.net^
@@ -26246,7 +26251,6 @@
 ||dapperaside.pro^
 ||dapperdeal.pro^
 ||dapperdiscussion.com^
-||dapperfloor.com^
 ||dapsotsares.com^
 ||daptault.com^
 ||daq0d0aotgq0f.cloudfront.net^
@@ -27588,7 +27592,6 @@
 ||detachedknot.com^
 ||detachmentoccasionedarena.com^
 ||detailartwork.com^
-||detailedkitten.com^
 ||detailedshuffleshadow.com^
 ||details.pella.com^
 ||detainstockingskaleidoscope.com^
@@ -28591,7 +28594,6 @@
 ||divehope.com^
 ||divekcl7q9fxi.cloudfront.net^
 ||divergeimperfect.com^
-||divergentoffer.com^
 ||diversityspaceship.com^
 ||divertbywordinjustice.com^
 ||divetroubledloud.com^
@@ -29905,7 +29907,6 @@
 ||dustyautoabduct.com^
 ||dustyhammer.com^
 ||dustymural.com^
-||dustyrabbits.com^
 ||dustywrenchdesigned.com^
 ||dusunfloraer.com^
 ||dutalonflameer.com^
@@ -30501,6 +30502,7 @@
 ||eb.bewithyou.jp^
 ||eb.informabi.com^
 ||eb.o-b-labo.com^
+||eb36c9bf12.com^
 ||eb480dde95.com^
 ||eb5232b35d.com^
 ||ebannertraffic.com^
@@ -32280,7 +32282,6 @@
 ||enterpriseinclinedvandalism.com^
 ||enterprises.proximus.be^
 ||entertaininauguratecontest.com^
-||entertainingeyes.com^
 ||entertainment3x.fun^
 ||enthronesacrifice.com^
 ||enthusiastgaming.net^
@@ -33433,7 +33434,6 @@
 ||experience.rsm.com.au^
 ||experience2013.elliemae.com^
 ||experienceabdomen.com^
-||experienceeggs.com^
 ||experienceplatform.avaya.com^
 ||experiences.cibc.com^
 ||experiences.simplii.com^
@@ -33560,7 +33560,6 @@
 ||extremitybagpipechallenge.com^
 ||extremityzincyummy.com^
 ||extrer.com^
-||exuberantsoda.com^
 ||exuharpxs.com^
 ||exurbdaimiel.com^
 ||exwotics6heomrthaoi4r.com^
@@ -33713,6 +33712,7 @@
 ||f3f202565b.com^
 ||f3ft699cloae.staging.artwallstreet.io^
 ||f3udfa7nfguhni.com^
+||f43f5a2390.com^
 ||f459fdc403a6.78a5254f.ap-northeast-1.token.awswaf.com^
 ||f4823894ba.com^
 ||f48d1c06e4.com^
@@ -35194,6 +35194,7 @@
 ||fnlojkpbe.com^
 ||fnlvhy.wowma.jp^
 ||fnnmnupevx.com^
+||fnnvyvxiu.com^
 ||fnoqgg.roninwear.com^
 ||fnqcbxqvodj.com^
 ||fnrrm2fn1njl1.com^
@@ -40168,6 +40169,7 @@
 ||heftygift.pro^
 ||hegazedatthe.info^
 ||hehighursoo.com^
+||hehnpryefuq.com^
 ||heild.xyz^
 ||heioa.xyz^
 ||heiow.xyz^
@@ -42106,7 +42108,6 @@
 ||ieapak.xyz^
 ||iebsmqevw.com^
 ||iedc.fitbit.com^
-||iedprivatedqu.com^
 ||ieequd.icu^
 ||ieg.intel.com^
 ||iegwze.goldcar.es^
@@ -42184,7 +42185,6 @@
 ||igbiraintsv.com^
 ||igc0.destinia.at^
 ||igexlg.weltbild.de^
-||igg.biz^
 ||ightdecipientconc.info^
 ||ightsapph.info^
 ||igidskio.top^
@@ -45820,6 +45820,7 @@
 ||jfjlfah.com^
 ||jfjnyepxppqb.com^
 ||jfjpgufkaecvs.com^
+||jfjslia.top^
 ||jfkc5pwa.world^
 ||jfknowifcewd.com^
 ||jfltzz.riu.com^
@@ -46321,6 +46322,7 @@
 ||jpaatr.astellas.jp^
 ||jpayu6di.icu^
 ||jpbfwdtejwoewas.xyz^
+||jpcctez.icu^
 ||jpdqpxoenctqbl.com^
 ||jpeoldex.com^
 ||jpfufu.xlmoto.co.uk^
@@ -47066,6 +47068,7 @@
 ||kdosimp.com^
 ||kdpic.pchome.com.tw^
 ||kdpnmlygyagyx.com^
+||kdqlbm.cn^
 ||kdqytm.vipre.com^
 ||kdsahkln.xyz^
 ||kdsdiqjghaj.com^
@@ -56314,6 +56317,7 @@
 ||metrics.steinhafels.com^
 ||metrics.stockhead.com.au^
 ||metrics.store.irobot.com^
+||metrics.streaks.jp^
 ||metrics.striderite.com^
 ||metrics.strokeawareness.com^
 ||metrics.stubhub.co.uk^
@@ -60517,7 +60521,6 @@
 ||nylonnickel.xyz^
 ||nym5c.bonlook.com^
 ||nym5c.laura.ca^
-||nymssslyish.website^
 ||nynjiahyewoji.com^
 ||nyorgagetnizati.info^
 ||nyqpgzohhllvx.com^
@@ -60659,6 +60662,7 @@
 ||oaphooftaus.com^
 ||oapnqyxkjxmpet.com^
 ||oapyrzde.xyz^
+||oaqrui.xyz^
 ||oarcompartmentexaggerate.com^
 ||oardilin.com^
 ||oargaung.com^
@@ -60993,6 +60997,7 @@
 ||offergate-apps-pubrel.com^
 ||offergate-games-download1.com^
 ||offergate-software6.com^
+||offergate.pro^
 ||offergo.net^
 ||offerimage.com^
 ||offerlink.co^
@@ -66218,7 +66223,6 @@
 ||principledecliner.info^
 ||principlessilas.com^
 ||pringed.space^
-||prinksoncotic.com^
 ||printaugment.com^
 ||printergarretskirt.com^
 ||printerswear.com^
@@ -70741,6 +70745,7 @@
 ||rq.pettahgurr.com^
 ||rqakljxbs.com^
 ||rqauutf.icu^
+||rqazepammrl.com^
 ||rqbdyk.evo.com^
 ||rqbugumvsprr.com^
 ||rqctubqtcbgeug.com^
@@ -84894,6 +84899,7 @@
 ||tcdata.fnac.com^
 ||tcdyjyrj.com^
 ||tce.alicdn.com^
+||tcfgtd.xyz^
 ||tcgaqh.icu^
 ||tcgehkuyoblgg.xyz^
 ||tcgjpib.com^
@@ -95963,6 +95969,7 @@
 ||worldfreshblog.com^
 ||worldfreshjournal.com^
 ||worldglobalssp.xyz^
+||worldinform.ru^
 ||worldlyyouth.com^
 ||worldmtcs.nhk.jp^
 ||worldnetpr.actonservice.com^
@@ -97132,6 +97139,7 @@
 ||wxbaal.ecosa.com.hk^
 ||wxcqdnf.com^
 ||wxebye.aboutyou.hu^
+||wxemjmxevy.com^
 ||wxfdmri.xyz^
 ||wxgmca.orthofeet.com^
 ||wxhiojortldjyegtkx.bid^
@@ -98195,7 +98203,6 @@
 ||xxxoh.com^
 ||xxxrevpushclcdu.com^
 ||xxxssv.jeulia.com^
-||xxxvideosss.info^
 ||xxxviijmp.com^
 ||xxxvipporno.com^
 ||xxxvjmp.com^
@@ -98341,7 +98348,6 @@
 ||yast.rutube.ru^
 ||yatab.net^
 ||yatemy.cn^
-||yaudimpales.com^
 ||yaupersjejunum.top^
 ||yausbprxfft.xyz^
 ||yavli.com^
@@ -99806,6 +99812,7 @@
 ||zpcode11.com^
 ||zpdnisvzedgbw.com^
 ||zpgetworker11.com^
+||zphgadwnjro.com^
 ||zplayer-trk.zdn.vn^
 ||zplayer.trk.zapps.vn^
 ||zpnrnr.ab-in-den-urlaub.de^
