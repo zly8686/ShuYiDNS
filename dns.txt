@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-06-07 20:35:08（北京时间）
+! Version: 2024-06-08 09:17:25（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 100111
+! Total count: 100124
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -10972,6 +10972,7 @@
 ||amnwpircuomd.com^
 ||amo.myoyster.mx^
 ||amobee.com^
+||amocyq.xyz^
 ||amoddishor.com^
 ||amofqosgs.com^
 ||amon1.net^
@@ -17659,6 +17660,7 @@
 ||bmf.branch.rocks^
 ||bmggqehmcvny.xyz^
 ||bmgipyr.com^
+||bmhept.xyz^
 ||bmiea.xyz^
 ||bmiimaging.actonservice.com^
 ||bmjidc.xyz^
@@ -20504,6 +20506,7 @@
 ||cdn.syinga.com^
 ||cdn.tahwox.com^
 ||cdn.timsef.com^
+||cdn.track.olx.com.br^
 ||cdn.tracking.prepr.io^
 ||cdn.tsepyk.com^
 ||cdn.tubecorp.com^
@@ -21121,6 +21124,7 @@
 ||chevetoelike.com^
 ||chevretherp.com^
 ||chevyrailly.top^
+||cheweemtaig.com^
 ||chewersobolary.com^
 ||chewremittanceprovidence.com^
 ||chewsrompedhemp.com^
@@ -21412,6 +21416,7 @@
 ||cisfazpisju.com^
 ||cisheeng.com^
 ||cisiwa.site^
+||cismqdx.icu^
 ||ciststoquets.space^
 ||ciszhp.finanzfrage.net^
 ||ciszhp.motorradfrage.net^
@@ -47229,11 +47234,13 @@
 ||kfjhd.com^
 ||kfjkgfgr.com^
 ||kfjpren.xyz^
+||kfjslid.top^
 ||kfkclxbmdptmehv.com^
 ||kflybplr.xyz^
 ||kfngvuu.com^
 ||kfpicimage.xyz^
 ||kfpnqug.cn^
+||kfqizu.cn^
 ||kftfhp.furusato-tax.jp^
 ||kfvjdvjzhddhc.com^
 ||kfxkxyb.com^
@@ -52424,6 +52431,7 @@
 ||manageoriginalmostinfo-product.info^
 ||managesborerecords.com^
 ||manahegazedatth.info^
+||manalyticshub.com^
 ||manatee.biodom.bio^
 ||manatee.creativepassport.net^
 ||manboo.xyz^
@@ -67448,6 +67456,7 @@
 ||pxfindone.com^
 ||pxgpnp.angara.com^
 ||pxl.indeed.com^
+||pxl.knam.pro^
 ||pxlctl.elpais.com^
 ||pxlgnpgecom-a.akamaihd.net^
 ||pxltrck.com^
@@ -83258,6 +83267,7 @@
 ||svrkdkopdsdj.com^
 ||svtlgjmqyzmwz.com^
 ||svvev3.com^
+||svwhhiiyihcwh.com^
 ||svyksa.info^
 ||sw.admangr.com^
 ||sw.broadcom.com^
@@ -90980,6 +90990,7 @@
 ||uafuzcxr.xyz^
 ||uahozcfq.xyz^
 ||uahpycewbx.com^
+||uaiosio.top^
 ||uakxkb.icu^
 ||ualkzq.moobel1.ee^
 ||uamoctchgmkya.com^
@@ -95407,6 +95418,7 @@
 ||whootascots.com^
 ||whootkhankah.com^
 ||whoppercreaky.com^
+||whopstriglot.com^
 ||whoptoorsaub.com^
 ||whorlysenior.top^
 ||whotchie.net^
@@ -98962,6 +98974,7 @@
 ||yqragd.com^
 ||yqxhslsqaqkbd.com^
 ||yr9n47004g.com^
+||yrcedupgqe.com^
 ||yrcpsfqoyi.com^
 ||yrepmy.jochen-schweizer.de^
 ||yretx.cn^
