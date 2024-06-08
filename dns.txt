@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-06-08 09:17:25（北京时间）
+! Version: 2024-06-08 20:30:53（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 100124
+! Total count: 100130
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -15823,6 +15823,7 @@
 ||banner.media-system.de^
 ||banner.mindshare.de^
 ||banner.mob.hr^
+||banner.moscarossa.biz^
 ||banner.nixnet.cz^
 ||banner.noblepoker.com^
 ||banner.northsky.com^
@@ -17213,6 +17214,7 @@
 ||bing001.shop^
 ||bing003.shop^
 ||bing005.shop^
+||bing007.shop^
 ||binga01.shop^
 ||bingads.microsoft.com^
 ||bingoocy.com^
@@ -30872,6 +30874,7 @@
 ||educationalapricot.com^
 ||educationalroot.com^
 ||educationlink.clear360.com^
+||educationrailway.website^
 ||educedsteeped.com^
 ||educontinua.javeriana.edu.co^
 ||eduizioq.com^
@@ -34158,6 +34161,7 @@
 ||fcw45.com/js/layer1.js^
 ||fcxsodjsrqp.xyz^
 ||fczaifik.com^
+||fczunn.xyz^
 ||fd.bawag.at^
 ||fd0a73b2b2.e7b05975f9.com^
 ||fd1.eye.to^
@@ -41717,7 +41721,6 @@
 ||hybrid-prd.ad-prd.s.joyn.de^
 ||hybrid.ai^
 ||hybrid.ru^
-||hybridization809.site^
 ||hycantyoubelik.com^
 ||hydragrouge.com^
 ||hydramedia.com^
@@ -71279,6 +71282,7 @@
 ||rvrpushserv.com^
 ||rvrpushsrv.com^
 ||rvshjxsbohimgb.com^
+||rvtfwryz.icu^
 ||rvtwqp.winparts.se^
 ||rvuoghivbylqlr.com^
 ||rvv.emol.com^
@@ -85756,6 +85760,7 @@
 ||theythourbonusgain.life^
 ||theyunm.com^
 ||thgebtibfyry.com^
+||thgthgfg.cn^
 ||thhesw.tre.it^
 ||thialfi.net.anwalt.de^
 ||thibwejrqrmjstt.com^
@@ -97946,6 +97951,7 @@
 ||xn--jvrp4x1zyfta.net^
 ||xn--u1aaw.xn--p1ai^
 ||xn--wgvp78a61swpe6zdozj.cn^
+||xn--xhq326apqhcx0d.cn^
 ||xn--zw0autp42d.cn^
 ||xn.brocardgillar.com^
 ||xn.geoidalsericin.com^
