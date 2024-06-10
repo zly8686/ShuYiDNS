@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-06-09 20:32:24（北京时间）
+! Version: 2024-06-10 09:20:14（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 100308
+! Total count: 100317
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -26843,6 +26843,7 @@
 ||davctinijon.com^
 ||davielyedith.com^
 ||davjdaauvlp.com^
+||davtvd.xyz^
 ||dawdlealmonry.com^
 ||daweneath.com^
 ||dawirax.com^
@@ -31125,6 +31126,7 @@
 ||efglbp.baur.de^
 ||efinauknceiwou.info^
 ||efindertop.com^
+||efjsliw.top^
 ||efklkkkvkukf.com^
 ||efm.verintsystemsinc.com^
 ||efmrxqjngyc.xyz^
@@ -37302,6 +37304,7 @@
 ||gfbdb1.com^
 ||gfbpijvtoxpit.com^
 ||gfbxgrfnljmxs.com^
+||gfdgfhh.cn^
 ||gfeede.theminda.com^
 ||gfgcwf.vidaxl.lv^
 ||gfgywe.abril.com.br^
@@ -38594,7 +38597,6 @@
 ||gocuxy.baycrews.jp^
 ||god.vsee.me^
 ||godacepic.com^
-||godaddysites.com^
 ||goddesslevityark.com^
 ||goddessvip.com^
 ||godev.steps.me^
@@ -40897,6 +40899,7 @@
 ||hkljed.xyz^
 ||hkngacxry.com^
 ||hkowhqtenjfud.com^
+||hkpeghqu.icu^
 ||hkrpg-log-upload-os.hoyoverse.com^
 ||hkrpg-log-upload.mihoyo.com^
 ||hkrytf.xyz^
@@ -45991,6 +45994,7 @@
 ||jggldfvx.com^
 ||jghjhtz.com^
 ||jgidskia.top^
+||jglgjz.xyz^
 ||jgmywh.icu^
 ||jgntjtyf.icu^
 ||jgpvgjtldgocob.com^
@@ -47088,6 +47092,7 @@
 ||kaiu-marketing.com^
 ||kaiyiluye.com^
 ||kaizzz.xyz^
+||kak17p.xyz^
 ||kakdgmn.com^
 ||kaladyaudiology.ericksonbuilt.com^
 ||kalauxet.com^
@@ -49320,6 +49325,7 @@
 ||ligatessuspend.top^
 ||ligatus.com^
 ||ligatus.de^
+||ligfdjnfd.cn^
 ||lighes.com^
 ||lightenintimacy.com^
 ||lighterthinnerstronger.fiber-line.com^
@@ -63134,6 +63140,7 @@
 ||ozvlyz.justmusic.de^
 ||ozwolnonnotv.com^
 ||ozwwawcaxoxh.com^
+||ozykeor.icu^
 ||ozzruxazcoxc.com^
 ||p*-ad-sign.byteimg.com^
 ||p-analytics.life^
@@ -65557,6 +65564,7 @@
 ||pnzhpb.xyz^
 ||po.nonehalides.com^
 ||po.ponant.com^
+||po2qgo.xyz^
 ||poacauceecoz.com^
 ||poacawhe.net^
 ||poachfelonry.top^
@@ -99346,6 +99354,7 @@
 ||yxguqmcemyjiwb.com^
 ||yxiqqh.dealchecker.co.uk^
 ||yxjnzydc.com^
+||yxkbgg.xyz^
 ||yxkfaskdaybakf.com^
 ||yxmaeeqvl.com^
 ||yxptcrss.xyz^
