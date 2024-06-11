@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-06-11 09:18:53（北京时间）
+! Version: 2024-06-11 20:34:45（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 100422
+! Total count: 100412
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -112,7 +112,6 @@
 ||03505ed0f4.com^
 ||0355.5clo0xmbf.com^
 ||0355.ogrt80r65.com^
-||035adbe0d7.com^
 ||0370.4puuqeh41.com^
 ||0374.4puuqeh41.com^
 ||0383.4puuqeh41.com^
@@ -228,6 +227,7 @@
 ||0afc4c07a9.9fbdc30642.com^
 ||0b0db57b5f.com^
 ||0b57ha4k4zrd.top^
+||0b5bd8c4a8.com^
 ||0b73f85f92.com^
 ||0b7741a902.com^
 ||0b85c2f9bb.com^
@@ -235,7 +235,6 @@
 ||0byv9mgbn0.com^
 ||0c09748660.com^
 ||0c0be7a0c2.0ab9f67572.com^
-||0c3b16e8e6.com^
 ||0c74d1e2ed.0342b40dd6.com^
 ||0c9c69faa3.ea3999c26b.com^
 ||0ca20b3e8f.com^
@@ -663,6 +662,7 @@
 ||1861.34gwl8v1a.com^
 ||1873083787.rsc.cdn77.org^
 ||18744.com^
+||18772b5091.com^
 ||18788fdb24.com^
 ||188.42.84.110^
 ||188.42.84.137^
@@ -769,6 +769,7 @@
 ||1cpkcnm.com^
 ||1cros.net^
 ||1ctc.sfr.fr^
+||1d0ec98437.com^
 ||1d12e1e0de.com^
 ||1db10dd33b.com^
 ||1dcbzuv.com^
@@ -857,6 +858,7 @@
 ||1ps6e7sort397gy9.edge46.testandtarget.omniture.com^
 ||1ptkm78j4zs.cc^
 ||1push.io^
+||1qe.info^
 ||1qi.info^
 ||1qingdao.com^
 ||1qkmxbt.com^
@@ -1370,6 +1372,7 @@
 ||3400.org^
 ||3416.5clo0xmbf.com^
 ||341k4gu76ywe.top^
+||3423b141ae.com^
 ||3427.5clo0xmbf.com^
 ||3455f431fa.com^
 ||345636.rhsy174op.com^
@@ -1892,7 +1895,6 @@
 ||5980.5clo0xmbf.com^
 ||5984927702.3071caa5ff.com^
 ||59a3e34c69.com^
-||59cn7.com^
 ||59e5e13578.com^
 ||59e6ea7248001c.com^
 ||59eb44884d.com^
@@ -1919,7 +1921,6 @@
 ||5ceeef63ba.a899228ebf.com^
 ||5cf8606941.com^
 ||5d62055f0a.c1b891f5ff.com^
-||5d68b230fb.com^
 ||5d8dd0486a.com^
 ||5e00.pandasuite.io^
 ||5e164e9f70.com^
@@ -2750,6 +2751,7 @@
 ||9692.5clo0xmbf.com^
 ||9693.pandasuite.io^
 ||969604b4a3.com^
+||96a3bc8522.com^
 ||96b600f50a.a0e351a3aa.com^
 ||96kso.online^
 ||96n5r5va.top^
@@ -2785,7 +2787,6 @@
 ||98f68cf54e.com^
 ||98wjse.top^
 ||9901.79j68qav2.com^
-||99018f340b.com^
 ||993ed443d6.f0c9ef4ecb.com^
 ||9944.seponews.com^
 ||9945.4puuqeh41.com^
@@ -6567,7 +6568,6 @@
 ||abhorboring.com^
 ||abhorcarious.com^
 ||abiderestless.com^
-||abiencestifle.top^
 ||abiezerrotor.top^
 ||abiezertilyer.top^
 ||abjectionblame.com^
@@ -11685,6 +11685,7 @@
 ||analytics.nova.foxsports.com^
 ||analytics.nrg.com^
 ||analytics.nrgprotects.com^
+||analytics.ntlc.com.vn^
 ||analytics.oceanengine.com^
 ||analytics.octaglobal.com^
 ||analytics.okazii.ro^
@@ -12080,7 +12081,6 @@
 ||andydill.com^
 ||aneartuilles.top^
 ||anedukerationpeci.info^
-||anelerheen.top^
 ||anemenzemkwkm.top^
 ||aneorwd.com^
 ||anesfluters.website^
@@ -14165,7 +14165,6 @@
 ||as5000.com^
 ||asacdn.com^
 ||asafesite.com^
-||asalawsuit.com^
 ||asamgd.rossmann.de^
 ||asandcomemu.info^
 ||asap-systems.actonservice.com^
@@ -14833,7 +14832,6 @@
 ||aumoustaxite.top^
 ||aumsarso.com^
 ||aumsookr.com^
-||aumsoovy.net^
 ||aumtoost.net^
 ||aunauque.net^
 ||auneghus.net^
@@ -15623,7 +15621,6 @@
 ||b90.yahoo.co.jp^
 ||b91.yahoo.co.jp^
 ||b92.yahoo.co.jp^
-||b93b701770.com^
 ||b95684d812.com^
 ||b97.yahoo.co.jp^
 ||b99.yahoo.co.jp^
@@ -15914,7 +15911,6 @@
 ||banner.lbs.km.ru^
 ||banner.linux.se^
 ||banner.media-system.de^
-||banner.mindshare.de^
 ||banner.mob.hr^
 ||banner.moscarossa.biz^
 ||banner.nixnet.cz^
@@ -17310,6 +17306,7 @@
 ||bing003.shop^
 ||bing005.shop^
 ||bing007.shop^
+||bing009.shop^
 ||binga01.shop^
 ||binga03.shop^
 ||bingads.microsoft.com^
@@ -17869,7 +17866,6 @@
 ||bnrsis.com^
 ||bnrslks.com^
 ||bnserving.com^
-||bnsjb1ab1e.com^
 ||bnsmoi.valx.jp^
 ||bnster.com^
 ||bnutnr.landandfarm.com^
@@ -27128,7 +27124,6 @@
 ||dd148b0fb2.f28bb1a86f.com^
 ||dd1xbevqx.com^
 ||dd2512ce33.9ee93ebe3a.com^
-||dd4a6342ac.com^
 ||dd5889a9b4e234dbb210787.com^
 ||dd667788dd.com^
 ||dd6zx4ibq538k.cloudfront.net^
@@ -27142,7 +27137,6 @@
 ||dddashasledopyt.com^
 ||ddddynf.com^
 ||dddomainccc.com^
-||dde1c03601.com^
 ||ddfnmo6ev4fd.cloudfront.net^
 ||ddfskjdfh.site^
 ||ddhjxakewpp.com^
@@ -35011,7 +35005,6 @@
 ||fitcenterz.com^
 ||fitchedjimmy.guru^
 ||fitfuldemolitionbilliards.com^
-||fitrootmisterm.com^
 ||fitsazx.xyz^
 ||fitsjamescommunicated.com^
 ||fitssheashasvs.info^
@@ -35609,6 +35602,7 @@
 ||form.vocalink.com^
 ||formaciones.arin-innovation.com^
 ||formalcabinet.com^
+||formalhood.com^
 ||formalitydetached.com^
 ||formarshtompchan.com^
 ||formatebackus.website^
@@ -37392,6 +37386,7 @@
 ||gfbdb1.com^
 ||gfbpijvtoxpit.com^
 ||gfbxgrfnljmxs.com^
+||gfdfegg.cn^
 ||gfdgfhh.cn^
 ||gfeede.theminda.com^
 ||gfgcwf.vidaxl.lv^
@@ -38756,7 +38751,6 @@
 ||golfchapah.space^
 ||golfmidwife.top^
 ||golilog.com^
-||gollkawvv.xyz^
 ||golochmenacer.com^
 ||goloshyacal.space^
 ||golpnkgkndw.com^
@@ -46879,7 +46873,6 @@
 ||jumperdivecourtroom.com^
 ||jumperfundingjog.com^
 ||jumpers.mobi^
-||jumpsbais.top^
 ||jumptap.com^
 ||jumpto.use-beez.com^
 ||jumronews.com^
@@ -49519,7 +49512,6 @@
 ||lingoumboylike.website^
 ||lingrethertantin.com^
 ||lingsiqiwu.com^
-||lingtowprecide.com^
 ||lingyknubby.com^
 ||linhacitoyen.com^
 ||liningemigrant.com^
@@ -69077,6 +69069,7 @@
 ||rdjbhghljkrca.com^
 ||rdji.top^
 ||rdlrbm.studying.jp^
+||rdnplpj.cn^
 ||rdpcom.com^
 ||rdpsht.xyz^
 ||rdpyjpljfqfwah.xyz^
@@ -73999,7 +73992,6 @@
 ||selwrite.com^
 ||sem.tkc-biyou.jp^
 ||sem.triboomedia.it^
-||semangwhirry.com^
 ||semblanceafford.com^
 ||semblanceindulgebellamy.com^
 ||semeeclots.top^
@@ -75446,7 +75438,6 @@
 ||slangscornful.com^
 ||slankleeways.com^
 ||slantdecline.com^
-||slantedsecno.com^
 ||slapclergymoth.com^
 ||slapexcitedly.com^
 ||slaqandsan.xyz^
@@ -93595,7 +93586,6 @@
 ||viiportal.com^
 ||viipour.com^
 ||viippugm.com^
-||viipular.com^
 ||viipura.com^
 ||viipurakan.com^
 ||viipurakhi.com^
