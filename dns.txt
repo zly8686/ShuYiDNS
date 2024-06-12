@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-06-12 09:18:55（北京时间）
+! Version: 2024-06-12 20:34:18（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 100422
+! Total count: 100411
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -1506,6 +1506,7 @@
 ||3fa20230512.live^
 ||3fa244b7eb.com^
 ||3fb4026cec.ffbd26c481.com^
+||3fba1b901c.com^
 ||3fcce9277a.5029bb74f2.com^
 ||3fwlr7frbb.pro^
 ||3g25ko2.de^
@@ -1911,6 +1912,7 @@
 ||5b47115d66.77bd7b02a8.com^
 ||5b7cb7236e.com^
 ||5ba9bf8065.com^
+||5bdb6e0e40.com^
 ||5bdc059842.com^
 ||5bdd71381c.com^
 ||5btekl14.de^
@@ -2104,7 +2106,6 @@
 ||68069795d1.com^
 ||68109deb96.com^
 ||6810f7dd2b.com^
-||681ba37858.com^
 ||6840.5clo0xmbf.com^
 ||6846.5clo0xmbf.com^
 ||6863fd0afc.com^
@@ -2863,6 +2864,7 @@
 ||9dccbda825.com^
 ||9dmnv9z0gtoh.com^
 ||9e1852531b.com^
+||9ea1aedf40.com^
 ||9eb0538646.com^
 ||9eb10b7a3d04a.com^
 ||9ee93ebe3a.com^
@@ -9723,7 +9725,6 @@
 ||aem-kakao-collector.onkakao.net^
 ||aembxbxmnuspyr.com^
 ||aeoniannagual.top^
-||aeonistmotet.top^
 ||aeoqmogkswsd.com^
 ||aeotgu.asi-reisen.de^
 ||aep-target.credit-suisse.com^
@@ -10443,12 +10444,10 @@
 ||akusherok.ru^
 ||akutapro.com^
 ||akv2-br-cdn.kwai.net.iberostar.com^
-||akvvkmrqokjkv.top^
 ||akxwffsgijttvrc.com^
 ||akychhluvbh.com^
 ||akyei.xyz^
 ||akyrprsnnuk.com^
-||akzawlykqarzr.top^
 ||akzdrh.catofashions.com^
 ||akzfxmgcq.com^
 ||al-adtech.com^
@@ -15361,7 +15360,6 @@
 ||aywgucxmh.com^
 ||ayxuadkeh.com^
 ||ayynsdp.xyz^
-||ayzylwqazormm.top^
 ||az.koipatolipper.com^
 ||az.nzn.io^
 ||az100.cosmicnewspulse.com^
@@ -17264,7 +17262,6 @@
 ||bijwehk.com^
 ||bijxpjgtdrgk.com^
 ||bike-adsbidding.org^
-||bikearchin.top^
 ||bikeno.xyz^
 ||bikesformallycopper.com^
 ||bikesmachineryi.com^
@@ -17678,6 +17675,7 @@
 ||blowscarcetown.com^
 ||blowssubplow.com^
 ||bloxplay.com^
+||blrpbt.xyz^
 ||blrupz.xyz^
 ||blsoof.wirwinzer.de^
 ||blthwbe.xyz^
@@ -19581,7 +19579,6 @@
 ||c677.wisn.com^
 ||c67adca.com^
 ||c690749e06.6001628d3d.com^
-||c69aa01528.com^
 ||c6lc.pandasuite.io^
 ||c6s.bionestraff.pro^
 ||c71f427117.com^
@@ -19609,7 +19606,6 @@
 ||c950.chronicle.com^
 ||c96ee2ee55.e1fdc63869.com^
 ||c991aea613.com^
-||c993.westport-news.com^
 ||c9cc.icu^
 ||c9emgwai66zi.com^
 ||c9ff2ca544.com^
@@ -27736,7 +27732,6 @@
 ||destinyssa.com^
 ||destroyedspear.com^
 ||destructionhybrids.com^
-||destyy.com^
 ||desugeng.xyz^
 ||desuscripcion.phg.palladiumhotelgroup.com^
 ||desvibravaom.com^
@@ -31505,7 +31500,6 @@
 ||elmonopolicycr.info^
 ||elogic-learning.actonservice.com^
 ||eloinedcanasta.com^
-||eloinrakily.com^
 ||eloiseattempt.com^
 ||elongatedmiddle.com^
 ||elonreptiloid.com^
@@ -32215,7 +32209,6 @@
 ||enews.supplyframe.com^
 ||enews10.yxlady.net^
 ||enfantbroll.top^
-||enframetump.com^
 ||enfreine.com^
 ||enftvgnkylijcp.xyz^
 ||engage-emea.jll.com^
@@ -37073,6 +37066,7 @@
 ||geo.settings-win.data.microsoft.com.akadns.net^
 ||geo.thehindu.com^
 ||geo.vortex.data.microsoft.com.akadns.net^
+||geo.wpforms.com^
 ||geo.xcel.io^
 ||geo.yahoo.com^
 ||geoaddicted.net^
@@ -39323,7 +39317,6 @@
 ||growthbuddy.app^
 ||growthmodemarketing.actonservice.com^
 ||growthpic.weishi.qq.com^
-||grozartspeiled.com^
 ||grqjpukbyvypq.xyz^
 ||grrngjxqno.com^
 ||grs.dbankcloud.com^
@@ -40426,7 +40419,6 @@
 ||hello.trailblazers.com^
 ||hello.wellocution.com^
 ||hellobar.com^
-||helloesdhal.com^
 ||helloslapsers.com^
 ||helltraffic.com^
 ||helmethopeinscription.com^
@@ -46590,6 +46582,7 @@
 ||jqafetxoermhue.com^
 ||jqbddp.xyz^
 ||jqcyacoxrvada.com^
+||jqfql.top^
 ||jqgqrsvcaos.xyz^
 ||jqitetsk.com^
 ||jqkcett.icu^
@@ -58893,7 +58886,6 @@
 ||n152adserv.com^
 ||n19.biz^
 ||n1g459ky7y.com^
-||n1gopush.com^
 ||n1pusher.com^
 ||n26-trusted.n26.com^
 ||n2faw.site^
@@ -63765,7 +63757,6 @@
 ||parsleyagencyoutnumber.com^
 ||parsleybunwalnut.com^
 ||parsonhimaircraft.com^
-||partanssear.com^
 ||partedexpensive.com^
 ||partef.com^
 ||partenaire.leparticulier.fr^
@@ -90771,7 +90762,6 @@
 ||tubebazaar.com^
 ||tubebrand.com^
 ||tubeburst.com^
-||tubechip.com^
 ||tubecoast.com^
 ||tubecorp.com^
 ||tubecosmo.com^
@@ -90886,7 +90876,6 @@
 ||turdinexylenyl.guru^
 ||turdsarnatta.com^
 ||turdwwakrh.com^
-||tureukwore.xyz^
 ||tureukworektob.info^
 ||turfedtaboret.com^
 ||turfinggneiss.com^
