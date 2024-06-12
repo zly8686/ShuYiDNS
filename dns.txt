@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-06-11 20:34:45（北京时间）
+! Version: 2024-06-12 09:18:55（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 100412
+! Total count: 100422
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -412,6 +412,7 @@
 ||1080872514.rsc.cdn77.org^
 ||1081.5clo0xmbf.com^
 ||1085549509.rsc.cdn77.org^
+||1089006802.rsc.cdn77.org^
 ||108shot.com^
 ||109.123.233.251^
 ||1090pjopm.de^
@@ -532,6 +533,7 @@
 ||1381a.xyz^
 ||1383a.xyz^
 ||1385a.xyz^
+||1396762586.rsc.cdn77.org^
 ||13b3403320.com^
 ||13b696a4c1.com^
 ||13js1lbtbj3.sparkloop.app^
@@ -543,6 +545,7 @@
 ||1437953666.rsc.cdn77.org^
 ||143a91b3e6.com^
 ||1441085683.rsc.cdn77.org^
+||1448063843.rsc.cdn77.org^
 ||1459.cosmicnewspulse.com^
 ||1473763790.rsc.cdn77.org^
 ||147cd49082.05e11c9f6f.com^
@@ -755,7 +758,6 @@
 ||1c447fc5b7.com^
 ||1c76ff71d3.1ff0de0d52.com^
 ||1c7cf19baa.com^
-||1c9ca7ac71.com^
 ||1ccbt.com^
 ||1cctcm1gq.de^
 ||1cdeca58ed.17e2f3c4e1.com^
@@ -776,6 +778,7 @@
 ||1dcd850fa2.7fcf7b752f.com^
 ||1dfgh34g.gr3hjjj.pics^
 ||1dtdsln1j.de^
+||1e18a448a6.com^
 ||1e49ec466f.com^
 ||1e90.pandasuite.io^
 ||1ejaculationinterne.com^
@@ -1315,6 +1318,7 @@
 ||30tgh64jp.de^
 ||3120jpllh.de^
 ||3127e9ed17.bd6afd7ab5.com^
+||3128e920ab.com^
 ||314gqd3es.de^
 ||3161acfe21.7010888f85.com^
 ||316feq0nc.de^
@@ -1414,7 +1418,6 @@
 ||36b7ca5028.com^
 ||36b963fd4a.b5c28f9b84.com^
 ||36c4345fdc.c473f6ab10.com^
-||36c48052b9.com^
 ||36f0cfe37d.db770a49df.com^
 ||36mghtd.xyz^
 ||37.1.209.213^
@@ -1605,6 +1608,7 @@
 ||44180055.cn^
 ||4426.5clo0xmbf.com^
 ||44288fa514.com^
+||442fc29954.com^
 ||4439.ogrt80r65.com^
 ||4452.34gwl8v1a.com^
 ||4456.4puuqeh41.com^
@@ -2676,6 +2680,7 @@
 ||9092.5clo0xmbf.com^
 ||90935ff0ea.com^
 ||9095.79j68qav2.com^
+||90a47357a5.com^
 ||90e78be4ad.f250b37f9e.com^
 ||90e7fd481d.com^
 ||90f2a627a3.com^
@@ -2695,6 +2700,7 @@
 ||916cad6201.com^
 ||9189.pandasuite.io^
 ||9198.5clo0xmbf.com^
+||91a8a068d5.com^
 ||91c24db325.c67524ad03.com^
 ||91cd3khn.de^
 ||91ceadfe3f.3854704790.com^
@@ -9119,8 +9125,6 @@
 ||adserver.virginmedia.com^
 ||adserver.yahoo.com^
 ||adserver01.de^
-||adserver1.mindshare.de^
-||adserver2.mindshare.de^
 ||adserverplus.com^
 ||adserverpub.com^
 ||adserversolutions.com^
@@ -12224,6 +12228,7 @@
 ||ans.worldbaseballclassic.com^
 ||ans.yesnetwork.com^
 ||anseisjulus.com^
+||anselmbowwows.com^
 ||anstossassents.life^
 ||answeredthechi.org^
 ||answerroad.com^
@@ -13804,6 +13809,7 @@
 ||aqdha.com^
 ||aqdkciossswu.com^
 ||aqdkehbez.com^
+||aqeivzm.icu^
 ||aqewvatwqzoigh.com^
 ||aqi.wd.amberweather.com^
 ||aqiefntjh.com^
@@ -13987,7 +13993,6 @@
 ||arktonightinept.com^
 ||arkunexpectedtrousers.com^
 ||arleavannya.com^
-||arlenerampire.top^
 ||arlydsdibnjrvby.com^
 ||armadillo.axeneo7.qc.ca^
 ||armadillo.caj.ms^
@@ -17345,7 +17350,6 @@
 ||bird.webitizevoice.com^
 ||birdeyedigenea.com^
 ||birdnavy.com^
-||birdplumose.top^
 ||birdtears.com^
 ||birgga.top^
 ||birglucy.xyz^
@@ -17829,6 +17833,7 @@
 ||bnds6.site^
 ||bnds7.site^
 ||bnds8.site^
+||bnevymqyjji.com^
 ||bnfhxszj.xyz^
 ||bnfoeabisp.com^
 ||bnfyzszm.icu^
@@ -21105,7 +21110,6 @@
 ||chaudrep.net^
 ||chaugroo.net^
 ||chauinubbins.com^
-||chauioldened.com^
 ||chauksoam.xyz^
 ||chaulsan.com^
 ||chaunsoops.net^
@@ -21617,6 +21621,7 @@
 ||ckodsxyjdql.com^
 ||ckofrnk.com^
 ||ckpxtt.justfly.com^
+||ckqebz.cn^
 ||ckrf1.com^
 ||ckrrmwqh.com^
 ||cksfgh.jaycar.com.au^
@@ -24626,7 +24631,6 @@
 ||culmedpasses.cam^
 ||culrosha.net^
 ||cultergoy.com^
-||culticmealily.com^
 ||cultismcanty.space^
 ||culturalcollectvending.com^
 ||culturaltracking.ru^
@@ -26189,6 +26193,7 @@
 ||d8c5y8fq3znwi.cloudfront.net^
 ||d8cxnvx3e75nn.cloudfront.net^
 ||d8dcj5iif1uz.cloudfront.net^
+||d8f0d7e2c9.com^
 ||d8fd54c4c5.7807091956.com^
 ||d8xy39jrbjbcq.cloudfront.net^
 ||d90be87e47.com^
@@ -28434,6 +28439,7 @@
 ||diptaich.com^
 ||diptersowar.website^
 ||dipusdream.com^
+||dipxmakuja.com^
 ||diqnioryshzpge.com^
 ||dir.minigame.qq.com^
 ||dirdlabella.com^
@@ -29570,6 +29576,7 @@
 ||dqbukuvuy.com^
 ||dqcgkpp.icu^
 ||dqdrsgankrum.org^
+||dqeaa.com^
 ||dqfhudpnwdk.com^
 ||dqgmtzo.com^
 ||dqhezw.com^
@@ -30037,7 +30044,6 @@
 ||dupsyduckom.com^
 ||duqamtr9ifv5t.cloudfront.net^
 ||durableordinarilyadministrator.com^
-||duralgomari.com^
 ||durationzodiacdetermined.com^
 ||durezzacrowns.com^
 ||durgahsursize.com^
@@ -30360,6 +30366,7 @@
 ||e218cdc27d.com^
 ||e23f9d993d.com^
 ||e246.pandasuite.io^
+||e2572292c5.com^
 ||e25a8247b5.357dbd24e2.com^
 ||e275260174.05ae41c3fc.com^
 ||e2844f0af7.87bcb027cf.com^
@@ -31039,6 +31046,7 @@
 ||ee625e4b1d.com^
 ||ee64f14ecf.beccc1d245.com^
 ||ee6a35c1eeee.com^
+||ee717332bb.com^
 ||ee768d2e27.0f9be2e1ef.com^
 ||ee93.pandasuite.io^
 ||ee9ea5e3e4.a32fc87d2f.com^
@@ -33319,6 +33327,7 @@
 ||eveteaemo.com^
 ||evfisahy.xyz^
 ||evfrnqvextppij.com^
+||evgaow.xyz^
 ||evgywgur.com^
 ||evhme0j57hqj.www.siteai.chat^
 ||eviclick.pro^
@@ -34560,7 +34569,6 @@
 ||festo.actonservice.com^
 ||festtube.com^
 ||festusthedrag.com^
-||festyy.com^
 ||fetanews.com^
 ||fetch.gethuan.com^
 ||fetchedhighlight.com^
@@ -34700,7 +34708,6 @@
 ||fictiongroin.com^
 ||fictionmineralladder.com^
 ||ficusoid.xyz^
-||fidalgotres.com^
 ||fiddleweaselloom.com^
 ||fidelity-media.com^
 ||fidelitybarge.com^
@@ -36431,7 +36438,6 @@
 ||fwzvlp.xyz^
 ||fx.gtop.ro^
 ||fx9.freepornoboss.com^
-||fxadviceformeandyou.com^
 ||fxbcc.cyou^
 ||fxbcpr.xyz^
 ||fxclub.org^
@@ -37387,6 +37393,7 @@
 ||gfbpijvtoxpit.com^
 ||gfbxgrfnljmxs.com^
 ||gfdfegg.cn^
+||gfdfgfgr.cn^
 ||gfdgfhh.cn^
 ||gfeede.theminda.com^
 ||gfgcwf.vidaxl.lv^
@@ -37650,6 +37657,7 @@
 ||gjc.gjirafa.com^
 ||gjfeblixctsojx.xyz^
 ||gjffrtfkhf.xyz^
+||gjhjjhgc.cn^
 ||gjhksxthokyjlm.com^
 ||gjigle.com^
 ||gjipd.xyz^
@@ -41272,7 +41280,6 @@
 ||hopsackmoth.com^
 ||hopsigna.com^
 ||hoptopboy.com^
-||hoptreeunburst.website^
 ||horacemann.actonservice.com^
 ||horaceprestige.com^
 ||horaebanca.life^
@@ -45515,6 +45522,7 @@
 ||iwwdcglj.com^
 ||iwwmaq.xyz^
 ||iwxtbaoqgcxfdd.xyz^
+||iwyrldaeiyv.com^
 ||ix.sparkleagings.com^
 ||ix2.deepsexvids.com^
 ||ixa9ill0f7bg.grundbuch.zentraler-antragsservice.com^
@@ -67965,6 +67973,7 @@
 ||qfihdr.com^
 ||qfisatztut.com^
 ||qfjherc.com^
+||qfjsliy.top^
 ||qfkmyf.clarins.com^
 ||qflwqw.opodo.fr^
 ||qfoiss.lendingtree.com^
@@ -68883,6 +68892,7 @@
 ||rapemineral.com^
 ||rapepush.net^
 ||rapesensual.com^
+||rapfdf.xyz^
 ||raphanyleman.top^
 ||raphanysteers.com^
 ||raphidewakener.com^
@@ -81369,6 +81379,7 @@
 ||statedfertileconference.com^
 ||statedthoughtslave.com^
 ||statefertilitycount.com^
+||statelinear.com^
 ||statementsheep.com^
 ||statementsnellattenuate.com^
 ||statesbenediction.com^
@@ -85123,6 +85134,7 @@
 ||tauphaub.net^
 ||taurinkimonos.uno^
 ||taurse.com^
+||tausaakcntiwp.com^
 ||tauspenup.top^
 ||tautcare.pro^
 ||tautenstapetta.com^
@@ -85847,6 +85859,7 @@
 ||thauwhoxaulr.com^
 ||thauzougroje.com^
 ||thaveksi.net^
+||thavrils.com^
 ||thawbootsamplitude.com^
 ||thawedmeddler.com^
 ||thawheek.com^
@@ -90787,7 +90800,6 @@
 ||tuberise.com^
 ||tubeskagos.life^
 ||tubestrap.com^
-||tubesupreme.com^
 ||tubetitties.com^
 ||tubetob.com^
 ||tubeultra.com^
@@ -91970,7 +91982,6 @@
 ||unnamesline.com^
 ||unnecessarydispleasedleak.com^
 ||unnish.com^
-||unnumelom.com^
 ||unoakrookroo.com^
 ||unoblotto.net^
 ||unofficialwanderingreplica.com^
@@ -92400,7 +92411,6 @@
 ||usancit.top^
 ||usaoptimizedby.increasingly.co^
 ||usaprogrip.actonservice.com^
-||usapromotravel.com^
 ||usb-vna.coppermountaintech.com^
 ||usbanners.com^
 ||usbmodmenu.com^
@@ -94358,7 +94368,6 @@
 ||w.k3718qw08.com^
 ||w.l.qq.com^
 ||w.xiaopiaoyou.com^
-||w020.newmilfordspectrum.com^
 ||w1.askwai.com^
 ||w1.bskwai.com^
 ||w1.cskwai.com^
@@ -98412,6 +98421,7 @@
 ||xukevxdf.com^
 ||xukou.net^
 ||xukpresesmr.info^
+||xuldtcip.icu^
 ||xulizui6.com^
 ||xunsfr.xyz^
 ||xuoizbtl.xyz^
@@ -99258,6 +99268,7 @@
 ||yqqhbd.yotsuyaotsuka.com^
 ||yqragd.com^
 ||yqxhslsqaqkbd.com^
+||yqxrjthpbolqq.com^
 ||yr9n47004g.com^
 ||yrcedupgqe.com^
 ||yrcpsfqoyi.com^
@@ -99528,7 +99539,6 @@
 ||z3p9f.xyz^
 ||z3yfkdjd.icu^
 ||z492.ctinsider.com^
-||z590.fairfieldcitizenonline.com^
 ||z5x.net^
 ||z680.beaumontenterprise.com^
 ||z737.thestar.com^
