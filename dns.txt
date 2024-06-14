@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-06-14 09:18:15（北京时间）
+! Version: 2024-06-14 20:34:22（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 100551
+! Total count: 100556
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -24425,6 +24425,7 @@
 ||crumbrationally.com^
 ||crumbs.robinhood.com^
 ||crumbtypewriterhome.com^
+||crummerexisted.com^
 ||crummygoddess.com^
 ||crumpet.xxxpornhd.pro^
 ||crumplylenient.com^
@@ -37634,6 +37635,7 @@
 ||gillynn.com^
 ||gilrauci.net^
 ||gimavpojtqa.com^
+||gimmalscutches.com^
 ||gimme-promo.com^
 ||gimmickry26.fun^
 ||gimnsr.com^
@@ -41924,6 +41926,7 @@
 ||hwkfzf.meinauto.de^
 ||hwmlmcbwpbkwas.com^
 ||hwnod.xyz^
+||hwnojj.xyz^
 ||hwof.info^
 ||hwosl.cloud^
 ||hwpnocpctu.com^
@@ -50570,6 +50573,7 @@
 ||littlmarsnews22.com^
 ||litvp.com^
 ||litznards.com^
+||liuhui111.top^
 ||liujiahao6.cn^
 ||liupoaa.com^
 ||liuxiangxiang.top^
@@ -55256,6 +55260,7 @@
 ||mercadeo.promerica.fi.cr^
 ||mercadolibre.com/tracks^
 ||merchant-app.th3rdwave.coffee^
+||merchant-center-analytics.goog^
 ||merchant-mail.neosurf.com^
 ||merchant.libertycarz.com^
 ||merchenta.com^
