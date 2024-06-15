@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-06-15 09:18:13（北京时间）
+! Version: 2024-06-15 20:32:31（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 100568
+! Total count: 100564
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -1125,7 +1125,6 @@
 ||27vckaccbto7p761.pro^
 ||27w8f.com^
 ||2805fbaa46.71ec0646e6.com^
-||2817931c44.com^
 ||2818.dorimnews.com^
 ||2829i2p88jx.www.csaladinet.hu^
 ||283.laobanfa.com^
@@ -2442,7 +2441,6 @@
 ||7q1z79gxsi.global.ssl.fastly.net^
 ||7rjln8orgh.com^
 ||7ry30.xyz^
-||7search.com^
 ||7vnkf.online^
 ||7vviw.cyou^
 ||7wind.ru^
@@ -2727,6 +2725,7 @@
 ||91e59ecbfd.com^
 ||9202.4puuqeh41.com^
 ||9208.4puuqeh41.com^
+||9216tp1.com^
 ||92331e9790.com^
 ||925.lt^
 ||9253.79j68qav2.com^
@@ -9779,7 +9778,6 @@
 ||af.shozankan-shop.com^
 ||af07fa0ce8.6662a5efa0.com^
 ||af2e7c6814.d78eee025b.com^
-||af60f3d6b4.com^
 ||af91c27a8e.com^
 ||af9dc9.xyz^
 ||afafevk.com^
@@ -14091,7 +14089,6 @@
 ||arrearssturdyenthusiasm.com^
 ||arrearstreatyexamples.com^
 ||arriagepuly.top^
-||arriedstro.work^
 ||arrief.com^
 ||arrietty.nrj.fr^
 ||arrivaltroublesome.com^
@@ -20623,6 +20620,7 @@
 ||cdn.posawaj.com^
 ||cdn.pranmcpkx.com^
 ||cdn.ptomw.com^
+||cdn.pubnub.com^
 ||cdn.puyjjq.com^
 ||cdn.puysis.com^
 ||cdn.qc24h.com^
@@ -34301,7 +34299,6 @@
 ||fazthmut.com^
 ||fb-plus.com^
 ||fb.echovisuals.com^
-||fb2d1abede.com^
 ||fb99ef9239.com^
 ||fb_servpub-a.akamaihd.net^
 ||fbcdn2.com^
@@ -35008,7 +35005,6 @@
 ||firebaselogging-pa.googleapis.com^
 ||firebaselogging.googleapis.com^
 ||fireboxarborer.com^
-||firebugimbuing.space^
 ||fireflydagomba.com^
 ||firelnk.com^
 ||fireplaceroundabout.com^
@@ -36043,7 +36039,6 @@
 ||freedatinghookup.com^
 ||freedisirs2.y2sysv81v.com^
 ||freedomart.cz^
-||freedomyapa.com^
 ||freeearthy.com^
 ||freeevpn.info^
 ||freefrog.site^
@@ -39971,7 +39966,6 @@
 ||hamster.darstellendekuenste.de^
 ||hamsterginger.com^
 ||hamtitwet.com^
-||hamulebeshear.com^
 ||hanadev.branch.rocks^
 ||hanadrmc.xyz^
 ||hanastage.branch.rocks^
@@ -47300,7 +47294,6 @@
 ||kappalinks.com^
 ||kaqhfijxlkbfa.xyz^
 ||karafutem.com^
-||karatsimpalm.com^
 ||karayarillock.cam^
 ||karlhalved.com^
 ||karma.mdpcdn.com^
@@ -50856,6 +50849,7 @@
 ||lnkrdr.com^
 ||lnkvv.com^
 ||lnkyqvkyznkvz.top^
+||lnlkmr.xyz^
 ||lnlxhsjjqfjs.com^
 ||lnmreidn.com^
 ||lnonsoygtt.com^
@@ -65953,7 +65947,6 @@
 ||popcpm.com^
 ||poperblocker.com^
 ||popetechs.com^
-||popeyeraia.com^
 ||pophahwot.com^
 ||pophandler.net^
 ||popin.cc^
@@ -71587,7 +71580,6 @@
 ||rushpeeredlocate.com^
 ||rushpushy.com^
 ||russellseemslept.com^
-||russetspaper.com^
 ||russiangalacticcharming.com^
 ||russianwithincheerleader.com^
 ||russif.com^
@@ -84148,6 +84140,7 @@
 ||szbxm.cn^
 ||szbxw.cn^
 ||szbzp.cn^
+||szdpk.cn^
 ||szfmr.cn^
 ||szftg.cn^
 ||szgaikk.com^
@@ -88987,6 +88980,7 @@
 ||tracker.idocdn.com^
 ||tracker.iltrovatore.it^
 ||tracker.incite-group.com^
+||tracker.insurads.com^
 ||tracker.insurancenexus.com^
 ||tracker.iplocation.net^
 ||tracker.jkplayers.com^
@@ -97955,6 +97949,7 @@
 ||xhydgjisnfrtqsh.com^
 ||xhzjidgc.xyz^
 ||xhzz3moj1dsd.com^
+||xianliao.voto^
 ||xiaobizaizi1.top^
 ||xiaohuishu.top^
 ||xiaomengxiong.com^
@@ -100105,6 +100100,7 @@
 ||zitscassias.top^
 ||zivtux.com^
 ||ziwane.uno^
+||ziwelatum.com^
 ||ziwewm.tecovas.com^
 ||zixuncooperation.html5.qq.com^
 ||ziyzcu.buzz^
