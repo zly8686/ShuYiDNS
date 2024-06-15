@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-06-14 20:34:22（北京时间）
+! Version: 2024-06-15 09:18:13（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 100556
+! Total count: 100568
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -16275,6 +16275,7 @@
 ||bbocajxn.com^
 ||bbphonix.xyz^
 ||bbqckhmgboal.xyz^
+||bbqoa.top^
 ||bbrdbr.com^
 ||bbrnpj.xyz^
 ||bbs.theacademyforconsciousleadership.com^
@@ -17838,6 +17839,7 @@
 ||bn.kino-go.co^
 ||bn.ohah.ru^
 ||bn.orthodoxy.ru^
+||bn.radiogold.it^
 ||bn.take-profit.org^
 ||bn.voyage-prive.com^
 ||bn5x.net^
@@ -20561,6 +20563,7 @@
 ||cdn.htkcm.com^
 ||cdn.ianjumb.com^
 ||cdn.insta.playbryte.com^
+||cdn.insurads.com^
 ||cdn.iople.com^
 ||cdn.isgost.com^
 ||cdn.jampp.com^
@@ -26482,6 +26485,7 @@
 ||dashingdaredmeeting.com^
 ||daslethv.com^
 ||dasljfoq.top^
+||daslkdlqk.top^
 ||dasperdolus.com^
 ||dasv10rewq.xyz^
 ||dasych.drmartypets.com^
@@ -26902,6 +26906,7 @@
 ||datafiletechnologies.actonservice.com^
 ||datajsext.com^
 ||datakitschelm.com^
+||datalayer.orange.fr^
 ||datanoticias.prisasd.com^
 ||dataofpages.com^
 ||dataryon.com^
@@ -33991,6 +33996,7 @@
 ||fa77756437.com^
 ||fa84f180d1.com^
 ||fa9b667e4e.com^
+||faaqgje.icu^
 ||fab34e9d51.com^
 ||fabriczigzagpercentage.com^
 ||fabrkrup.com^
@@ -35475,6 +35481,7 @@
 ||foggytube.com^
 ||foghug.site^
 ||fognvcteac.com^
+||fogolakda.top^
 ||fogsham.com^
 ||fogtweybq.com^
 ||foguroli.pro^
@@ -40620,6 +40627,7 @@
 ||heukwasanasosett.info^
 ||heusysianedu.com^
 ||hevc.site^
+||hevctt.xyz^
 ||hevdnzqu.com^
 ||hevqaz.submarino.com.br^
 ||hewalleges.guru^
@@ -61396,6 +61404,7 @@
 ||ofhunch.com^
 ||ofhypnoer.com^
 ||ofitstefukste.org^
+||ofjslik.top^
 ||ofkcww.xyz^
 ||ofkqiy.knowfashionstyle.com^
 ||ofkrabbyr.com^
@@ -62673,6 +62682,7 @@
 ||osageafresh.com^
 ||osancik.top^
 ||osangauh.net^
+||osanyc.xyz^
 ||osarmapa.net^
 ||osaunsot.net^
 ||osb-apps-v2.samsungqbe.com^
@@ -67759,6 +67769,7 @@
 ||pwwqkppwqkezqer.site^
 ||pwwysydh.com^
 ||pwxerujvl.com^
+||pwxlbsie.icu^
 ||pwxmwmoyuobgku.com^
 ||pwxtock.com^
 ||px-intl.ucweb.com^
@@ -79776,6 +79787,7 @@
 ||sowfairytale.com^
 ||sowp.cloud^
 ||sowsuwm.icu^
+||sowx.cn^
 ||soxnwz.lg.com^
 ||soyjlnfatgxpfd.com^
 ||soysapslad.com^
