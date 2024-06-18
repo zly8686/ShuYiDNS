@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-06-18 09:19:03（北京时间）
+! Version: 2024-06-18 20:34:20（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 100654
+! Total count: 100663
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -2773,6 +2773,7 @@
 ||9400.5clo0xmbf.com^
 ||9418b95070.845d6bbf60.com^
 ||943d6e0643.com^
+||947ec124d5.com^
 ||94870bbbc9.com^
 ||94a8ef8029.544c1a86a1.com^
 ||94cdn.com^
@@ -26388,6 +26389,7 @@
 ||dajiahao9.top^
 ||dajkqqpz.top^
 ||dakjddjerdrct.online^
+||daksflkalq.top^
 ||dal9hkyfi0m0n.cloudfront.net^
 ||dalecigarexcepting.com^
 ||dalecta.com^
@@ -27999,6 +28001,7 @@
 ||dftoutiao.com^
 ||dfuaqw.com^
 ||dfvlaoi.com^
+||dfvmzx.xyz^
 ||dfw.bakerbrothersplumbing.com^
 ||dfwbfr2blhmr5.cloudfront.net^
 ||dfxvkgz.xyz^
@@ -32644,6 +32647,7 @@
 ||eph-adsjutarnji.cdn.sysbee.net^
 ||ephebedori.life^
 ||ephedrasebait.digital^
+||ephemeralcounters.api.roblox.com^
 ||ephpqyjqyj.com^
 ||epicgameads.com^
 ||epicgolive.rainresources.com^
@@ -34711,6 +34715,7 @@
 ||ffxxdjucvk.com^
 ||ffyvsn.evisu.com^
 ||fg850ik01.6g0blqi1541polz4n0kjvwo1kjl5tcx30.xyz^
+||fgadsqdma.top^
 ||fgbthrsxnlo.xyz^
 ||fgcxdr.cn^
 ||fgdxwpht.com^
@@ -65519,6 +65524,7 @@
 ||plausible.safing.io^
 ||plausible.sbw.org^
 ||plausible.scimago.es^
+||plausible.server.hakai.app^
 ||plausible.shadygrovepca.org^
 ||plausible.simplelogin.io^
 ||plausible.srijn.net^
@@ -86633,6 +86639,7 @@
 ||tjgpeswdkrym.com^
 ||tjibxzqxtl.com^
 ||tjj.com^
+||tjk-njk.com^
 ||tjnffp.tilebar.com^
 ||tjnkrrygmgp.com^
 ||tjnvqptv.com^
@@ -93671,6 +93678,7 @@
 ||vidsbranch.space^
 ||vidschannel.online^
 ||vidschannel.space^
+||vidscriptshark.com^
 ||vidsforyou.mom^
 ||vidsforyou.online^
 ||vidsfull.online^
@@ -98657,6 +98665,7 @@
 ||xuymgm.hostgator.mx^
 ||xuzeez.com^
 ||xvantage.ingrammicro.com^
+||xvbcjh.xyz^
 ||xvbjctqs.xyz^
 ||xvbnrh.xyz^
 ||xvbvpizetpts.com^
