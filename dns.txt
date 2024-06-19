@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-06-19 09:19:16（北京时间）
+! Version: 2024-06-19 20:34:45（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 100690
+! Total count: 100693
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -17204,6 +17204,7 @@
 ||bhxogodamtrcs.com^
 ||bi.banggood.com^
 ||bi.concordesolutions.com^
+||bi.heyloyalty.com^
 ||bi.irisdating.com^
 ||bi.manhuaren.com^
 ||bi.medscape.com^
@@ -67122,6 +67123,7 @@
 ||prqbdfmzjs.com^
 ||prre.ru^
 ||prsitecheck.com^
+||prtadf.xyz^
 ||prtord.com^
 ||prtrackings.com^
 ||prtydqs.com^
@@ -84245,6 +84247,7 @@
 ||szbzp.cn^
 ||szdgl.cn^
 ||szdpk.cn^
+||szdxw.cn^
 ||szfmr.cn^
 ||szftg.cn^
 ||szgaikk.com^
