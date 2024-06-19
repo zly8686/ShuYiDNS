@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-06-18 20:34:20（北京时间）
+! Version: 2024-06-19 09:19:16（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 100663
+! Total count: 100690
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -2334,6 +2334,7 @@
 ||771fnypadw0j.pt.themoneytizer.com^
 ||7726.34gwl8v1a.com^
 ||7729.5clo0xmbf.com^
+||7757139f7b.com^
 ||775cf6f1ae.com^
 ||776173f9e6.com^
 ||7767.5clo0xmbf.com^
@@ -2841,6 +2842,7 @@
 ||994e4a6044.com^
 ||99525f9c96.cfd546b20a.com^
 ||9955951.pillar.app^
+||996js123.com^
 ||997b409959.com^
 ||9984342.reddoorz.in^
 ||99886aaa.com^
@@ -13881,6 +13883,7 @@
 ||aquiliapistrix.guru^
 ||aqutxohnexd.com^
 ||aquvg.com^
+||aqvi.cn^
 ||aqvwn18102h.com^
 ||aqwihyjpglzdr.com^
 ||aqwsms.xyz^
@@ -14177,6 +14180,7 @@
 ||arwhismura.com^
 ||arwobaton.com^
 ||aryabzerznlvn.top^
+||arylidealchemy.com^
 ||arzanphearse.com^
 ||as.adfonic.net^
 ||as.autobild.de^
@@ -14570,6 +14574,7 @@
 ||at-ecomm.levi.com^
 ||at-go.experian.com^
 ||at.360.audion.fm^
+||at.adtech.redventures.io^
 ||at.badische-zeitung.de^
 ||at.db-finanzberatung.de^
 ||at.deutsche-bank.de^
@@ -16887,6 +16892,7 @@
 ||berendphloeum.com^
 ||berenicepunch.com^
 ||beresearchaffection.com^
+||bergertubbie.com^
 ||bergsmouflon.com^
 ||berideshaptin.com^
 ||berinsestoray.com^
@@ -18786,6 +18792,7 @@
 ||brogetcode4s.cc^
 ||broghpiquet.com^
 ||broidensordini.com^
+||broim.xyz^
 ||brokeloy.com^
 ||brokennails.org^
 ||broker.datazoom.io^
@@ -19157,6 +19164,7 @@
 ||bungalowlame.com^
 ||bungalowsimply.com^
 ||bungarovet.com^
+||bungeedubbah.com^
 ||bunintruder.com^
 ||bunnymediaserver.com^
 ||bunquaver.com^
@@ -20799,6 +20807,7 @@
 ||cdtm.cdiscount.com^
 ||cdttxdqe.xyz^
 ||cdtxegwndfduk.xyz^
+||cduno.cn^
 ||cduygiph.com^
 ||cdwbjlmpyqtv.com^
 ||cdwehdnnprdntse.com^
@@ -27239,6 +27248,7 @@
 ||ddpvnqtpdqid.xyz^
 ||ddqfgamwnhp.com^
 ||ddqkqq.com^
+||ddqmlfu.icu^
 ||ddrsemxv.com^
 ||ddrvjrfwnij7n.cloudfront.net^
 ||ddsndt.azubiyo.de^
@@ -29726,6 +29736,7 @@
 ||drawbackcaptiverusty.com^
 ||drawbacksubdue.com^
 ||draweesjabbers.com^
+||draweesoutkiss.com^
 ||drawerenter.com^
 ||drawerfontactual.com^
 ||drawergypsyavalanche.com^
@@ -31377,6 +31388,7 @@
 ||ehpxmsqghx.xyz^
 ||ehqdzqi.com^
 ||ehrhrrx.xyz^
+||ehrydnmdoe.com^
 ||eht.endress.com^
 ||eht116.com^
 ||ehtel.endress.com^
@@ -34694,6 +34706,7 @@
 ||ffbbbdc6d3c353211fe2ba39c9f744cd.com^
 ||ffbvhlc.com^
 ||ffcclqkmmlmecf.xyz^
+||ffdafx.xyz^
 ||ffe390afd658c19dcbf707e0597b846d.de^
 ||ffe3ca7ae5.com^
 ||ffesutnkrvy.com^
@@ -42413,6 +42426,7 @@
 ||idolizeduse.pro^
 ||idolonpomposo.guru^
 ||idolsainsie.com^
+||idoshbo.top^
 ||idownloadgalore.com^
 ||idqwqm.kkday.com^
 ||idreamed.com^
@@ -44489,6 +44503,7 @@
 ||info2.thermoscientific.com^
 ||info3.thermofisher.com^
 ||infoaction.mimakiusa.com^
+||infocab888.life^
 ||infocenter.support^
 ||infoco.readingpartners.org^
 ||infodc.readingpartners.org^
@@ -45052,6 +45067,7 @@
 ||investcoma.com^
 ||investhash.com^
 ||investigation3x.fun^
+||investigationsuperbprone.com^
 ||investment.lianest.co.jp^
 ||investments.aberdeenstandard.com^
 ||investments.virtus.com^
@@ -45842,6 +45858,7 @@
 ||jatdticl.com^
 ||jatfugios.com^
 ||jatomayfair.life^
+||jatosbathkol.com^
 ||jatpmv.megacolchoes.com.br^
 ||jatsekse.net^
 ||jattepush.com^
@@ -59358,6 +59375,7 @@
 ||nct1.logging.nextsmarty.com^
 ||nct2-logging.nct.vn^
 ||nctrk.abmail.com.br^
+||ncubadmavfp.com^
 ||ncukankingwith.info^
 ||ncukgqjfaxjv.com^
 ||ncvsbz.bonds.com.au^
@@ -60455,6 +60473,7 @@
 ||nougatdimetry.com^
 ||noughtefface.com^
 ||noughttrustthreshold.com^
+||noukotumorn.com^
 ||noumohur.com^
 ||nounaswarm.com^
 ||nounooch.com^
@@ -60810,6 +60829,7 @@
 ||nus.nick.com^
 ||nuseek.com^
 ||nut.cc^
+||nutantvirific.com^
 ||nutattorneyjack.com^
 ||nutchaungong.com^
 ||nutgxfwechkcuf.com^
@@ -63259,6 +63279,7 @@
 ||owlsalqrarab.com^
 ||owlunimmvn.com^
 ||owndata.network^
+||ownzzohggdfb.com^
 ||owoxauky.com^
 ||owp-sg-prop.americanexpress.com^
 ||owp-tw.americanexpress.com^
@@ -73009,6 +73030,7 @@
 ||sbgsodufuosmmvsdf.info^
 ||sbhc.portalhc.com^
 ||sbhduht.xyz^
+||sbiloi.xyz^
 ||sbm.stigmuuua.xyz^
 ||sbmwgj.vidaxl.hu^
 ||sbonjqsxicqfo.xyz^
@@ -90931,6 +90953,7 @@
 ||tt.ulsterbank.ie^
 ||tt.wl-cornholio.com^
 ||tt123.eastday.com^
+||ttad125.com^
 ||ttarget.eastwestbank.com^
 ||ttauri.laptopmag.com^
 ||ttauri.livescience.com^
@@ -91656,6 +91679,7 @@
 ||ug-sg.byteoversea.com^
 ||ug.snssdk.com^
 ||ugahutoa.com^
+||ugailidsay.xyz^
 ||ugalia.com^
 ||ugawnotrjj.xyz^
 ||ugbler.icu^
@@ -91907,6 +91931,7 @@
 ||umoughtcallm.com^
 ||umoxomv.icu^
 ||umpcaptans.com^
+||umpedshumal.com^
 ||umpirectx.top^
 ||umplmoht.com^
 ||umplohzn.com^
@@ -95636,6 +95661,7 @@
 ||west.bidtellect.com^
 ||westernhungryadditions.com^
 ||westernwhetherowen.com^
+||westeselva.com^
 ||westevents.presidio.com^
 ||westover.cn^
 ||westreflection.com^
@@ -98756,6 +98782,7 @@
 ||xxpnnq.sklepmartes.pl^
 ||xxsdtb.edreams.com^
 ||xxsmad1.com^
+||xxsmad2.com^
 ||xxwflybvwbario.com^
 ||xxx.sdtraff.com^
 ||xxxbannerswap.com^
