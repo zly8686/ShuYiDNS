@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-06-20 09:17:20（北京时间）
+! Version: 2024-06-20 20:33:59（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 100713
+! Total count: 100721
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -1718,7 +1718,6 @@
 ||4dtrk.com^
 ||4e0622e316.com^
 ||4e26d342b8.com^
-||4e5d31aaea.com^
 ||4e645c7cf2.com^
 ||4e8bjpldk.com^
 ||4ec2e6f324.com^
@@ -2366,6 +2365,7 @@
 ||7811f1c9ec.com^
 ||78359c0779.com^
 ||78387c2566.com^
+||7868d5c036.com^
 ||786eed44f0.com^
 ||7871.5clo0xmbf.com^
 ||78847f3987.20211144a8.com^
@@ -7201,7 +7201,6 @@
 ||acoudsoarom.com^
 ||acoustoopticmodulator.com^
 ||acpakrjzyamb.com^
-||acproyectos.com^
 ||acq-au.americanexpress.com^
 ||acq-hk.americanexpress.com^
 ||acq-jp.americanexpress.com^
@@ -9032,7 +9031,6 @@
 ||ads.zunia.vn^
 ||ads1-adnow.com^
 ||ads1.canoe.ca^
-||ads1.careerbuilder.vn^
 ||ads1.mediacapital.pt^
 ||ads1.msn.com^
 ||ads1.rne.com^
@@ -9937,7 +9935,6 @@
 ||affiliates.thrixxx.com^
 ||affiliates.treasureisland.com^
 ||affiliates.ultrahosting.com^
-||affiliates.vpn.ht^
 ||affiliatesensor.com^
 ||affiliatestonybet.com^
 ||affiliatetracking.com^
@@ -20435,6 +20432,7 @@
 ||ccs.umeng.com^
 ||ccsshn137.shop^
 ||cctrkom.creditcards.com^
+||cctuhqghljzdrv.com^
 ||ccwxma.xyz^
 ||cczqyvuy812jdy.com^
 ||ccztgy.elgiganten.dk^
@@ -29523,6 +29521,7 @@
 ||dougale.com^
 ||douglaug.net^
 ||douhooke.net^
+||doujs01.xyz^
 ||doukoula.com^
 ||doumuleet.net^
 ||douoblelimpup.com^
@@ -34490,6 +34489,7 @@
 ||fearplausible.com^
 ||feastoffortuna.com^
 ||featbooksterile.com^
+||feature-flag-edge.live.clickbus.net^
 ||featured.bradyid.com^
 ||featured.perfectionholic.com^
 ||featurelink.com^
@@ -36388,7 +36388,6 @@
 ||fulhamscaboose.website^
 ||fulheaddedfea.com^
 ||fuliwang.cc^
-||fulldohymner.com^
 ||fullerton-app.hotdoc.com.au^
 ||fullseleatic.top^
 ||fulltraffic.net^
@@ -40736,7 +40735,6 @@
 ||hfpuhwqi.xyz^
 ||hfpwcx.supermercadosmas.com^
 ||hfqjfnswctf.xyz^
-||hfqnbrrutmyqlo.com^
 ||hfresgtyytjncvvh.com^
 ||hfufkifmeni.com^
 ||hfugukhcea.com^
@@ -46808,6 +46806,7 @@
 ||js.92aliyun.com^
 ||js.aiservice.vn^
 ||js.allporncomic.com^
+||js.bigcomics.win^
 ||js.bju888.com^
 ||js.bulkhentai.com^
 ||js.cabnnr.com^
@@ -47379,6 +47378,7 @@
 ||karoon.xyz^
 ||karoup.com^
 ||karpasbeamer.com^
+||karpatzi.com^
 ||karponews.com^
 ||kart2ks.icu^
 ||kartik.devishetty.com^
@@ -47949,6 +47949,9 @@
 ||kmqghr.bristolshop.be^
 ||kmqhmn.helen-marlen.com^
 ||kmrilock.com^
+||kms-full.com^
+||kmspico.io^
+||kmspico.ws^
 ||kmwatsonc.events.data.microsoft.com^
 ||kmwatsonc.telemetry.microsoft.com^
 ||kmwclt.xyz^
@@ -54636,7 +54639,6 @@
 ||maxim.pub^
 ||maximherein.com^
 ||maximtoaster.com^
-||maximumcash.com^
 ||maximumductpictorial.com^
 ||maximumimmortality.com^
 ||maximumingrow.com^
@@ -68663,6 +68665,7 @@
 ||quizmasterdescribe.com^
 ||quizmastersnag.com^
 ||quizmastersnappy.com^
+||quizna.xyz^
 ||quizsupportedchapel.com^
 ||quizzicalgrand.pro^
 ||qujishu.com^
@@ -70146,6 +70149,7 @@
 ||requisiteconjure.com^
 ||requotebatman.com^
 ||requotehocker.com^
+||reqyfuijl.com^
 ||rereddit.com^
 ||reroplittrewheck.pro^
 ||rerosefarts.com^
@@ -74142,6 +74146,7 @@
 ||seehaucu.net^
 ||seek.intel.com^
 ||seek.uwa.edu.au^
+||seekmymatch.com^
 ||seekoflol.com^
 ||seemingverticallyheartbreak.com^
 ||seemoraldisobey.com^
@@ -74914,7 +74919,6 @@
 ||sheardirectly.com^
 ||shearobserve.com^
 ||shebaasot.com^
-||sheddedtecta.com^
 ||sheecmee.xyz^
 ||sheecmuwesil.com^
 ||sheedsoh.com^
@@ -82722,6 +82726,7 @@
 ||status.edge44.testandtarget.omniture.com^
 ||status.edge45.testandtarget.omniture.com^
 ||status.kino-dom.org^
+||status.techtarget.itmedia.co.jp^
 ||statwup.huya.com^
 ||statwup.nimo.tv^
 ||statxpress.com^
@@ -85018,6 +85023,7 @@
 ||tallysaturatesnare.com^
 ||talouktaboutrice.info^
 ||talsauve.com^
+||talsindustrateb.info^
 ||tamedbc.roska.fr^
 ||tamedilks.com^
 ||tamesurf.com^
@@ -96290,6 +96296,7 @@
 ||wkoeoaavammkr.top^
 ||wkoeoaavammqv.top^
 ||wkoeoaavamqek.top^
+||wkoocuweg.com^
 ||wkpewkejefefhm.com^
 ||wkpfgjbmd.com^
 ||wkpjgh.toysrus.pt^
@@ -96563,7 +96570,6 @@
 ||worldfreshblog.com^
 ||worldfreshjournal.com^
 ||worldglobalssp.xyz^
-||worldinform.ru^
 ||worldlyyouth.com^
 ||worldmtcs.nhk.jp^
 ||worldnetpr.actonservice.com^
@@ -96741,6 +96747,7 @@
 ||wrontonshatbona.com^
 ||wrotad.com^
 ||wroteeasel.com^
+||wrothycreep.top^
 ||wrotus.com^
 ||wrpsouf.cn^
 ||wrqtcoxjw.com^
@@ -99561,6 +99568,7 @@
 ||yrepmy.jochen-schweizer.de^
 ||yretx.cn^
 ||yrhdmalrfr.com^
+||yrincelewasgiw.info^
 ||yrinpvfw.com^
 ||yrlkeazcacxwaj.com^
 ||yrrudp.inven.co.kr^
