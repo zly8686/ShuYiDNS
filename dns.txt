@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-06-19 20:34:45（北京时间）
+! Version: 2024-06-20 09:17:20（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 100693
+! Total count: 100713
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -7857,6 +7857,7 @@
 ||adbsmetrics.koreanair.com^
 ||adbsmetrics.kt.com^
 ||adbsmetrics.lotterentacar.net^
+||adbu.cn^
 ||adbuddiz.com^
 ||adbuff.com^
 ||adbuka.com.ng^
@@ -17226,6 +17227,7 @@
 ||biblesausage.com^
 ||bibletweak.com^
 ||bibtu.com^
+||bichosdamiana.com^
 ||bicid.xyz^
 ||bicjetapwdsiby.xyz^
 ||bicyclelistoffhandpaying.com^
@@ -20403,6 +20405,7 @@
 ||cc72fceb4f.com^
 ||cc954a8da8.com^
 ||cca63f7d30.com^
+||ccaa0e51d8.com^
 ||ccaahdancza.com^
 ||ccaas.avaya.com^
 ||ccc.aqualink.tokyo^
@@ -26391,6 +26394,7 @@
 ||dairyworkjourney.com^
 ||daistii.com^
 ||daiteshu.net^
+||daithithapta.net^
 ||daiwheew.com^
 ||daiwofei2019.top^
 ||daizoode.com^
@@ -31212,6 +31216,7 @@
 ||eephaunou.com^
 ||eephaush.com^
 ||eephizie.com^
+||eephoawaum.com^
 ||eepoawhe.xyz^
 ||eepsoumt.com^
 ||eepsukso.com^
@@ -32457,8 +32462,10 @@
 ||englandhogmane.com^
 ||engravetexture.com^
 ||enguis.com^
+||engwsq.xyz^
 ||enhad.xyz^
 ||enhalosecurer.digital^
+||enhalosubsea.com^
 ||enhancedweapon.com^
 ||enhanceinterestinghasten.com^
 ||enhancenephew.com^
@@ -35945,6 +35952,7 @@
 ||fpctraffic.com^
 ||fpdbccngiujp.com^
 ||fpelfyeesuoivy.com^
+||fpfbbn.xyz^
 ||fpgedsewst.com^
 ||fpghll.rossmann.hu^
 ||fphbwyonnk.com^
@@ -46033,7 +46041,9 @@
 ||jdoeknc.com^
 ||jdoguxtbovjngbg.com^
 ||jdoqocy.com^
+||jdoshba.top^
 ||jdpm.net.cn^
+||jdrlfn.xyz^
 ||jdrnpei.xyz^
 ||jdspvwgxbtcgkd.xyz^
 ||jdt8.net^
@@ -61075,6 +61085,7 @@
 ||oakmalewet.live^
 ||oakmostlyaccounting.com^
 ||oakpyxyea.com^
+||oakrirtorsy.xyz^
 ||oaksafta.com^
 ||oaksandtheircle.info^
 ||oal2.destinia.co.uk^
@@ -63555,6 +63566,7 @@
 ||packmenappui.top^
 ||pacoaniy.net^
 ||pacontainer.s3.amazonaws.com^
+||pacquetpusher.com^
 ||pacstainless.actonservice.com^
 ||paddlediscovery.com^
 ||paddleniecehandicraft.com^
@@ -67226,6 +67238,7 @@
 ||psoaftob.xyz^
 ||psoageeb.com^
 ||psoageph.com^
+||psoansumt.net^
 ||psoanufi.com^
 ||psoasusteech.net^
 ||psockapa.net^
@@ -68287,6 +68300,7 @@
 ||qlmwgibhbhar.com^
 ||qln.actonservice.com^
 ||qlnccjattetsoq.com^
+||qlnkt.com^
 ||qlp.egghead.link^
 ||qlqvej.bahia-principe.com^
 ||qlrpbdhwebzpf.com^
@@ -69834,6 +69848,7 @@
 ||rejectionfundetc.com^
 ||rejoinedproof.com^
 ||rejoinedshake.com^
+||rejowhourox.com^
 ||rejslaq.com^
 ||rek.serial24.com^
 ||rek.www.wp.pl^
@@ -71599,6 +71614,7 @@
 ||rugcrucial.com^
 ||ruggownpolacca.com^
 ||rugiomyh2vmr.com^
+||ruglhiahxam.com^
 ||rugttt.robinson.com^
 ||ruhpbn.zhigaojixie.com^
 ||ruineddefectivecurb.com^
@@ -80873,6 +80889,7 @@
 ||ssp.hinet.net^
 ||ssp.igaw.io^
 ||ssp.kdnet.net^
+||ssp.moeli.net^
 ||ssp.otm-r.com^
 ||ssp.qc.coccoc.com^
 ||ssp.qq.com^
@@ -85978,6 +85995,7 @@
 ||tfag.de^
 ||tfaln.com^
 ||tfations.live^
+||tfauwtzipxob.com^
 ||tfb7jc.de^
 ||tfczk.xyz^
 ||tfdmzsgy.icu^
@@ -93901,6 +93919,7 @@
 ||vilpujzmyhu.com^
 ||vimeonk.com^
 ||vimpatace.digital^
+||vincentagrafes.top^
 ||vindexmesode.com^
 ||vindicosuite.com^
 ||vinegardaring.com^
@@ -95028,6 +95047,7 @@
 ||wbdqwpu.com^
 ||wbekwxsup.com^
 ||wbfhivtydh.com^
+||wbgafrr.icu^
 ||wbgwuftclaya.com^
 ||wbidder.online^
 ||wbidder2.com^
