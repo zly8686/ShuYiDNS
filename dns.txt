@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-06-21 09:17:47（北京时间）
+! Version: 2024-06-21 20:33:26（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 100750
+! Total count: 100753
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -235,7 +235,6 @@
 ||0c73bb2de3.7e5f2028a6.com^
 ||0c74d1e2ed.0342b40dd6.com^
 ||0c9c69faa3.ea3999c26b.com^
-||0ca20b3e8f.com^
 ||0ca528a25b.5bdd71381c.com^
 ||0cdn.xyz^
 ||0cf.io^
@@ -2765,7 +2764,6 @@
 ||93859e8ebb.978c7cc4d9.com^
 ||9395.5clo0xmbf.com^
 ||939943e302.1e49ec466f.com^
-||93bc17bf29.com^
 ||93c398a59e.com^
 ||93f9e9c378.0165672dd6.com^
 ||93fe0ef153.4f6ac84634.com^
@@ -4176,7 +4174,6 @@
 ||a2put.chinaz.com^
 ||a2sex.com^
 ||a2tw6yoodsag.com^
-||a2zgroup.in^
 ||a3.hotpornfile.org^
 ||a3.jandan.net^
 ||a3.ogt.jp^
@@ -6278,7 +6275,6 @@
 ||a8wakiga.ike-sunshine.co.jp^
 ||a8wristcut.ike-sunshine.co.jp^
 ||a8x.piece-kaitori.jp^
-||a911d9d2c3.com^
 ||a94.info^
 ||a962m.xyz^
 ||a9643.actonservice.com^
@@ -6373,7 +6369,6 @@
 ||aa.zdnet.com^
 ||aa.zerg.pro^
 ||aa0d368567.dd0122893e.com^
-||aa2172c617.com^
 ||aa3e4.cyou^
 ||aa665588aa.com^
 ||aa7514796b.224e37d1ce.com^
@@ -11867,6 +11862,7 @@
 ||analytics.sohatv.vn^
 ||analytics.soluforce.com^
 ||analytics.sona-mira.co.jp^
+||analytics.sonjj.com^
 ||analytics.spankbang.com^
 ||analytics.spark.co.nz^
 ||analytics.sports.ru^
@@ -15906,6 +15902,7 @@
 ||banana.le.com^
 ||banawyhjc.com^
 ||banbuyserve.com^
+||bance.jp^
 ||banclip.com^
 ||bancopostapremia.bancoposta.it^
 ||bandageloathe.com^
@@ -17103,6 +17100,7 @@
 ||bfg.loanzify.app^
 ||bfgacxuooced.com^
 ||bfgtfxd.com^
+||bfhueh.top^
 ||bfjk360.com^
 ||bfjmqmdieipi.xyz^
 ||bfjoyp.plus.nl^
@@ -20981,7 +20979,6 @@
 ||cf7f345e1e.536e9f9126.com^
 ||cf97134c89.com^
 ||cf9c86d5de.f33207dc6c.com^
-||cf9fa75179.com^
 ||cfa.fidelity.com^
 ||cfaexam.quantresear.ch^
 ||cfateu.xyz^
@@ -25070,7 +25067,6 @@
 ||czexrhl.cn^
 ||czfpgkujv.com^
 ||czfyaemtweo.com^
-||czglcxlh.com^
 ||czh5aa.xyz^
 ||cznfum.lumas.com^
 ||czouthy.cn^
@@ -31557,7 +31553,6 @@
 ||elia.thermofisher.com^
 ||elianicben.com^
 ||eliaoutbawl.com^
-||eliatestier.com^
 ||elicaowl.com^
 ||eligiblecompetitive.com^
 ||elijah.tantawy.app^
@@ -34043,7 +34038,6 @@
 ||f96b968227.12a640bb5e.com^
 ||f9755640df.5eef1ed9ac.com^
 ||f9d38526cd.com^
-||fa.fpt.shop^
 ||fa21aff8b2.1a714ee67c.com^
 ||fa3f4c916c.com^
 ||fa77756437.com^
@@ -46857,7 +46851,6 @@
 ||js.shunqi.com^
 ||js.sosista.com^
 ||js.spreton.com^
-||js.ssp.bance.jp^
 ||js.stroeermediabrands.de^
 ||js.syosetu.top^
 ||js.ubaike.cn^
@@ -49243,6 +49236,7 @@
 ||leedoash.com^
 ||leefosto.com^
 ||leegaroo.xyz^
+||leenaitheez.com^
 ||leeptoadeesh.net^
 ||leesecobourg.com^
 ||leesymvlvck.xyz^
@@ -59012,7 +59006,6 @@
 ||mythicsallies.com^
 ||mythings.com^
 ||mytiris.com^
-||mytizer.ru^
 ||mytop-in.net^
 ||myudkrefaiygs.com^
 ||myunderthfe.info^
@@ -60934,6 +60927,7 @@
 ||nxdcyhmwxlqc.com^
 ||nxditl.xyz^
 ||nxexydg.com^
+||nxhnaibu.com^
 ||nxhqso.nordicnest.se^
 ||nxhwvt.xyz^
 ||nxikijn.com^
@@ -63015,6 +63009,7 @@
 ||ouldhukelpm.org^
 ||ouleegneeje.com^
 ||oulpli.bettybarclay.com^
+||oulragart.xyz^
 ||oulrarta.net^
 ||oulrukry.xyz^
 ||oulsools.com^
@@ -64771,6 +64766,7 @@
 ||phaivaju.com^
 ||phaixurd.com^
 ||phalingy.net^
+||phallicbedsore.com^
 ||phallicuncut.com^
 ||phamsacm.net^
 ||phanoaftapt.com^
@@ -67380,6 +67376,7 @@
 ||ptflrj.xyz^
 ||ptfxh.com^
 ||pthdepsftn.com^
+||pthrecjtu.com^
 ||pthzqqvrjyou.com^
 ||pticmootoat.com^
 ||ptidfrvqxpucy.com^
@@ -69008,6 +69005,7 @@
 ||raggerdough.com^
 ||raggledordures.com^
 ||ragita.uno^
+||raglanyakking.com^
 ||raglassofrum.cc^
 ||ragsbxhchr.xyz^
 ||ragwviw.com^
@@ -69039,6 +69037,7 @@
 ||raivoabu.com^
 ||raivoufe.xyz^
 ||rajabets.xyz^
+||rajmobbism.com^
 ||rakamu.com^
 ||rake.11st.co.kr^
 ||rake.tmap.co.kr^
@@ -73002,6 +73001,7 @@
 ||saunerema.net^
 ||saupouni.xyz^
 ||sauptoacoa.com^
+||sauptowhy.com^
 ||saurajembe.top^
 ||sauriaparpen.com^
 ||sausagegirlieheartburn.com^
@@ -74981,6 +74981,7 @@
 ||shenzo.xyz^
 ||shepeekr.net^
 ||shepherdalmightyretaliate.com^
+||shepsubsitha.com^
 ||sher.index.hu^
 ||sheregesh-io.traveler.today^
 ||sherryfaithfulhiring.com^
@@ -75889,7 +75890,7 @@
 ||smartlymaybe.com^
 ||smartlysquare.com^
 ||smartmnews.pro^
-||smartoffer.site^
+||smartnews-ads.com^
 ||smartpicrotation.com^
 ||smartpush0.info^
 ||smartpush1.info^
@@ -80224,7 +80225,6 @@
 ||spersonalization.mrrooter.ca^
 ||spersonalization.mrrooter.com^
 ||spersonalization.rainbowintl.com^
-||spervicear.com^
 ||spewsserved.website^
 ||spezialreporte.de^
 ||spg.specialtyprogramgroup.com^
@@ -84294,6 +84294,7 @@
 ||szdgl.cn^
 ||szdpk.cn^
 ||szdxw.cn^
+||szdzn.cn^
 ||szfmr.cn^
 ||szftg.cn^
 ||szgaikk.com^
@@ -86380,6 +86381,7 @@
 ||thongsalhagi.com^
 ||thongtechnicality.com^
 ||thongwarily.com^
+||thoohizoogli.xyz^
 ||thoorest.com^
 ||thoorgins.com^
 ||thoorteeboo.xyz^
@@ -92458,6 +92460,7 @@
 ||uphillgrandmaanger.com^
 ||uphilo.com^
 ||uphorter.com^
+||uphoveduke.com^
 ||uphoveeh.xyz^
 ||upinu.xyz^
 ||upkoffingr.com^
@@ -95071,6 +95074,7 @@
 ||wazveqv.xyz^
 ||wazzeyzloayz.top^
 ||wazzeyzlozyj.top^
+||wbaj.cn^
 ||wbbanner.mrn-news.de^
 ||wbcygu.wardow.com^
 ||wbdds.com^
@@ -98935,7 +98939,6 @@
 ||y4e04gql5o1b.www.nookgaming.com^
 ||y66xvgo5i.chuimg.com^
 ||y738.nhregister.com^
-||y752.milfordmirror.com^
 ||y820.darientimes.com^
 ||y8hxgv9m.kobetsu.co.jp^
 ||y8z5nv0slz06vj2k5vh6akv7dj2c8aj62zhj2v7zj8vp0zq7fj2gf4mv6zsb.me^
