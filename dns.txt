@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-06-23 09:23:21（北京时间）
+! Version: 2024-06-23 20:32:14（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 100857
+! Total count: 100856
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -21005,6 +21005,7 @@
 ||cfaexam.quantresear.ch^
 ||cfateu.xyz^
 ||cfb.8it.me^
+||cfc1afd774.com^
 ||cfcd10eebb.com^
 ||cfcloudcdn.com^
 ||cfd546b20a.com^
@@ -26357,6 +26358,7 @@
 ||dacronblanchi.guru^
 ||dad-api.dcard.tw^
 ||dad1mq193mgtr.cloudfront.net^
+||dadalytics.it^
 ||dadawm.cc^
 ||dadi.technology^
 ||dadispapi.gmarket.co.kr^
@@ -41768,6 +41770,7 @@
 ||hst2y.com^
 ||hstats.askmiso.com^
 ||hstats.hepsiburada.com^
+||hstatstest.hepsiburada.com^
 ||hstbbmtyptovqmw.com^
 ||hstbrt.xyz^
 ||hstpnetwork.com^
@@ -44762,7 +44765,6 @@
 ||inqjal.dickssportinggoods.com^
 ||inqueritos-qa.cp.pt^
 ||inqueritos.cp.pt^
-||inquietgenesee.top^
 ||inquiredcriticalprosecution.com^
 ||inquiriesdishonest.com^
 ||inquiryblue.com^
@@ -47807,7 +47809,6 @@
 ||kioskopts.top^
 ||kipeir.com^
 ||kiphairg.com^
-||kipskinwhereof.com^
 ||kipweootro.com^
 ||kiqwal.autoscout24.es^
 ||kiretafly.com^
@@ -49454,7 +49455,6 @@
 ||lexemeowhere.digital^
 ||lexicoggeegaw.website^
 ||lexip.4pcdn.de^
-||lexip.4players.de^
 ||lexvek.gap.ae^
 ||leynqj.newport.se^
 ||lezntf.heydudeshoesusa.com^
@@ -52960,6 +52960,7 @@
 ||mapeensa.com^
 ||maper.info^
 ||mapi.m.jd.com^
+||mapixl.com^
 ||mapp.biryanibykilo.com^
 ||mapp.ewm.co.uk^
 ||mapp.jysk.dk^
@@ -55247,7 +55248,6 @@
 ||medleyads.com^
 ||medncom.com^
 ||medoofty.com^
-||medrickmafiosi.com^
 ||meds.androderm.com^
 ||meds.asacolhdhcp.com^
 ||meds.avycaz.com^
@@ -57153,6 +57153,7 @@
 ||mgixgn.wittchen.com^
 ||mgjgqztw.com^
 ||mgjnmfhyis.xyz^
+||mgln.ai^
 ||mglvfetiub.com^
 ||mgmuye.xyz^
 ||mgn.ebis.xn--olsz5f0ufw02b.net^
@@ -65286,7 +65287,6 @@
 ||pixel-tracker.com^
 ||pixel.1und1.de^
 ||pixel.4pcdn.de^
-||pixel.4players.de^
 ||pixel.admobclick.com^
 ||pixel.advertising.com^
 ||pixel.ampry.com^
@@ -65310,6 +65310,7 @@
 ||pixel.cpex.cz^
 ||pixel.digitalspy.co.uk^
 ||pixel.dmdi.pl^
+||pixel.driveniq.com^
 ||pixel.dugwood.com^
 ||pixel.europapress.net^
 ||pixel.ex.co^
@@ -69712,7 +69713,6 @@
 ||redirects.us^
 ||redirsense.com^
 ||redistedi.com^
-||redlegsspaniol.com^
 ||redlele.com^
 ||redlion.actonservice.com^
 ||rednegationswoop.com^
@@ -74347,7 +74347,6 @@
 ||semiinfest.com^
 ||seminarcrackingconclude.com^
 ||seminarentirely.com^
-||semitaestigme.com^
 ||semqraso.net^
 ||semsicou.net^
 ||semwtaanx.xyz^
@@ -92912,7 +92911,6 @@
 ||uthounie.com^
 ||utienlt.top^
 ||util-*.simply-hentai.com^
-||utiliseoutrung.com^
 ||utilitymerle.top^
 ||utilitypresent.com^
 ||utilitytied.com^
@@ -99149,6 +99147,7 @@
 ||ycctxwachqke.com^
 ||ycembr.net-a-porter.com^
 ||yceml.net^
+||ycgfdf.cn^
 ||ycgkol.icu^
 ||ycgmnpp.icu^
 ||ycgy8888.com^
