@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-06-23 20:32:14（北京时间）
+! Version: 2024-06-24 09:19:59（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 100856
+! Total count: 100865
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -2108,6 +2108,7 @@
 ||65vk1fba34.com^
 ||6600.5clo0xmbf.com^
 ||6613.79j68qav2.com^
+||663008888.com^
 ||66308888.com^
 ||66377311795.com^
 ||6643.34gwl8v1a.com^
@@ -15216,6 +15217,7 @@
 ||awvqfalackho.com^
 ||awvvhicirfti.com^
 ||awytythbxujkz.com^
+||awyuge.xyz^
 ||awzddev.cn^
 ||awzvpbg.com^
 ||ax.*.ifeng.com^
@@ -17423,6 +17425,7 @@
 ||birthdayinhale.com^
 ||birthdependentmillennium.com^
 ||birtuwhaim.com^
+||birtw.cn^
 ||bis8j.com^
 ||biscow.com^
 ||biscussexbug.xyz^
@@ -27270,6 +27273,7 @@
 ||ddmuiijrdvv0s.cloudfront.net^
 ||ddns.info^
 ||ddns.name^
+||ddnzpr.xyz^
 ||ddome-tag.blablacar.com^
 ||ddpvnqtpdqid.xyz^
 ||ddqfgamwnhp.com^
@@ -35483,6 +35487,7 @@
 ||fmhyysk.com^
 ||fmild.xyz^
 ||fmjgtp.dentalspeed.com^
+||fmjjvb.xyz^
 ||fmkoyjqnxdj.com^
 ||fmkqhwrfvs.com^
 ||fmlabsonline.com^
@@ -91787,6 +91792,7 @@
 ||uelllwrite.com^
 ||uep.gaijin.net^
 ||uepkcdjgp.com^
+||uessnah.icu^
 ||uestat.video.qiyi.com^
 ||ueumdkc.cn^
 ||ueuodgnrhb.com^
@@ -93005,6 +93011,7 @@
 ||uurykr.pizzahut.com.mx^
 ||uurzdr.global-style.jp^
 ||uusimaa.viessmann.fi^
+||uutytp.com^
 ||uuudqhialb.com^
 ||uuuutp.com^
 ||uuuzuu.xyz^
@@ -94758,6 +94765,7 @@
 ||w.k3718qw08.com^
 ||w.l.qq.com^
 ||w.xiaopiaoyou.com^
+||w0057.com^
 ||w1.askwai.com^
 ||w1.bskwai.com^
 ||w1.cskwai.com^
@@ -95256,6 +95264,7 @@
 ||wdevxtmasfdswx.com^
 ||wdig.vo.llnwd.net^
 ||wdnyom.faces.com^
+||wdoshbe.top^
 ||wdownthreerfdfg.com^
 ||wdpqgagmulazv.com^
 ||wdpylyw.com^
