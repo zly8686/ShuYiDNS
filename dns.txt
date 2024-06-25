@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-06-25 09:18:48（北京时间）
+! Version: 2024-06-25 20:34:21（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 100930
+! Total count: 100955
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -293,7 +293,6 @@
 ||0redirc.com^
 ||0redird.com^
 ||0redire.com^
-||0s09t235s.com^
 ||0sbm.consobaby.co.uk^
 ||0sntp7dnrr.com^
 ||0sywjs4r1x.com^
@@ -2182,6 +2181,7 @@
 ||69741211.clicknplay.to^
 ||69852b1734.com^
 ||6987.l5eamr17d.com^
+||699bfcf9d9.com^
 ||69a6589053.95f39c9d5f.com^
 ||69b61ba7d6.com^
 ||69boysex.com^
@@ -7427,6 +7427,7 @@
 ||ad-nex.com^
 ||ad-optima.com^
 ||ad-pay.de^
+||ad-platform.jmty.jp^
 ||ad-pub.terra.com.br^
 ||ad-recommend.com^
 ||ad-scope.com.cn^
@@ -8704,7 +8705,6 @@
 ||ads.botbanhang.vn^
 ||ads.boylesports.com^
 ||ads.brabys.com^
-||ads.brazzers.com^
 ||ads.bumq.com^
 ||ads.businessstyle.vn^
 ||ads.cadovn.biz^
@@ -15235,6 +15235,7 @@
 ||awuvcq.xyz^
 ||awvqfalackho.com^
 ||awvvhicirfti.com^
+||awwprjafmfjbvt.xyz^
 ||awytythbxujkz.com^
 ||awyuge.xyz^
 ||awzddev.cn^
@@ -17450,7 +17451,6 @@
 ||birtw.cn^
 ||bis8j.com^
 ||biscow.com^
-||biscussexbug.xyz^
 ||biserka.xyz^
 ||bisesacnodes.com^
 ||bisetsoliped.com^
@@ -18302,6 +18302,7 @@
 ||bovemtou.xyz^
 ||bovid.docutize.de^
 ||bovid.neural.love^
+||bovidsacate.com^
 ||bowcoolstop.live^
 ||bowedcounty.com^
 ||boweddemand.com^
@@ -19186,6 +19187,7 @@
 ||bumog.xyz^
 ||bumpersubmarine.com^
 ||bumpexchangedcadet.com^
+||bumphsquilla.com^
 ||bumpingcarfax.com^
 ||bumpmoss.com^
 ||bumpthank.com^
@@ -20246,6 +20248,7 @@
 ||casl.couch-associates.com^
 ||caspion.com^
 ||caspionlog.appspot.com^
+||casquesnookie.top^
 ||cassetteenergyincoming.com^
 ||cassetteflask.com^
 ||cassettelancefriday.com^
@@ -21542,6 +21545,7 @@
 ||chuptuwais.com^
 ||churchalexis.com^
 ||churchclassified.com^
+||churchkhela.site^
 ||churchyardalludeaccumulate.com^
 ||churci.com^
 ||churnedflames.top^
@@ -23833,7 +23837,6 @@
 ||cosme.caseepo.jp^
 ||cosmeticlevy.com^
 ||cosmeticsgenerosity.com^
-||cosmicnewspulse.com^
 ||cosmicpartially.com^
 ||cosmismnatchez.com^
 ||cosseterrits.com^
@@ -24605,6 +24608,7 @@
 ||css.juqingba.cn^
 ||css.zmjm.com^
 ||csscloudstorage.com^
+||cssuvtbfeap.com^
 ||cst.cstwpush.com^
 ||cstats.sankakucomplex.com^
 ||cstm.baidu.com^
@@ -28914,6 +28918,7 @@
 ||dizainejerrie.top^
 ||dizdarsedgier.com^
 ||dizipal223.com^
+||dizziesferri.com^
 ||dizzyporno.com^
 ||dizzyrebozo.website^
 ||dizzyshe.pro^
@@ -34785,6 +34790,7 @@
 ||ffe390afd658c19dcbf707e0597b846d.de^
 ||ffe3ca7ae5.com^
 ||ffesutnkrvy.com^
+||fff4e1295e.com^
 ||fffbd1538e.com^
 ||ffffff0000ff.com^
 ||ffffffdcdcdc.name^
@@ -35379,7 +35385,6 @@
 ||fliddercharm.space^
 ||fliedridgin.com^
 ||fligha.com^
-||flightsy.win^
 ||flightzy.date^
 ||flimmerscabish.com^
 ||flimsymarch.pro^
@@ -36664,6 +36669,7 @@
 ||fy14.cn^
 ||fyber.com^
 ||fybkhsfntvuyat.com^
+||fyblppngxdt.com^
 ||fyccsw.eobuwie.com.pl^
 ||fydczmk.com^
 ||fyexyd.icu^
@@ -39008,6 +39014,7 @@
 ||google-analytics-cn.com^
 ||google-analytics.com^
 ||google-js-01.xyz^
+||google-js-02.xyz^
 ||google-shopping-v2.sapoapps.vn^
 ||google-shopping.sapoapps.vn^
 ||googleads-cn.com^
@@ -39551,6 +39558,7 @@
 ||grubhenriettaannihilation.com^
 ||grubpremonitionultimately.com^
 ||grubsnuchale.com^
+||grucmost.xyz^
 ||grudgewallet.com^
 ||grudreeb.com^
 ||gruesome-comfortable.pro^
@@ -40484,6 +40492,7 @@
 ||hdwvhgnisi.com^
 ||hdxdhu.zumnorde.de^
 ||hdxjtl.xyz^
+||hdxpqgvqm.com^
 ||he3mero6calli4s.com^
 ||he7ll.com^
 ||headclutterdialogue.com^
@@ -42059,6 +42068,7 @@
 ||hvrhgt.thesun.ie^
 ||hvteqk.snowleader.com^
 ||hvuihu.undiz.com^
+||hvuqkb.cn^
 ||hvwgbj.wikinger-reisen.de^
 ||hvxrvef.xyz^
 ||hvxymx.tui.pl^
@@ -42885,6 +42895,7 @@
 ||imagens.conteudo.algartelecom.com.br^
 ||imageplus.baidu.com^
 ||imageprostyle-communication.fr^
+||imagerystirrer.com^
 ||images-pw.secureserver.net^
 ||images.a.flukebiomedical.com^
 ||images.access.imaginelearning.com^
@@ -52423,7 +52434,6 @@
 ||m.carte-gr.total.fr^
 ||m.communications.ihmvcu.org^
 ||m.d11.io^
-||m.d8qu.com^
 ||m.dagym-manager.com^
 ||m.delltechnologies.com^
 ||m.doubleclick.net^
@@ -59100,7 +59110,6 @@
 ||mysingleromance.com^
 ||mysite.webroot.com^
 ||mysleepds.com^
-||mystat-in.net^
 ||mystat.pl^
 ||mystery.vfmleonardo.com^
 ||mysticaldespiseelongated.com^
@@ -59110,7 +59119,6 @@
 ||mythicsallies.com^
 ||mythings.com^
 ||mytiris.com^
-||mytop-in.net^
 ||myudkrefaiygs.com^
 ||myunderthfe.info^
 ||myunion1.qm120.com^
@@ -60154,7 +60162,6 @@
 ||nightspickcough.com^
 ||nigmen.com^
 ||nigooshe.net^
-||nigrebud.net^
 ||nigure.com^
 ||nihiy.com^
 ||niiriitmybvqne.com^
@@ -61224,6 +61231,7 @@
 ||oanimsen.net^
 ||oansaifo.net^
 ||oaphoace.net^
+||oaphogekr.com^
 ||oaphooftaus.com^
 ||oapnqyxkjxmpet.com^
 ||oapsoulreen.net^
@@ -64372,6 +64380,7 @@
 ||pc180101.com^
 ||pc1ads.com^
 ||pc20160301.com^
+||pc2121.com^
 ||pc2ads.com^
 ||pc2ads.ru^
 ||pc3.vanmoof.com^
@@ -64752,6 +64761,7 @@
 ||pervertscarreceipt.com^
 ||pervialinagile.com^
 ||pesaea.autoesa.cz^
+||peshkarties.top^
 ||peskyclarifysuitcases.com^
 ||peskycrash.com^
 ||peskylock.com^
@@ -66376,6 +66386,7 @@
 ||potoospincher.com^
 ||potsaglu.net^
 ||potshumiliationremnant.com^
+||potsiuds.com^
 ||potskolu.net^
 ||potslascivious.com^
 ||pottercaprizecaprizearena.com^
@@ -70740,6 +70751,7 @@
 ||rgqhamkhnoex.xyz^
 ||rgqllsbt.com^
 ||rgrd.xyz^
+||rgsiuevpupqz.com^
 ||rgsnktxhe.com^
 ||rgtcqif.com^
 ||rgtqgsgwkopgnf.com^
@@ -71349,6 +71361,7 @@
 ||roxby.org^
 ||roxewwq.cn^
 ||roxfrv.xyz^
+||roxieguitars.com^
 ||roxot-panel.com^
 ||roxr.net^
 ||roxtec.actonservice.com^
@@ -71813,6 +71826,7 @@
 ||rummaringp.xyz^
 ||rummentaltheme.com^
 ||rummilycavils.com^
+||rummletornese.com^
 ||rummyaffiliates.com^
 ||rumsey.actonservice.com^
 ||rumstat.cdnvideo.ru^
@@ -71982,6 +71996,7 @@
 ||rydzfldt.xyz^
 ||ryeffwlcleer.com^
 ||ryhkft.xyz^
+||ryhuzj.xyz^
 ||rykwyoaeaamhykw.com^
 ||ryllae.com^
 ||rymhet.posudamart.ru^
@@ -80424,6 +80439,7 @@
 ||spireprideleaf.com^
 ||spiritscustompreferably.com^
 ||spiritualinstalled.com^
+||spirketgoofily.com^
 ||spirogoumi.top^
 ||spirteddvaita.com^
 ||spirtlekurt.digital^
@@ -85571,6 +85587,7 @@
 ||taxodiu2m2dis7tichum.com^
 ||taxoxz.xyz^
 ||taxpillsqueal.com^
+||taxwaxgrego.com^
 ||taylorshellfish.actonservice.com^
 ||tayvano.dev^
 ||tazagdv.com^
@@ -86010,6 +86027,7 @@
 ||terciogouge.com^
 ||teredoknoit.com^
 ||terelinkman.info^
+||termerspatrice.com^
 ||terminalcomrade.com^
 ||terminusbedsexchanged.com^
 ||termite.queerburners.org^
@@ -86634,6 +86652,7 @@
 ||thuthoock.net^
 ||thutsish.xyz^
 ||thvx9i.icu^
+||thwartyoungly.com^
 ||thycantyoubelike.com^
 ||thygrepuwo.pro^
 ||thymomamunify.top^
@@ -87275,6 +87294,7 @@
 ||toffeeallergythrill.com^
 ||toffeebigot.com^
 ||toffeecollationsdogcollar.com^
+||toffiesoxgall.com^
 ||toftheca.buzz^
 ||togataurnfuls.com^
 ||togenron.com^
@@ -92494,6 +92514,7 @@
 ||untineforward.com^
 ||untitled.dwstatic.com^
 ||untrendenam.com^
+||untriedcause.pro^
 ||untrk.xyz^
 ||untrol.com^
 ||untropiuson.com^
@@ -94113,6 +94134,7 @@
 ||vinegardaring.com^
 ||vinfdv6b4j.com^
 ||vingartistictaste.com^
+||vinosedermol.com^
 ||vintageperk.com^
 ||vintagerespectful.com^
 ||violatedroppompey.com^
@@ -94173,6 +94195,7 @@
 ||viroffyy.com^
 ||virtuallythanksgivinganchovy.com^
 ||virtuereins.com^
+||virtuousescape.pro^
 ||virusinfo-cloudscan-cn.heytapmobi.com^
 ||virusscanner.to^
 ||visaexasperation.com^
@@ -96153,6 +96176,7 @@
 ||whompedcuorin.com^
 ||whompothessy.com^
 ||whomspreadbeep.com^
+||whoodraujiwu.com^
 ||whoodseb.com^
 ||whoognoz.com^
 ||whookrair.xyz^
@@ -97971,6 +97995,7 @@
 ||wyglyvaso.com^
 ||wyhifdpatl.com^
 ||wyiegt.icu^
+||wyisloe.top^
 ||wyjbvoz.xyz^
 ||wyjkqvtgwmjqb.xyz^
 ||wykop.pl/adverts^
