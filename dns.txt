@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-06-24 20:35:05（北京时间）
+! Version: 2024-06-25 09:18:48（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 100939
+! Total count: 100930
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -559,7 +559,6 @@
 ||1459.cosmicnewspulse.com^
 ||1473763790.rsc.cdn77.org^
 ||147cd49082.05e11c9f6f.com^
-||1480.79j68qav2.com^
 ||1482434718.rsc.cdn77.org^
 ||148dfe140d0f3d5e.com^
 ||149.bestinterestings.com^
@@ -626,7 +625,6 @@
 ||17.huanqiu.com^
 ||17.wemakebestnews.com^
 ||17123.net^
-||1713.79j68qav2.com^
 ||172.255.103.118^
 ||172.255.6.135^
 ||172.255.6.137^
@@ -676,7 +674,6 @@
 ||1861.34gwl8v1a.com^
 ||1873083787.rsc.cdn77.org^
 ||18744.com^
-||18772b5091.com^
 ||18788fdb24.com^
 ||188.42.84.110^
 ||188.42.84.137^
@@ -1872,12 +1869,10 @@
 ||5431.79j68qav2.com^
 ||544c1a86a1.com^
 ||5475feaab.clicknplay.to^
-||54a5b53903.2ace95e2ce.com^
 ||54a9c3de7c.5ba9bf8065.com^
 ||54dbg.xyz^
 ||54e4e31106.6e10268cd2.com^
 ||54gtlb.cn^
-||55.uyybde07w.com^
 ||55.wemakebestnews.com^
 ||55.y2sysv81v.com^
 ||5508de0fd7.com^
@@ -2222,7 +2217,6 @@
 ||6de72955d8.com^
 ||6df90c4978.0eade9dd8d.com^
 ||6e.co.kr^
-||6e26fb1ae7.com^
 ||6e391732a2.com^
 ||6ec5c9fcec.com^
 ||6ec7e42994.com^
@@ -2278,7 +2272,6 @@
 ||71.am^
 ||7113.4puuqeh41.com^
 ||7120.5clo0xmbf.com^
-||7135.4puuqeh41.com^
 ||71692fai4cc0.com^
 ||7185.4puuqeh41.com^
 ||71a30cae934e.com^
@@ -2335,7 +2328,6 @@
 ||760ead33eb.com^
 ||76416dc840.com^
 ||7649.79j68qav2.com^
-||76500faa1b.c015f80df2.com^
 ||7651.cosmicnewspulse.com^
 ||7652.5clo0xmbf.com^
 ||7683.ogrt80r65.com^
@@ -2532,7 +2524,6 @@
 ||82448dceaaa13034.com^
 ||827fa7c868b4b.com^
 ||82b5cc6199.com^
-||82c39cef22.0a3036d0e7.com^
 ||82zcb.icu^
 ||831e34ade6.ccaa0e51d8.com^
 ||8320.5clo0xmbf.com^
@@ -2540,7 +2531,6 @@
 ||8345efe11f.8d742929b8.com^
 ||8353e36c2a.com^
 ||835images1.com^
-||8379.4puuqeh41.com^
 ||8383.5clo0xmbf.com^
 ||83c6c19972.776173f9e6.com^
 ||83net.jp^
@@ -2580,7 +2570,6 @@
 ||85da77c794.3bc9b1b89c.com^
 ||8620.79j68qav2.com^
 ||864feb57ruary.com^
-||8692.79j68qav2.com^
 ||869cf3d7e4.com^
 ||86aa86d2f4.com^
 ||86ff56b6d5.com^
@@ -2593,7 +2582,6 @@
 ||8759.bestinterestings.com^
 ||8767.5clo0xmbf.com^
 ||876920.com^
-||8796.4puuqeh41.com^
 ||87bcb027cf.com^
 ||87c5ce40f8.com^
 ||87f81e4343.d7ea5cbf87.com^
@@ -2861,7 +2849,6 @@
 ||9901.79j68qav2.com^
 ||993ed443d6.f0c9ef4ecb.com^
 ||9944.seponews.com^
-||9945.4puuqeh41.com^
 ||9947.5clo0xmbf.com^
 ||9948.4puuqeh41.com^
 ||9949.4puuqeh41.com^
@@ -6310,7 +6297,6 @@
 ||a9able.com^
 ||a9ae7df45f.com^
 ||a9c44e3c7e.com^
-||a9ce112bde.com^
 ||a9d8e7b6i5s.andgino.jp^
 ||a9dfcdeee8.com^
 ||a9fc00b442.com^
@@ -8169,6 +8155,7 @@
 ||adhoc4.net^
 ||adhood.com^
 ||adhub.digital^
+||adhub.mobifone.vn^
 ||adhudg.nec-lavie.jp^
 ||adhunter.media^
 ||adi*.cnool.net^
@@ -10050,6 +10037,7 @@
 ||afoaglux.com^
 ||afodreet.net^
 ||afootwitword.com^
+||afopr.cn^
 ||afosseel.net^
 ||afp.chinanews.com^
 ||afpbuzfwyjri.com^
@@ -12694,6 +12682,7 @@
 ||api.pubfinity.com^
 ||api.ryanyao.design^
 ||api.sa.hismarttv.com^
+||api.sardine.ai^
 ||api.share.mob.com^
 ||api.slice.exchange^
 ||api.statsig.com^
@@ -17746,7 +17735,6 @@
 ||blockinggleamingmadeup.com^
 ||blockslurk.com^
 ||blocksly.org^
-||blog.andropps.com^
 ||blog.b2lead.com^
 ||blog.myomnipod.com^
 ||blog.tagcentral.fr^
@@ -19644,7 +19632,6 @@
 ||c24c966867.com^
 ||c2aef8ab51.com^
 ||c2shb.pubgw.yahoo.com^
-||c348ffe089.b7f977b78d.com^
 ||c365b42d0b.50005582df.com^
 ||c3c450ea59.538ad181ab.com^
 ||c3metrics.medifast1.com^
@@ -24389,6 +24376,7 @@
 ||creptdeservedprofanity.com^
 ||cresfpho2ntesepapillo3.com^
 ||cresivetanach.com^
+||cresqoirz.com^
 ||crestfallenwall.com^
 ||crestislelocation.com^
 ||cretgate.com^
@@ -29275,6 +29263,7 @@
 ||dnn4px252i5wx.cloudfront.net^
 ||dnn506yrbagrg.cloudfront.net^
 ||dnnwebuxps.com^
+||dnpalh.xyz^
 ||dnpjzf.fashionette.co.uk^
 ||dnpnemyntetpj.com^
 ||dnps.com^
@@ -33951,6 +33940,7 @@
 ||eyfivnokubyhmy.xyz^
 ||eyharae.com^
 ||eyhcervzexp.com^
+||eyislow.top^
 ||eyjouer.com^
 ||eyjvq.xyz^
 ||eylepgswsnyyd.com^
@@ -34071,6 +34061,7 @@
 ||f3f202565b.com^
 ||f3ft699cloae.staging.artwallstreet.io^
 ||f3udfa7nfguhni.com^
+||f4042bb57f.com^
 ||f43f5a2390.com^
 ||f459fdc403a6.78a5254f.ap-northeast-1.token.awswaf.com^
 ||f4611b5cd8.9900149f2a.com^
@@ -47475,7 +47466,6 @@
 ||kapvu.cn^
 ||kaqhfijxlkbfa.xyz^
 ||karafutem.com^
-||karanpc.com^
 ||karayarillock.cam^
 ||karlhalved.com^
 ||karma.mdpcdn.com^
@@ -54896,6 +54886,7 @@
 ||mcfstats.com^
 ||mcgi.v.qq.com^
 ||mchtna.fashionplus.co.kr^
+||mcighme.icu^
 ||mcinyaqeaeyrhf.com^
 ||mcizas.com^
 ||mckbpe.united-arrows.co.jp^
@@ -57581,6 +57572,7 @@
 ||miui-fxcse.avlyun.com^
 ||miuo.cloud^
 ||miveci.uno^
+||miwfkm.xyz^
 ||miwllmo.com^
 ||mix-omniture.rbs.com^
 ||mixadvert.com^
@@ -58313,7 +58305,6 @@
 ||motelproficientsmartly.com^
 ||moth.artsmia.org^
 ||moth.jkundp.at^
-||moth.treeferral.com^
 ||moth.underscoretw.com^
 ||mothandhad.info^
 ||mothandhadbe.info^
@@ -63577,7 +63568,6 @@
 ||p.gerdasetmay.site^
 ||p.gm99.com^
 ||p.hentaiforce.net^
-||p.hgfdtujlknhkghf.site^
 ||p.htdjylhttfm0424.space^
 ||p.ianmjones.com^
 ||p.iforge.app^
@@ -65592,6 +65582,7 @@
 ||platesnervous.com^
 ||platesworked.com^
 ||platform-hetcash.com^
+||platform.adlinknetwork.vn^
 ||platform.artilleryads.com^
 ||platform.cid.samba.tv^
 ||platform.iteratehq.com^
@@ -68270,6 +68261,7 @@
 ||qdmil.com^
 ||qdnxys.cotswoldco.com^
 ||qdogpcfgejgc.com^
+||qdoshby.top^
 ||qdotzfy.com^
 ||qdp.qidian.com^
 ||qdprapwflpvxpyl.com^
@@ -85062,7 +85054,6 @@
 ||tag101.com^
 ||tagalodrome.com^
 ||tagassulatests.top^
-||tagbucks.xyz^
 ||tagcommander.laredoute.be^
 ||tagcommander.laredoute.ch^
 ||tagdelivery.mayoclinic.org.pc-mc.greylabeldelivery.com^
