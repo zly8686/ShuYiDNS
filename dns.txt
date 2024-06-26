@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-06-25 20:34:21（北京时间）
+! Version: 2024-06-26 09:18:49（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 100955
+! Total count: 100954
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -1187,7 +1187,6 @@
 ||2b2b3adee6.com^
 ||2b6b88fc7b.a1bbcd100e.com^
 ||2bd1f18377.com^
-||2bf02d4451.com^
 ||2bps53igop02.com^
 ||2c0a5.xyz^
 ||2c3a97984f45.com^
@@ -1963,6 +1962,7 @@
 ||5cb068fb21.com^
 ||5cbbdb4434.com^
 ||5ceeef63ba.a899228ebf.com^
+||5cf02ebcd5.com^
 ||5cf8606941.com^
 ||5clo0xmbf.com^
 ||5d62055f0a.c1b891f5ff.com^
@@ -2055,7 +2055,6 @@
 ||6185ca4d40.e0e5bc8f81.com^
 ||61880b2d45.4fb0cadcc3.com^
 ||6189.5clo0xmbf.com^
-||61ads.net^
 ||61ba68472f.com^
 ||61c3d331bf.com^
 ||61serve.everydayporn.co^
@@ -10303,6 +10302,7 @@
 ||aikboypeoriqk.com^
 ||aikeroxqbgj.com^
 ||aikhra.londonclub.sk^
+||aiknx.cn^
 ||aikraith.net^
 ||aikravoapu.com^
 ||aikrir.lcwaikiki.com^
@@ -12609,6 +12609,7 @@
 ||api.140proof.com^
 ||api.abcxs.org^
 ||api.ad-locus.com^
+||api.ad-platform.jmty.jp^
 ||api.ad.xiaomi.com^
 ||api.adnation.com^
 ||api.ads.newsdigest.jp^
@@ -12685,6 +12686,7 @@
 ||api.sardine.ai^
 ||api.share.mob.com^
 ||api.slice.exchange^
+||api.smartnews-ads.com^
 ||api.statsig.com^
 ||api.subiz.com.vn^
 ||api.subiz.net^
@@ -18115,7 +18117,6 @@
 ||bonnockfilths.com^
 ||bonomans.com^
 ||bonosbevvy.com^
-||bonsoiralang.com^
 ||bontent.powvideo.net^
 ||bontent.powzers.lol^
 ||bonus-app.net^
@@ -20713,6 +20714,7 @@
 ||cdn.sblhp.com^
 ||cdn.sdtraff.com^
 ||cdn.shrtfly.vip^
+||cdn.smartnews-ads.com^
 ||cdn.smlog.co.kr^
 ||cdn.sov.stream^
 ||cdn.spnut.com^
@@ -34658,7 +34660,6 @@
 ||felidae.mmm.page^
 ||felidae.mysuperportal.com^
 ||felidae.theforeignarchitect.com^
-||felidaeabasing.com^
 ||felidaeyojuane.com^
 ||felied.com^
 ||feliev.com^
@@ -35599,7 +35600,6 @@
 ||focumu.com^
 ||focusedserversgloomy.com^
 ||focusedunethicalerring.com^
-||focusporn.com^
 ||focwcuj.com^
 ||fodder.qq.com^
 ||fodder.tc.qq.com^
@@ -36603,6 +36603,7 @@
 ||fvuitt.alibabuy.com^
 ||fvvyjd.jtv.com^
 ||fvxlhn.xyz^
+||fvyqblc.icu^
 ||fvzhenljkw.com^
 ||fw.qq.com^
 ||fwabhrptdns.com^
@@ -39010,6 +39011,7 @@
 ||goodyhitherto.com^
 ||goofdo.axxxfeee.lat^
 ||goofy1x.xyz^
+||googie-anaiytics.com^
 ||google-ads.hara.vn^
 ||google-analytics-cn.com^
 ||google-analytics.com^
@@ -47091,7 +47093,6 @@
 ||jueyds.top^
 ||jufjpwpmcc.com^
 ||jugerfowells.com^
-||juggingunttrod.com^
 ||juggleeducationfirearm.com^
 ||jugjetwok.com^
 ||jugnepha.xyz^
@@ -50714,7 +50715,6 @@
 ||liosix.mtvuutiset.fi^
 ||lioyfmp.cn^
 ||lipidicchaoush.com^
-||liplikevacuity.uno^
 ||lipmswonv.com^
 ||lipsate.com^
 ||lipurialauroyl.com^
@@ -52299,6 +52299,7 @@
 ||lxoemc.libero.it^
 ||lxoemc.tuttocitta.it^
 ||lxqcgj.com^
+||lxryhx.xyz^
 ||lxsodqyysz.com^
 ||lxstat.com^
 ||lxsway.alltforforaldrar.se^
@@ -53015,6 +53016,7 @@
 ||maper.info^
 ||mapi.m.jd.com^
 ||mapixl.com^
+||maplecurriculum.com^
 ||mapp.biryanibykilo.com^
 ||mapp.ewm.co.uk^
 ||mapp.jysk.dk^
@@ -65110,7 +65112,6 @@
 ||pickuppestsyndrome.com^
 ||pickupracist.com^
 ||pickvideolink.com^
-||picmedia.biz^
 ||picnewsss.com^
 ||pics.firstload.de^
 ||pics.xgo-img.com.cn^
@@ -65191,7 +65192,6 @@
 ||pincersnap.com^
 ||pinchbarren.com^
 ||pinchingoverridemargin.com^
-||pindenspat.com^
 ||pine.clk.click^
 ||pine.nervecentral.com^
 ||pineappleconsideringpreference.com^
@@ -76049,7 +76049,6 @@
 ||smartlymaybe.com^
 ||smartlysquare.com^
 ||smartmnews.pro^
-||smartnews-ads.com^
 ||smartpicrotation.com^
 ||smartpush0.info^
 ||smartpush1.info^
@@ -85716,6 +85715,7 @@
 ||tdmrfw.com^
 ||tdn.da-services.ch^
 ||tdor-smetrics.td.com^
+||tdoshbi.top^
 ||tdp1.vivabox.es^
 ||tdqhlowkhxeohe.com^
 ||tds1.vivabox.be^
@@ -99200,7 +99200,6 @@
 ||yarthtumulus.com^
 ||yasg114.com^
 ||yashi.com^
-||yasir252.com^
 ||yasma.top^
 ||yast.rutube.ru^
 ||yatab.net^
@@ -99417,6 +99416,7 @@
 ||yhtpsy8888.cc^
 ||yhuamf.ktronix.com^
 ||yhubsxmg.xyz^
+||yhutou.xyz^
 ||yhvewh.aboutyou.ro^
 ||yhwysogyho.com^
 ||yhzjidgc.xyz^
@@ -100341,7 +100341,6 @@
 ||zffymmdg.com^
 ||zfgyvoarqreba.com^
 ||zfhuzyw.com^
-||zfkjrm.xyz^
 ||zflfoy.buzz^
 ||zflfoy.xyz^
 ||zfmtyv.buzz^
