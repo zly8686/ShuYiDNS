@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-06-28 09:19:03（北京时间）
+! Version: 2024-06-28 20:34:43（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 101004
+! Total count: 101028
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -1883,6 +1883,7 @@
 ||555bbb333bbb.com^
 ||555bbb555www.com^
 ||555bbb777www.com^
+||555ppp777ppp.com^
 ||556ed3046f.3423b141ae.com^
 ||5581.4puuqeh41.com^
 ||558ao12sqrok.top^
@@ -2139,6 +2140,7 @@
 ||666bbb222www.com^
 ||666bbb333bbb.com^
 ||666bbb888www.com^
+||666ppp222ppp.com^
 ||6677648.reddoorz.com^
 ||6691.5clo0xmbf.com^
 ||6696q.com^
@@ -3793,6 +3795,7 @@
 ||a19612.actonservice.com^
 ||a19615.actonservice.com^
 ||a1b7fa8b46.250f851761.com^
+||a1bw2cup.top^
 ||a1c99093b6.com^
 ||a1hosting.online^
 ||a1webstrategy.com^
@@ -10929,6 +10932,7 @@
 ||altalex.wolterskluwer.com^
 ||altarhackees.digital^
 ||altarrousebrows.com^
+||altcoin.care^
 ||altenlayer.com^
 ||alterassumeaggravate.com^
 ||alterationappealprison.com^
@@ -20369,9 +20373,11 @@
 ||cavebummer.com^
 ||cavecredentialdeer.com^
 ||caveestate.com^
+||cavewrap.care^
 ||caviarconcealed.com^
 ||cavilerestops.com^
 ||cawbarthe.com^
+||cawedburial.com^
 ||cawlavzzap.com^
 ||cawnielammy.com^
 ||caxist.com^
@@ -24553,7 +24559,9 @@
 ||cryptoatom.care^
 ||cryptobeneluxbanner.care^
 ||cryptolabpro.com^
+||cryptomaster.care^
 ||cryptomcw.com^
+||cryptonewsdom.care^
 ||cryptosplash.care^
 ||cryptotax.efscle.com^
 ||cryptraffic.de^
@@ -39445,6 +39453,7 @@
 ||gridder.co^
 ||gridiogrid.com^
 ||gridline.cn^
+||gridrelay27.co^
 ||griecemae.top^
 ||grievedclaimed.com^
 ||grievethereafter.com^
@@ -44638,6 +44647,7 @@
 ||infoland.actonservice.com^
 ||infolinks.com^
 ||infomessage.support^
+||infonewsz.care^
 ||infontx.readingpartners.org^
 ||infonyc.readingpartners.org^
 ||infopicked.com^
@@ -47938,6 +47948,7 @@
 ||kjdazx.buecher.de^
 ||kjdbcjkmc.com^
 ||kjdfho.eidaihouse.com^
+||kjdsfjisdfjr23.azurewebsites.net^
 ||kjeqga.xyz^
 ||kjffqbnug.com^
 ||kjfhenoqfyfljo.com^
@@ -54673,6 +54684,7 @@
 ||massacreintentionalmemorize.com^
 ||massacresurrogate.com^
 ||massariuscdn.com^
+||massbrag.care^
 ||massecephid.uno^
 ||massesnieces.com^
 ||massiveunnecessarygram.com^
@@ -66049,6 +66061,7 @@
 ||podbooth.martela.no^
 ||podbooth.martela.se^
 ||podefr.net^
+||podgilyfattens.com^
 ||podlersabir.com^
 ||podosupsurge.com^
 ||podsolnu9hi10.com^
@@ -67353,6 +67366,7 @@
 ||psaiceex.net^
 ||psaighid.com^
 ||psaiglursurvey.space^
+||psaimpagnuhu.net^
 ||psairees.net^
 ||psairtoo.com^
 ||psaiwaxaib.net^
@@ -73074,6 +73088,7 @@
 ||sandtheircle.com^
 ||sandwichdeliveringswine.com^
 ||sandysuspicions.com^
+||sanedfalsely.com^
 ||sanfordcessor.space^
 ||sangeiunzen.com^
 ||sanggilregard.com^
@@ -74823,6 +74838,8 @@
 ||sezonlukdizi.com^
 ||sf*-be-pack.pglstatp-toutiao.com^
 ||sf*-fe-tos.pglstatp-toutiao.com^
+||sf-ads.io^
+||sf-insights.io^
 ||sf-test.groc.press^
 ||sf.groc.press^
 ||sf1-be-pack.pglstatp-toutiao.com^
@@ -84336,6 +84353,7 @@
 ||sxjfhh.vcstar.com^
 ||sxjfhh.visaliatimesdelta.com^
 ||sxlflt.com^
+||sxlmggx12.com^
 ||sxlvklm.com^
 ||sxmxpm.nectarsleep.com^
 ||sxoejoc.icu^
@@ -85287,6 +85305,7 @@
 ||tap.carling.com^
 ||tapad.com^
 ||tapallpurposepantomime.com^
+||tapchibitcoin.care^
 ||tapdaq-adverts.global.ssl.fastly.net^
 ||tapdb.net^
 ||tapeabruptlypajamas.com^
@@ -87550,6 +87569,7 @@
 ||torattatachan.com^
 ||torcheszocalo.top^
 ||torchtrifling.com^
+||toreddorize.com^
 ||torflegorb.com^
 ||torhydona.com^
 ||torioluor.com^
@@ -93211,6 +93231,7 @@
 ||uycxhgrp.xyz^
 ||uydzfldt.xyz^
 ||uyeaoofppwrhz.com^
+||uyislot.top^
 ||uyivht.robertgraham.us^
 ||uyjmbaiogdtkgwt.com^
 ||uyjxzvu.com^
@@ -95418,6 +95439,7 @@
 ||weaponsnondescriptperceive.com^
 ||weaponvelocitypredator.com^
 ||weaptqsmbshwd.xyz^
+||wearbald.care^
 ||weare.ballymoregroup.com^
 ||wearevaporatewhip.com^
 ||wearinggenear.com^
@@ -96210,6 +96232,7 @@
 ||wholecoolposts.com^
 ||wholecoolstories.com^
 ||wholedailyfeed.com^
+||wholeelision.com^
 ||wholefreshposts.com^
 ||wholehugestories.com^
 ||wholehugewords.com^
@@ -99607,6 +99630,7 @@
 ||ymansxfmdjhvqly.xyz^
 ||ymcnsq.xyz^
 ||ymcvxo.check24.de^
+||ymdgjqtu.com^
 ||ymdxl.com^
 ||ymeqladpycz.com^
 ||ymhpcaxfnvl.com^
