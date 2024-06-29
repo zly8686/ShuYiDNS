@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-06-28 20:34:43（北京时间）
+! Version: 2024-06-29 09:17:50（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 101028
+! Total count: 101040
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -1991,6 +1991,7 @@
 ||5fm.985fm.ca^
 ||5gg17gm.com^
 ||5ggj5cp.com^
+||5gxs.org^
 ||5h3oyhv838.com^
 ||5i2.net^
 ||5i68sbhin.com^
@@ -8162,6 +8163,7 @@
 ||adhub.mobifone.vn^
 ||adhudg.nec-lavie.jp^
 ||adhunter.media^
+||adhvz.cn^
 ||adi*.cnool.net^
 ||adi.ni.com^
 ||adi.vcmedia.vn^
@@ -9440,6 +9442,7 @@
 ||adtpkiowp.com^
 ||adtrace.online^
 ||adtrace.org^
+||adtrack.adleadevent.com^
 ||adtrack.king.com^
 ||adtrack.loracle.jp^
 ||adtrack.quark.cn^
@@ -16356,6 +16359,7 @@
 ||bbwqcs.vidaxl.ee^
 ||bbwzzwremrrmr.top^
 ||bbwzzwremrvkl.top^
+||bbxyxt.xyz^
 ||bbybqq.levi.co.id^
 ||bbyfsfo.cn^
 ||bbyjgkkdihiyxy.com^
@@ -22057,7 +22061,6 @@
 ||clickgate09.biz^
 ||clickhereforcellphones.com^
 ||clickintext.com^
-||clickiocdn.com^
 ||clicklink.jp^
 ||clickmedia.ro^
 ||clickmedias.info^
@@ -47339,6 +47342,7 @@
 ||jyqekzewvyojy.top^
 ||jyqkijp.icu^
 ||jyrfbtmbuqeaeo.com^
+||jysocexrxbodh.com^
 ||jyt58.top^
 ||jytbxzil.com^
 ||jyuirxswk.com^
@@ -47751,6 +47755,7 @@
 ||kftfhp.furusato-tax.jp^
 ||kfvjdvjzhddhc.com^
 ||kfxkxyb.com^
+||kfycmiu.icu^
 ||kgbokc.masrefacciones.mx^
 ||kgcyvd.com^
 ||kgdvs9ov3l2aasw4nuts.com^
@@ -49217,6 +49222,7 @@
 ||ldlikukemyfueuk.info^
 ||ldmlnhfnly.com^
 ||ldnlyap.com^
+||ldoshbl.top^
 ||ldqtdd.peing.net^
 ||ldrenandthe.org^
 ||ldrsvmkajnzx.com^
@@ -60870,6 +60876,7 @@
 ||nspot.co^
 ||nssoahlyadvb.xyz^
 ||nsstatistics.calphalon.com^
+||nst.trex.media^
 ||nstat.headlines.pw^
 ||nstclj.rubylane.com^
 ||nsteq.queensland.com^
@@ -64439,6 +64446,7 @@
 ||pcdstm.petbarn.com.au^
 ||pceeyzmqnb.cc^
 ||pcfchubby.top^
+||pcglvhrln.com^
 ||pchcwqsfaqpw.com^
 ||pcheahrdnfktvhs.xyz^
 ||pchznf.xyz^
@@ -65424,6 +65432,7 @@
 ||pixel.ionos.fr^
 ||pixel.ipinfo.io^
 ||pixel.kknews.cc^
+||pixel.kodixauto.ru^
 ||pixel.lilystyle.ai^
 ||pixel.locker2.com^
 ||pixel.mintigo.com^
@@ -68338,6 +68347,7 @@
 ||qeclsl.com^
 ||qedeczzdt.com^
 ||qedlai.restplatzboerse.com^
+||qeedaa.xyz^
 ||qehjsjdubamsrt.com^
 ||qehwgbwjmjvq.xyz^
 ||qeildfuznofnlq.com^
@@ -69093,6 +69103,7 @@
 ||r.rbc.ru^
 ||r.rover.com^
 ||r.sax.sina.com.cn^
+||r.sib2.gardrops.com^
 ||r.skimresources.com^
 ||r.sportsie.com^
 ||r.timbedded.online^
@@ -98917,6 +98928,7 @@
 ||xrkyqq.com^
 ||xrlkvghzi.com^
 ||xrllybr.xyz^
+||xrmfjzqo.xyz^
 ||xrnyhc.arumdri.co.kr^
 ||xrnyhc.welltimes.co.kr^
 ||xrpikxtnmvcm.com^
