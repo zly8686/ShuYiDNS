@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-06-30 20:32:46（北京时间）
+! Version: 2024-07-01 09:34:14（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 99966
+! Total count: 99962
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -7170,6 +7170,7 @@
 ||aclog.itmedia.co.jp^
 ||aclordi.actonservice.com^
 ||acloudvideos.com^
+||aclsx.cn^
 ||acmaknoxwo.com^
 ||acme.vidox.net^
 ||acmsa.com.ar^
@@ -14523,7 +14524,6 @@
 ||astumbreonon.com^
 ||astylararsines.com^
 ||asuipiirq.com^
-||asukedrev.com^
 ||asumi.shinobi.jp^
 ||asv.transsion.com^
 ||asverymuc.org^
@@ -20397,6 +20397,7 @@
 ||cdhfvrug.xyz^
 ||cdhvrrlyrawrxqd.xyz^
 ||cdiklrgwisnu.com^
+||cdipsumf.top^
 ||cdj-dap.s3-ap-northeast-1.amazonaws.com^
 ||cdjhcf.hometogo.es^
 ||cdkcaxxjyyb.xyz^
@@ -25553,6 +25554,7 @@
 ||d2d7bba154.com^
 ||d2d8qsxiai9qwj.cloudfront.net^
 ||d2db10c4rkv9vb.cloudfront.net^
+||d2dc2sk4vkh2xn.cloudfront.net^
 ||d2dkurdav21mkk.cloudfront.net^
 ||d2dq2ahtl5zl1z.cloudfront.net^
 ||d2dyjetg3tc2wn.cloudfront.net^
@@ -32394,7 +32396,6 @@
 ||enterprises.proximus.be^
 ||entertaininauguratecontest.com^
 ||entertainment3x.fun^
-||enthronesacrifice.com^
 ||enthusiastgaming.net^
 ||enticeobjecteddo.com^
 ||entirelyapplicationseeing.com^
@@ -40555,7 +40556,6 @@
 ||hickunwilling.com^
 ||hickytarp.space^
 ||hicovjpufo.com^
-||hicpm10.com^
 ||hidcupcake.com^
 ||hidden.gogoceleb.com^
 ||hiddenbucks.com^
@@ -41472,6 +41472,7 @@
 ||htplayground.com^
 ||htqfxh.vuch.cz^
 ||htrace.wetvinfo.com^
+||htrurb.xyz^
 ||htseca.top^
 ||htsysxlupdqe.com^
 ||httpdns-push.heytapmobile.com^
@@ -56608,7 +56609,6 @@
 ||mg.xhkvff.cn^
 ||mgage.com^
 ||mgbfxr.formongde.com^
-||mgbid.net^
 ||mgbivj.hintaopas.fi^
 ||mgbkt9eckr.xn--mgbkt9eckr.net^
 ||mgcash.com^
@@ -59819,7 +59819,6 @@
 ||nonfictionrobustchastise.com^
 ||nonfictiontickle.com^
 ||nongamemealman.guru^
-||nonimoomi.com^
 ||nonprofit.aon.com^
 ||nonremid.com^
 ||nonsensethingresult.com^
@@ -63263,7 +63262,6 @@
 ||panel-cn.com^
 ||panel.bcnmonetize.com^
 ||panelerkingly.top^
-||panelmono.com^
 ||pangaffairsquestioning.com^
 ||pangdeserved.com^
 ||pangintrigueliquidate.com^
@@ -64278,7 +64276,6 @@
 ||phoalsie.net^
 ||phoamsoa.xyz^
 ||phoaphoxsurvey.space^
-||phoapsoo.com^
 ||phoaptee.net^
 ||phoaraut.com^
 ||phoawevie.com^
@@ -66149,7 +66146,6 @@
 ||privatelookhack.com^
 ||privatelydevotionrewind.com^
 ||privatestats.whatsapp.net^
-||privatrac.com^
 ||privilegedvitaminimpassable.com^
 ||privilegeinjurefidelity.com^
 ||privilegest.com^
@@ -67690,7 +67686,6 @@
 ||qjukphe.com^
 ||qjurou.laredoute.com^
 ||qjvtofw.com^
-||qjwglnuwqvr.com^
 ||qjxiyt.respect-shoes.ru^
 ||qjyoanpkf.com^
 ||qjyvvxjmqirvbl.com^
@@ -67700,6 +67695,7 @@
 ||qkfwiylmib.com^
 ||qkhhjm.autoscout24.nl^
 ||qkhvongctffugm.com^
+||qkikkg.xyz^
 ||qkjjuhs.com^
 ||qkodjvdsm.com^
 ||qkqlqjjobvkr.top^
@@ -70548,7 +70544,6 @@
 ||rouloawhu.com^
 ||roumachopa.com^
 ||roumakie.com^
-||rounca.com^
 ||rouncepreyful.com^
 ||round-highlight.pro^
 ||rounddescribe.com^
@@ -83115,6 +83110,7 @@
 ||sv-api-lottery.headlines.pw^
 ||sv-static-lottery.headlines.pw^
 ||sv-static1-lottery.headlines.pw^
+||sv.isvn.space^
 ||svanh-xqh.com^
 ||svaohpdxn.xyz^
 ||svarajwens.com^
@@ -86315,6 +86311,7 @@
 ||tms-st.cdn.ngenix.net^
 ||tms-visitor-service.sony.jp^
 ||tms.53.com^
+||tms.danzz.ch^
 ||tms.dmp.wi-fi.ru^
 ||tms.eharmony.ca^
 ||tms.fmm.io^
@@ -89673,7 +89670,6 @@
 ||tribespiraldresser.com^
 ||tributesexually.com^
 ||tricemortal.com^
-||trickerseasan.top^
 ||tricklesmartdiscourage.com^
 ||trickvealwagon.com^
 ||trickynationalityturn.com^
@@ -92142,7 +92138,6 @@
 ||utsgw.auction.co.kr^
 ||utsssl.auction.co.kr^
 ||utt.impactcdn.com^
-||uttack.com^
 ||utterdevice.com^
 ||utterlyfunding.com^
 ||utterlysever.com^
@@ -92553,6 +92548,7 @@
 ||vatois.com^
 ||vatrack.hinet.net^
 ||vattingpliable.top^
+||vatzxd.xyz^
 ||vaugaiva.net^
 ||vaugroar.com^
 ||vaultmultiple.com^
@@ -95821,7 +95817,6 @@
 ||workerprogrammestenderly.com^
 ||workervanewalk.com^
 ||workforcetrends.advancedtech.com^
-||workhovdi.com^
 ||workmanceremony.com^
 ||workplace.ricoh.de^
 ||workplace.ricoh.ie^
@@ -97448,6 +97443,7 @@
 ||xkdxygywfm.com^
 ||xkejsns.com^
 ||xkesalwueyz.com^
+||xkesqbp.icu^
 ||xkfigjh.cn^
 ||xkfogxtamlnn.com^
 ||xkfvvyjurlil.com^
