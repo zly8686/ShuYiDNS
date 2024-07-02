@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-07-02 09:19:39（北京时间）
+! Version: 2024-07-02 20:33:24（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 100054
+! Total count: 100043
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -257,6 +257,7 @@
 ||0eijh8996i.com^
 ||0emn.com^
 ||0f269944ac.9c98029b1e.com^
+||0f3887f8af.com^
 ||0f461325bf56c3e1b9.com^
 ||0f81aafd60.c0887b5285.com^
 ||0fa972d0d7.com^
@@ -2009,7 +2010,6 @@
 ||5eef1ed9ac.com^
 ||5ejlo.xyz^
 ||5f1202853b.com^
-||5f6d8a5f78.com^
 ||5f6dmzflgqso.com^
 ||5f6efdfc05.com^
 ||5fd74.v.fwmrm.net^
@@ -2340,7 +2340,6 @@
 ||73fecf8e35.fb99ef9239.com^
 ||7411603f57.com^
 ||7413.5clo0xmbf.com^
-||7417f20ecd.com^
 ||741a18df39.com^
 ||74202b8bcc.2e55a2d58f.com^
 ||7437.k3718qw08.com^
@@ -2703,7 +2702,6 @@
 ||8cf530b4c4.7dfbef87b6.com^
 ||8cnd.com^
 ||8d07a.xyz^
-||8d08a38552.com^
 ||8d0d35fb77.com^
 ||8d1dce99ab.com^
 ||8d4b.pandasuite.io^
@@ -7534,7 +7532,6 @@
 ||ad.belleeau.jp^
 ||ad.bench.utorrent.com^
 ||ad.bitmedia.io^
-||ad.bizo.com^
 ||ad.bluepartner.eu^
 ||ad.bobi.tw^
 ||ad.bondage.com^
@@ -7719,6 +7716,7 @@
 ||ad.tpmn.co.kr^
 ||ad.tradertimerz.media^
 ||ad.tv2.no^
+||ad.twinrdengine.com^
 ||ad.twitchguru.com^
 ||ad.u-car.com.tw^
 ||ad.udition.jp^
@@ -19799,7 +19797,6 @@
 ||calls.uptownleads.com^
 ||callsource.actonservice.com^
 ||calltrack.co^
-||calluspyjamas.top^
 ||callyourinformer.com^
 ||calmlyglossaryhostile.com^
 ||calmlyilldollars.com^
@@ -20914,7 +20911,6 @@
 ||centralnervous.net^
 ||centredrag.com^
 ||centrenicelyteaching.com^
-||centrerauriga.com^
 ||centureunornly.com^
 ||centurybending.com^
 ||centwrite.com^
@@ -29190,6 +29186,7 @@
 ||doastaib.xyz^
 ||doathair.com^
 ||doblazikena.com^
+||dobrnovosti.com^
 ||dobwll.xyz^
 ||doc830ytc7pyp.cloudfront.net^
 ||docfj.cyou^
@@ -30451,6 +30448,7 @@
 ||e84d68b6e3.9bf9309f6f.com^
 ||e91c222079.com^
 ||e9313b99fb.49f411f93f.com^
+||e969e75a2a.com^
 ||e993.wlky.com^
 ||e9a53154b4.com^
 ||e9b729472c.39268ea911.com^
@@ -32070,7 +32068,6 @@
 ||emmenichudson.top^
 ||emmi-findet.de^
 ||emnucmhhyjjgoy.xyz^
-||emoailtoo.com^
 ||emoticappfriends.com^
 ||emoticfriends.com^
 ||emotionalfriendship.com^
@@ -33189,7 +33186,6 @@
 ||events.brightline.tv^
 ||events.btw.so^
 ||events.busuu.com^
-||events.caffeine.tv^
 ||events.cardsmobile.ru^
 ||events.careallies.com^
 ||events.centex.com^
@@ -57247,7 +57243,6 @@
 ||mm.openapp.link^
 ||mm.paizi.net^
 ||mmadsgadget.com^
-||mmandard.com^
 ||mmarkhigh.actonservice.com^
 ||mmc-ltd.actonservice.com^
 ||mmchoicehaving.com^
@@ -60905,7 +60900,6 @@
 ||oddsserve.com^
 ||odegumsane.com^
 ||odepcf.modetour.com^
-||odiumdrawlip.com^
 ||odjweddfuh.com^
 ||odkvrg.pedrodelhierro.com^
 ||odnaknopka.ru^
@@ -66437,7 +66431,6 @@
 ||promo.cafexapp.com^
 ||promo.cams.com^
 ||promo.carasexe.com^
-||promo.ejaculer.fr^
 ||promo.ewellix.com^
 ||promo.fiat.com^
 ||promo.gogo.org.ua^
@@ -81127,7 +81120,6 @@
 ||static.whatsapp.net.iberostar.com^
 ||static.winporn.com/upload/banners^
 ||static.wlct-one.de^
-||staticad.thethao247.vn^
 ||staticads.btopenworld.com^
 ||statics.woozooo.com^
 ||staticsns.cdn.bcebos.com^
@@ -88221,7 +88213,6 @@
 ||track.deloitte.com^
 ||track.dictionary.com^
 ||track.digitalriver.com^
-||track.dobrnovosti.com^
 ||track.docusign.ca^
 ||track.docusign.co.uk^
 ||track.docusign.com.au^
@@ -91139,7 +91130,6 @@
 ||ugwxwy.xyz^
 ||ugyeon.com^
 ||ugyplysh.com^
-||ugyyod.com^
 ||ugzbsu.klimaworld.com^
 ||uh.dettepondok.com^
 ||uh.nakanohito.jp^
@@ -99249,7 +99239,6 @@
 ||zalo-ads-480.zadn.vn^
 ||zalo-ads.zadn.vn^
 ||zaloads-480.zdn.vn^
-||zaloweb.vn^
 ||zaltaumi.net^
 ||zambianmarlena.com^
 ||zamioculcas2.org^
