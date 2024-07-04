@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-07-04 09:19:36（北京时间）
+! Version: 2024-07-04 20:34:21（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 101687
+! Total count: 101711
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -612,6 +612,7 @@
 ||1642.4puuqeh41.com^
 ||1646881f8d.466f89f4d1.com^
 ||1655.935ft4j96.com^
+||165tchuang.com^
 ||1665.5clo0xmbf.com^
 ||1667fff40a.3b1ac6ca25.com^
 ||1669.5clo0xmbf.com^
@@ -2115,6 +2116,7 @@
 ||635a022421.com^
 ||638236rpn.com^
 ||6387.l5eamr17d.com^
+||63912b9175.com^
 ||63r2vxacp0pr.com^
 ||63voy9ciyi14.com^
 ||641198810fae7.com^
@@ -10827,6 +10829,7 @@
 ||afodreet.net^
 ||afootwitword.com^
 ||afopr.cn^
+||afoqs.cn^
 ||afosseel.net^
 ||afoykb.ebook.de^
 ||afp.chinanews.com^
@@ -17128,6 +17131,7 @@
 ||bavxuhaxtqi.com^
 ||bawdybeast.com^
 ||bawickie.com^
+||bawixi.xyz^
 ||bawlerhanoi.website^
 ||baxascpkean.com^
 ||baxbyfn.cn^
@@ -22602,6 +22606,7 @@
 ||ckwvebqkbl.xyz^
 ||ckygge.mohd.it^
 ||ckyhec.maxisport.com^
+||ckynh.com^
 ||ckywou.com^
 ||cl-997764a8.gcdn.co^
 ||cl-ad.x-flow.app^
@@ -33288,6 +33293,7 @@
 ||enclosedswoopbarnacle.com^
 ||encodehelped.com^
 ||encodeinflected.com^
+||encoilinwove.com^
 ||encompassreport.elliemae.com^
 ||encounterboastful.com^
 ||encounterfidelityarable.com^
@@ -36176,6 +36182,7 @@
 ||fjmgnfoedmsjj.xyz^
 ||fjmksbwxb.com^
 ||fjnsnt.xyz^
+||fjojdlcz.com^
 ||fjortk.braun-hamburg.com^
 ||fjqcqdr.icu^
 ||fjtroip.cn^
@@ -36398,6 +36405,7 @@
 ||flpfsqgjsarghs.com^
 ||flpnnqe.xyz^
 ||flpwto.lohaco.jp^
+||flqdbbzd.com^
 ||flqwvojijhqqlq.com^
 ||flrdra.com^
 ||fls-*.amazon.com^
@@ -37591,6 +37599,7 @@
 ||fxmkij.jny.com^
 ||fxmnba.com^
 ||fxmrelevbu.com^
+||fxnmjb.xyz^
 ||fxpayments.americanexpress.co.nz^
 ||fxpayments.americanexpress.com.au^
 ||fxrbsadtui.com^
@@ -42882,6 +42891,7 @@
 ||huiyunbei.com^
 ||hujunhao.name^
 ||hukbo.com^
+||hukogpanbs.com^
 ||hulabipptemux.com^
 ||hulichuang.mobi^
 ||hulledaries.top^
@@ -46684,6 +46694,7 @@
 ||iuvssgh.cn^
 ||iuwiim.steigenberger.com^
 ||iuwzdf.com^
+||iuytfvhl.top^
 ||ivanvillager.com^
 ||ivbgpax.cn^
 ||ivbxao.roastmarket.de^
@@ -47034,6 +47045,7 @@
 ||jcaqvl.twinset.com^
 ||jcbjcb9.cn^
 ||jcblar.floridarentals.com^
+||jcdudokp.com^
 ||jcedzifarqa.com^
 ||jcfnbhqo.icu^
 ||jchklt.com^
@@ -47365,6 +47377,7 @@
 ||jibn12.jintang114.org^
 ||jiciqm.antalyahomes.com^
 ||jickodsa.com^
+||jiclzori.com^
 ||jicypigra.com^
 ||jidfdaxi.com^
 ||jieaxwgwnydl.com^
@@ -48559,6 +48572,7 @@
 ||kdgjsf.com^
 ||kdh095.cn^
 ||kdhmzv.oculosmeninaflor.com.br^
+||kdipsumd.top^
 ||kdjdpyrt.xyz^
 ||kdkatxfkxmgmbhu.xyz^
 ||kdlsdk.neverfullydressed.co.uk^
@@ -62390,6 +62404,7 @@
 ||ofcamerupta.com^
 ||ofchildr.buzz^
 ||ofclaydolr.com^
+||ofdanpozlgha.com^
 ||ofdittor.com^
 ||ofdnkro.xyz^
 ||ofdrapiona.com^
@@ -62600,6 +62615,7 @@
 ||oimsgad.qq.com^
 ||oinkedbowls.com^
 ||ointmentapathetic.com^
+||ointmentbarely.com^
 ||ointmentfloatingsaucepan.com^
 ||ointmenthind.com^
 ||oiodyx.baldur-garten.de^
@@ -62739,6 +62755,7 @@
 ||ollsukztoo.com^
 ||olltcqg.xyz^
 ||olmeramarketing.com^
+||olmnvbgufy.top^
 ||olmsoneenh.info^
 ||olnjitvizo.com^
 ||olnkpexujhuw.com^
@@ -66920,6 +66937,7 @@
 ||polluxnetwork.com^
 ||poloptrex.com^
 ||poloud.com^
+||polpepsn.com^
 ||polredsy.com^
 ||poltarimus.com^
 ||polyad.net^
@@ -68212,6 +68230,7 @@
 ||pstat.akathists.com^
 ||pstat.goodremotejobs.com^
 ||pstats.cloudpal.app^
+||pstmqnplyzqahq.com^
 ||pstnmhftix.xyz^
 ||pstreetma.com^
 ||pstt.mtb-news.de^
@@ -76145,6 +76164,7 @@
 ||shouback.com^
 ||shoubsee.net^
 ||shouji.sogou.com^
+||shouldercommandmentlimitless.com^
 ||shouldknownews.com^
 ||shouldmeditate.com^
 ||shouldscornful.com^
@@ -81259,6 +81279,7 @@
 ||spreebogbean.com^
 ||spreement.com^
 ||spreespoiled.com^
+||sprewcereous.com^
 ||spriedfines.com^
 ||sprigsrecon.com^
 ||sprincipal.com^
@@ -91846,6 +91867,7 @@
 ||ttcu-union.actonservice.com^
 ||ttdmrvck.com^
 ||ttfpil.2dehands.be^
+||ttgbnmk.top^
 ||ttgjwxp.icu^
 ||ttgmjfgldgv9ed10.com^
 ||tthathehadstop.info^
@@ -92079,6 +92101,7 @@
 ||tw.wpu.sh^
 ||twamjb.cn^
 ||twandli.top^
+||twangruble.top^
 ||twaonhcjwoaouj.com^
 ||twazzyoidwlfe.com^
 ||twbqqq.com^
@@ -99151,6 +99174,7 @@
 ||xlviirdr.com^
 ||xlvirdr.com^
 ||xlvqhx.xyz^
+||xlvul.ajscdn.com^
 ||xlvvy4msxr.coolinastore.com^
 ||xlwnzkyj.com^
 ||xlwrdnrw.xyz^
