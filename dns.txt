@@ -2,7 +2,7 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-07-05 09:19:38（北京时间）
+! Version: 2024-07-05 20:33:55（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
 ! Total count: 101758
 ||*.diwodiwo.xyz^
@@ -623,7 +623,6 @@
 ||1677.5clo0xmbf.com^
 ||16ao.mathon.fr^
 ||16c8nh2801z2.top^
-||16d177cbd1.com^
 ||16i6nuuc2ej.koelewijn.nl^
 ||16iis7i2p.de^
 ||16niao20230125.live^
@@ -17739,7 +17738,6 @@
 ||beludicolor.com^
 ||belutedishelm.top^
 ||belwrite.com^
-||belyingalkenes.top^
 ||bemachopor.com^
 ||bemadsonline.com^
 ||bemanectricr.com^
@@ -23648,7 +23646,6 @@
 ||collectionspriestcardiac.com^
 ||collectiveablygathering.com^
 ||collectloopblown.com^
-||collector-*.px-client.net^
 ||collector-analytics.efigence.com^
 ||collector-api.99designs.com^
 ||collector-api.frspecifics.com^
@@ -30208,6 +30205,7 @@
 ||dmmgjsymlrfp.com^
 ||dmmzkfd82wayn.cloudfront.net^
 ||dmnprx.com^
+||dmnxkj.cn^
 ||dmoldsusvkpa.xyz^
 ||dmowvblljmkqx.com^
 ||dmp.citiservi.es^
@@ -40832,6 +40830,7 @@
 ||gw-dv.vip^
 ||gw1jvhs.com^
 ||gw2cddpt2hao.asia^
+||gw2cddpt2hao.cloud^
 ||gwallet.com^
 ||gwbgqrxlelrjsi.com^
 ||gwdobvs.cn^
@@ -53750,6 +53749,7 @@
 ||maihigre.net^
 ||maihikuh.com^
 ||mail-ads.google.com^
+||mail-count.matsui.co.jp^
 ||mail-rite.actonservice.com^
 ||mail.7porn.ru^
 ||mail.academyforconsciousleadership.net^
@@ -63773,6 +63773,7 @@
 ||orthitepetrous.com^
 ||orthronsmatter.com^
 ||ortkrq.damyller.com.br^
+||ortlisk.top^
 ||ortontotlejohn.com^
 ||orxbqsvibjxqvai.com^
 ||oryhic.xyz^
@@ -81337,7 +81338,6 @@
 ||spruecutworm.com^
 ||spruegibbles.com^
 ||sprungencase.com^
-||spryptvqguhpwt^
 ||spscas.hitachi-solutions.co.jp^
 ||spsfupq.cn^
 ||spt.ahram.org.eg^
