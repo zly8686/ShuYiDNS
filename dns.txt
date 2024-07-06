@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-07-05 20:33:55（北京时间）
+! Version: 2024-07-06 09:17:38（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 101758
+! Total count: 101767
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -1682,6 +1682,7 @@
 ||4510.5clo0xmbf.com^
 ||4513.4puuqeh41.com^
 ||452tapgn.de^
+||453130fa9e.com^
 ||4557.4puuqeh41.com^
 ||4588.5clo0xmbf.com^
 ||4595.5clo0xmbf.com^
@@ -2556,7 +2557,6 @@
 ||8170a1da9e.com^
 ||8185.5clo0xmbf.com^
 ||8194e6d1d6.8578eb3ec8.com^
-||81a3bb38fb.com^
 ||81ccd22355.d8bb72d31d.com^
 ||81e98c5a38.aac585e70c.com^
 ||8208tp.com^
@@ -16814,6 +16814,7 @@
 ||bamahseines.com^
 ||bambarmedia.com^
 ||bambee.actonservice.com^
+||baminw.cn^
 ||ban.alukah.net^
 ||ban.bhol.co.il^
 ||ban.mirorgazma.ru^
@@ -17736,7 +17737,6 @@
 ||beltarklate.live^
 ||beltwaythrust.com^
 ||beludicolor.com^
-||belutedishelm.top^
 ||belwrite.com^
 ||bemachopor.com^
 ||bemadsonline.com^
@@ -21898,6 +21898,7 @@
 ||cesebtp.com^
 ||cesiumsemboite.com^
 ||cessationcorrectmist.com^
+||cessationhamster.com^
 ||cessationrepulsivehumid.com^
 ||cestibegster.com^
 ||ceteembathe.com^
@@ -32161,7 +32162,6 @@
 ||editalcaulked.top^
 ||edition25.com^
 ||editionoverlookadvocate.com^
-||editionzaparo.com^
 ||editneed.com^
 ||editorpilotlimbs.com^
 ||ediva.gr^
@@ -34384,6 +34384,7 @@
 ||events.cid.samba.tv^
 ||events.cigna.com^
 ||events.claspws.tv^
+||events.clips4sale.com^
 ||events.coface.com^
 ||events.demoup.com^
 ||events.devcycle.com^
@@ -35203,7 +35204,6 @@
 ||faintedtwistedlocate.com^
 ||faintestlogic.com^
 ||faintestmingleviolin.com^
-||faintflag.com^
 ||faintjump.com^
 ||faintstates.com^
 ||faintsuperintend.com^
@@ -35569,6 +35569,7 @@
 ||februarybogus.com^
 ||februaryinjectionproudly.com^
 ||februarynip.com^
+||febtzd.xyz^
 ||fecerismasker.com^
 ||fedapush.net^
 ||fedassuagecompare.com^
@@ -35801,6 +35802,7 @@
 ||fgfukd.sakazen.co.jp^
 ||fghghh.cn^
 ||fghhbp.xyz^
+||fgigrmle.xyz^
 ||fgijincfktbguv.xyz^
 ||fgislklsqqytr.com^
 ||fgisstdudch.com^
@@ -35822,6 +35824,7 @@
 ||fguhyg.cn^
 ||fgukchz.icu^
 ||fgwerg.top^
+||fgwuw.com^
 ||fgxfnkiojgs.com^
 ||fh259by01r25.com^
 ||fhahujwafaf.com^
@@ -36756,7 +36759,6 @@
 ||forgoodplay.com^
 ||forgotingolstono.com^
 ||forhavingartistic.info^
-||forkedearth.pro^
 ||forklacy.com^
 ||forlumineoner.com^
 ||forlumineontor.com^
@@ -38650,6 +38652,7 @@
 ||ggvhbnkfc.com^
 ||ggw.gusuwang.com^
 ||ggw.watertu.com^
+||ggwifobvx.com^
 ||ggx.cmvideo.cn^
 ||ggx0001.com^
 ||ggx01.miguvideo.com^
@@ -40601,6 +40604,7 @@
 ||gsuxyg.xyz^
 ||gswinnodf.com^
 ||gsyegj.shatura.com^
+||gsywcc.xyz^
 ||gszetzdm.xyz^
 ||gt.duowan.com^
 ||gt.yy.com^
@@ -40831,6 +40835,7 @@
 ||gw1jvhs.com^
 ||gw2cddpt2hao.asia^
 ||gw2cddpt2hao.cloud^
+||gw2cddpt2hao.site^
 ||gwallet.com^
 ||gwbgqrxlelrjsi.com^
 ||gwdobvs.cn^
@@ -42904,7 +42909,6 @@
 ||huechl.paige.com^
 ||huehinge.com^
 ||hufaztjist.com^
-||huge-gay-cock.com^
 ||hugelog.fcbox.com^
 ||hugelyantony.com^
 ||hugelyimmovable.com^
@@ -45893,7 +45897,6 @@
 ||insights.biallo.de^
 ||insights.bodogaffiliate.com^
 ||insights.cdt.ch^
-||insights.decathlon.net^
 ||insights.diamond-consultants.com^
 ||insights.golubcapital.com^
 ||insights.goodandprosper.com^
@@ -45915,6 +45918,7 @@
 ||insights.sitesearch360.com^
 ||insights.sport1.de^
 ||insights.squintopera.com^
+||insights.v3.decathlon.net^
 ||insights.zinio.com^
 ||insightseries.redbull.racing^
 ||insigit.com^
@@ -46384,6 +46388,7 @@
 ||iptautup.com^
 ||iptmgi.akan.co.kr^
 ||iptmih.hifi-regler.de^
+||iptuy.cn^
 ||ipummv.pharao24.de^
 ||ipurseeh.xyz^
 ||ipuswrg.cn^
@@ -49646,6 +49651,7 @@
 ||kygfocnbvlaa.com^
 ||kygftx.xyz^
 ||kyikdee.cn^
+||kyislod.top^
 ||kyjhuflgtl.xyz^
 ||kyjoyk.modoza.com^
 ||kyjwtxei.xyz^
@@ -50750,6 +50756,7 @@
 ||lihuwvokhonsni.com^
 ||liitwrz.icu^
 ||liivhntsu.com^
+||lijlrz.xyz^
 ||lijybcfgnjh.com^
 ||like.reply.de^
 ||likeads.com^
@@ -60296,6 +60303,7 @@
 ||nationssalvation.com^
 ||nativclick.com^
 ||native-ad.net^
+||native-ads-events-api.c4s-rd.services^
 ||native-adserver.com^
 ||native-cdn.com^
 ||native-track.com^
@@ -62781,6 +62789,7 @@
 ||oleousjosher.com^
 ||olep.xyz^
 ||olevole.ru^
+||olgcpwc.icu^
 ||olgknseruf.com^
 ||olhqou.realsimple.com^
 ||olibes.com^
@@ -63248,6 +63257,7 @@
 ||oninewsful.life^
 ||onjjbn.koffiemarkt.be^
 ||onjmsj.sumai-surfin.com^
+||onkafxtiqcu.com^
 ||onkavst.com^
 ||online-adnetwork.com^
 ||online-metrix.imars.cloud^
@@ -63297,7 +63307,6 @@
 ||onogxwatipyevf.com^
 ||onopolicycr.xyz^
 ||onosyej.icu^
-||onotube.com^
 ||onoztg.ultimate-guitar.com^
 ||onpluslean.com^
 ||onpsrrejx.com^
@@ -65349,6 +65358,7 @@
 ||peacefulactivity.com^
 ||peacefullyclenchnoun.com^
 ||peacefullyundergroundsubsided.com^
+||peach-analytics.vercel.app^
 ||peachesevaporateearlap.com^
 ||peachessummoned.com^
 ||peachrecess.com^
@@ -66083,7 +66093,6 @@
 ||ping.resoluteoil.com^
 ||pingback.giphy.com^
 ||pingback.issuu.com^
-||pingback.sogou.com^
 ||pingfang.icu^
 ||pingfore.qq.com^
 ||pinghot.qq.com^
@@ -69378,6 +69387,7 @@
 ||qoaaa.com^
 ||qoairs.scholl-shoes.com^
 ||qobarmbghaiv.xyz^
+||qobuz.surveysparrow.com^
 ||qodyldusxloinpn.com^
 ||qogearh.com^
 ||qogilljcxwvrhj.com^
@@ -71183,7 +71193,6 @@
 ||rerosefarts.com^
 ||rerpartmentm.info^
 ||rertrc.abc-mart.net^
-||rerunglor.life^
 ||reryn2ce.com^
 ||reryn3ce.com^
 ||rerynjia.com^
@@ -74279,7 +74288,6 @@
 ||sccpnd.xyz^
 ||scdown.qq.com^
 ||scenbe.com^
-||scenepass.com^
 ||scenerynatives.com^
 ||scenescrockery.com^
 ||scenespathreconciliation.com^
@@ -75531,6 +75539,8 @@
 ||serve-rtb.com^
 ||serve-servee.com^
 ||serve.bdsmstreak.com^
+||serve.everydayporn.co^
+||serve.yourporngod.com^
 ||servebom.com^
 ||servedbyadbutler.com^
 ||servedbysmart.com^
@@ -76018,7 +76028,6 @@
 ||sheardirectly.com^
 ||shearobserve.com^
 ||shebaasot.com^
-||sheecmuwesil.com^
 ||sheedsoh.com^
 ||sheefursoz.com^
 ||sheegiwo.com^
@@ -81151,7 +81160,6 @@
 ||spermwhale.floofarazzi.com^
 ||spermwhale.rowansimpson.com^
 ||spermwhale.thankbox.co^
-||sperpledisman.top^
 ||spersonalization.mrappliance.ca^
 ||spersonalization.mrappliance.com^
 ||spersonalization.mrelectric.com^
@@ -81534,6 +81542,7 @@
 ||srv224.com^
 ||srvd2204.com^
 ||srvpcn.com^
+||srvr.dmvs-apac.com^
 ||srvtrck.com^
 ||srwfwllymprt.com^
 ||srwwce.xyz^
@@ -83687,6 +83696,7 @@
 ||steamac.com^
 ||steamdespicable.com^
 ||steamjaws.com^
+||stedrits.xyz^
 ||stedsous.xyz^
 ||steedgodful.com^
 ||steefaulrouy.xyz^
@@ -89971,6 +89981,7 @@
 ||track.yfret.com^
 ||track.yieldsoftware.com^
 ||track.youniversalmedia.com^
+||track.zapimoveis.com.br^
 ||track.zappos.com^
 ||track1.avplayer.com^
 ||track2.cliplister.com^
@@ -93246,7 +93257,6 @@
 ||unsubscribe.promo.timhortons.ca^
 ||unsuccessfultesttubepeerless.com^
 ||unsurlysiouan.com^
-||unsweatgenom.life^
 ||untackreviler.com^
 ||untastymondos.digital^
 ||untd.com^
@@ -94659,7 +94669,6 @@
 ||videos.adp.ca^
 ||videos.allocine.fr^
 ||videos.beyazperde.com^
-||videos.filmstarts.de^
 ||videos.personneltoday.com^
 ||videosprofitnetwork.com^
 ||videostat-new.index.hu^
