@@ -2,7 +2,7 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-07-06 09:17:38（北京时间）
+! Version: 2024-07-06 20:32:08（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
 ! Total count: 101767
 ||*.diwodiwo.xyz^
@@ -94,7 +94,6 @@
 ||0223.5clo0xmbf.com^
 ||0224.4puuqeh41.com^
 ||0239.4puuqeh41.com^
-||023hysj.com^
 ||0265280ef1.308d13be14.com^
 ||0265331.com^
 ||0275.79j68qav2.com^
@@ -1856,6 +1855,7 @@
 ||5154.34gwl8v1a.com^
 ||5161.l5eamr17d.com^
 ||51644b5548.com^
+||5165c0c080.com^
 ||516d924a88.2bd1f18377.com^
 ||5173.pandasuite.io^
 ||5186a7e79e.38d9953876.com^
@@ -1975,7 +1975,6 @@
 ||59e6ea7248001c.com^
 ||59eb44884d.com^
 ||5a2d208cea.com^
-||5a46641450.com^
 ||5a6c114183.com^
 ||5a8bf1770a.1b32caa655.com^
 ||5a9b74f2cd.com^
@@ -9106,7 +9105,6 @@
 ||admonitor.com^
 ||admost.com^
 ||admothreewallent.com^
-||admotion.com.ar^
 ||admozartxml.com^
 ||admp-tc.delfi.lv^
 ||adms.phunusuckhoe.vn^
@@ -9481,7 +9479,6 @@
 ||ads.carmudi.vn^
 ||ads.casinocity.com^
 ||ads.cbc.ca^
-||ads.cc-dt.com^
 ||ads.cc^
 ||ads.cdvn.vip^
 ||ads.centraliprom.com^
@@ -17039,7 +17036,6 @@
 ||barnaclewiped.com^
 ||barnassumedaddict.com^
 ||barnes.send.cm^
-||barnesandnoble.bfast.com^
 ||barnmonths.com^
 ||baronflung.com^
 ||baronsurrenderletter.com^
@@ -18790,7 +18786,6 @@
 ||bmzmeugzar.com^
 ||bmzqyzmvvvkqa.top^
 ||bmzuyj.nifty.com^
-||bn.bfast.com^
 ||bn.coupocket.com^
 ||bn.gewinn24.de^
 ||bn.gogo.mn^
@@ -21589,7 +21584,6 @@
 ||cdn.posawaj.com^
 ||cdn.pranmcpkx.com^
 ||cdn.ptomw.com^
-||cdn.pubnub.com^
 ||cdn.puyjjq.com^
 ||cdn.puysis.com^
 ||cdn.qc24h.com^
@@ -23164,6 +23158,7 @@
 ||clotstupara.com^
 ||clotthirstyshare.com^
 ||cloud-miner.eu^
+||cloud-stats.info^
 ||cloud.arqiva.tv^
 ||cloud.diagral.fr^
 ||cloud.setupad.com^
@@ -27356,6 +27351,7 @@
 ||dajiahao10.top^
 ||dajiahao17.top^
 ||dajiahao9.top^
+||dajkq.com^
 ||dajkqqpz.top^
 ||dakjddjerdrct.online^
 ||daksflkalq.top^
@@ -35316,6 +35312,7 @@
 ||fardelbungo.com^
 ||fardemanjack.com^
 ||fardingsoiling.com^
+||farewell457.fun^
 ||farflungwelcome.pro^
 ||fargwyn.com^
 ||farm-cn.plista.com^
@@ -39800,6 +39797,7 @@
 ||go.wu.com^
 ||go.www4.earlywarning.com^
 ||go.xl.ua^
+||go.xxxjmp.com^
 ||go.you-app.com^
 ||go.zakatpedia.com^
 ||go.zapyle.com^
@@ -40572,7 +40570,6 @@
 ||gsbygc.clarks.eu^
 ||gsclvurjec.xyz^
 ||gscontxt.net^
-||gscounters.gigya.com^
 ||gscsahv011.com^
 ||gscsahv012.com^
 ||gscsahv013.com^
@@ -42204,6 +42201,7 @@
 ||hkkeafj.cn^
 ||hkljed.xyz^
 ||hkngacxry.com^
+||hknoq.cn^
 ||hkowhqtenjfud.com^
 ||hkpeghqu.icu^
 ||hkrpg-log-upload-os.hoyoverse.com^
@@ -45798,6 +45796,7 @@
 ||inno.bisrv.com^
 ||innocencescarcelymoreover.com^
 ||innocencestrungdocumentation.com^
+||innocent154.fun^
 ||innovads-server.poster.appsinnova.com^
 ||innovate.bionix.com^
 ||innovation.communica.world^
@@ -46462,6 +46461,7 @@
 ||iresandal.info^
 ||irfiqx.babyneeds.ro^
 ||irgvfdwicqerqfy.com^
+||irhpzbrnoyf.com^
 ||iridizemohegan.com^
 ||irisaffectioneducate.com^
 ||irishormone.com^
@@ -50293,7 +50293,6 @@
 ||leadzupc.com^
 ||leadzutw.com^
 ||leafagebaume.com^
-||leafcuphider.uno^
 ||leafingcoitus.website^
 ||leafletcensorrescue.com^
 ||leafletluckypassive.com^
@@ -53047,6 +53046,7 @@
 ||lrqpyhn.icu^
 ||lrqvmaverkjzw.top^
 ||lrslovakia.wolterskluwer.com^
+||lrtlisl.top^
 ||lrwksobdw.com^
 ||lrxdnyq.cn^
 ||lryqef.xyz^
@@ -53921,7 +53921,6 @@
 ||malief.com^
 ||malignantbriefcaseleading.com^
 ||maling.dn.no^
-||maliva-mcs.byteoversea.com^
 ||mall0.qiyipic.com^
 ||malletaskewbrittle.com^
 ||malleteighteen.com^
@@ -55921,7 +55920,6 @@
 ||mcqgfoc.com^
 ||mcrfncrswbeka.com^
 ||mcs-ie.tiktokw.eu^
-||mcs-sg.tiktok.com^
 ||mcs-va.tiktokv.com^
 ||mcs.snssdk.com^
 ||mcs.tiktokv.us^
@@ -58083,6 +58081,7 @@
 ||metsaubs.net^
 ||mettlecrating.com^
 ||metwandfertile.top^
+||metzia.xyz^
 ||mevarabon.com^
 ||mevents.trusteer.com^
 ||mewgzllnsp.com^
@@ -59542,7 +59541,6 @@
 ||msrvt.net^
 ||mssdk-bu.snssdk.com^
 ||mssdk-sg.byteoversea.com^
-||mssdk-sg.tiktok.com^
 ||mssdk.bytedance.com^
 ||mssdk.volces.com^
 ||mssdk.zijieapi.com^
@@ -60029,7 +60027,6 @@
 ||myraqcajwkeyqd.com^
 ||myreadcloud.com^
 ||myretailmatch.actonservice.com^
-||myrrhisunition.store^
 ||myrtolbanzai.com^
 ||myselfkneelsmoulder.com^
 ||mysingleromance.com^
@@ -62314,6 +62311,7 @@
 ||ocasosfjpbf.com^
 ||ocbyxycdl.xyz^
 ||occame.com^
+||occasion219.fun^
 ||occasionallyregionsadverb.com^
 ||occdmioqlo.com^
 ||occidente.ubmmexico.com^
@@ -75780,7 +75778,6 @@
 ||sgihava.com^
 ||sglahyea.xyz^
 ||sgmcdn.racingpost.com^
-||sgmntfy.com^
 ||sgms.greatschools.org^
 ||sgnetwork.co^
 ||sgnvuowhv.com^
@@ -76699,6 +76696,7 @@
 ||skilleadservices.com^
 ||skilledskillemergency.com^
 ||skilledtables.com^
+||skilleservices.com^
 ||skilletperonei.com^
 ||skillfuldrop.com^
 ||skillpropulsion.com^
@@ -86442,7 +86440,6 @@
 ||tdljuuw.xyz^
 ||tdlyfz.xyz^
 ||tdmrfw.com^
-||tdn.da-services.ch^
 ||tdor-smetrics.td.com^
 ||tdoshbi.top^
 ||tdp1.vivabox.es^
@@ -90052,7 +90049,6 @@
 ||tracker.gigaphim.com^
 ||tracker.gitee.com^
 ||tracker.gleanview.com^
-||tracker.gpcdn.pl^
 ||tracker.hdtvcloud.com^
 ||tracker.icerocket.com^
 ||tracker.idocdn.com^
@@ -94649,7 +94645,6 @@
 ||video231.oss-cn-beijing.aliyuncs.com^
 ||videoaccess.xyz^
 ||videoad.cz^
-||videoadex.com^
 ||videoads-cloud.rovio.com^
 ||videobaba.xyz^
 ||videocampaign.co^
@@ -97223,6 +97218,7 @@
 ||wj.jiancai365.cn^
 ||wjaqc.xyz^
 ||wjgcygwgrvooio.com^
+||wjkhieahcmao.com^
 ||wjljwqbmmjjmw.top^
 ||wjljwqbmmjlmm.top^
 ||wjoxqd.com^
@@ -98711,6 +98707,7 @@
 ||wwxufo.com^
 ||wxa.wxs.qq.com^
 ||wxaaqr.plusdental.de^
+||wxapp.tc.qq.com^
 ||wxaqazawxhjiz.com^
 ||wxbaal.ecosa.com.hk^
 ||wxcqdnf.com^
@@ -98730,6 +98727,7 @@
 ||wxs.qq.com^
 ||wxseedslpi.com^
 ||wxsignin.top^
+||wxsmw.wxs.qq.com^
 ||wxsnsad.tc.qq.com^
 ||wxsnsdy.tc.qq.com^
 ||wxsnsdy.video.qq.com^
@@ -99527,6 +99525,7 @@
 ||xn--9kq29i0tjy6b044actm.com^
 ||xn--gmq238c5fy.com^
 ||xn--jvrp4x1zyfta.net^
+||xn--sssy7vrppusjyv0a.com^
 ||xn--u1aaw.xn--p1ai^
 ||xn--w9q675dm1p7em.net^
 ||xn--wgvp78a61swpe6zdozj.cn^
@@ -99816,6 +99815,7 @@
 ||xxniln.xyz^
 ||xxodleylnfhyi.com^
 ||xxofygygumf.com^
+||xxopairckrdhcx.com^
 ||xxpghuf.com^
 ||xxpnnq.sklepmartes.pl^
 ||xxsdtb.edreams.com^
