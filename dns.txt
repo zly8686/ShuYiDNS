@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-07-06 20:32:08（北京时间）
+! Version: 2024-07-07 09:26:07（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 101767
+! Total count: 101766
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -259,6 +259,7 @@
 ||0emn.com^
 ||0f269944ac.9c98029b1e.com^
 ||0f3887f8af.com^
+||0f3f317f1d.com^
 ||0f461325bf56c3e1b9.com^
 ||0f81aafd60.c0887b5285.com^
 ||0fa972d0d7.com^
@@ -2470,7 +2471,6 @@
 ||7c0616849b.com^
 ||7ca78m3csgbrid7ge.com^
 ||7car.com.cn^
-||7cbf2.v.fwmrm.net^
 ||7cc70.com^
 ||7cd77.v.fwmrm.net^
 ||7cdd9f6208.e2572292c5.com^
@@ -2686,6 +2686,7 @@
 ||89563servers.top^
 ||8961.jianbihua.com^
 ||8964c6de00.com^
+||8966cbfc9b.com^
 ||899aa6e01c.com^
 ||89d9c155c8.a8bd627b41.com^
 ||89dfa3575e.com^
@@ -9981,6 +9982,7 @@
 ||adsfile.qq.com^
 ||adsfilebssdlbig.ali.kugou.com^
 ||adsfileretry.service.kugou.com^
+||adsfloow.net^
 ||adsforcomputercity.com^
 ||adsforindians.com^
 ||adsfs-sdkconfig.heytapimage.com^
@@ -10057,7 +10059,6 @@
 ||adsp.com^
 ||adsp.haberturk.com^
 ||adsp.xunlei.com^
-||adspace.ro^
 ||adsparc.com^
 ||adsparc.net^
 ||adspdbl.com^
@@ -10617,7 +10618,6 @@
 ||aexhyo.pilatos.com^
 ||aeyyck.xyz^
 ||af-ad.co.uk^
-||af.1gdz.ru^
 ||af.eficads.com^
 ||af.gmobile.biz^
 ||af.shozankan-shop.com^
@@ -12998,7 +12998,6 @@
 ||andtheircleanw.com^
 ||andydill.com^
 ||aneartuilles.top^
-||anelerheen.top^
 ||anemenzemkwkm.top^
 ||aneorwd.com^
 ||anesthesiaos.actonservice.com^
@@ -13359,7 +13358,6 @@
 ||ap.quadient.com^
 ||ap.saluteeyeseed.com^
 ||ap.shouta.co^
-||ap.smardroid.com^
 ||ap3lorf0il.com^
 ||apaboqrqbpa.com^
 ||apac-go.experian.com^
@@ -16498,6 +16496,7 @@
 ||b1181fb1.site^
 ||b1298d230d.com^
 ||b13.penzainform.ru^
+||b14e96118f.com^
 ||b16a07996c.com^
 ||b17.8794.cn^
 ||b18a21ab3c9cb53.com^
@@ -16660,7 +16659,6 @@
 ||bacon.section.io^
 ||baconbedside.com^
 ||baconytapemen.com^
-||badayscase.live^
 ||badding.oss-ap-southeast-1.aliyuncs.com^
 ||badeldestarticulate.com^
 ||badgegirdle.com^
@@ -27172,9 +27170,7 @@
 ||d6030fe5c6.com^
 ||d63784ea7f.cbd2dd06ba.com^
 ||d63a3au5lqmtu.cloudfront.net^
-||d65941bfa8.com^
 ||d65a1fbe58.com^
-||d675b32d34.com^
 ||d692b70a4e.a6dc99d1a8.com^
 ||d6a206cf07.com^
 ||d6cto2pyf2ks.cloudfront.net^
@@ -32599,7 +32595,6 @@
 ||elderlytown.com^
 ||eldestcasualelements.com^
 ||eldestcontribution.com^
-||eldoradottfha.dataplane.rudderstack.com^
 ||ele26126.jscrambler.com^
 ||elearl.com^
 ||eleavers.com^
@@ -35108,6 +35103,7 @@
 ||f9603d42bc.13b3403320.com^
 ||f96b968227.12a640bb5e.com^
 ||f9755640df.5eef1ed9ac.com^
+||f983cf2155.com^
 ||f9d38526cd.com^
 ||fa21aff8b2.1a714ee67c.com^
 ||fa3f4c916c.com^
@@ -35139,7 +35135,6 @@
 ||facilitypestilent.com^
 ||fackeyess.com^
 ||fackinsismal.com^
-||factgoldbeg.live^
 ||factoruser.com^
 ||factory.redbull.racing^
 ||factquicker.com^
@@ -36590,6 +36585,7 @@
 ||fodder.tc.qq.com^
 ||fodderripeskyscraper.com^
 ||fodifhvg.com^
+||fodrxl.xyz^
 ||fodsoack.com^
 ||foerpo.com^
 ||foetusconductfold.com^
@@ -42157,6 +42153,7 @@
 ||hizlireklam.com^
 ||hj.faggotbovidae.com^
 ||hjalma.com^
+||hjammiz.icu^
 ||hjbgdc.fracora.com^
 ||hjdha.cn^
 ||hjdkvt.xyz^
@@ -49112,6 +49109,7 @@
 ||kmqghr.bristolshop.be^
 ||kmqhmn.helen-marlen.com^
 ||kmrilock.com^
+||kmruv.cn^
 ||kms-full.com^
 ||kms-pc.com^
 ||kms-tool.com^
@@ -58743,7 +58741,6 @@
 ||mms.cleveland.com^
 ||mms.cnn.com^
 ||mms.deadspin.com^
-||mms.gizmodo.com^
 ||mms.gulflive.com^
 ||mms.jalopnik.com^
 ||mms.jezebel.com^
@@ -67145,6 +67142,7 @@
 ||porngem.com/ai^
 ||porngraph.com^
 ||pornhyip.com^
+||pornlovo.co^
 ||pornoegg.com^
 ||pornohammer.com/cpanel^
 ||pornoheat.com^
@@ -75335,6 +75333,7 @@
 ||semblanceafford.com^
 ||semblanceindulgebellamy.com^
 ||semeeclots.top^
+||semhgk.xyz^
 ||semi-cod.nnmclub.ch^
 ||semicircledata.com^
 ||semicolondeterminationfaded.com^
@@ -75538,7 +75537,6 @@
 ||serve-servee.com^
 ||serve.bdsmstreak.com^
 ||serve.everydayporn.co^
-||serve.yourporngod.com^
 ||servebom.com^
 ||servedbyadbutler.com^
 ||servedbysmart.com^
@@ -83929,7 +83927,6 @@
 ||storj.cloud^
 ||stork.ibite.company^
 ||stork.notlessbutbetter.com^
-||stormsamba.live^
 ||stormwind.actonservice.com^
 ||stormyachiever.com^
 ||stormydisconnectedcarsick.com^
@@ -85031,6 +85028,7 @@
 ||syfwnf.society6.com^
 ||syh-imp.cdnjtzy.com^
 ||syinga.com^
+||syislob.top^
 ||syiwgwsqwngrdw.xyz^
 ||syjkscy.cn^
 ||sykfmgu.com^
@@ -91952,7 +91950,6 @@
 ||tubberlo.com^
 ||tubbyconversation.pro^
 ||tubeadvisor.com^
-||tubebazaar.com^
 ||tubebrand.com^
 ||tubeburst.com^
 ||tubecoast.com^
@@ -99729,6 +99726,7 @@
 ||xuudtwhlkrbah.com^
 ||xuwfmhh.icu^
 ||xuwkbiovxsjnjy.com^
+||xuxwvh.xyz^
 ||xuyanlong1.cn^
 ||xuymgm.hostgator.mx^
 ||xuzeez.com^
@@ -99821,6 +99819,7 @@
 ||xxsdtb.edreams.com^
 ||xxsmad1.com^
 ||xxsmad2.com^
+||xxsmad3.com^
 ||xxwflybvwbario.com^
 ||xxx.sdtraff.com^
 ||xxxbannerswap.com^
