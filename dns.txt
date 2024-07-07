@@ -2,7 +2,7 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-07-07 09:26:07（北京时间）
+! Version: 2024-07-07 20:32:25（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
 ! Total count: 101766
 ||*.diwodiwo.xyz^
@@ -907,6 +907,8 @@
 ||1stc6vz58kxw.top^
 ||1stparty.equifax.co.uk^
 ||1studio.net^
+||1t2.alpin.de^
+||1t2.kicker.de^
 ||1talking.net^
 ||1tds26q95.de^
 ||1to1.bbva.com^
@@ -1305,7 +1307,6 @@
 ||2smarttracker.com^
 ||2smt6mfgo.de^
 ||2spdo6g9h.de^
-||2sspnneeed2.monster^
 ||2step-garage.co.uk^
 ||2t4f7g9a.de^
 ||2ta5l5rc0.de^
@@ -7849,6 +7850,7 @@
 ||account.beauty^
 ||account.paypal-inc.tribesiren.com^
 ||accountancy.bppeloqua.com^
+||accountantflowerrespiration.com^
 ||accountantpacketassail.com^
 ||accountdolphinframe.com^
 ||accounting.frbservices.org^
@@ -10771,7 +10773,6 @@
 ||afflat3a1.com^
 ||afflat3d2.com^
 ||afflat3e1.com^
-||afflatebog.top^
 ||affluenceseptember.com^
 ||affluentcompere.com^
 ||affluentmirth.com^
@@ -11361,7 +11362,6 @@
 ||al.test.airtel.in^
 ||ala.durasite.net^
 ||alaburger.openapp.link^
-||alacksodoku.top^
 ||alacrityimitation.com^
 ||alacrityprepayprecursor.com^
 ||aladdinupdate.blackrock.com^
@@ -11770,6 +11770,7 @@
 ||alticoadvisors.actonservice.com^
 ||altitude-arena.com^
 ||altitudefolkastonishment.com^
+||altitudehighjackhonorary.com^
 ||altitudeweetonsil.com^
 ||altn.actonservice.com^
 ||altopd.com^
@@ -11919,6 +11920,7 @@
 ||amexcadrillon.com^
 ||amezqu.fabrykaform.pl^
 ||amfennekinom.com^
+||amfhby.cn^
 ||amgardevoirtor.com^
 ||amgdgt.com^
 ||amhippopotastor.com^
@@ -12955,6 +12957,7 @@
 ||anatomyabdicatenettle.com^
 ||anatomyassault.com^
 ||anatomybravely.com^
+||anatomyelegancephotocopy.com^
 ||anatomymagnanimity.com^
 ||anatomytrains.co.uk^
 ||anattagoozle.top^
@@ -13086,6 +13089,7 @@
 ||anmet.originenergy.com.au^
 ||anmgaxrujfru.com^
 ||anmiphglqn.com^
+||annaepicforgiveness.com^
 ||anncmq.com^
 ||anncquyaxns.com^
 ||annerhymenude.com^
@@ -13183,6 +13187,7 @@
 ||anteater.ttbwsd.com^
 ||anteater.webitize.com^
 ||antecedentbees.com^
+||antecedenthermichermiccheque.com^
 ||antelope.gabriellaroche.dev^
 ||antelope.itsluke.co.uk^
 ||antelope.johndbeatty.com^
@@ -13394,6 +13399,7 @@
 ||apeagle.io^
 ||apeidol.com^
 ||apenterprise.io^
+||apeobservedoverlook.com^
 ||apepix.com^
 ||apercusdimly.com^
 ||aperio.leicabiosystems.com^
@@ -15301,7 +15307,6 @@
 ||asrop.xyz^
 ||asrowjkagg.com^
 ||asryrzpu.xyz^
-||assadbee.live^
 ||assailusefullyenemies.com^
 ||assassinationrussia.com^
 ||assassinationsteal.com^
@@ -17360,6 +17365,7 @@
 ||bdf7a07377.com^
 ||bdfagcumunjzx.com^
 ||bdfg9a.icu^
+||bdfjw.cn^
 ||bdg-analytics.appspot.com^
 ||bdgg.qjy168.com^
 ||bdhddyknhy.com^
@@ -19791,6 +19797,7 @@
 ||brtenusjkmgyb.com^
 ||brtimove.eccocar.com^
 ||brtimovesharing.eccocar.com^
+||brtlisv.top^
 ||brtrack.rummypassion.com^
 ||brtsumthree.com^
 ||brtzgnd.xyz^
@@ -20027,7 +20034,6 @@
 ||bulkaccompanying.com^
 ||bulkbookstore.actonservice.com^
 ||bulkd.co^
-||bulkehhand.live^
 ||bulky-battle.com^
 ||bulkyfriend.com^
 ||bull00shit.com^
@@ -22951,7 +22957,6 @@
 ||clicks.kfc.fr^
 ||clicks.lifesum.com^
 ||clicks.metronautapp.com^
-||clicks.mods.de^
 ||clicks.point.app^
 ||clicks.rallyrd.com^
 ||clicks.shakeshack.com^
@@ -23498,7 +23503,6 @@
 ||codesbro.com^
 ||codezap.com^
 ||codon.vn^
-||codtestmol.live^
 ||coedmediagroup.com^
 ||coefficientpayslipssuicide.com^
 ||coefficienttolerategravel.com^
@@ -29578,7 +29582,6 @@
 ||dinseegny.com^
 ||diocgn.biltorvet.dk^
 ||dionympoalike.website^
-||dionysia-phr.com^
 ||diopousg.com^
 ||dioqto.totaljobs.com^
 ||diouy9cvtx.xyz^
@@ -30599,6 +30602,7 @@
 ||doujs03.xyz^
 ||doujs05.xyz^
 ||doujs06.xyz^
+||doujs07.xyz^
 ||doukoula.com^
 ||doumuleet.net^
 ||douoblelimpup.com^
@@ -38661,7 +38665,6 @@
 ||ghabnq.xyz^
 ||ghastlyoffer.com^
 ||ghastlyrejectionrest.com^
-||ghattilaggen.top^
 ||ghattiwongsky.com^
 ||ghavjknuitkmh.com^
 ||ghbdsbfd.com^
@@ -42429,7 +42432,6 @@
 ||honourcunninglowest.com^
 ||honoursdashed.com^
 ||honoursimmoderate.com^
-||honrfrye.com^
 ||hontent.powzers.lol^
 ||hontent.powzerz.lol^
 ||hontestmere.live^
@@ -71705,7 +71707,6 @@
 ||ricewaterhou.xyz^
 ||rich.qq.com^
 ||rich1x.xyz^
-||richdomtanbur.guru^
 ||richerprudes.top^
 ||richersitfast.life^
 ||richestplacid.com^
@@ -71999,7 +72000,6 @@
 ||robescampus.com^
 ||robflea.com^
 ||robindefensivedancing.com^
-||robmenbusy.live^
 ||robotadserver.com^
 ||robotflowermobile.com^
 ||roboticourali.com^
@@ -75536,7 +75536,6 @@
 ||serve-rtb.com^
 ||serve-servee.com^
 ||serve.bdsmstreak.com^
-||serve.everydayporn.co^
 ||servebom.com^
 ||servedbyadbutler.com^
 ||servedbysmart.com^
@@ -75652,7 +75651,6 @@
 ||sewersneaky.com^
 ||sewerysinglet.com^
 ||sewingunrulyshriek.com^
-||sewkindmay.live^
 ||sewmcqkulwxmrx.com^
 ||sewmerecontaining.com^
 ||sewussoo.xyz^
@@ -91945,7 +91943,6 @@
 ||tu.zx110.org^
 ||tu2024020388.com^
 ||tuagol.gartenmoebel.de^
-||tubadthy.live^
 ||tubbeckfresher.life^
 ||tubberlo.com^
 ||tubbyconversation.pro^
@@ -92041,6 +92038,7 @@
 ||tuotianxia.top^
 ||tupian6666.com^
 ||tupian888.*.bcebos.com^
+||tupian9999.com^
 ||tuplzt.xyz^
 ||tupwiwm.com^
 ||tuqizi.uno^
@@ -99840,6 +99838,8 @@
 ||xxxvjmp.com^
 ||xxxwebtraffic.com^
 ||xxxx68xxxx.com^
+||xxxx88xxxx.com^
+||xxxx96xxxx.com^
 ||xy33.smallable.com^
 ||xya4.groupefsc.com^
 ||xyardnle.com^
