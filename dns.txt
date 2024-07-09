@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-07-09 09:20:47（北京时间）
+! Version: 2024-07-09 20:36:21（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 101925
+! Total count: 101954
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -65,6 +65,7 @@
 ||0124.5clo0xmbf.com^
 ||0125.79j68qav2.com^
 ||0126.34gwl8v1a.com^
+||0127c96640.com^
 ||0133.5clo0xmbf.com^
 ||01399322b4.0d4f63422a.com^
 ||0140.4puuqeh41.com^
@@ -13157,6 +13158,7 @@
 ||anmet.originenergy.com.au^
 ||anmgaxrujfru.com^
 ||anmiphglqn.com^
+||anmjqqtevhsqwb.com^
 ||annaepicforgiveness.com^
 ||anncmq.com^
 ||anncquyaxns.com^
@@ -13662,6 +13664,7 @@
 ||apocalypsegulliblemood.com^
 ||apocarpdogdom.com^
 ||apochaeunanime.com^
+||apocopewheeple.com^
 ||apollo.plein.nl^
 ||apologiesbackyardbayonet.com^
 ||apologiesneedleworkrising.com^
@@ -16814,6 +16817,7 @@
 ||baijs03.xyz^
 ||baijs05.xyz^
 ||baijs06.xyz^
+||baijs07.xyz^
 ||bailcurvehealth.com^
 ||bailedgatheringmirth.com^
 ||bailedperiodic.com^
@@ -17715,6 +17719,7 @@
 ||beggingoppida.space^
 ||beggingparagraph.com^
 ||beginfrightsuit.com^
+||beginnerfurglow.com^
 ||beginnerhooligansnob.com^
 ||beginninggoondirections.com^
 ||beginningirresponsibility.com^
@@ -19893,6 +19898,7 @@
 ||brunchcreatesenses.com^
 ||brunetteattendanceawful.com^
 ||brunettemattersrefused.com^
+||bruntstabulae.com^
 ||bruny.net.anwalt.de^
 ||brupu.com^
 ||brushedwifedifferently.com^
@@ -20248,6 +20254,7 @@
 ||busrol.st-eustachenissan.com^
 ||bussydetune.top^
 ||bustlemiszone.com^
+||bustleravail.com^
 ||bustling-substance.pro^
 ||busychopdenounce.com^
 ||busyexit.com^
@@ -20783,6 +20790,7 @@
 ||calculateproducing.com^
 ||calendar.rodim.ru^
 ||calendarpedestal.com^
+||calepinphrasal.com^
 ||calfimmoderate.com^
 ||calgary-content.cresa.com^
 ||caliberco.actonservice.com^
@@ -21857,6 +21865,7 @@
 ||ceemoptu.xyz^
 ||ceeqgwt.com^
 ||ceezepegleze.xyz^
+||cefuthodob.com^
 ||cegadazwdsp.com^
 ||ceggfe.msc-kreuzfahrten.de^
 ||cegloockoar.com^
@@ -25734,6 +25743,7 @@
 ||cugeeksy.net^
 ||cugraghorty.com^
 ||cuhlsl.info^
+||cuifspyvuril.com^
 ||cuioxbqi.com^
 ||cuisineenvoyadvertise.com^
 ||cuisineomnipresentinfinite.com^
@@ -31173,6 +31183,7 @@
 ||dtq9oy2ckjhxu.cloudfront.net^
 ||dtqbqmzzbeck.com^
 ||dtqcpx.eskor.se^
+||dtqlltmmyb.com^
 ||dtr-onsite-feed.datarize.ai^
 ||dtrk.slimcdn.com^
 ||dtscdn.com^
@@ -38021,6 +38032,7 @@
 ||ganismpro.com^
 ||ganizationsuc.info^
 ||ganjituiguang.ganji.com^
+||gannetsmechant.com^
 ||gannett.gcion.com^
 ||ganodusskunks.top^
 ||ganon.yahoo.com^
@@ -41913,6 +41925,7 @@
 ||hfnzhczqgdp.com^
 ||hfoghh.inter.it^
 ||hfolmr.office-com.jp^
+||hfptbb.cn^
 ||hfpuhwqi.xyz^
 ||hfpwcx.supermercadosmas.com^
 ||hfqnbrrutmyqlo.com^
@@ -41980,6 +41993,7 @@
 ||hhsp2.com^
 ||hht8m6w8mnug.quine.sh^
 ||hhtxjoa.com^
+||hhuohqramjit.com^
 ||hhvbdeewfgpnb.xyz^
 ||hhvivsbiip.com^
 ||hhwcqa.underarmour.com.br^
@@ -43085,6 +43099,7 @@
 ||huntershoemaker.com^
 ||huntingtroll.com^
 ||huntmad.com^
+||hunyakupgive.com^
 ||huohuo.huamuwo.com^
 ||huoju.asia^
 ||hupiru.uno^
@@ -47748,6 +47763,7 @@
 ||joacupoahy.com^
 ||joaglouwulin.com^
 ||joannaiodisms.com^
+||joanneehretia.com^
 ||joaphoad.com^
 ||joaqaylueycfqw.xyz^
 ||joasoagly.com^
@@ -48630,6 +48646,7 @@
 ||kappalinks.com^
 ||kapvu.cn^
 ||kaqhfijxlkbfa.xyz^
+||kaqppajmofte.com^
 ||karafutem.com^
 ||karayarillock.cam^
 ||karlhalved.com^
@@ -48913,6 +48930,7 @@
 ||kgxpbxhigq.com^
 ||kgyhxdh.com^
 ||kh.suno.vn^
+||khakisminder.com^
 ||khanjeeyapness.website^
 ||khatexcepeded.info^
 ||khayatarai.com^
@@ -58446,6 +58464,7 @@
 ||milljeanne.com^
 ||millsurfaces.com^
 ||millustry.top^
+||milordsupbbore.com^
 ||milteept.xyz^
 ||miltlametta.com^
 ||miluwo.com^
@@ -59284,6 +59303,7 @@
 ||mopefrequent.com^
 ||mopeia.xyz^
 ||mopemodelingfrown.com^
+||mopesrubelle.com^
 ||moplahsoleil.top^
 ||mopub-win-us-east.bksn.se^
 ||mopub.com^
@@ -70147,6 +70167,7 @@
 ||ragita.uno^
 ||raglanyakking.com^
 ||raglassofrum.cc^
+||ragnarhorst.com^
 ||ragsbxhchr.xyz^
 ||ragwviw.com^
 ||raheglin.xyz^
@@ -74193,6 +74214,7 @@
 ||sauriaparpen.com^
 ||sausagegirlieheartburn.com^
 ||sauwoaptain.com^
+||savableee.com^
 ||savagelylizard.com^
 ||savaurdy.net^
 ||save.salary.com.au^
@@ -74548,6 +74570,7 @@
 ||scratch2cash.com^
 ||scratchconsonant.com^
 ||scratchy-trick.com^
+||scrawmthirds.com^
 ||scrawny-pipe.com^
 ||scrawnyarticle.pro^
 ||scrazeunwaged.com^
@@ -84704,6 +84727,7 @@
 ||surfacesmulti.com^
 ||surfcountor.com^
 ||surfedlattins.com^
+||surfeitdrabble.com^
 ||surfeurdor.free.fr^
 ||surfingmister.com^
 ||surfmdia.com^
@@ -86111,6 +86135,7 @@
 ||tapetalvolva.top^
 ||tapewherever.com^
 ||tapheetsat.com^
+||tapi.apkpure.net^
 ||tapingauthenticemulation.com^
 ||tapingfoulgos.com^
 ||tapinghouseworkusual.com^
@@ -87024,6 +87049,7 @@
 ||testsocial.eduthrill.com^
 ||testtarget.jeep.com^
 ||tesupervis.hair^
+||tethsrump.com^
 ||tetrdracausa.com^
 ||tetrylscullion.com^
 ||tettrro.info^
@@ -93233,6 +93259,7 @@
 ||unfortunatelydestroyedfuse.com^
 ||unfortunatelyprayers.com^
 ||unfriendlysalivasummoned.com^
+||ungatedsynch.com^
 ||ungillhenbane.com^
 ||ungirthranee.com^
 ||ungloomnisnas.com^
@@ -93399,6 +93426,7 @@
 ||unstantleran.com^
 ||unsteadybreakfast.pro^
 ||unsternrelease.com^
+||unstilldemeore.com^
 ||unstoutgolfs.com^
 ||unsubscribe.datadelivers.com^
 ||unsubscribe.e.silverfernfarms.com^
@@ -94672,6 +94700,7 @@
 ||vfphbh.xyz^
 ||vfsvv1.com^
 ||vfthr.com^
+||vftvbx.xyz^
 ||vfvad.top^
 ||vfvcxv.naturhaeuschen.de^
 ||vfvdsati.com^
