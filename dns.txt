@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-07-10 09:21:03（北京时间）
+! Version: 2024-07-10 20:35:41（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 102196
+! Total count: 102204
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -15600,6 +15600,7 @@
 ||ataxiasfaulds.shop^
 ||atb.mlb.com^
 ||atbdkmt.xyz^
+||atbif.cn^
 ||atblqu.rondorff.com^
 ||atbs.actonservice.com^
 ||atcbju.silvergoldbull.ca^
@@ -22600,6 +22601,7 @@
 ||cicada.escapethecorporatecult.com^
 ||cicada.wordvested.org^
 ||cicamica.xyz^
+||cickofou.com^
 ||cideparenhem.com^
 ||cidhdgv.xyz^
 ||cidreeth.com^
@@ -25587,6 +25589,7 @@
 ||cryptomcw.com^
 ||cryptonewsdom.care^
 ||cryptosplash.care^
+||cryptotyc.care^
 ||crystalslot.com^
 ||cryweb.github.io^
 ||crzohw.intersport.gr^
@@ -43212,6 +43215,7 @@
 ||hutanz.xyz^
 ||hutkse.wecandoo.fr^
 ||hutlockshelter.com^
+||hutoumseet.com^
 ||hutrealebion.com^
 ||hutremindbond.com^
 ||huuocxu.icu^
@@ -48132,6 +48136,7 @@
 ||jrrryblqkavqa.top^
 ||jrsmnddakpce.com^
 ||jrtbjai.com^
+||jrtlisa.top^
 ||jrtqaliyucgpaes.com^
 ||jrtwi.xyz^
 ||jrucbb.guestreservations.com^
@@ -65047,6 +65052,7 @@
 ||paicdn.privateapi.click^
 ||paichaus.com^
 ||paid.outbrain.com^
+||paidlemirkily.com^
 ||paiena.xyz^
 ||paigarohauja.com^
 ||paiglumousty.net^
@@ -73635,6 +73641,7 @@
 ||sa.tactics.com^
 ||sa.tlc.com^
 ||sa.travelchannel.com^
+||sa.uswitch.com^
 ||sa2m4buc5us.com^
 ||sa8zdui.com^
 ||saa-aem.hamamatsu.com^
@@ -85778,6 +85785,7 @@
 ||t.foxtheatre.org^
 ||t.freelancer.com^
 ||t.friars.com^
+||t.fullres.net^
 ||t.fuzeon.com^
 ||t.gazyva.com^
 ||t.gdt.qq.com^
