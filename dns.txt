@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-07-12 09:20:13（北京时间）
+! Version: 2024-07-12 20:35:35（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 102408
+! Total count: 102415
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -2003,6 +2003,7 @@
 ||5736.8pv9vvi9b.com^
 ||573d28b35e.com^
 ||5753.5clo0xmbf.com^
+||57573zubo36833.com^
 ||5764.ogrt80r65.com^
 ||5765.5clo0xmbf.com^
 ||57883.net^
@@ -37269,6 +37270,7 @@
 ||fpjjjh.xyz^
 ||fpjscdn.net^
 ||fpmleqdb.com^
+||fpninv.xyz^
 ||fpnpmcdn.net^
 ||fpptmv.mrmarvis.co.uk^
 ||fpssl-monitor-dal.omniture.com^
@@ -37533,6 +37535,7 @@
 ||fromoffspringcaliber.com^
 ||front.optimonk.com^
 ||frontcognizance.com^
+||frontendcodingtips.com^
 ||fronthlpr.com^
 ||fronthlpric.com^
 ||frontierconsul02.tsunagaru-office.com^
@@ -44805,6 +44808,7 @@
 ||imglnke.com^
 ||imgmail.mediasetpremium.it^
 ||imgopen.vip^
+||imgoss2255.top^
 ||imgoss511.top^
 ||imgot.info^
 ||imgot.site^
@@ -65352,6 +65356,7 @@
 ||parademuscleseurope.com^
 ||paradiseannouncingnow.com^
 ||paradisenookminutes.com^
+||paradizeconstruction.com^
 ||paragraphdisappointingthinks.com^
 ||paragraphopera.com^
 ||parakeet.quotetweet.com^
@@ -82072,6 +82077,7 @@
 ||srsotqdgln.com^
 ||srtb.msn.cn^
 ||srtb.msn.com^
+||srtlisb.top^
 ||srtlyye.com^
 ||srtrak.com^
 ||sruk.srglobal.com^
@@ -92647,6 +92653,7 @@
 ||tuotianxia.top^
 ||tupian6666.com^
 ||tupian888.*.bcebos.com^
+||tupian88888.com^
 ||tupian9999.com^
 ||tuplzt.xyz^
 ||tupwiwm.com^
