@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-07-13 09:20:58（北京时间）
+! Version: 2024-07-13 20:32:09（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 102464
+! Total count: 102470
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -15328,6 +15328,7 @@
 ||asdfasdasd9987.co^
 ||asdfdr.cfd^
 ||asdfix.com^
+||asdji2.cn^
 ||asdpoi.com^
 ||asdqslnqmwwkc.com^
 ||asds.hentaitimes.com^
@@ -17890,6 +17891,7 @@
 ||beklinkor.com^
 ||bekmhvbb.xyz^
 ||belamicash.com^
+||belatedsafety.pro^
 ||belavoplay.com^
 ||belaya2shu1ba1.com^
 ||belengougha.com^
@@ -34191,6 +34193,7 @@
 ||ertewqas.org^
 ||ertgbme.com^
 ||ertistsldahehu.com^
+||ertlisw.top^
 ||erty0yx.com^
 ||eru5tdmbuwxm.com^
 ||erucbaillie.top^
@@ -66381,6 +66384,7 @@
 ||phosphatepossible.com^
 ||photo-ads.co.uk^
 ||photo-ads.zaloapp.com^
+||photo07.xyz^
 ||photofuturecrappy.com^
 ||photographcrushingsouvenirs.com^
 ||photographerinopportune.com^
@@ -76720,6 +76724,7 @@
 ||shocked-failure.com^
 ||shockedfoxed.top^
 ||shocking-design.pro^
+||shocking-profile.pro^
 ||shockingrobes.com^
 ||shockingstrategynovelty.com^
 ||shockynews.com^
@@ -97597,6 +97602,7 @@
 ||whootascots.com^
 ||whootkhankah.com^
 ||whoppercreaky.com^
+||whopping-sea.com^
 ||whopstriglot.com^
 ||whoptoorsaub.com^
 ||whorlysenior.top^
