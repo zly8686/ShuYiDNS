@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-07-14 09:33:33（北京时间）
+! Version: 2024-07-14 20:46:12（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 102474
+! Total count: 102501
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -14603,6 +14603,7 @@
 ||app1.maatwerkonline.nl^
 ||app2.10090dfs.com^
 ||app2.220cordncode.com^
+||app2up.info^
 ||appaaaddd.com^
 ||appads.com^
 ||appanalysis.banggood.com^
@@ -15977,6 +15978,7 @@
 ||auneghus.net^
 ||aungudie.com^
 ||aunsagoa.xyz^
+||aunsaick.com^
 ||auntdrawing.com^
 ||auntlyseniors.top^
 ||auobxpvjej.xyz^
@@ -16254,6 +16256,7 @@
 ||awkwardpurfles.com^
 ||awkwardsuperstition.com^
 ||awkwardtilt.com^
+||awldcupu.com^
 ||awledconside.xyz^
 ||awlov.info^
 ||awltovhc.com^
@@ -16721,6 +16724,7 @@
 ||b37c6c9b6b.246755be17.com^
 ||b37r5.cyou^
 ||b397db8f50.com^
+||b3b526dee6.com^
 ||b3kyo0de1fr0.com^
 ||b3mccglf4zqz.shop^
 ||b3ra6hmstrioek54er.com^
@@ -22895,6 +22899,7 @@
 ||clampalarmlightning.com^
 ||clangearnest.com^
 ||clanker-events.squarespace.com^
+||clankexpelledidentification.com^
 ||clanklastingfur.com^
 ||clapperfone.uno^
 ||claria.com^
@@ -35525,6 +35530,7 @@
 ||falsifylilac.com^
 ||fameuseterns.top^
 ||familialsimulation.com^
+||familiarpyromaniasloping.com^
 ||familienzahnaerzte.com^
 ||family1st.ca^
 ||familyborn.com^
@@ -37677,6 +37683,7 @@
 ||ftslrfl.com^
 ||ftte.fun^
 ||ftte.xyz^
+||fttervlvoj.com^
 ||fttjyji.com^
 ||ftuart.chomedeynissan.com^
 ||ftuaxqokbxow.com^
@@ -39229,6 +39236,7 @@
 ||glbgox.djoser.de^
 ||glbtrk.com^
 ||gld.samsungosp.com^
+||gldrdr.com^
 ||gleagainedam.info^
 ||gleamcalumnygeneralize.com^
 ||gleamcoupgently.com^
@@ -40480,6 +40488,7 @@
 ||gqalqi656.com^
 ||gqcmqihonrx.com^
 ||gqdvbkmnkox.com^
+||gqfuf.com^
 ||gqhfjr.sizeofficial.es^
 ||gqhrflhprg.com^
 ||gqilaywrqy.com^
@@ -42594,6 +42603,7 @@
 ||hmsykhbqvesopt.xyz^
 ||hmutggsidcnhj.com^
 ||hmvbmf.vidaxl.es^
+||hmxg5mhyx.com^
 ||hmyjoj.5-fifth.com^
 ||hmyuokltxplqwfa.com^
 ||hmziwy.yearbookordercenter.com^
@@ -43944,6 +43954,7 @@
 ||ifsjqcqja.xyz^
 ||ifsnickshriek.click^
 ||ifsnickshriek.com^
+||ifulasaweatherc.info^
 ||ifvxoluyhof.com^
 ||ifxnyp.troquer.com.mx^
 ||ifyane.balaan.co.kr^
@@ -46465,6 +46476,7 @@
 ||interstateflannelsideway.com^
 ||interstitial-07.com^
 ||interstitial-08.com^
+||intervention304.fun^
 ||interviewabonnement.com^
 ||interviewearnestlyseized.com^
 ||interviewidiomantidote.com^
@@ -49755,6 +49767,7 @@
 ||krjxhvyyzp.com^
 ||krjzxie.cn^
 ||krkmkvxneig.com^
+||krkstrk.com^
 ||krm22.actonservice.com^
 ||kronentriduo.top^
 ||kronosspell.com^
@@ -52462,6 +52475,7 @@
 ||lm1.tuliu.com^
 ||lm1.wkpcw.cn^
 ||lm10111.jtrincc.cn^
+||lma.npaw.com^
 ||lmaghokalqji.xyz^
 ||lmalyjywqlolv.top^
 ||lmalyjywqlwvk.top^
@@ -53822,6 +53836,7 @@
 ||lydiapain.com^
 ||lydiz.com^
 ||lydrnj.xyz^
+||lyearsfoundhertob.com^
 ||lyegyo.bluenile.com^
 ||lyevhqjvgctacjx.com^
 ||lyfnh.io^
@@ -60685,6 +60700,7 @@
 ||namesakedisappointmentpulverize.com^
 ||namesakeoscilloscopemarquis.com^
 ||namethatporn.com/assets/dev_popscript.js^
+||namjzoa.xyz^
 ||namol.xyz^
 ||namrinfo.motorolasolutions.com^
 ||namtofe.com^
@@ -61030,6 +61046,7 @@
 ||negyuk.com^
 ||nehree.com^
 ||neigh11.xyz^
+||neighborhood268.fun^
 ||neigna.com^
 ||neintheworld.org^
 ||neiod.xyz^
@@ -63058,6 +63075,7 @@
 ||ogrt80r65.com^
 ||ogtakvkpoaxt.com^
 ||ogvkyxx.com^
+||ogwkwcgmnarq.com^
 ||ogwmubfnjbzyo.com^
 ||ogwnjcumfbgm.com^
 ||ogwqkgtboxol.com^
@@ -64202,6 +64220,7 @@
 ||orgagetnization.org^
 ||orgalso.com^
 ||organaamnions.com^
+||organiccopiedtranquilizer.com^
 ||organiccrap.com^
 ||organizations.stratfor.com^
 ||organizecoldness.com^
@@ -65297,6 +65316,7 @@
 ||palsybrush.com^
 ||palsyowe.com^
 ||paltryheadline.com^
+||paluinho.cloud^
 ||palvanquish.com^
 ||palycaid.life^
 ||palzscurou.com^
@@ -66321,6 +66341,7 @@
 ||pheptoam.com^
 ||pheselta.net^
 ||phesheet.net^
+||phetsaikrugi.com^
 ||phewhouhopse.com^
 ||phftcml.com^
 ||phglobk.com^
@@ -71553,6 +71574,7 @@
 ||renewdateromance.life^
 ||renewedinexorablepermit.com^
 ||renewmodificationflashing.com^
+||renewpacificdistrict.com^
 ||renomeeguze.com^
 ||renovatefairfaxmope.com^
 ||renownsimultaneouslyunresolved.com^
@@ -72460,6 +72482,7 @@
 ||rmpad.imtt.qq.com^
 ||rmrtgsheui.com^
 ||rms-drcn.platform.dbankcloud.cn^
+||rmshqa.com^
 ||rmtckjzct.com^
 ||rmuuspy.com^
 ||rmvvawqobqvaq.top^
@@ -74872,6 +74895,7 @@
 ||scjlpq.navitime.co.jp^
 ||scl6gc5l.site^
 ||sclerasliflod.top^
+||sclimbwidower.top^
 ||sclrnnp.com^
 ||scmarketing.colliers.com^
 ||scmetrics.exacttarget.com^
@@ -76849,6 +76873,7 @@
 ||shrillwife.pro^
 ||shrillyfinland.com^
 ||shrimpexclusive.com^
+||shrimpgenerator.com^
 ||shrinebroom.com^
 ||shrinersstor.com^
 ||shriteringle.digital^
@@ -84925,6 +84950,7 @@
 ||success.rhb.com^
 ||success.vertigis.com^
 ||success.vertigisstudio.com^
+||successcuff.com^
 ||successfulpatience.com^
 ||successionfireextinguisher.com^
 ||successionflimsy.com^
@@ -100532,6 +100558,7 @@
 ||xxxssv.jeulia.com^
 ||xxxuhx.xyz^
 ||xxxviijmp.com^
+||xxxvijmp.com^
 ||xxxvjmp.com^
 ||xxxwebtraffic.com^
 ||xxxx68xxxx.com^
