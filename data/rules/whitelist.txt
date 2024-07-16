@@ -34,3 +34,5 @@
 @@||cdn.bootcdn.net^
 !饿了么小程序
 @@||waimai-guide.ele.me^
+!小米隐私政策撤回同意
+@@||data.sec.miui.com^
