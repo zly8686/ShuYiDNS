@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-07-18 09:20:02（北京时间）
+! Version: 2024-07-18 20:36:13（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 102602
+! Total count: 102611
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -10924,7 +10924,6 @@
 ||affiliatestonybet.com^
 ||affiliatetracking.com^
 ||affiliatetracking.net^
-||affiliatetxt.nextmediaweb.com^
 ||affiliatewindow.com^
 ||affiliation-france.com^
 ||affiliation.porn.fr^
@@ -12848,6 +12847,7 @@
 ||analytics.qogita.com^
 ||analytics.qoqa.ch^
 ||analytics.qoqa.ninja^
+||analytics.qs-apps.com^
 ||analytics.qualcomm.com^
 ||analytics.qualityquestions.co^
 ||analytics.qualityunit.com^
@@ -16950,6 +16950,7 @@
 ||baiduvjsbvjknlsvsv.com^
 ||baifaphoa.com^
 ||baifen.music.baidu.com^
+||baijs010.xyz^
 ||baijs02.xyz^
 ||baijs03.xyz^
 ||baijs05.xyz^
@@ -30910,6 +30911,7 @@
 ||doujs06.xyz^
 ||doujs07.xyz^
 ||doujs08.xyz^
+||doujs09.xyz^
 ||doukoula.com^
 ||doumuleet.net^
 ||douoblelimpup.com^
@@ -40360,6 +40362,7 @@
 ||google-analytics.com^
 ||google-js-01.xyz^
 ||google-js-02.xyz^
+||google-js-08.xyz^
 ||google-shopping-v2.sapoapps.vn^
 ||google-shopping.sapoapps.vn^
 ||googleads-cn.com^
@@ -42554,6 +42557,7 @@
 ||hjnjjcw.xyz^
 ||hjprhubzqgw.com^
 ||hjqdwmekhur.com^
+||hjrcjz.xyz^
 ||hjrvsw.info^
 ||hjrwwwlqcovom.com^
 ||hjshal.com^
@@ -52371,6 +52375,7 @@
 ||liveagent.mobilbonus.cz^
 ||liveats-vod.video.ptqy.gitv.tv^
 ||livec.l.qq.com^
+||liveclix.net^
 ||livecounter.theyosh.nl^
 ||livedspoonsbun.com^
 ||liveintent.com^
@@ -66846,6 +66851,7 @@
 ||pixel.newscgp.com^
 ||pixel.newscred.com^
 ||pixel.nine.com.au^
+||pixel.nudgify.com^
 ||pixel.nur.kz^
 ||pixel.playbuzz.com^
 ||pixel.poptok.com^
@@ -83741,6 +83747,7 @@
 ||stats.guidingwallet.app^
 ||stats.guycarp.com^
 ||stats.gynsprechstunde.de^
+||stats.habr.com^
 ||stats.hackershare.dev^
 ||stats.hager.com^
 ||stats.halcyon.hr^
@@ -86222,6 +86229,7 @@
 ||t.miamihurricanes.com^
 ||t.miamiredhawks.com^
 ||t.mktg.genesys.com^
+||t.mm-uxrv.com^
 ||t.mmaeast.com^
 ||t.montecarlosbm.com^
 ||t.msubobcats.com^
@@ -98325,6 +98333,7 @@
 ||worldfreshblog.com^
 ||worldfreshjournal.com^
 ||worldglobalssp.xyz^
+||worldinform.ru^
 ||worldkolf.info^
 ||worldlyyouth.com^
 ||worldmtcs.nhk.jp^
