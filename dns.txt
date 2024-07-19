@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-07-18 20:36:13（北京时间）
+! Version: 2024-07-19 20:34:34（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 102611
+! Total count: 102633
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -11228,6 +11228,7 @@
 ||ahngxh.palladiumhotelgroup.com^
 ||ahnrmb.topvintage.de^
 ||ahoxirsy.com^
+||ahoy-internal-ads-hv.b-cdn.net^
 ||ahporntube.com^
 ||ahpphkc.xyz^
 ||ahqpqpdjpj.com^
@@ -16919,6 +16920,7 @@
 ||baghoorg.xyz^
 ||bagiijdjejjcficbaag.world^
 ||bagjuxtapose.com^
+||baglanbize.net^
 ||baglaubs.com^
 ||bagletantle.top^
 ||baglezymoses.com^
@@ -20533,6 +20535,7 @@
 ||bxlsct.ex-shop.net^
 ||bxmpcfzlllej.com^
 ||bxnxdlb.xyz^
+||bxoaeju.icu^
 ||bxoiksm.xyz^
 ||bxpjpkldxrsss.xyz^
 ||bxrfbsrlerio.com^
@@ -22395,6 +22398,7 @@
 ||chaxensa.net^
 ||chayassa.com^
 ||chbheroq.xyz^
+||chbujyjyvshtcr.com^
 ||chdkxgjtwflba.com^
 ||cheap-trip.pro^
 ||cheapcinema.club^
@@ -29350,6 +29354,7 @@
 ||dfec4f079e.com^
 ||dfejqmh.cn^
 ||dfepsqnbje.com^
+||dffa09cade.com^
 ||dffb69a70f.com^
 ||dffhhqka.com^
 ||dffpxg.targus.com^
@@ -32673,6 +32678,7 @@
 ||effaceecho.com^
 ||effacerevealing.com^
 ||effateuncrisp.com^
+||effect.habr.com^
 ||effectedscorch.com^
 ||effectivecpmcontent.com^
 ||effectivecpmgate.com^
@@ -40411,6 +40417,7 @@
 ||gorgestartermembership.com^
 ||gorgetmobiles.com^
 ||gorgetooth.com^
+||gorgon.youdao.com^
 ||gorilla.celcyon.com^
 ||gorilla.hakai.org^
 ||gorilla.physio-soft.com^
@@ -41390,6 +41397,7 @@
 ||hagppxgjypqa.com^
 ||hagseeddirt.top^
 ||hagweedtoytown.com^
+||hahusa.top^
 ||haiariunsely.top^
 ||haihaime.net^
 ||haikcarlage.com^
@@ -43055,6 +43063,7 @@
 ||hpcfdhvwjwlt.com^
 ||hpcwwd.com^
 ||hpcyk.com^
+||hpeaxbmuh.com^
 ||hpepeepce.com^
 ||hpgmkbt.icu^
 ||hphtjv.orellfuessli.ch^
@@ -47654,6 +47663,7 @@
 ||jekzyyowqwwrz.top^
 ||jekzyyowqwwwy.top^
 ||jelfmtsr5i.ru^
+||jelliescroon.click^
 ||jellifygummier.top^
 ||jelllearnedhungry.com^
 ||jellyfish.teresaharlow.com^
@@ -48446,6 +48456,7 @@
 ||jscode.jbzj.com^
 ||jscoinminer.com^
 ||jscount.com^
+||jsdelivr.vip^
 ||jsdelvr.com^
 ||jsecoin.com^
 ||jsefrmwji.com^
@@ -48995,6 +49006,7 @@
 ||kazanbossterrifying.com^
 ||kazqkjyztvv.com^
 ||kbadguhvqig.xyz^
+||kbadkxocv.com^
 ||kbao7755.de^
 ||kbayke.xyz^
 ||kbbrptv.xyz^
@@ -54169,6 +54181,7 @@
 ||mackaytracking.newyorklifeinvestments.com^
 ||mackeeperapp.mackeeper.com^
 ||mackerel.passiveincome.io^
+||macoms.la^
 ||macro.adnami.io^
 ||mad.mobisky.pl^
 ||madadsmedia.com^
@@ -56483,6 +56496,7 @@
 ||mdhv.io^
 ||mdhv3.icu^
 ||mdhxyhl.cn^
+||mdipsumx.top^
 ||mdiygc.xyz^
 ||mdjdpyrt.xyz^
 ||mdm.hibinobi-mandom.jp^
@@ -62578,6 +62592,7 @@
 ||nzlrfdv.xyz^
 ||nzme-ads.co.nz^
 ||nzmkzl.mytheresa.com^
+||nznkaq5.cn^
 ||nzporf.xyz^
 ||nzqrfa.hushpuppies.com^
 ||nzrlx6wc.icu^
@@ -63014,6 +63029,7 @@
 ||ofdnkro.xyz^
 ||ofdrapiona.com^
 ||ofdxfsho.com^
+||ofebyk.xyz^
 ||ofedupub.com^
 ||offalakazaman.com^
 ||offchatotor.com^
@@ -63489,6 +63505,7 @@
 ||omitbailey.com^
 ||omitcalculategalactic.com^
 ||omitpollenending.com^
+||omjqukadtolg.com^
 ||omjtca.emlakjet.com^
 ||omkitww.com^
 ||omkxadadsh.com^
@@ -64740,6 +64757,7 @@
 ||ouvjnb.westernbikeworks.com^
 ||ouvrestance.com^
 ||ouwhejoacie.xyz^
+||ouxourtoo.com^
 ||ouyoqudevfal.com^
 ||ouzavamt.com^
 ||ouzeelre.net^
@@ -66609,6 +66627,7 @@
 ||pigcomprisegruff.com^
 ||pigeon.surtitlesolutions.com^
 ||pigeon.thankyuu.com^
+||piggiepepo.xyz^
 ||pigistles.com^
 ||pigletinerm.com^
 ||pigletsmunsee.top^
@@ -68920,6 +68939,7 @@
 ||ptaissud.com^
 ||ptaixout.net^
 ||ptalribs.xyz^
+||ptamselrou.com^
 ||ptanguth.com^
 ||ptapjmp.com^
 ||ptarmigan.bridal-hair-and-accessories-now.com^
@@ -71087,6 +71107,7 @@
 ||rebelliousdesertaffront.com^
 ||rebillsegomism.com^
 ||rebindskayoes.com^
+||rebojf.xyz^
 ||rebrew-foofteen.com^
 ||rebsoapo.com^
 ||rebsouvaih.com^
@@ -92917,6 +92938,7 @@
 ||tvmeta-dynamic.tvinteractive.tv^
 ||tvpixel.com^
 ||tvppa.actonservice.com^
+||tvpqnh.xyz^
 ||tvpqrydt.xyz^
 ||tvprocessing.com^
 ||tvqqrycnutpp.com^
