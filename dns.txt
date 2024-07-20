@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-07-20 09:19:30（北京时间）
+! Version: 2024-07-20 20:32:47（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 102661
+! Total count: 102665
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -244,7 +244,6 @@
 ||0b85c2f9bb.com^
 ||0bb68b4c4a.a65768f777.com^
 ||0byv9mgbn0.com^
-||0c09748660.com^
 ||0c0be7a0c2.0ab9f67572.com^
 ||0c73bb2de3.7e5f2028a6.com^
 ||0c74d1e2ed.0342b40dd6.com^
@@ -725,7 +724,6 @@
 ||1896709103.rsc.cdn77.org^
 ||189zx.com^
 ||18freeporn.com^
-||18hdxxx.com^
 ||18pluspics.com^
 ||18plusstore.com^
 ||18teensex.com^
@@ -3077,6 +3075,7 @@
 ||9d3464a212.eac77b4889.com^
 ||9d407e803d.com^
 ||9d5ed16be3.2f2bef3deb.com^
+||9d603009eb.com^
 ||9d70e2dcea.c4024c9266.com^
 ||9dccbda825.com^
 ||9dccc8e106.com^
@@ -9951,7 +9950,6 @@
 ||ads.worldofshowjumping.com^
 ||ads.wwe.biz^
 ||ads.xedoisong.vn^
-||ads.xemphimso.com^
 ||ads.xemtivisohd.net^
 ||ads.xhamster.com^
 ||ads.xlxtra.com^
@@ -15478,6 +15476,7 @@
 ||asnoibator.com^
 ||asnortsalol.website^
 ||asnothycan.info^
+||asnothycantyou.info^
 ||aso1.net^
 ||asoawhum.com^
 ||asoewk.jaanuu.com^
@@ -18872,6 +18871,7 @@
 ||blogger2020.com^
 ||bloggerex.com^
 ||blogherads.com^
+||blogostock.com^
 ||blogrush.com^
 ||blogstatistics.sapoapps.vn^
 ||blogtoplist.se^
@@ -19454,7 +19454,6 @@
 ||boxernightdilution.com^
 ||boxernipplehopes.com^
 ||boxerparliamenttulip.com^
-||boxingweaver.com^
 ||boxiti.net^
 ||boxlikepavers.com^
 ||boxlivegarden.com^
@@ -30915,6 +30914,7 @@
 ||douglaug.net^
 ||douhooke.net^
 ||doujs01.xyz^
+||doujs010.xyz^
 ||doujs02.xyz^
 ||doujs03.xyz^
 ||doujs05.xyz^
@@ -31661,6 +31661,7 @@
 ||dwrlwx.polo-motorrad.de^
 ||dwtkuzo.cn^
 ||dwtpxq.karaca-home.com^
+||dwuxbazvi.com^
 ||dwuzxuvwlq.winticket.jp^
 ||dwvbfnqrbif.com^
 ||dwvxmfscptajtll.com^
@@ -50731,6 +50732,7 @@
 ||lbyx.xyz^
 ||lc.nodoseamylic.com^
 ||lc442.com^
+||lcarlbvwr.com^
 ||lcdsyj.daily.co.jp^
 ||lcdtilth.uno^
 ||lcefsf.icu^
@@ -57103,6 +57105,7 @@
 ||metingsaeta.com^
 ||metinkuba.com^
 ||metminekit.live^
+||metogthr.com^
 ||metok.sys.miui.com^
 ||metorealiukz.org^
 ||metosk.com^
@@ -60706,7 +60709,6 @@
 ||n69.com^
 ||n6kux3ys3lhv.com^
 ||n7181.com^
-||n730.timesunion.com^
 ||n7565.com^
 ||n7578.com^
 ||n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com^
@@ -61285,7 +61287,6 @@
 ||newadflows.com^
 ||newads.bangbros.com^
 ||newadsfit.com^
-||newaistar.top^
 ||newaprads.com^
 ||newbie.com^
 ||newbiquge.org^
@@ -62518,7 +62519,6 @@
 ||nwhuomqmuym.com^
 ||nwmnd.com^
 ||nwmol.top^
-||nwmum.com^
 ||nwpcptmm.xyz^
 ||nwrgdifq.xyz^
 ||nws.naltis.com^
@@ -69783,6 +69783,7 @@
 ||qdvducltjswp.com^
 ||qdzyspjx.com^
 ||qe0ckm024b.com^
+||qebpwkxjz.com^
 ||qebuoxn.com^
 ||qeclsl.com^
 ||qedeczzdt.com^
@@ -70339,7 +70340,6 @@
 ||quizmastersnappy.com^
 ||quizna.xyz^
 ||quizsupportedchapel.com^
-||quizzicalgrand.pro^
 ||qujishu.com^
 ||quk9.destinia.com.ar^
 ||qumaef.conects.com^
@@ -70990,6 +70990,7 @@
 ||rdsgick.icu^
 ||rdsncyndhj.com^
 ||rdtk.io^
+||rdtracer.com^
 ||rdtrck2.com^
 ||rdufuxr.icu^
 ||rdvxxx.crushj.com^
@@ -74608,6 +74609,7 @@
 ||sandtheircle.com^
 ||sandwich3452.fun^
 ||sandwichdeliveringswine.com^
+||sandyrecordingmeet.com^
 ||sandysuspicions.com^
 ||sanedfalsely.com^
 ||sanfordcessor.space^
@@ -88137,6 +88139,7 @@
 ||thuah.com^
 ||thuant.com^
 ||thubanoa.com^
+||thuckautiru.com^
 ||thuliagum.com^
 ||thulrlidos.com^
 ||thumbs.net.anwalt.de^
@@ -101973,6 +101976,7 @@
 ||zemstvahorn.top^
 ||zemteksu.xyz^
 ||zemydreamsa.info^
+||zemydreamsauk.com^
 ||zemywwm.com^
 ||zenam.xyz^
 ||zenaot.xyz^
