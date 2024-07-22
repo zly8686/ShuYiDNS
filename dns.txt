@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-07-21 20:33:37（北京时间）
+! Version: 2024-07-22 09:23:44（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 102659
+! Total count: 102652
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -1828,7 +1828,6 @@
 ||4ed196b502.com^
 ||4ed5560812.com^
 ||4ever.cc^
-||4f2ee73540.com^
 ||4f2sm1y1ss.com^
 ||4f369824ed.com^
 ||4f4e1936f7.com^
@@ -3038,7 +3037,6 @@
 ||99zns.top^
 ||9a0569b55e.com^
 ||9a15f0c926.02ce917efd.com^
-||9a1bc795b9.com^
 ||9a3d699a42.f4042bb57f.com^
 ||9a52364ae8.com^
 ||9a55672b0c.com^
@@ -12832,7 +12830,6 @@
 ||analytics.pointdrive.linkedin.com^
 ||analytics.pollardwater.com^
 ||analytics.pop2watch.com^
-||analytics.portal.gov.bd^
 ||analytics.posttv.com^
 ||analytics.prezly.com^
 ||analytics.prod.mybuddy.ai^
@@ -16253,7 +16250,6 @@
 ||awestat.com/npt/banner^
 ||awestatic.com^
 ||awestc.com^
-||awesunstroke.com^
 ||aweyqalylarj.top^
 ||awfullypersecution.com^
 ||awfulresolvedraised.com^
@@ -16968,7 +16964,6 @@
 ||baiseesh.net^
 ||baisoabe.com^
 ||baitdyed.com^
-||baitedblocs.com^
 ||baithoph.net^
 ||baitikoam.com^
 ||baitu1llbkotsfthllcjeg.com^
@@ -17642,7 +17637,6 @@
 ||be023693af.com^
 ||be2ecc872f.d483501b04.com^
 ||be5fb85a02.com^
-||be8df00f33.com^
 ||bea-s.dinghuoche.com^
 ||bea988787c.com^
 ||beabbqlkiekmxgp.com^
@@ -18018,7 +18012,6 @@
 ||benumelan.com^
 ||benzolescabrin.com^
 ||benzolsflask.website^
-||benzoylchaitra.com^
 ||beonixom.com^
 ||beoofo.pairs.lv^
 ||bepapersurmise.space^
@@ -18033,7 +18026,6 @@
 ||beqioy.promessedefleurs.com^
 ||ber2g8e3keley.com^
 ||berchchisel.com^
-||berchsquirrelcomposure.com^
 ||bereaveconsciousscuffle.com^
 ||bereaveundresscrowded.com^
 ||berendphloeum.com^
@@ -18814,7 +18806,6 @@
 ||blindsinkaward.com^
 ||blingbucks.com^
 ||blink.checkworkrights.com.au^
-||blinkframeworkowe.com^
 ||blinkjork.com^
 ||blinkpainmanly.com^
 ||blinks.mindoktor.se^
@@ -22163,6 +22154,7 @@
 ||cessationrepulsivehumid.com^
 ||cestibegster.com^
 ||ceteembathe.com^
+||cetlwsf.top^
 ||cetoniafulwa.website^
 ||cetrk.com^
 ||ceuswatcab01.blob.core.windows.net^
@@ -27301,7 +27293,6 @@
 ||d3g4s1p0bmuj5f.cloudfront.net^
 ||d3g5ovfngjw9bw.cloudfront.net^
 ||d3gi6isrskhoq.cloudfront.net^
-||d3hb14vkzrxvla.cloudfront.net^
 ||d3hfiiy55cbi5t.cloudfront.net^
 ||d3hib26r77jdus.cloudfront.net^
 ||d3hitamb7drqut.cloudfront.net^
@@ -29342,6 +29333,7 @@
 ||df86fe80e6.com^
 ||df888.eastday.com^
 ||dfaikhkm.xyz^
+||dfan4.icu^
 ||dfanalytics.dealerfire.com^
 ||dfapvmql-q.global.ssl.fastly.net^
 ||dfcf515795.com^
@@ -29975,7 +29967,6 @@
 ||disbeliefenvelopemeow.com^
 ||disbeliefplaysgiddiness.com^
 ||disccompose.com^
-||disceptpurled.com^
 ||discernibletickpang.com^
 ||dischargecompound.com^
 ||dischargedcomponent.com^
@@ -30690,6 +30681,7 @@
 ||dojyiu8.com^
 ||dokaboka.com^
 ||dokauzob.top^
+||dokfrl.xyz^
 ||dokhmacoining.com^
 ||dokondigit.quest^
 ||dokseptaufa.com^
@@ -36004,7 +35996,6 @@
 ||femald.com^
 ||female-yard.pro^
 ||femalehasslegloss.com^
-||femalenurture.com^
 ||femalesunderpantstrapes.com^
 ||femefaih.com^
 ||femetrics.grammarly.io^
@@ -36868,6 +36859,7 @@
 ||fmild.xyz^
 ||fmjgtp.dentalspeed.com^
 ||fmjjvb.xyz^
+||fmkipgm.icu^
 ||fmkqhwrfvs.com^
 ||fmlabsonline.com^
 ||fmmirep.icu^
@@ -38452,6 +38444,7 @@
 ||gcwubi.happypancake.fi^
 ||gcwwsv.icu^
 ||gcxiyx.inspireuplift.com^
+||gcylkq.xyz^
 ||gcyzgld.com^
 ||gd-stats.jpush.cn^
 ||gd.waxbushengore.com^
@@ -48214,7 +48207,6 @@
 ||jomtingi.net^
 ||jonaspair.com^
 ||jonaswhiskeyheartbeat.com^
-||jooblyball.com^
 ||joodoush.com^
 ||joodugropup.com^
 ||joogivestou.com^
@@ -53609,6 +53601,7 @@
 ||lsgwkbk.com^
 ||lshuaibin.cn^
 ||lsixuz.agrifournitures.fr^
+||lsjazn.xyz^
 ||lsjne.com^
 ||lsjvqovgx.com^
 ||lskmipb.icu^
@@ -65069,6 +65062,7 @@
 ||p.l.qq.com^
 ||p.lasexta.com^
 ||p.logbox.io^
+||p.lucida.to^
 ||p.marqueplace.com^
 ||p.mb.qq.com^
 ||p.meilentrio.de^
@@ -65957,7 +65951,6 @@
 ||pdweigee.com^
 ||pdweoyw.cn^
 ||pdxdxl.xyz^
-||pdxithwqtijfkp.com^
 ||pdygfdtghcyh.com^
 ||pdzutf.sftworks.jp^
 ||pe.promo.skf.com^
@@ -67010,7 +67003,6 @@
 ||pl.kanbanmail.app^
 ||pl.kis-nagy.art^
 ||pl.letsblock.it^
-||pl.lucida.to^
 ||pl.maya-astro.fi^
 ||pl.mynorthstarapp.com^
 ||pl.promo.skf.com^
@@ -68100,7 +68092,6 @@
 ||precedentbasepicky.com^
 ||precedingdippingtune.com^
 ||precequiv.com^
-||precially.space^
 ||precious-type.pro^
 ||preciousbearer.com^
 ||preciousdoctor.pro^
@@ -68986,7 +68977,6 @@
 ||ptekuwiny.pro^
 ||pterealcorylus.website^
 ||ptersudisurvey.top^
-||pteshunu.net^
 ||ptetchie.net^
 ||ptewarin.net^
 ||ptewauta.net^
@@ -84855,6 +84845,7 @@
 ||stringssymptomfishing.com^
 ||stringthumbprowl.com^
 ||stripe.rs-1028-a.com^
+||stripedcover.pro^
 ||stripedonerous.com^
 ||stripeformism.com^
 ||striperaised.com^
@@ -86128,6 +86119,7 @@
 ||t.clic2buy.com^
 ||t.cofcsports.com^
 ||t.collinscenterforthearts.com^
+||t.cometlytrack.com^
 ||t.comms.thetimes.co.uk^
 ||t.cotsta.ru^
 ||t.counter.dev^
@@ -87366,6 +87358,7 @@
 ||teeglimu.com^
 ||teelconch.com^
 ||teemcapablespinal.com^
+||teemingweekend.com^
 ||teemooge.net^
 ||teen.zubie.com^
 ||teenagerapostrophe.com^
@@ -87631,6 +87624,7 @@
 ||test.takedwn.ws^
 ||test.thei.co^
 ||test.thomsonreuters.com^
+||test.torrentfreak.com^
 ||test.vast^
 ||test.zeus-wifi.jp^
 ||test2.majelan.com^
@@ -89135,7 +89129,6 @@
 ||towerfcu.actonservice.com^
 ||towersalighthybrids.com^
 ||towerslady.com^
-||townhousefilms.com^
 ||townhouses.woodlea.com.au^
 ||townrusisedprivat.info^
 ||townsquareinteractive.actonservice.com^
@@ -102339,7 +102332,6 @@
 ||zone1.bestbdsm24.com^
 ||zone1.bestporn24.com^
 ||zonealta.com^
-||zoningnignye.com^
 ||zononi.com^
 ||zontgohjw.com^
 ||zonupiza.com^
@@ -102547,6 +102539,7 @@
 ||zvfzqw.cotta.jp^
 ||zvhednrza.com^
 ||zvhkzb.ambiendo.de^
+||zvhlzb.xyz^
 ||zvhprab.com^
 ||zvjkhrdp.com^
 ||zvkytbjimbhk.com^
