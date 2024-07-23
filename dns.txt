@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-07-23 09:21:42（北京时间）
+! Version: 2024-07-23 20:35:43（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 101381
+! Total count: 101388
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -685,6 +685,7 @@
 ||1723614251.rsc.cdn77.org^
 ||1736253261.rsc.cdn77.org^
 ||1750.sosqboh85.com^
+||1756119262.rsc.cdn77.org^
 ||1759123620.rsc.cdn77.org^
 ||176.net.jumia.ma^
 ||1765.4puuqeh41.com^
@@ -37394,6 +37395,7 @@
 ||frulednulx.com^
 ||frustrationfungus.com^
 ||frustrationtrek.com^
+||frutwafiwah.com^
 ||frwyfaxed.com^
 ||frxuqdho.com^
 ||frxwattywgcnsgw.xyz^
@@ -41832,6 +41834,7 @@
 ||hfggttxptxwdmb.com^
 ||hfib5s-sdds-248d.xyz^
 ||hfjk3wa.com^
+||hfjmvr.xyz^
 ||hfjoksuriyy.com^
 ||hfjsliu.top^
 ||hfjvuxuwasf.com^
@@ -53339,6 +53342,7 @@
 ||lyoak.com^
 ||lyonsdown.actonservice.com^
 ||lyonthrill.com^
+||lyretul.top^
 ||lyricalattorneyexplorer.com^
 ||lyricaldefy.com^
 ||lyricsgrand.com^
@@ -62518,6 +62522,7 @@
 ||oisqckeiqwyg.com^
 ||oit4.destinia.com.br^
 ||oitihv.drinks.de^
+||oiu09.cn^
 ||oiunga.com^
 ||oivteiwwave.com^
 ||oiwnrl.theory.co.jp^
@@ -80686,6 +80691,7 @@
 ||sowfairytale.com^
 ||sowp.cloud^
 ||sowsuwm.icu^
+||sowwoy.xyz^
 ||sowx.cn^
 ||soxnwz.lg.com^
 ||soyjlnfatgxpfd.com^
@@ -98735,6 +98741,7 @@
 ||xefefetgxnh.com^
 ||xegluwate.com^
 ||xegmsox.com^
+||xehodv.xyz^
 ||xeijckcsg.com^
 ||xeikwh.icu^
 ||xejpzk.fram.fr^
