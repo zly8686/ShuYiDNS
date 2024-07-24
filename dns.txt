@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-07-24 09:21:56（北京时间）
+! Version: 2024-07-24 20:34:49（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 101407
+! Total count: 101427
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -1735,6 +1735,7 @@
 ||4497.4puuqeh41.com^
 ||4497.5clo0xmbf.com^
 ||44a9217f10.com^
+||44e29c19ac.com^
 ||44ffd27303.com^
 ||44jui.top^
 ||45.32.105.134^
@@ -18170,6 +18171,7 @@
 ||bewitchadmiringconstraint.com^
 ||bewitchliquor.com^
 ||bewoobaton.com^
+||bewr1.com^
 ||bewrapsstomal.website^
 ||bewsejqcbm.com^
 ||beyanmaan.com^
@@ -20482,6 +20484,7 @@
 ||bypassmaestro.com^
 ||bypassprofessordemonstrate.com^
 ||byqdtp.interpark.com^
+||byretuv.top^
 ||byrkmeibah.com^
 ||byseniscon.top^
 ||bysfnu.bodeboca.com^
@@ -20540,6 +20543,7 @@
 ||c.bannerflow.net^
 ||c.bazo.io^
 ||c.bidtoolads.com^
+||c.bigcomics.win^
 ||c.bigmir.net^
 ||c.cgmission.com^
 ||c.corriere.it^
@@ -30713,6 +30717,7 @@
 ||dougale.com^
 ||douglaug.net^
 ||douhooke.net^
+||doujs01.shop^
 ||doujs01.xyz^
 ||doujs010.xyz^
 ||doujs02.xyz^
@@ -40051,6 +40056,7 @@
 ||goo-access-analytics.appspot.com^
 ||gooblesdd.com^
 ||goobreamed.com^
+||good-ads-online.com^
 ||goodadvert.ru^
 ||goodappforyou.com^
 ||goodbusinesspark.com^
@@ -41597,6 +41603,7 @@
 ||heaterpealarouse.com^
 ||heaterrobotscompute.com^
 ||heatertried.com^
+||heatherssb.com^
 ||heathertravelledpast.com^
 ||heatmap.emma.tools^
 ||heatmaps.lcisoft.it^
@@ -42763,6 +42770,7 @@
 ||hqwa.xyz^
 ||hqwtqa.intelligence-artificielle-school.com^
 ||hqxbuy.rugs-direct.com^
+||hqxghzyfvxrdpt.com^
 ||hr.adp.ca^
 ||hr.codableprovene.com^
 ||hr.promo.skf.com^
@@ -60354,6 +60362,7 @@
 ||nczxuga.com^
 ||nd.nasdaqtech.nasdaq.com^
 ||ndandinter.hair^
+||ndaspiratiotyukn.com^
 ||ndaymidydlesswale.info^
 ||ndccouuyotn.com^
 ||ndcomemuni.com^
@@ -61939,6 +61948,7 @@
 ||o365diagtelemetry.trafficmanager.net^
 ||o398.trumbulltimes.com^
 ||o3gxzoewxl1x.cp.zomro.com^
+||o3sxhw5ad.com^
 ||o4nofsh6.de^
 ||o4svlxhjun.xyz^
 ||o4uxrk33.com^
@@ -68018,6 +68028,7 @@
 ||prvc.io^
 ||prvizg.shurgard.be^
 ||prwave.info^
+||prwfwayui.com^
 ||prx.wayfair.com^
 ||prx6.destinia.ch^
 ||prxeceafdxdlc.xyz^
@@ -68208,6 +68219,7 @@
 ||ptecmuny.com^
 ||ptedreer.com^
 ||ptedroab.xyz^
+||pteegostie.com^
 ||pteeptamparg.xyz^
 ||pteevaih.xyz^
 ||pteftagu.com^
@@ -71828,6 +71840,7 @@
 ||rocketyield.com^
 ||rockfellertest.com^
 ||rockierfought.top^
+||rockingfolders.com^
 ||rockmostbet.com^
 ||rockpicky.com^
 ||rockpoint.xhaccess.com^
@@ -90879,6 +90892,7 @@
 ||trafficjunky.net^
 ||trafficleader.com^
 ||trafficlide.com^
+||trafficmanager.net^
 ||trafficmediaareus.com^
 ||trafficmoon.com^
 ||trafficmoose.com^
@@ -93020,6 +93034,8 @@
 ||unlockads.com^
 ||unlockecstasyapparatus.com^
 ||unlockmaddenhooray.com^
+||unlocky.org^
+||unlocky.xyz^
 ||unloetiosal.com^
 ||unltdentertainment.co^
 ||unluciddesmids.top^
@@ -93744,6 +93760,7 @@
 ||uwzxukualwdkx.com^
 ||uxdse.sugarshape.de^
 ||uxicgxqq.com^
+||uxjpyfzorpkcg.com^
 ||uxkurx.sportsmansguide.com^
 ||uxlvk.cn^
 ||uxmwh0f.xyz^
@@ -95191,6 +95208,7 @@
 ||vsftsyriv.com^
 ||vsgallery.com^
 ||vsgfjfsmcewnuhx.com^
+||vsgyfixkbow.com^
 ||vshi.tc.qq.com^
 ||vshzouj.com^
 ||vsjrnh.xyz^
@@ -99383,6 +99401,7 @@
 ||xrxybn.kotofey-shop.ru^
 ||xs.houyi.baofeng.net^
 ||xs213.javgg.club^
+||xs6po.icu^
 ||xscmzs.tenki.jp^
 ||xseedwealth.actonservice.com^
 ||xserve.zapurl.cc^
@@ -99988,6 +100007,7 @@
 ||yizlda.crocs.co.uk^
 ||yjbdyjnctgj.top^
 ||yjdigtr.com^
+||yje912.cn^
 ||yjlbvd.pcfactory.cl^
 ||yjlhep.skechers.co.nz^
 ||yjnhkd.com^
