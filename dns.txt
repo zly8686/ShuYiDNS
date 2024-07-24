@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-07-23 20:35:43（北京时间）
+! Version: 2024-07-24 09:21:56（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 101388
+! Total count: 101407
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -943,8 +943,6 @@
 ||1stc6vz58kxw.top^
 ||1stparty.equifax.co.uk^
 ||1studio.net^
-||1t2.alpin.de^
-||1t2.kicker.de^
 ||1talking.net^
 ||1tds26q95.de^
 ||1to1.bbva.com^
@@ -1355,6 +1353,8 @@
 ||2smt6mfgo.de^
 ||2spdo6g9h.de^
 ||2step-garage.co.uk^
+||2t3.alpin.de^
+||2t3.kicker.de^
 ||2t4f7g9a.de^
 ||2ta5l5rc0.de^
 ||2tfg9bo2i.de^
@@ -1758,6 +1758,7 @@
 ||466f89f4d1.com^
 ||468.vologdainfo.ru^
 ||4690y10pvpq8.com^
+||46bd8e62a2.com^
 ||46d24c436e.4a9517991d.com^
 ||46f4vjo86.com^
 ||46febd8df8.com^
@@ -3428,6 +3429,7 @@
 ||a.ucoz.ru^
 ||a.vergu.xyz^
 ||a.viralnewsbd.xyz^
+||a.visme.co^
 ||a.votpusk.ru^
 ||a.voxar.xyz^
 ||a.vrime.xyz^
@@ -8781,6 +8783,7 @@
 ||adcentrum.net^
 ||adchap.com^
 ||adcheap.network^
+||adcheck.about.co.kr^
 ||adchemical.com^
 ||adchoice.com^
 ||adcl1ckspr0f1t.com^
@@ -13692,6 +13695,7 @@
 ||api.share.mob.com^
 ||api.slice.exchange^
 ||api.smartnews-ads.com^
+||api.sprig.com^
 ||api.statsig.com^
 ||api.subiz.com.vn^
 ||api.subiz.net^
@@ -17878,6 +17882,7 @@
 ||believersheet.com^
 ||believersymphonyaunt.com^
 ||belightpeonize.com^
+||beliketheappyri.info^
 ||belittlepads.com^
 ||bellacomparisonluke.com^
 ||bellamyawardinfallible.com^
@@ -19720,6 +19725,7 @@
 ||breynvqbjwaz.top^
 ||brfeneval.eccocar.com^
 ||brfree2move.eccocar.com^
+||brfzpaffgni.com^
 ||brgoazen.eccocar.com^
 ||brgroupeollandini.eccocar.com^
 ||brgrwd.dansko.com^
@@ -33758,6 +33764,7 @@
 ||entuvmcdcedli.com^
 ||enueduringhere.info^
 ||enuewasadirectres.info^
+||enuksg.xyz^
 ||enuresdairi.com^
 ||envato.market^
 ||enviabledilate.com^
@@ -33930,6 +33937,7 @@
 ||er.briesziphius.com^
 ||er.mmi.bemobile.ua^
 ||er.search.naver.com^
+||er1h4.icu^
 ||era.easyvoyage.com^
 ||era67hfo92w.com^
 ||eradobzl.com^
@@ -43575,6 +43583,7 @@
 ||iepfcy.farmandfleet.com^
 ||iephrenhq.com^
 ||iesbpm.novasol.dk^
+||ietlwso.top^
 ||ietyofedinj89yewtburgh.com^
 ||ievdpg.humanscale.com^
 ||ievjrgjid.com^
@@ -45888,6 +45897,7 @@
 ||insightexpress.com^
 ||insightexpressai.com^
 ||insights-collector.newrelic.com^
+||insights-mxp.coursecareers.com^
 ||insights.53.com^
 ||insights.academy.com^
 ||insights.affilimate.com^
@@ -47126,6 +47136,7 @@
 ||jdbjhd.saniweb.nl^
 ||jdcnwd.com^
 ||jddaw.com^
+||jdfzfd.xyz^
 ||jdgtgb.4players.de^
 ||jdgtgb.autoguru.de^
 ||jdgtgb.buffed.de^
@@ -67195,6 +67206,7 @@
 ||ppjdfki.com^
 ||ppjqgbz.com^
 ||pplgwic.com^
+||pplkrh.xyz^
 ||pplpiq.pricerunner.se^
 ||ppmakl.oscarcalcados.com.br^
 ||ppmzcafertd.com^
@@ -68452,6 +68464,7 @@
 ||pupur.net^
 ||pupur.pro^
 ||puqobfkghmyb.com^
+||puraquealtered.shop^
 ||purchaserdisgustingwrestle.com^
 ||purchaserteddy.com^
 ||purchasertormentscoundrel.com^
@@ -72678,6 +72691,7 @@
 ||rymhet.posudamart.ru^
 ||ryminos.com^
 ||rypqxxsx.com^
+||ryqgdrh.icu^
 ||ryqlbqdj.com^
 ||ryremovement.com^
 ||ryrmvd.xyz^
@@ -75835,6 +75849,7 @@
 ||shatsalt.com^
 ||shatterconceal.com^
 ||shaufoal.com^
+||shaugacakro.net^
 ||shauhacm.net^
 ||shauksug.com^
 ||shauladubhe.top^
@@ -80660,6 +80675,7 @@
 ||soupteep.xyz^
 ||soupteewhish.com^
 ||souptightswarfare.com^
+||soupy-user.com^
 ||souraivo.xyz^
 ||sourcebloodless.com^
 ||sourcecode.pro^
@@ -82480,6 +82496,7 @@
 ||static.rtb-serve.com^
 ||static.rtbwire.com^
 ||static.rtxfeed.com^
+||static.runconverge.com^
 ||static.rvndigital.com^
 ||static.schrotundkorn.de^
 ||static.servingserved.com^
@@ -95075,6 +95092,7 @@
 ||vozftn.xyz^
 ||vp.html5.qq.com^
 ||vp2.txxx.com^
+||vpbpb.com^
 ||vpdcp.com^
 ||vpemsb.autocasion.com^
 ||vpf4.euskaltelofertas.com^
@@ -97410,6 +97428,7 @@
 ||wqorxfp.com^
 ||wqudcv.finnishdesignshop.com^
 ||wqvbuj.icu^
+||wqyjkupqj.com^
 ||wqytxm.kurly.com^
 ||wqzjfsmudvpct.com^
 ||wqzmed.cn^
