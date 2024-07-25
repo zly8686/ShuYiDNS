@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-07-25 20:35:09（北京时间）
+! Version: 2024-07-25 21:50:27（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 14536
+! Total count: 14538
 @@#.banner%20ad.$image,domain=dokuo666.blog98.fc2.com
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$generichide,domain=stfly.cc
@@ -763,6 +763,7 @@
 @@||a.realsrv.com/video-slider.js$domain=manga1000.com
 @@||a.spolecznosci.net/pet?s=Shinden$domain=shinden.pl
 @@||a.trk-imps.com/loader?$domain=new.lewd.ninja|lewdninja.com
+@@||a.usafacts.org/api/v4/Metrics$~third-party
 @@||a.visualrevenue.com/vrs.js$domain=nydailynews.com
 @@||a.visualrevenue.com/vrs.js$domain=t-online.de
 @@||a1.itc.cn/pv/js/spv.
@@ -796,7 +797,7 @@
 @@||ac*.namu.la^$domain=arca.live,media,image,stealth
 @@||ac.kr^$stealth=dpi
 @@||ac.namu.la^$domain=arca.live,media,image,stealth
-@@||acacdn.com/script/ippg.js$domain=japaneseasmr.top|vgfplay.com|vgembed.com|gaystream.online|v6embed.xyz|vid-guard.com|vembed.net|embedv.net|fslinks.org|bembed.net|listeamed.net|tioplayer.com|elbailedeltroleo.site|vgfplay.xyz
+@@||acacdn.com/script/ippg.js$domain=japaneseasmr.top|vgfplay.com|vgembed.com|gaystream.online|v6embed.xyz|vid-guard.com|vembed.net|embedv.net|fslinks.org|bembed.net|listeamed.net|tioplayer.com|elbailedeltroleo.site|vgfplay.xyz|go-streamer.net
 @@||acacdn.com/script/ippg.jsdomain=dflix.top
 @@||acapellas.eu^$generichide
 @@||accaii.com^$domain=kyuusai2nd.net
@@ -6478,6 +6479,7 @@
 @@||gymnasedeburier.ch/themes/segment/js/$~third-party
 @@||h-cast.jp^$script,domain=bookoffonline.co.jp
 @@||h.imedia.cz/js/cmp2/scmp.js$domain=seznam.cz
+@@||h.trace.qq.com^
 @@||h1g.jp/img/ad/ad_heigu.html$~third-party
 @@||h5.4j.com/js/ima3.js
 @@||haafedk2.com^$generichide
@@ -6588,7 +6590,7 @@
 @@||healthspiritbody.com^$generichide
 @@||healthyadvertising.es^$~third-party
 @@||healthytotal.net^$generichide
-@@||heardaccumulatebeans.com/*/*/*/*.js$domain=japaneseasmr.top|vgfplay.com|vgembed.com|gaystream.online|v6embed.xyz|vid-guard.com|vembed.net|embedv.net|fslinks.org|bembed.net|listeamed.net|tioplayer.com|elbailedeltroleo.site|vgfplay.xyz
+@@||heardaccumulatebeans.com/*/*/*/*.js$domain=japaneseasmr.top|vgfplay.com|vgembed.com|gaystream.online|v6embed.xyz|vid-guard.com|vembed.net|embedv.net|fslinks.org|bembed.net|listeamed.net|tioplayer.com|elbailedeltroleo.site|vgfplay.xyz|go-streamer.net
 @@||heartyhosting.com^$domain=muscleandfitness.com
 @@||heatmap.it^$domain=heatmap.com
 @@||heatmap.it^$domain=heatmap.com|heatmap.it|heatmap.me|heatmap.org
@@ -9234,7 +9236,7 @@
 @@||o2.pl^$generichide
 @@||o2tvseries.com^$generichide
 @@||oa.tr.line.me^$document
-@@||oaphoace.net/*/$script,domain=japaneseasmr.top|vgfplay.com|vgembed.com|gaystream.online|v6embed.xyz|vid-guard.com|vembed.net|embedv.net|fslinks.org|bembed.net|listeamed.net|tioplayer.com|elbailedeltroleo.site|vgfplay.xyz
+@@||oaphoace.net/*/$script,domain=japaneseasmr.top|vgfplay.com|vgembed.com|gaystream.online|v6embed.xyz|vid-guard.com|vembed.net|embedv.net|fslinks.org|bembed.net|listeamed.net|tioplayer.com|elbailedeltroleo.site|vgfplay.xyz|go-streamer.net
 @@||oasjs.kataweb.it/adsetup*.js$domain=huffingtonpost.it
 @@||oasjs.kataweb.it/adsetup*.js$domain=video.lastampa.it
 @@||oasjs.kataweb.it/adsetup.js$domain=video.capital.it
@@ -13039,7 +13041,7 @@
 @@||thepoorcoder.com^$generichide
 @@||theregister.co.uk/*_adtech_
 @@||therichest.com^$generichide
-@@||thermometerinconceivablewild.com/*/*/*/*.js$domain=japaneseasmr.top|vgfplay.com|vgembed.com|gaystream.online|v6embed.xyz|vid-guard.com|vembed.net|embedv.net|fslinks.org|bembed.net|listeamed.net|tioplayer.com|elbailedeltroleo.site|vgfplay.xyz
+@@||thermometerinconceivablewild.com/*/*/*/*.js$domain=japaneseasmr.top|vgfplay.com|vgembed.com|gaystream.online|v6embed.xyz|vid-guard.com|vembed.net|embedv.net|fslinks.org|bembed.net|listeamed.net|tioplayer.com|elbailedeltroleo.site|vgfplay.xyz|go-streamer.net
 @@||thesaurus.com/assets/ads.js
 @@||theseotools.net^$generichide
 @@||thesouthern.com^$generichide
