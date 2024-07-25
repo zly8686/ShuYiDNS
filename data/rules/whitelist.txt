@@ -37,4 +37,4 @@
 !小米隐私政策撤回同意
 @@||data.sec.miui.com^
 !腾讯游戏登录
-@@||h.trace.qq.com^
+@@||ap6.ssl.msdk.qq.com^
