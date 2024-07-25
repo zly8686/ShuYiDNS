@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-07-24 20:34:49（北京时间）
+! Version: 2024-07-25 09:21:22（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 101427
+! Total count: 101448
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -2296,6 +2296,7 @@
 ||6810f7dd2b.com^
 ||6816.seponews.com^
 ||6828.5clo0xmbf.com^
+||68287zubo85737.com^
 ||6840.5clo0xmbf.com^
 ||6846.5clo0xmbf.com^
 ||6863fd0afc.com^
@@ -2859,6 +2860,7 @@
 ||8ovgk.online^
 ||8po6fdwjsym3.com^
 ||8pv9vvi9b.com^
+||8q88n.icu^
 ||8s32e590un.com^
 ||8si.ru^
 ||8stream-ai.com^
@@ -2966,6 +2968,7 @@
 ||95urbehxy2dh.top^
 ||961dzmubbg.su^
 ||9635.bestinterestings.com^
+||96382zubo66756.com^
 ||96424fcd96.com^
 ||9662.l5eamr17d.com^
 ||9692.5clo0xmbf.com^
@@ -15841,6 +15844,7 @@
 ||attributiontrackingga.googlecode.com^
 ||attritioncombustible.com^
 ||attunebarberreality.com^
+||attuneiserite.com^
 ||atukjpdh.xyz^
 ||atumanera.burgerking.com.mx^
 ||atvrurguhqin.com^
@@ -17622,6 +17626,7 @@
 ||beacon.necotracks.jp^
 ||beacon.netflix.com^
 ||beacon.qq.com^
+||beacon.radiko.jp^
 ||beacon.riskified.com^
 ||beacon.s.llnwi.net^
 ||beacon.samsclub.com^
@@ -23831,6 +23836,7 @@
 ||collector.mazeberry.com^
 ||collector.megaxh.com^
 ||collector.pi.spectrum.net^
+||collector.plarium.com^
 ||collector.prod.expedia.com^
 ||collector.quillbot.com^
 ||collector.reelevant.com^
@@ -24111,6 +24117,7 @@
 ||complementimpassable.com^
 ||complementinstancesvarying.com^
 ||complementparadeforbid.com^
+||complete-afternoon.pro^
 ||completelywrath.com^
 ||complex-relationship.com^
 ||compliance.coniferhealth.com^
@@ -26112,6 +26119,7 @@
 ||cycvyo.xyz^
 ||cydippeespy.com^
 ||cyeabs.luxyhair.com^
+||cyeqeewyr.com^
 ||cyesesprerich.com^
 ||cyf9.destinia.cl^
 ||cygnus.com^
@@ -29388,6 +29396,7 @@
 ||dibsemey.com^
 ||dic9vgwbkxd8r.cloudfront.net^
 ||diccsbhij.com^
+||dicesstipo.com^
 ||diceunacceptable.com^
 ||dicheeph.com^
 ||dichoabs.net^
@@ -47305,6 +47314,7 @@
 ||jesupe.com^
 ||jet.zbp.ru^
 ||jetlinx.actonservice.com^
+||jetlwsa.top^
 ||jetm-tech.net^
 ||jetordinarilysouvenirs.com^
 ||jetos.com^
@@ -49528,6 +49538,7 @@
 ||kwbpge.jra-van.jp^
 ||kwedzcq.com^
 ||kweriod.top^
+||kwgqaqf.icu^
 ||kwgs.letudiant.fr^
 ||kwijfh.proactiv.com^
 ||kwiqcoh.icu^
@@ -53860,6 +53871,7 @@
 ||makingnude.com^
 ||makqsd.icu^
 ||makumva.all-usanomination.com^
+||malagmawinched.click^
 ||malakonirgun.com^
 ||malastasho.pro^
 ||malatiswirled.com^
@@ -58522,6 +58534,7 @@
 ||mkcurches.com^
 ||mkeliihb.com^
 ||mkenativji.com^
+||mkepacotck.com^
 ||mkg.colfondos.co^
 ||mkgiiijigxwwn.com^
 ||mkhoj.com^
@@ -68828,6 +68841,7 @@
 ||pzgbqbk.com^
 ||pzimff.com^
 ||pzjizsyf.icu^
+||pznlpp.xyz^
 ||pzoynkxexnx.com^
 ||pzphmkf.xyz^
 ||pzpivx.xyz^
@@ -69581,6 +69595,7 @@
 ||qvftejz.cn^
 ||qvikar.com^
 ||qvjpjsglmvhcbv.xyz^
+||qvjqbtbt.com^
 ||qvlcdw.ho-br.com^
 ||qvlczhitbsqpl.com^
 ||qvmucs.abluestore.com^
@@ -69710,6 +69725,7 @@
 ||qzs.gdtimg.com^
 ||qzs.qq.com^
 ||qzsgudj.com^
+||qzsvwo.xyz^
 ||qzu5.carrefour-banque.fr^
 ||qzvzluu.xyz^
 ||qzwbod.blackdiamondequipment.com^
@@ -75700,6 +75716,7 @@
 ||shalomitll.top^
 ||shalse.com^
 ||shalseey.com^
+||shameful-leader.com^
 ||shameless-sentence.pro^
 ||shamelesscry.pro^
 ||shamelessgoodwill.com^
@@ -75878,6 +75895,7 @@
 ||shawashygy.com^
 ||shawljeans.com^
 ||shazauds.net^
+||shbzegs.cn^
 ||shdegtbokshipns.xyz^
 ||she-want-fuck.com^
 ||shealapish.com^
@@ -76459,6 +76477,7 @@
 ||six9e.canal.fr^
 ||sixassertive.com^
 ||sixcombatberries.com^
+||sixfoldmarkeb.click^
 ||sixft-apart.com^
 ||sixingmudland.top^
 ||sixsigmatraffic.com^
@@ -92595,6 +92614,7 @@
 ||ui02.com^
 ||ui8l2.xyz^
 ||uiakq.top^
+||uicdns.xyz^
 ||uicjnk.gumtree.co.za^
 ||uid.mediacorp.sg^
 ||uidapi.com^
@@ -95111,6 +95131,7 @@
 ||vp2.txxx.com^
 ||vpbpb.com^
 ||vpdcp.com^
+||vpdnjl.xyz^
 ||vpemsb.autocasion.com^
 ||vpf4.euskaltelofertas.com^
 ||vpfudjdi.com^
