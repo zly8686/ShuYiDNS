@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-07-26 09:20:51（北京时间）
+! Version: 2024-07-26 20:34:21（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 101560
+! Total count: 101551
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -685,7 +685,6 @@
 ||1723614251.rsc.cdn77.org^
 ||1736253261.rsc.cdn77.org^
 ||1750.sosqboh85.com^
-||1756119262.rsc.cdn77.org^
 ||1759123620.rsc.cdn77.org^
 ||176.net.jumia.ma^
 ||1765.4puuqeh41.com^
@@ -2413,7 +2412,6 @@
 ||71692fai4cc0.com^
 ||7185.4puuqeh41.com^
 ||71a30cae934e.com^
-||71bfa0d8fb.com^
 ||71ccccb47f.dcefdf0e05.com^
 ||71d7511a4861068.com^
 ||71dd1ff9fd.com^
@@ -2468,7 +2466,6 @@
 ||7578dca18a.20539787d1.com^
 ||757d.pandasuite.io^
 ||7606.5clo0xmbf.com^
-||760ead33eb.com^
 ||76416dc840.com^
 ||7649.79j68qav2.com^
 ||76500faa1b.c015f80df2.com^
@@ -2687,7 +2684,6 @@
 ||843104bed7.65f249bd43.com^
 ||845d6bbf60.com^
 ||8461.5clo0xmbf.com^
-||84692db09f.com^
 ||847h7f51.de^
 ||8482.sosqboh85.com^
 ||8499583.com^
@@ -22552,6 +22548,7 @@
 ||chosenchampagnesuspended.com^
 ||chosensoccerwriter.com^
 ||choto.xyz^
+||chouchicky.com^
 ||choudairtu.net^
 ||chouftak.net^
 ||choughigrool.com^
@@ -24977,6 +24974,7 @@
 ||count.candou.com^
 ||count.carrierzone.com^
 ||count.channeladvisor.com^
+||count.darkreader.app^
 ||count.enet.com.cn^
 ||count.gothaer-digital.de^
 ||count.iyaxin.com^
@@ -25476,6 +25474,7 @@
 ||crew-qa.zubie.com^
 ||crew.spektare.tv^
 ||crew.zubie.com^
+||crewedbangup.com^
 ||crfjxfoe.xyz^
 ||crfmbxqrf.xyz^
 ||crhabkd.cn^
@@ -26066,6 +26065,7 @@
 ||cw.tynessubpart.com^
 ||cwcdmm.zennioptical.com^
 ||cwchmb.com^
+||cwerilxf.top^
 ||cweriof.top^
 ||cwgucvm.icu^
 ||cwhrfkpniuvkn.xyz^
@@ -47399,7 +47399,6 @@
 ||jfdmdpefk.com^
 ||jfdvjpksdqhdhjo.com^
 ||jfedgbskofck.com^
-||jfhoq.com^
 ||jfilter.popxml.com^
 ||jfixhuovpa.com^
 ||jfjle4g5l.com^
@@ -59864,7 +59863,6 @@
 ||mx2.happ.social^
 ||mx6.3pornhere.com^
 ||mxaserver.mxplay.com^
-||mxdadjpe.com^
 ||mxdzxd.mister-auto.com^
 ||mxeq.cn^
 ||mxgboxq.com^
@@ -64517,7 +64515,6 @@
 ||p4p.sina.com.cn^
 ||p5-be-pack-sign.pglstatp-toutiao.com^
 ||p543.inquirer.com^
-||p593.seattlepi.com^
 ||p59othersq.com^
 ||p5kzev.com^
 ||p5mcwdbu.ginzo-buy.jp^
@@ -66395,7 +66392,6 @@
 ||plaitseeds.com^
 ||plaitvaccination.com^
 ||plan.devbyexample.com^
-||planamagazine.com^
 ||planarian.614deals.com^
 ||planarian.dailylocation.com^
 ||planarian.dtesta.com^
@@ -73149,7 +73145,6 @@
 ||s3.landing.ni.com^
 ||s3.qq.com^
 ||s3.smartphonehoesjes.nl^
-||s34me.com^
 ||s362693299.aon.ca^
 ||s362693299.aon.com^
 ||s3g6.com^
@@ -76570,7 +76565,6 @@
 ||six9e.canal.fr^
 ||sixassertive.com^
 ||sixcombatberries.com^
-||sixfoldmarkeb.click^
 ||sixft-apart.com^
 ||sixingmudland.top^
 ||sixsigmatraffic.com^
@@ -85715,7 +85709,6 @@
 ||tabici.com^
 ||tabidmelene.com^
 ||tablasmaximed.website^
-||tableaupitfall.com^
 ||tabledownstairsprovocative.com^
 ||tableinactionflint.com^
 ||tablepeppery.com^
@@ -86665,6 +86658,7 @@
 ||telemetry.smartframe.io^
 ||telemetry.soundcloud.com^
 ||telemetry.stryker.com^
+||telemetry.stytch.com^
 ||telemetry.swe.quicinc.com^
 ||telemetry.tableausoftware.com^
 ||telemetry.tradingview.com^
@@ -86753,7 +86747,6 @@
 ||teraes.hgreg.com^
 ||teraiwaxing.uno^
 ||teralog.techhub.co.kr^
-||terapou.com^
 ||terbit2.com^
 ||tercabilis.info^
 ||tercelangary.com^
@@ -87153,7 +87146,6 @@
 ||thescads.com^
 ||thescript.javfinder.xyz^
 ||thesearchagency.actonservice.com^
-||theseasonalhaven.com^
 ||thesekid.pro^
 ||theshafou.com^
 ||thesisadornpathetic.com^
@@ -91846,7 +91838,6 @@
 ||trymynewspirit.com^
 ||trymysadoroh.site^
 ||trynhassd.com^
-||trysprierratty.com^
 ||trythe-letsketos.com^
 ||tryzens-analytics.com^
 ||ts.delfi.lt^
@@ -97728,7 +97719,6 @@
 ||wtpsicowsqb.xyz^
 ||wtr-digital-analytics.ew.r.appspot.com^
 ||wtrep.xyz^
-||wtsdc.uhc.com^
 ||wttbup.novasol.de^
 ||wttd.douglas.at^
 ||wttd.douglas.ch^
@@ -100613,6 +100603,7 @@
 ||ywhws.cn^
 ||ywiscarien.com^
 ||ywkiyt.candere.com^
+||ywmvppnlwwxkgt.com^
 ||ywojvu.kujten.com^
 ||ywopyohpihnkppc.xyz^
 ||ywrcqa.11alive.com^
