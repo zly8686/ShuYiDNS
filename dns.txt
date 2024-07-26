@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-07-26 07:24:36（北京时间）
+! Version: 2024-07-26 09:20:51（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 101559
+! Total count: 101560
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -1126,7 +1126,6 @@
 ||24.935ft4j96.com^
 ||24.eu^
 ||24.y2sysv81v.com^
-||2406dfaaa8.com^
 ||240aca2365.com^
 ||2420.5clo0xmbf.com^
 ||2435march2024.com^
@@ -2112,7 +2111,6 @@
 ||5f93004b68.com^
 ||5fd74.v.fwmrm.net^
 ||5fet4fni.de^
-||5ffdc5b302.com^
 ||5finder.com^
 ||5fm.985fm.ca^
 ||5forex.ru^
@@ -15171,7 +15169,6 @@
 ||arrearssturdyenthusiasm.com^
 ||arrearstreatyexamples.com^
 ||arriagepuly.top^
-||arriedstro.work^
 ||arrief.com^
 ||arrietty.nrj.fr^
 ||arrivaltroublesome.com^
@@ -23382,6 +23379,7 @@
 ||clp-mms.cloudpro.co.uk^
 ||clpeachcod.com^
 ||clplrhum.xyz^
+||clqjyw.xyz^
 ||clrjnhxi.xyz^
 ||clrpdhptoddatj49.pro^
 ||clrstm.com^
@@ -30901,6 +30899,7 @@
 ||dptkdh.joinhoney.com^
 ||dptwwmktgta.com^
 ||dpuz3hexyabm1.cloudfront.net^
+||dpweupc.icu^
 ||dpyaxzpudhp.com^
 ||dpzgwzjledx.com^
 ||dpzplb.xyz^
@@ -31534,6 +31533,7 @@
 ||dxvgvbaqzgeb.com^
 ||dxz454z33ibrc.cloudfront.net^
 ||dy.araucangozell.com^
+||dy10000.net^
 ||dy2xcjk8s1dbz.cloudfront.net^
 ||dy5t1b0a29j1v.cloudfront.net^
 ||dybxezbel1g44.cloudfront.net^
@@ -41484,6 +41484,7 @@
 ||hbbtv01p.anixe.net^
 ||hbbtvapp.sonnenklar.tv^
 ||hbbvykwoiqhjpah.xyz^
+||hbbynt.xyz^
 ||hbcrnvtpyfegpws.com^
 ||hbeipcdntijpb.com^
 ||hbfpvm.comolib.com^
@@ -48747,6 +48748,7 @@
 ||ketheappyrin.com^
 ||ketiverdisof.com^
 ||ketlpsmt.com^
+||ketlwsd.top^
 ||ketmiehemmed.top^
 ||ketodis.com^
 ||ketogenopsins.uno^
@@ -59074,7 +59076,6 @@
 ||monarchoysterbureau.com^
 ||monarchracistsparkle.com^
 ||monarchstraightforwardfurnish.com^
-||monasawaw.com^
 ||monasterymedication.com^
 ||moncoerbb.com^
 ||mondaydeliciousrevulsion.com^
@@ -64812,7 +64813,6 @@
 ||panel-cn.com^
 ||panel.bcnmonetize.com^
 ||panelerkingly.top^
-||pangaffairsquestioning.com^
 ||pangdeserved.com^
 ||pangintrigueliquidate.com^
 ||pangoha.xyz^
@@ -99056,6 +99056,7 @@
 ||xjkugh.waterdropfilter.com^
 ||xjoqmy.tuifly.be^
 ||xjoyvqpuwzut.com^
+||xjpmlf.xyz^
 ||xjq5.belambra.be^
 ||xjrwxfdphc.com^
 ||xjsx.lol^
