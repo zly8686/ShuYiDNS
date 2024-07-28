@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2024-07-28 09:33:34（北京时间）
+! Version: 2024-07-28 20:32:48（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 101657
+! Total count: 101658
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -2133,6 +2133,7 @@
 ||5kstore.com^
 ||5lfgdju.com^
 ||5mc92su06suu.www.abhijith.page^
+||5mltq.icu^
 ||5mm.zxfw5.cn^
 ||5mno3.com^
 ||5nfc.net^
@@ -13565,7 +13566,6 @@
 ||ape.smartplanschema.se^
 ||apeagle.io^
 ||apeidol.com^
-||apelleswoppish.top^
 ||apenterprise.io^
 ||apeobservedoverlook.com^
 ||apepix.com^
@@ -29728,7 +29728,6 @@
 ||diktatslopseed.com^
 ||dilatenine.com^
 ||dilateriotcosmetic.com^
-||dilemiverre.com^
 ||diligentrefrigerator.pro^
 ||dilip-xko.com^
 ||dillselias.top^
@@ -32510,6 +32509,7 @@
 ||eespekw.com^
 ||eessoong.com^
 ||eessoost.net^
+||eetlwsw.top^
 ||eetognauy.net^
 ||eetsegeb.net^
 ||eetsooso.net^
@@ -46905,6 +46905,7 @@
 ||iwaxurhebkn.com^
 ||iwdapjojrylh.xyz^
 ||iwe.ktvgv.com^
+||iwerilxo.top^
 ||iwerioo.top^
 ||iwevxujxzdpb.com^
 ||iwgfdj.iko-yo.net^
@@ -61283,6 +61284,7 @@
 ||nmu3.destinia.be^
 ||nmxcadosdrcbd.com^
 ||nmxqtuyyojgm.com^
+||nmxxvr.xyz^
 ||nmybyxnjscf.com^
 ||nncvwymtn.com^
 ||nndzsw.com^
@@ -71474,7 +71476,6 @@
 ||retillbicycle.top^
 ||retinaebiaxal.guru^
 ||retinaesprent.com^
-||retintsharbors.top^
 ||retintsmillion.com^
 ||retinueabash.com^
 ||retinuedisposablerecuperate.com^
@@ -75905,7 +75906,6 @@
 ||shanvezhu.com^
 ||shapedhomicidalalbert.com^
 ||shapelcounset.xyz^
-||shapesmesstin.click^
 ||shapezayin.com^
 ||shaquevip.oss-cn-zhangjiakou.aliyuncs.com^
 ||share-backcountry.onxmaps.com^
@@ -76068,8 +76068,10 @@
 ||shawashygy.com^
 ||shawljeans.com^
 ||shazauds.net^
+||shbzdkj.cn^
 ||shbzegs.cn^
 ||shbzogs.cn^
+||shbzokj.cn^
 ||shbzqgs.cn^
 ||shbzqkj.cn^
 ||shdegtbokshipns.xyz^
@@ -97709,7 +97711,6 @@
 ||wrevenuewasadi.info^
 ||wrgjbsjxb.xyz^
 ||wrhv.education.gouv.fr^
-||wrichtdinaric.top^
 ||wriedwite.uno^
 ||wringdecorate.com^
 ||wrinkleirritateoverrated.com^
