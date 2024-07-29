@@ -15,6 +15,26 @@ curl https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts | sed '/0.0.
 curl https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts > rules002.txt
 sed -i '/视频/d;/奇艺/d;/微信/d;/localhost/d' rules002.txt
 sed -i '/127.0.0.1 /!d; s/127\.0\.0\.1 /||/; s/$/\^/' rules002.txt
+curl https://raw.githubusercontent.com/lingeringsound/10007_auto/master/all > rules004.txt
+sed -i '/^#/d;/^[[:space:]]*$/d' rules004.txt
+sed -i '/\[/d;/^[[:space:]]*$/d' rules004.txt
+sed -i '/\]/d;/^[[:space:]]*$/d' rules004.txt
+sed -i '/<.*>/d;/^[[:space:]]*$/d' rules004.txt
+sed -i '/^@/d;/^[[:space:]]*$/d' rules004.txt
+sed -i 's|[[:space:]]$||g' rules004.txt
+sed -i 's|^0.0.0.0[[:space:]]|127.0.0.1 |g' rules004.txt
+sed -i 's|^0.0.0.0	|127.0.0.1 |g' rules004.txt
+sed -i 's|^0.0.0.0[[:space:]][[:space:]]|127.0.0.1 |g' rules004.txt
+sed -i 's|^0.0.0.0[[:space:]][[:space:]][[:space:]]|127.0.0.1 |g' rules004.txt
+sed -i 's|^0.0.0.0[[:space:]][[:space:]][[:space:]][[:space:]]|127.0.0.1 |g' rules004.txt
+sed -i 's|^127.0.0.1	|127.0.0.1 |g' rules004.txt
+sed -i '/^127.0.0.1[[:space:]]#/d;/^[[:space:]]*$/d' rules004.txt
+sed -i 's|^127.0.0.1[[:space:]][[:space:]]|127.0.0.1 |g' rules004.txt
+sed -i 's|^127.0.0.1[[:space:]][[:space:]][[:space:]]|127.0.0.1 |g' rules004.txt
+sed -i 's|^127.0.0.1[[:space:]][[:space:]][[:space:]][[:space:]]|127.0.0.1 |g' rules004.txt
+sed -i 's|^127.0.0.1    |127.0.0.1 |g' rules004.txt
+sed -i 's|^::[[:space:]]|127.0.0.1 |g' rules004.txt
+sed -i 's|^::[[:space:]][[:space:]]|127.0.0.1 |g' rules004.txt
 curl https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/mv.txt | awk '!/^$/{if($0 !~ /[#^|\/\*\]\[\!]/){print "||"$0"^"} else if($0 ~ /[#\$|@]/){print $0}}' | sort -u > rules003.txt
 
 echo '下载规则'
