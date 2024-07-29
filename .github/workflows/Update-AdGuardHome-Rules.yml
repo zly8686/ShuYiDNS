@@ -1,0 +1,47 @@
+name: GitHub Action
+on: 
+#  release:
+#    types: [published]
+#  push:                                                        # 推送操作
+#    tags:
+#      - 'v*'
+#    branches:                                                  # 分支
+#      - master                                                   
+  workflow_dispatch:
+  schedule:                                                    # 自动编译
+    - cron: '0 8,20 * * *'                                         
+  watch:                                                        # 监视操作
+    types: [started]                                            
+    
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+          
+      - name: 开始更新规则
+        continue-on-error: true
+        run: |
+          bash ./data/script/update-rules.sh
+          
+      - name: 更新自述文件
+        run: |
+          bash ./data/script/clean-readme.sh
+
+      - name: 推送到Github
+        run: |
+          git init
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git branch -m master
+          git add --all
+          git commit -m "更新时间于 $(TZ=UTC-8 date +'%Y-%m-%d %H:%M:%S')（北京时间）"
+          git push -u origin -f
+
+      - name: 删除工作流程 
+        uses: Mattraks/delete-workflow-runs@main
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          repository: ${{ github.repository }}
+          retain_days: 0
+          keep_minimum_runs: 0
