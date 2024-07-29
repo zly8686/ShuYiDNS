@@ -7,33 +7,36 @@ wait
 echo '创建临时文件夹'
 mkdir -p ./tmp/
 
-#添加补充规则
 cp ./data/rules/adblock.txt ./tmp/rules01.txt
 cp ./data/rules/whitelist.txt ./tmp/allow01.txt
 
 cd tmp
+curl https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts | sed '/0.0.0.0 /!d; /#/d; s/0.0.0.0 /||/; s/$/\^/' > rules001.txt
+curl https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts > rules002.txt
+sed -i '/视频/d;/奇艺/d;/微信/d;/localhost/d' rules002.txt
+sed -i '/127.0.0.1 /!d; s/127\.0\.0\.1 /||/; s/$/\^/' rules002.txt
+curl https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/mv.txt | awk '!/^$/{if($0 !~ /[#^|\/\*\]\[\!]/){print "||"$0"^"} else if($0 ~ /[#\$|@]/){print $0}}' | sort -u > rules003.txt
 
 echo '下载规则'
 rules=(
-  "https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt" #基础过滤器
-  "https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_224_Chinese/filter.txt" #AdGuard中文过滤器
-  "https://perflyst.github.io/PiHoleBlocklist/SmartTV-AGH.txt" #Tv规则
-  "https://easylist-downloads.adblockplus.org/easylist.txt" #EasyList
-  "https://easylist-downloads.adblockplus.org/easylistchina.txt" #EasyList China
-  "https://easylist-downloads.adblockplus.org/easyprivacy.txt" #EasyPrivacy隐私保护规则
-  "https://raw.githubusercontent.com/Noyllopa/NoAppDownload/master/NoAppDownload.txt" #去APP下载提示规则
-  "https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.adblock" #d3ward规则
-  "https://small.oisd.nl/" #oisd规则
-  "https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt" #秋风规则
-  "https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt" #乘风规则
-  "https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt" #CJX's Annoyance List
+#  "https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt"
+#  "https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt"
+  "https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/DD-AD.txt"
+  "https://big.oisd.nl/"
+  "https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt"
+#  "http://rssv.cn/adguard/api.php?type=host"
+  "https://adrules.top/dns.txt"
+  "https://raw.githubusercontent.com/examplecode/ad-rules-for-xbrowser/master/core-rule-cn.txt"
+  "https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt"
+  "https://o0.pages.dev/Pro/adblock.txt"
+#  "https://raw.githubusercontent.com/5-whys/adh-rules/main/rules/output_full.txt"
+  "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/ultimate.txt"
+  "https://filter.futa.gg/hosts.txt"
+#  "https://adaway.org/hosts.txt"
  )
 
 allow=(
-  "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/ChineseFilter/sections/allowlist.txt"
-  "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/GermanFilter/sections/allowlist.txt"
-  "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/TurkishFilter/sections/allowlist.txt"
-  "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/allowlist.txt"
+#  "https://yyyyy.com/77.txt"
 )
 
 for i in "${!rules[@]}" "${!allow[@]}"
@@ -44,7 +47,6 @@ done
 wait
 echo '规则下载完成'
 
-# 添加空格
 file="$(ls|sort -u)"
 for i in $file; do
   echo -e '\n' >> $i &
@@ -66,19 +68,19 @@ cat base-src-hosts.txt | grep -Ev '#|\$|@|!|/|\\|\*'\
  | sed "s/^/||&/g" |sed "s/$/&^/g"| sed '/^$/d' \
  | grep -v '^#' \
  | sort -n | uniq | awk '!a[$0]++' \
- | grep -E "^((\|\|)\S+\^)" & #Hosts规则转ABP规则
+ | grep -E "^((\|\|)\S+\^)" &
 
 cat | sed '/^$/d' | grep -v '#' \
  | sed "s/^/@@||&/g" | sed "s/$/&^/g"  \
- | sort -n | uniq | awk '!a[$0]++' & #将允许域名转换为ABP规则
+ | sort -n | uniq | awk '!a[$0]++' &
 
 cat | sed '/^$/d' | grep -v "#" \
  |sed "s/^/@@||&/g" | sed "s/$/&^/g" | sort -n \
- | uniq | awk '!a[$0]++' & #将允许域名转换为ABP规则
+ | uniq | awk '!a[$0]++' & 
 
 cat | sed '/^$/d' | grep -v "#" \
  |sed "s/^/0.0.0.0 &/g" | sort -n \
- | uniq | awk '!a[$0]++' & #将允许域名转换为ABP规则
+ | uniq | awk '!a[$0]++' & 
 
 cat *.txt | sed '/^$/d' \
  |grep -E "^\/[a-z]([a-z]|\.)*\.$" \
@@ -95,7 +97,7 @@ echo 开始合并
 
 cat rules*.txt \
  |grep -Ev "^((\!)|(\[)).*" \
- | sort -n | uniq | awk '!a[$0]++' > tmp-rules.txt & #处理AdGuard的规则
+ | sort -n | uniq | awk '!a[$0]++' > tmp-rules.txt &
 
 cat \
  | grep -E "^[(\@\@)|(\|\|)][^\/\^]+\^$" \
@@ -105,7 +107,7 @@ wait
 
 
 cat *.txt | grep '^@' \
- | sort -n | uniq > tmp-allow.txt & #允许清单处理
+ | sort -n | uniq > tmp-allow.txt &
 wait
 
 cp tmp-allow.txt .././allow.txt
@@ -113,11 +115,9 @@ cp tmp-rules.txt .././rules.txt
 
 echo 规则合并完成
 
-# Python 处理重复规则
 python .././data/python/rule.py
 python .././data/python/filter-dns.py
 
-# Start Add title and date
 python .././data/python/title.py
 
 
