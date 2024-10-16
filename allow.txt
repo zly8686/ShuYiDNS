@@ -2,9 +2,9 @@
 ! Title: ShuYiDNS
 ! Homepage: https://github.com/zly8686/ShuYiDNS
 ! Expires: 12 Hours
-! Version: 2024-10-16 04:23:16（北京时间）
+! Version: 2024-10-16 16:28:43（北京时间）
 ! Description: ShuYiDNS自用AdGuard Home去广告规则
-! Total count: 263
+! Total count: 258
 @@/ad-raccoon-web@zhihu.com
 @@down.360safe.com^
 @@f*.baidu.com/it/u=*,*&fm=@baidu.com
@@ -29,7 +29,6 @@
 @@||admin.dable.io^
 @@||admin.mailchimp.com^
 @@||adobelogin.com^
-@@||ads.tdbank.com^
 @@||adv.bloop.info^
 @@||advert.kf5.com^
 @@||afi-b.com^
@@ -102,7 +101,6 @@
 @@||ele.me^$important
 @@||email.awscloud.com^
 @@||email.elitedangerous.com^
-@@||email.procook.co.uk^
 @@||eum-blue-saas.instana.io^
 @@||f-gear.ec-optimizer.com^
 @@||feed.adrelayer.com^
@@ -229,7 +227,6 @@
 @@||smart-vanward.oss-cn-shenzhen.aliyuncs.com^$important
 @@||smartmidea.net^$important
 @@||sobot.com^
-@@||sponsor.nitropay.com^
 @@||stash.roistat.com^
 @@||static.softlayer.com^
 @@||str.hit.gemius.pl^
@@ -239,8 +236,6 @@
 @@||surveymyopinion.researchnow.com^
 @@||tags.crwdcntrl.net^
 @@||tb.mgtv.com/sdk/*/ad-sdk.js^$script
-@@||thumbnail.thench.net^
-@@||tlaol.com^
 @@||tms.capitalone.com^
 @@||torimochi.line-apps.com^
 @@||tplinkcloud.com.cn^$important
