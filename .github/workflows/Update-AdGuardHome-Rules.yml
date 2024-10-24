@@ -7,11 +7,11 @@ on:
 #      - 'v*'
 #    branches:                                                  # 分支
 #      - master                                                   
-  workflow_dispatch:
-  schedule:                                                    # 自动编译
-    - cron: '0 8,20 * * *'                                         
-  watch:                                                        # 监视操作
-    types: [started]                                            
+#  workflow_dispatch:
+#  schedule:                                                    # 自动编译
+#    - cron: '0 8,20 * * *'                                         
+#  watch:                                                        # 监视操作
+#    types: [started]                                            
     
 jobs:
   update:
